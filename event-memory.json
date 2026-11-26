@@ -162176,7 +162176,421 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "54d11b0a87ee2d14819ac441",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:55:28+00:00",
+      "last_update": "2026-11-26T03:39:55+00:00",
+      "event": "Qatari firm eyes farm investment",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "eyes",
+        "farm",
+        "firm",
+        "investment",
+        "qatari"
+      ],
+      "source_excerpt": "Qatari firm eyes farm investment Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5",
+          "published_at": "2026-11-26T01:55:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047126/qatari-firm-eyes-farm-investment-in-pakistan",
+          "published_at": "2026-11-26T03:39:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c08dffe179d35a11e62602b",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:54:48+00:00",
+      "last_update": "2026-11-26T02:58:21+00:00",
+      "event": "LHC seeks police report on Maulana Fazl’s confinement",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "confinement",
+        "dawn",
+        "fazl",
+        "lhc",
+        "maulana",
+        "police",
+        "report",
+        "seeks"
+      ],
+      "source_excerpt": "LHC seeks police report on Maulana Fazl’s confinement Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5",
+          "published_at": "2026-11-26T01:54:48+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlFnb3kyWEV0WkN1VUd1RmZRamJjQ0VaelhPME9FNDM4NVdKb1JiUU1UX0xMTXpiWVgzU3ByRU1OYkRPelZXWHppb3ozZndPTmVXMU96YzRpVFI4ejVoMFhFZnVHd1ZaajZWYV9PVGV6ZEVJTzRvVnR1TlNGWmhNdnVMcHQ4aEpERWxKa19IY0ZjQ3dvRWcxT2hRV1EyYVhKM3c?oc=5",
+          "published_at": "2026-11-26T02:58:21+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047148/lahore-high-court-seeks-police-report-on-maulana-fazls-confinement",
+          "published_at": "2026-11-26T02:58:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "768e03097339959fb3cff09f",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:54:48+00:00",
+      "last_update": "2026-11-26T03:11:07+00:00",
+      "event": "CM Bugti warns against anti-state narratives",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "anti",
+        "bugti",
+        "dawn",
+        "narratives",
+        "state",
+        "warns"
+      ],
+      "source_excerpt": "CM Bugti warns against anti-state narratives Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcktLUmxyOEpZa0xKRC1LNHJjcFJEZW5DSzlCRzZFc1o5b0M1WlA4Tk9jbWxyLWU4eUFSdlRrUFE2OFNrTm5mN0x1N0xWdDhFRjVJdTBiOHNxNFFTSDRfZFdneTFrWEh1MkRVRERKMFdZRHM2cXNsczJOblZLNDl1aGQ5aXo?oc=5",
+          "published_at": "2026-11-26T01:54:48+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047144/balochistan-cm-bugti-warns-against-anti-state-narratives",
+          "published_at": "2026-11-26T03:11:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcktLUmxyOEpZa0xKRC1LNHJjcFJEZW5DSzlCRzZFc1o5b0M1WlA4Tk9jbWxyLWU4eUFSdlRrUFE2OFNrTm5mN0x1N0xWdDhFRjVJdTBiOHNxNFFTSDRfZFdneTFrWEh1MkRVRERKMFdZRHM2cXNsczJOblZLNDl1aGQ5aXo?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c206086772a058c28ec2670",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:55:28+00:00",
+      "last_update": "2026-11-26T03:23:32+00:00",
+      "event": "Govt raises Rs689bn via T-bills",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bills",
+        "dawn",
+        "govt",
+        "raises",
+        "rs689bn",
+        "via"
+      ],
+      "source_excerpt": "Govt raises Rs689bn via T-bills Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTUI3U2FxSlFjd0tZS1BhNXl0ak9VaXVfeXdZdE53YjhUa0YtTXZJR2ZDbE9SRFJ0NG1MWHFSUWNsRlpTMDIwSGxVbG5ON2s3VjBIXzJzQW1BQTFJMk1yMzVUV1Z6ZEpLamI4UlR4cFozTWM?oc=5",
+          "published_at": "2026-11-26T01:55:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047129/govt-raises-rs689bn-via-treasury-bills",
+          "published_at": "2026-11-26T03:23:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTUI3U2FxSlFjd0tZS1BhNXl0ak9VaXVfeXdZdE53YjhUa0YtTXZJR2ZDbE9SRFJ0NG1MWHFSUWNsRlpTMDIwSGxVbG5ON2s3VjBIXzJzQW1BQTFJMk1yMzVUV1Z6ZEpLamI4UlR4cFozTWM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d117dd808170b0007fca7872",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:55:28+00:00",
+      "last_update": "2026-11-26T03:42:20+00:00",
+      "event": "Stocks falter on geopolitical uncertainty",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "falter",
+        "geopolitical",
+        "stocks",
+        "uncertainty"
+      ],
+      "source_excerpt": "Stocks falter on geopolitical uncertainty Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnlpbWVuM0FibmNTUVpnMmQwYkJhOWkxRUc4U2I4bkxzcXlQRmNxOEtxRzEtM2FrYVBNd0JIcnZzODZ2T2JsX2JBdF91TE9VZGg4QzRpUi1RUmNSV3hFSlFwM3ptLVpKUm5OTnBBaE1uUFp6dVFyNlI3X05YdzhfNw?oc=5",
+          "published_at": "2026-11-26T01:55:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047125/stocks-falter-on-geopolitical-uncertainty",
+          "published_at": "2026-11-26T03:42:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnlpbWVuM0FibmNTUVpnMmQwYkJhOWkxRUc4U2I4bkxzcXlQRmNxOEtxRzEtM2FrYVBNd0JIcnZzODZ2T2JsX2JBdF91TE9VZGg4QzRpUi1RUmNSV3hFSlFwM3ptLVpKUm5OTnBBaE1uUFp6dVFyNlI3X05YdzhfNw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2185e827b3b272d2c96bedb",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:54:48+00:00",
+      "last_update": "2026-11-26T03:07:59+00:00",
+      "event": "‘Disinformation can’t be fought with censorship’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "censorship",
+        "dawn",
+        "disinformation",
+        "fought",
+        "with"
+      ],
+      "source_excerpt": "‘Disinformation can’t be fought with censorship’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHV6SEJPT05Wd2ZOTnpqVWxxbU93bXhZUzVHMC1SZ0JocG5jaUZuZFpOZG4xRTZLcU1va0VEb2dEaUdfS0xsaWs3VTVTd3NhaG1CWmg0a1FNdG01VUNDM3FmNUpZd3U0WHlqYUhvRVV5YnBfeHZhWDJvWmN6bUZYWUszLWpvUQ?oc=5",
+          "published_at": "2026-11-26T01:54:48+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047169/disinformation-cant-be-fought-with-censorship-conference-told",
+          "published_at": "2026-11-26T03:07:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHV6SEJPT05Wd2ZOTnpqVWxxbU93bXhZUzVHMC1SZ0JocG5jaUZuZFpOZG4xRTZLcU1va0VEb2dEaUdfS0xsaWs3VTVTd3NhaG1CWmg0a1FNdG01VUNDM3FmNUpZd3U0WHlqYUhvRVV5YnBfeHZhWDJvWmN6bUZYWUszLWpvUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc32254aa2336e1a5f49b7e8",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T03:00:51+00:00",
+      "last_update": "2026-11-26T03:00:51+00:00",
+      "event": "FIFA turns to influencers to promote U17 World Cup",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cup",
+        "enlisted",
+        "fifa",
+        "has",
+        "influencers",
+        "media",
+        "promote",
+        "qatar",
+        "social",
+        "the",
+        "turns",
+        "u17",
+        "under",
+        "world"
+      ],
+      "source_excerpt": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+          "published_at": "2026-11-26T03:00:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5d899b77d4c1dcb5e054a36",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T01:57:04+00:00",
+      "last_update": "2026-11-26T01:57:04+00:00",
+      "event": "Reminiscing about 1990s Karachi, Tajik ambassador pours his heart out",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1990s",
+        "about",
+        "ambassador",
+        "dawn",
+        "heart",
+        "his",
+        "karachi",
+        "out",
+        "pours",
+        "reminiscing",
+        "tajik"
+      ],
+      "source_excerpt": "Reminiscing about 1990s Karachi, Tajik ambassador pours his heart out Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGxlWXMweTRCVkRCLW9sY3JxWXA3XzVqb1VXeG1vaTBIVmR3Mld2bFprQXhqU2IwNGExb0N6ajNQM0ZpZmJGaEJCTVVvVExxOTAydF8zbW5fRWZaanhxeUJSYklXYTRaYkJzNm9LRVJWcnVyUGRVcV9yZV9VcTVPV0hSRy0yZVI1Y0ZKdElSLWFLUF8taDc5eUptcXVkNnRBXy13UA?oc=5",
+          "published_at": "2026-11-26T01:57:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGxlWXMweTRCVkRCLW9sY3JxWXA3XzVqb1VXeG1vaTBIVmR3Mld2bFprQXhqU2IwNGExb0N6ajNQM0ZpZmJGaEJCTVVvVExxOTAydF8zbW5fRWZaanhxeUJSYklXYTRaYkJzNm9LRVJWcnVyUGRVcV9yZV9VcTVPV0hSRy0yZVI1Y0ZKdElSLWFLUF8taDc5eUptcXVkNnRBXy13UA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a8c20bd05ba2a76750b89be",
+      "remembered_at": "2026-11-26T03:55:35.788488+00:00",
+      "event_date": "2026-11-26T03:29:16+00:00",
+      "last_update": "2026-11-26T03:29:16+00:00",
+      "event": "Punjab Women Protection Authority launches campaigns for 16 Days of Activism Against Gender-Based Violence",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1196201",
+        "activism",
+        "against",
+        "authority",
+        "based",
+        "campaigns",
+        "com",
+        "dawn",
+        "days",
+        "for",
+        "gender",
+        "https",
+        "images",
+        "launches",
+        "news",
+        "protection",
+        "punjab",
+        "violence",
+        "women"
+      ],
+      "source_excerpt": "https://images.dawn.com/news/1196201/punjab-women-protection-authority-launches-campaigns-for-16-days-of-activism-against-gender-based-violence",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047171/punjab-women-protection-authority-launches-campaigns-for-16-days-of-activism-against-gender-based-violence",
+          "published_at": "2026-11-26T03:29:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047171/punjab-women-protection-authority-launches-campaigns-for-16-days-of-activism-against-gender-based-violence",
+        "publisher_url": "https://www.dawn.com/news/2047171/punjab-women-protection-authority-launches-campaigns-for-16-days-of-activism-against-gender-based-violence",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T02:52:06.723097+00:00"
+  "updated_at": "2026-11-26T03:55:35.788488+00:00"
 }

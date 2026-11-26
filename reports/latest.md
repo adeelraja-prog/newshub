@@ -1,35 +1,36 @@
-# News Hub report - Thu 26 Nov, 07:52 AM PKT
+# News Hub report - Thu 26 Nov, 08:55 AM PKT
 
 ## Collection
-- New items this run: 108 | items in rolling pool: 260
-- Unique story clusters: 227 (duplicates merged: 33)
-- Clusters dropped as already published/queued: 38; unchanged since last analysis: 6
-- Items per outlet: Dawn 77, Investify 11, Profit by Pakistan Today 4, Dawn Pakistan 2, Dawn Latest 2, The Express Tribune 2, Geo News 1, Al Jazeera 1, Bloomberg 1, GSMArena 1, BBC Business 1, 联合早报 1
+- New items this run: 25 | items in rolling pool: 237
+- Unique story clusters: 205 (duplicates merged: 32)
+- Clusters dropped as already published/queued: 36; unchanged since last analysis: 5
+- Items per outlet: Dawn Latest 7, Dawn Pakistan 3, Profit by Pakistan Today 3, Dawn 2, Geo News 2, ARY News 2, Al Jazeera 1, PhoneWorld 1, Investify 1, WSJ 1, Iran International 1, Saudi Gazette 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: Maryam Nawaz’s Medical College Speech & Pindi Show Exposed | https://www.youtube.com/watch?v=UStDFokLYns
 
 ## Top 5 most important
-- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Qatari firm eyes farm investment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- LHC seeks police report on Maulana Fazl’s confinement | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Bugti warns against anti-state narratives | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt raises Rs689bn via T-bills | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Stocks falter on geopolitical uncertainty | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,65 +40,85 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### PTI Disowns Achakzai's Call for a National Government  [NORMAL]
-- Poster: پی ٹی آئی نے محمود خان اچکزئی کی قومی حکومت کی کال سے لاتعلقی کا اظہار کر دیا / PTI Disowns Achakzai's National Government Call | category politics
-- Alternative headline: Pakistan Tehreek-e-Insaf Rejects Mahmood Khan Achakzai's National Govt Proposal
+### UK and EU set to release post-Brexit trade and emissions treaties  [NORMAL]
+- Poster: برطانیہ اور یورپی یونین کے نئے معاہدے جاری ہوں گے / UK and EU to publish new post-Brexit treaties | category politics
+- Alternative headline: UK government to publish new post-Brexit treaties with the European Union
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: UK EU treaties, post-Brexit deal, emissions trading, food exports, UK government, EU | hashtags: #UK #EU #Brexit #Trade #Politics
+- Scheduled: Thu 26 Nov, 08:55 AM PKT
+- Caption:
+```
+The UK government and the EU are publishing two post-Brexit treaties covering food exports and emissions trading, sparking fresh political debate.
+
+The UK government and the European Union are set to publish the texts of two treaties agreed last week as part of a post-Brexit reset. Releasing on Thursday alongside enacting legislation, the agreements cover British food exports and emissions trading, while featuring a debated 10-year termination clause.
+
+برطانوی حکومت اور یورپی یونین نے پوسٹ بریگزٹ ری سیٹ کے تحت طے پانے والے دو معاہدوں کے متن جاری کرنے کا فیصلہ کیا ہے۔ جمعرات کو قانون سازی کے ساتھ شائع ہونے والے ان معاہدوں میں برطانوی خوراک کی برآمدات اور اخراج کی تجارت شامل ہیں۔
+
+First reported by BBC Business
+
+#UK #EU #Brexit #Trade #Politics
+```
+
+### Qatari firm expresses interest in agricultural investment in Pakistan  [NORMAL]
+- Poster: قطری کمپنی کی پاکستان میں زراعت میں سرمایہ کاری میں دلچسپی / Qatari firm eyes farm investment in Pakistan | category economy
+- Alternative headline: Qatari company eyes new farm investment opportunities in Pakistan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: PTI, Mahmood Khan Achakzai, national government, politics, Dawn | hashtags: #PTI #MahmoodKhanAchakzai #PakistanPolitics #Dawn
-- Scheduled: Thu 26 Nov, 07:52 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWHJZSEFFdEpZVnMxWThBaEsteFVBUUxoUF9HVkxkSEMxX2xZMEt0MkdkMGhWcFN6MnVFYktqanViNmdYbkZ3SVVsTEtNVnRvVUo3cG9ldEExeS1FTHhSMHZwNEQ1dm5qTFRNeGZ4T2w0YWtz?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Qatari firm farm investment, Pakistan agriculture, Qatari investment, farm investment, Dawn news | hashtags: #Pakistan #Qatar #Agriculture #Investment #Economy
+- Scheduled: Thu 26 Nov, 09:05 AM PKT
 - Caption:
 ```
-Pakistan Tehreek-e-Insaf has officially distanced itself from Mahmood Khan Achakzai's recent proposal for forming a national government.
+A Qatari firm has shown active interest in pursuing agricultural investment opportunities within Pakistan.
 
-Pakistan Tehreek-e-Insaf (PTI) has formally disowned statements and calls made by Mahmood Khan Achakzai regarding the establishment of a national government. The party clarified its stance amidst ongoing political discussions and differing viewpoints among opposition and allied political figures.
+A Qatari firm has expressed keen interest in making agricultural investments in Pakistan, according to recent reports by Dawn. The potential collaboration highlights growing economic engagement between Qatari enterprises and Pakistan's agricultural sector.
 
-پاکستان تحریک انصاف (پی ٹی آئی) نے محمود خان اچکزئی کی جانب سے قومی حکومت کے قیام کے مطالبے سے باضابطہ طور پر لاتعلقی کا اظہار کر دیا ہے۔ پارٹی نے موجودہ سیاسی صورتحال کے تناظر میں اپنی پوزیشن واضح کی ہے۔
+ڈان کی رپورٹ کے مطابق ایک قطری فرم نے پاکستان میں زرعی شعبے میں سرمایہ کاری میں گہری دلچسپی کا اظہار کیا ہے۔ یہ ممکنہ تعاون دونوں ملکوں کے درمیان اقتصادی تعلقات کو اجاگر کرتا ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#PTI #MahmoodKhanAchakzai #PakistanPolitics #Dawn
+#Pakistan #Qatar #Agriculture #Investment #Economy
 ```
 
-### Pakistan and China Set Sights on New Gas and Mining Projects  [NORMAL]
-- Poster: پاکستان اور چین کی گیس اور کان کنی کے منصوبوں پر نظر / Pakistan, China Eye Gas and Mining Projects | category economy
-- Alternative headline: Pak-China Economic Cooperation Expands to Cover Gas and Mining Ventures
+### Lahore High Court seeks police report on Maulana Fazl's confinement  [NORMAL]
+- Poster: لاہور ہائی کورٹ کا مولانا فضل کی نظ بندی پر پولیس سے رپورٹ طلب / LHC seeks police report on Maulana Fazl confinement | category courts
+- Alternative headline: LHC orders police report regarding alleged confinement of Maulana Fazl
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: Pakistan-China, gas projects, mining, economy, The Express Tribune | hashtags: #PakistanChina #GasProjects #Mining #Economy
-- Scheduled: Thu 26 Nov, 08:02 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWI4MENSWFA2ZlcxaTBneURES204aWhCRVBlNmdIREtwX29zZUlRbjlxaVRoQk5zS3dhLV9nWmtfZUF0T09PU0swb1ZCZmxBODVkTkJ3WWQ0Q2xxT1gta1pndWRhc19iakptdU5DcWt3OGhOZnRsSXdXdDByWW1qeXctTDlTM3pVcTdYdW5TMA?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn Pakistan
+- Keywords: LHC Maulana Fazl confinement, Lahore High Court, Maulana Fazlur Rehman, JUI-F, police report, house arrest | hashtags: #LHC #MaulanaFazl #JUIF #Lahore #Pakistan
+- Scheduled: Thu 26 Nov, 09:15 AM PKT
 - Caption:
 ```
-Pakistan and China are exploring new avenues of cooperation by focusing on prospective gas and mining projects to boost economic ties.
+The Lahore High Court has sought a formal police report regarding the alleged confinement of JUI-F chief Maulana Fazlur Rehman.
 
-Pakistan and China have turned their focus toward expanding bilateral cooperation through new gas and mining initiatives. The collaborative efforts aim to enhance energy security and resource development between the two nations.
+The Lahore High Court has sought a police report following petitions addressing the alleged confinement and house arrest of JUI-F chief Maulana Fazl in Lahore. The court's intervention comes amid heightened political tensions and claims of state restrictions.
 
-پاکستان اور چین نے گیس اور کان کنی کے نئے منصوبوں کے ذریعے دوطرفہ تعاون کو وسعت دینے پر توجہ مرکوز کی ہے۔ ان کوششوں کا مقصد دونوں ممالک کے درمیان توانائی کے تحفظ اور وسائل کی ترقی کو فروغ دینا ہے۔
+لاہور ہائی کورٹ نے جے یو آئی ف کے سربراہ مولانا فضل الرحمان کی مبینہ نظربندی اور حراست کے معاملے پر پولیس سے رپورٹ طلب کر لی ہے۔
 
-First reported by The Express Tribune.
+First reported by Dawn
 
-#PakistanChina #GasProjects #Mining #Economy
+#LHC #MaulanaFazl #JUIF #Lahore #Pakistan
 ```
 
 - Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
-- [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
-- [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
-- [needs_review] normal | Officials condemn 'horrific' ICE arrests at Seattle airport | Mon 23 Nov, 01:51 AM PKT
 - [needs_review] normal | Washington Governor Slams ICE Raids After Airport Arrests | Mon 23 Nov, 02:24 AM PKT
 - [needs_review] normal | Democrats Secure Largest House Majority Since 1992 | Mon 23 Nov, 02:34 AM PKT
 - [needs_review] normal | Cockroaches, Dissent and a Paradigm Shift in India | Mon 23 Nov, 02:44 AM PKT
@@ -244,8 +265,8 @@ First reported by The Express Tribune.
 - [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
 - [published] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
 - [published] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
-- [queued] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
-- [queued] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
+- [needs_review] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
+- [needs_review] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
 - [queued] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
 - [queued] normal | Petrol price cut by Rs4 to Rs314 per litre; diesel by Rs5 to Rs348 | Thu 26 Nov, 03:09 AM PKT
 - [queued] normal | At least 30 killed in Egypt vehicle fire, health ministry says | Thu 26 Nov, 03:19 AM PKT
@@ -271,13 +292,21 @@ First reported by The Express Tribune.
 - [queued] normal | UK Winters Getting Shorter and Summers Hotter, Says Met Office | Thu 26 Nov, 07:23 AM PKT
 - [queued] normal | PTI Disowns Achakzai's Call for a National Government | Thu 26 Nov, 07:52 AM PKT
 - [queued] normal | Pakistan and China Set Sights on New Gas and Mining Projects | Thu 26 Nov, 08:02 AM PKT
+- [published] promo | [YouTube] Maryam Nawaz’s Medical College Speech & Pindi Show Exposed | Thu 26 Nov, 08:55 AM PKT
+- [queued] normal | UK and EU set to release post-Brexit trade and emissions treaties | Thu 26 Nov, 08:55 AM PKT
+- [queued] normal | Qatari firm expresses interest in agricultural investment in Pakistan | Thu 26 Nov, 09:05 AM PKT
+- [queued] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
 
 ## Publishing this run
-- Published 'President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation'.
+- Published '[YouTube] Maryam Nawaz’s Medical College Speech & Pindi Show Exposed'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 3732 | output tokens: 999
-- Errors: 1
+- Calls: 4 | prompt tokens: 3946 | output tokens: 2005
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
