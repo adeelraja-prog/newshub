@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 02:52 PM PKT
+# News Hub report - Thu 26 Nov, 03:57 PM PKT
 
 ## Collection
-- New items this run: 150 | items in rolling pool: 678
-- Unique story clusters: 561 (duplicates merged: 117)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 86, Geo News 11, ProPakistani 10, ARY News 7, TechJuice 5, Al Jazeera 4, samaa tv 3, Dawn 3, Dawn Pakistan 2, Dawn Latest 2, BBC Business 2, The Current 2
+- New items this run: 150 | items in rolling pool: 721
+- Unique story clusters: 601 (duplicates merged: 120)
+- Clusters dropped as already published/queued: 17; unchanged since last analysis: 5
+- Items per outlet: UrduPoint 57, Geo News 14, ARY News 7, Al Jazeera 7, ProPakistani 6, samaa tv 5, Dawn 5, Wired 5, TechJuice 5, Dawn Latest 4, Investify 4, The News International 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,16 +39,157 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 6 items
+### Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16  [NORMAL]
+- Poster: علیم خان کے خلاف احتجاجی کیس کا فیصلہ 16 دسمبر تک ملتوی / Aleema Khan protest case verdict deferred to Dec 16 | category politics
+- Alternative headline: ATC postpones verdict in Aleema Khan's Nov 2024 protest case for eighth time
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047187/rawalpindi-atc-defers-verdict-in-november-2024-protest-case-involving-aleema-khan-until-dec-16 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047187/rawalpindi-atc-defers-verdict-in-november-2024-protest-case-involving-aleema-khan-until-dec-16
+- Supporting coverage: Dawn Pakistan, The Express Tribune
+- Keywords: Aleema Khan, Rawalpindi ATC, PTI, protest case, Imran Khan | hashtags: #AleemaKhan #RawalpindiATC #PTI #PakistanNews
+- Scheduled: Thu 26 Nov, 03:57 PM PKT
+- Caption:
+```
+An anti-terrorism court in Rawalpindi has once again adjourned the verdict in a case against Aleema Khan.
+
+An anti-terrorism court in Rawalpindi has adjourned the announcement of its reserved verdict in a case against Aleema Khan, sister of PTI founder Imran Khan, until December 16. The case is linked to the November 26, 2024 protest. The defense counsel objected that the verdict was reserved without hearing their arguments.
+
+راولپنڈی کی انسداد دہشت گردی عدالت نے پی ٹی آئی کے بانی عمران خان کی بہن علیم خان کے خلاف نومبر 2024 کے احتجاج کے مقدمے کا محفوظ فیصلہ 16 دسمبر تک ملتوی کر دیا ہے۔ دفاعی کونسل نے اعتراض اٹھایا کہ عدالت نے دلائل سنے بغیر فیصلہ محفوظ کیا۔
+
+First reported by Dawn Pakistan
+
+#AleemaKhan #RawalpindiATC #PTI #PakistanNews
+```
+
+### 31 dead in Egypt fire after fuel truck overturns  [NORMAL]
+- Poster: مصر میں تیل کے ٹینکر کو حادثہ، خوفناک آتشزدگی میں 31 افراد جاں بحق / 31 dead in Egypt fuel truck fire | category disaster
+- Alternative headline: 31 killed in massive fuel tanker fire on Cairo Ring Road
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns
+- Supporting coverage: ARY News, ARYnews.tv, Dawn Latest, The Current
+- Keywords: Egypt fire, Cairo, fuel truck, accident, casualties | hashtags: #EgyptFire #Cairo #BreakingNews #WorldNews
+- Scheduled: Thu 26 Nov, 04:07 PM PKT
+- Caption:
+```
+At least 31 people were killed in Cairo after a fuel truck overturned and burst into flames on a busy highway.
+
+A massive fire erupted in the Egyptian capital Cairo after a fuel truck overturned on a crowded highway, killing at least 31 people. The health ministry deployed numerous ambulances, taking injured individuals to hospitals while authorities opened an investigation into the tragic incident.
+
+قاہرہ میں ایک مصروف شاہراہ پر ایندھن سے بھرے ٹرک الٹنے اور آگ لگنے کے نتیجے میں کم از کم 31 افراد جاں بحق ہو گئے۔ وزارت صحت نے جائے وقوعہ پر ایمبولینسیں روانہ کیں جبکہ حکام نے واقعے کی تحقیقات شروع کر دی ہیں۔
+
+First reported by ARY News
+
+#EgyptFire #Cairo #BreakingNews #WorldNews
+```
+
+### Pakistan motorbike passenger becomes global cricket sensation after stunning catch  [NORMAL]
+- Poster: چلتی موٹر سائیکل پر حیرت انگیز کیچ، پاکستانی شہری سوشل میڈیا پر چھا گیا / Pakistan motorbike passenger takes unbelievable catch | category sports
+- Alternative headline: 'Unbelievable catch': Motorbike passenger becomes cricket sensation
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692690-unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692690-unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation
+- Supporting coverage: Geo News, Geo News, Dawn, Dawn Latest, ARY News, Dawn Latest
+- Keywords: motorbike catch, Mehran Khan, Swat, cricket sensation, Mingora | hashtags: #UnbelievableCatch #Swat #Cricket #Viral
+- Scheduled: Thu 26 Nov, 04:17 PM PKT
+- Caption:
+```
+A civil servant in Swat became an internet sensation after taking a one-handed catch while riding a motorbike.
+
+Mehran Khan, a 27-year-old civil servant and amateur cricketer, grabbed global attention after taking a stunning one-handed catch while riding on the back of a friend's motorbike in Mingora, Swat. The cricket ball had sailed towards them from a nearby local match.
+
+سوات کے علاقے منگورہ میں چلتی موٹر سائیکل کے پیچھے بیٹھے 27 سالہ سرکاری ملازم مہران خان نے ایک ہاتھ سے شاندار کیچ پکڑ کر دنیا بھر کی توجہ حاصل کر لی۔ کرکٹ بال قریبی میچ سے اڑ کر ان کی طرف آئی تھی۔
+
+First reported by Geo News
+
+#UnbelievableCatch #Swat #Cricket #Viral
+```
+
+### IHC extends stay on Islamabad local government elections by two weeks  [NORMAL]
+- Poster: اسلام آباد بلدیاتی انتخابات پر حکم امتناعی میں دو ہفتے کی توسیع / IHC extends stay on Islamabad LG polls | category courts
+- Alternative headline: Islamabad LG polls stay order extended for another two weeks by IHC
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0N5Qmp3Qjk1NUw3NG4yNXZ6Q29VeTE0Q21OS3JkMHItc0hhcjUzSGJKNlJiV1ZEam9SSHRBOXVmTjdFd3VtR1ZBTWhlZjNJaHE1OW9vNjI0QVNwM0RyM28ya3p2WXpONTV1ZUVadkVEcmZiYW82dGRSY3RMMC1KOVl6Tmx5eWNhbV9TQWxmUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0N5Qmp3Qjk1NUw3NG4yNXZ6Q29VeTE0Q21OS3JkMHItc0hhcjUzSGJKNlJiV1ZEam9SSHRBOXVmTjdFd3VtR1ZBTWhlZjNJaHE1OW9vNjI0QVNwM0RyM28ya3p2WXpONTV1ZUVadkVEcmZiYW82dGRSY3RMMC1KOVl6Tmx5eWNhbV9TQWxmUQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Geo News, Geo News
+- Keywords: Islamabad LG polls, IHC, stay order, local government elections, Islamabad High Court | hashtags: #Islamabad #IHC #LocalElections #Pakistan
+- Scheduled: Thu 26 Nov, 04:27 PM PKT
+- Caption:
+```
+The Islamabad High Court has extended the stay order on the local government elections in the federal capital.
+
+The Islamabad High Court (IHC) has extended its stay order regarding the local government elections in Islamabad for an additional two weeks, delaying the electoral process further while legal proceedings continue.
+
+اسلام آباد ہائیکورٹ نے وفاقی دارالحکومت میں بلدیاتی انتخابات کے معاملے پر حکم امتناعی میں مزید دو ہفتے کی توسیع کر دی ہے، جس سے انتخابی عمل مزید تاخیر کا شکار ہو گیا ہے۔
+
+First reported by Dawn
+
+#Islamabad #IHC #LocalElections #Pakistan
+```
+
+### Jannik Sinner ruled out of 2027 Australian Open after knee surgery  [NORMAL]
+- Poster: گھٹنے کی سرجری کے باعث جانک سنر آسٹریلین اوپن 2027 سے باہر / Jannik Sinner out of Australian Open | category sports
+- Alternative headline: Two-time champion Sinner out of Australian Open following knee operation
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss
+- Supporting coverage: Al Jazeera, ARY News
+- Keywords: Jannik Sinner, Australian Open, knee surgery, tennis, Wimbledon | hashtags: #JannikSinner #AustralianOpen #Tennis #SportsNews
+- Scheduled: Thu 26 Nov, 04:37 PM PKT
+- Caption:
+```
+Tennis star Jannik Sinner will miss the upcoming Australian Open following a knee surgery.
+
+Two-time champion Jannik Sinner has been ruled out of the 2027 Australian Open after undergoing knee surgery. Sinner has not played a competitive match since winning the Wimbledon title in July 2026.
+
+دو بار کے چیمپیئن جانک سنر گھٹنے کی سرجری کے بعد 2027 کے آسٹریلین اوپن سے باہر ہو گئے ہیں۔ سنر نے جولائی 2026 میں ومبلڈن کا ٹائٹل جیتنے کے بعد سے کوئی میچ نہیں کھیلا ہے۔
+
+First reported by Al Jazeera
+
+#JannikSinner #AustralianOpen #Tennis #SportsNews
+```
+
+### Explosion rocks oil facility in Thailand's Bangkok  [NORMAL]
+- Poster: تھائی لینڈ کے دارالحکومت بنکاک میں آئل ڈپو پر دھماکہ / Explosion at Bangkok oil facility | category disaster
+- Alternative headline: Authorities urge evacuation after blast at Bangkok oil depot
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera, BBC
+- Keywords: Bangkok explosion, oil facility, Thailand, oil depot, evacuation | hashtags: #Bangkok #Thailand #BreakingNews #Explosion
+- Scheduled: Thu 26 Nov, 04:47 PM PKT
+- Caption:
+```
+Authorities have urged residents to evacuate following an explosion at an oil facility in eastern Bangkok.
+
+An explosion occurred at an oil facility in eastern Bangkok, Thailand, prompting authorities to urge residents in the surrounding area to evacuate their homes for safety as emergency responses unfolded.
+
+تھائی لینڈ کے دارالحکومت بنکاک کے ایک آئل ڈپو میں دھماکہ ہوا ہے، جس کے بعد حکام نے قریبی علاقوں کے رہائشیوں کو حفاظتی پیش نظر وہاں سے نکل جانے کی ہدایت کی ہے۔
+
+First reported by Al Jazeera
+
+#Bangkok #Thailand #BreakingNews #Explosion
+```
+
+- Indian outlets blocked this run: 8 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
-- [needs_review] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
-- [needs_review] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
 - [needs_review] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
@@ -57,7 +198,6 @@
 - [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
-- [published] promo | [YouTube] IMRAN KHAN’S HEALTH, MARYAM NAWAZ’S PLANE & PTI POWER POLITI | Mon 23 Nov, 03:50 PM PKT
 - [published] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
 - [published] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
@@ -195,9 +335,9 @@
 - [needs_review] normal | Pakistan and China Set Sights on New Gas and Mining Projects | Thu 26 Nov, 08:02 AM PKT
 - [published] promo | [YouTube] Maryam Nawaz’s Medical College Speech & Pindi Show Exposed | Thu 26 Nov, 08:55 AM PKT
 - [published] normal | UK and EU set to release post-Brexit trade and emissions treaties | Thu 26 Nov, 08:55 AM PKT
-- [queued] normal | Qatari firm expresses interest in agricultural investment in Pakistan | Thu 26 Nov, 09:05 AM PKT
-- [queued] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
-- [queued] normal | PPP expresses serious concern over the ongoing situation in Balochista | Thu 26 Nov, 11:05 AM PKT
+- [needs_review] normal | Qatari firm expresses interest in agricultural investment in Pakistan | Thu 26 Nov, 09:05 AM PKT
+- [needs_review] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
+- [published] normal | PPP expresses serious concern over the ongoing situation in Balochista | Thu 26 Nov, 11:05 AM PKT
 - [queued] normal | Trump and NATO chief urge Russia to avoid expanding the Ukraine war | Thu 26 Nov, 11:15 AM PKT
 - [queued] normal | Security forces eliminate 12 terrorists during intelligence-based oper | Thu 26 Nov, 11:25 AM PKT
 - [queued] normal | Tajik ambassador shares nostalgic memories of Karachi from the 1990s | Thu 26 Nov, 11:35 AM PKT
@@ -209,30 +349,21 @@
 - [queued] normal | Sindh CM Orders Immediate Suspension of Senior Local Govt and Police O | Thu 26 Nov, 12:57 PM PKT
 - [queued] normal | Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast | Thu 26 Nov, 01:07 PM PKT
 - [queued] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
+- [queued] normal | Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16 | Thu 26 Nov, 03:57 PM PKT
+- [queued] normal | 31 dead in Egypt fire after fuel truck overturns | Thu 26 Nov, 04:07 PM PKT
+- [queued] normal | Pakistan motorbike passenger becomes global cricket sensation after st | Thu 26 Nov, 04:17 PM PKT
+- [queued] normal | IHC extends stay on Islamabad local government elections by two weeks | Thu 26 Nov, 04:27 PM PKT
+- [queued] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
+- [queued] normal | Explosion rocks oil facility in Thailand's Bangkok | Thu 26 Nov, 04:47 PM PKT
 
 ## Publishing this run
-- Published 'UK and EU set to release post-Brexit trade and emissions treaties'.
+- Published 'PPP expresses serious concern over the ongoing situation in Balochistan'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 3 | prompt tokens: 7394 | output tokens: 3426
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

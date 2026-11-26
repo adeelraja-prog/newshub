@@ -166614,7 +166614,487 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0a69661005323449a5c382b",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T06:24:21+00:00",
+      "last_update": "2026-11-26T10:06:33+00:00",
+      "event": "Geo Headlines 12PM | 26 November 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "12pm",
+        "2026",
+        "geo",
+        "headlines",
+        "news",
+        "november"
+      ],
+      "source_excerpt": "Geo Headlines 12PM | 26 November 2026 Geo News",
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzlOUXZIWURWLVhLcnZybFo2YVQySVVGOW0xd1pNd3JDQzhkWjdhQU9pdnRKR3RsSDlQMDhlRHh3NzNOdzV6VXNRR2lQWkRKTndjQTdqeWRxTXptVnh2eUNpRFg5S3o2OURFZVJBQ0ZkZ19KMWJ1cy1xWGliOGZkM1BiTmNaajFaSzB6N2lud2VELWZKVWhCR1RVMXZiZkZQd1FUM1JKWU5Tb3dB?oc=5",
+          "published_at": "2026-11-26T06:24:21+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGRJdXBOV1FobllYM216cnRtYzNRRVM2RUlUUEJDVFZJSktwS0tqM2RWZnBqQm9EZXYwSDFUWmRkQUZJU09YQnJyQVpIdXlwbTM1Qm1xUU13Q1lwSzlLRS04b21iaG1LR3A1aEJyREpxSmVDZlQ0Y0pkeC1nZGJyZ0QwWGJIQ01q?oc=5",
+          "published_at": "2026-11-26T09:37:17+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQUpnZm1CTXZIOVc1ZjFEdjR3d1ZTWi00WnRyUG1sbmRqRzVRQ29VWWVYQ0VidFRWbkpESkx6RGx4LUJzWS0ybEFTUnluRmtUODhLckVVRERPSUVVNWcwb0d6Q1dnb2hzWWRWZG96LXhNN0RSbUlzcmhWWDg2U0U?oc=5",
+          "published_at": "2026-11-26T10:06:33+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYlRMaXlDd21jX3lBTng1eVlYcVFCNGJKQzdVSW9BWW5zTjhWY3JRZDh2S2NMRDktVmRhOVFBRTZNdUhsRVdIWkEzeXo5VUoyM1FHMnNqUHBpZU5WRC1LYS1hSnl4TkI0bkJEVmJFbWNJSlV1T002V2VuQUcyTms?oc=5",
+          "published_at": "2026-11-26T10:06:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGRJdXBOV1FobllYM216cnRtYzNRRVM2RUlUUEJDVFZJSktwS0tqM2RWZnBqQm9EZXYwSDFUWmRkQUZJU09YQnJyQVpIdXlwbTM1Qm1xUU13Q1lwSzlLRS04b21iaG1LR3A1aEJyREpxSmVDZlQ0Y0pkeC1nZGJyZ0QwWGJIQ01q?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c9a68e47f843dbcf5d2db4f6",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:10:04+00:00",
+      "last_update": "2026-11-26T10:45:44+00:00",
+      "event": "PM Shehbaz launches Mehfooz Dawa app to check fake medicines",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "check",
+        "dawa",
+        "fake",
+        "launches",
+        "medicines",
+        "mehfooz",
+        "samaa",
+        "shehbaz"
+      ],
+      "source_excerpt": "PM Shehbaz launches Mehfooz Dawa app to check fake medicines samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3JNSmt5dG84bEVpcmN4Mmp6LVRQOEdQWkVOcFU3bk5jOVAzRTJtcERFWXgxeG9oNEJoLXNXanRRbXprQ2FvcjBmY0dBQkotd2ZvbWhaZjRwSGdnMFRIVlNxZU5MQ01HcTBYNU1LVTJ6M1JkOGtfS2V0eFFVOEowdWZ2bVRYTFFLTFlEcDF3d1FpUTFjNmd0SldNMmM?oc=5",
+          "published_at": "2026-11-26T10:10:04+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047200/pm-shehbaz-launches-mehfooz-dawa-app-to-combat-counterfeit-and-substandard-medicines",
+          "published_at": "2026-11-26T10:45:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3JNSmt5dG84bEVpcmN4Mmp6LVRQOEdQWkVOcFU3bk5jOVAzRTJtcERFWXgxeG9oNEJoLXNXanRRbXprQ2FvcjBmY0dBQkotd2ZvbWhaZjRwSGdnMFRIVlNxZU5MQ01HcTBYNU1LVTJ6M1JkOGtfS2V0eFFVOEowdWZ2bVRYTFFLTFlEcDF3d1FpUTFjNmd0SldNMmM?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac1d2f02cd369bd11dde25fe",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:30:00+00:00",
+      "last_update": "2026-11-26T10:30:00+00:00",
+      "event": "Thanksgiving dinner costs rise, putting pressure on US households",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "celebrations",
+        "costs",
+        "dinner",
+        "families",
+        "for",
+        "forcing",
+        "hosting",
+        "households",
+        "opt",
+        "percent",
+        "potluck",
+        "pressure",
+        "price",
+        "putting",
+        "reconsider",
+        "rise",
+        "see",
+        "style",
+        "thanksgiving",
+        "turkeys"
+      ],
+      "source_excerpt": "Turkeys see a 26-percent price rise, forcing families to reconsider hosting and opt for potluck-style celebrations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+          "published_at": "2026-11-26T10:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a21f6b063fc1959c591f47c",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:28:51+00:00",
+      "last_update": "2026-11-26T10:35:35+00:00",
+      "event": "Palestine coach says team represents suffering but also offers hope",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abu",
+        "also",
+        "badge",
+        "but",
+        "calls",
+        "coach",
+        "despite",
+        "football",
+        "hardships",
+        "honour",
+        "hope",
+        "ihab",
+        "jazar",
+        "navigating",
+        "offers",
+        "palestine",
+        "personal",
+        "represents",
+        "says",
+        "suffering",
+        "team",
+        "the"
+      ],
+      "source_excerpt": "Despite navigating personal hardships, Ihab Abu Jazar calls it a 'badge of honour' to coach the Palestine football team.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+          "published_at": "2026-11-26T10:28:51+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmo3alYwUjE0ZUxQTWZaQkZ4bHpDV0hGMGZRUUJOczRQTXl3eTFqMVk5Z0NnWFgyaF9ZWTgyS3dNSnhia2tVa1RCcHp2WkMwNERucjNsWUpjdEJsT29hOU5UX2o0c3RnMWkxQ2lUYm1tZFlRTDZDR3NCa3ZoWG91blhGRnJIX3FVUjFHRV9TNVE0ZGtsRWY4aDFPdFJqUdIBowFBVV95cUxNUXZJbnRjRUdRWmhPRGluVWJGRGx4SWFMekJaRkJRRV85VE5nOWFPRWpkV2prd093SU5jS2FrLUpWdFlub2xwdkMwU0JiUzBIVDB4RWVraXpoX2ZkaGUyWl9mNm5HbndpMHFuV1BiNFMyby04cklwTWFiekZLQjEtckpYS0JUQTdub2lsX3NRV1QtcnQ2WmUzQTZLTGJHRGltYmlj?oc=5",
+          "published_at": "2026-11-26T10:35:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "540b89ba33ed5bbf5c2387ae",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:20:05+00:00",
+      "last_update": "2026-11-26T10:20:05+00:00",
+      "event": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "constitution",
+        "court",
+        "deal",
+        "details",
+        "disclosed",
+        "ebola",
+        "facility",
+        "further",
+        "gov",
+        "halt",
+        "high",
+        "kenya",
+        "orders",
+        "quarantine",
+        "says",
+        "site",
+        "until",
+        "violated",
+        "with",
+        "works"
+      ],
+      "source_excerpt": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+          "published_at": "2026-11-26T10:20:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "74c1b84fd5e3cc351368d59a",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:02:09+00:00",
+      "last_update": "2026-11-26T10:07:30+00:00",
+      "event": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "attack",
+        "ballistic",
+        "buildings",
+        "capital",
+        "centre",
+        "drone",
+        "five",
+        "forces",
+        "hitting",
+        "kills",
+        "kyiv",
+        "launch",
+        "missile",
+        "occupied",
+        "other",
+        "russian",
+        "shopping",
+        "ukraine",
+        "ukrainian",
+        "zaporizhia"
+      ],
+      "source_excerpt": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+          "published_at": "2026-11-26T10:02:09+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkJGcFdNRHNsLUJweEJkN3dwUmF0YV9zQXNFZFp4OWVfaTRzcVJqdkZSUGFqLUhzdExCNnlIOVJLZ29vNFVSa2hETEdBXy04SnpvampYVE9JR3lQYnZ2RUxuZThQbTNzT2NMcE9FcEg2S1c1czRCbVBoS1lIZzhjVmx1TXBzN0lJeGtjQ3o2eTFWc1h3MVRTTl9kUDJYLVhKQkRsM0dtUdIBrAFBVV95cUxPOE5mb2V4WnlCR2JvSHV1R3dkTXBrdURVU25yekZwZlVrNk5ndDJtN2Qzc0oxM0NwTkRyZDhqZHYtaTFFcXJtUWlZYlJlSkNPVVd6NDFzdHplYVk4b3M3VENrTlpTUkRKMzBGcUpWc0JiNHhVT2JINk1xQmVSRW5uX3k0LU1TT2lrMllIY01tOUw5T1FZQm1WSk1UaDU0aWtlUXVFS0lrRmlYQ2lC?oc=5",
+          "published_at": "2026-11-26T10:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9ff65dd2a2aef70dfa158ed",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T09:52:36+00:00",
+      "last_update": "2026-11-26T09:52:36+00:00",
+      "event": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "australia",
+        "ball",
+        "boss",
+        "broadcaster",
+        "claim",
+        "cricket",
+        "david",
+        "defends",
+        "denies",
+        "grit",
+        "james",
+        "meanwhile",
+        "probe",
+        "sandpapergate",
+        "superglue",
+        "sutherland",
+        "tamper",
+        "that",
+        "the",
+        "used",
+        "warner",
+        "with"
+      ],
+      "source_excerpt": "Meanwhile, David Warner denies a broadcaster's claim that he used superglue and grit to tamper with the ball.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
+          "published_at": "2026-11-26T09:52:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd8a13358974fdcc687520ad",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T09:42:29+00:00",
+      "last_update": "2026-11-26T09:42:29+00:00",
+      "event": "Watchdog warns of several concerns in private dentistry market",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "authority",
+        "competitions",
+        "concerns",
+        "deal",
+        "dentistry",
+        "fair",
+        "get",
+        "make",
+        "market",
+        "needed",
+        "people",
+        "private",
+        "reforms",
+        "says",
+        "several",
+        "sure",
+        "the",
+        "warns",
+        "watchdog"
+      ],
+      "source_excerpt": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T09:42:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9928806efa8f7f0093d014b4",
+      "remembered_at": "2026-11-26T10:57:41.243588+00:00",
+      "event_date": "2026-11-26T10:15:47+00:00",
+      "last_update": "2026-11-26T10:15:47+00:00",
+      "event": "What's gone wrong at Poundland?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "collapse",
+        "gone",
+        "has",
+        "into",
+        "poundland",
+        "what",
+        "why",
+        "wrong"
+      ],
+      "source_excerpt": "Poundland has collapse into administration. Why?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T10:15:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T09:52:54.306451+00:00"
+  "updated_at": "2026-11-26T10:57:41.243588+00:00"
 }
