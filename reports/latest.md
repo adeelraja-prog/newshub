@@ -1,200 +1,160 @@
-# News Hub report - Thu 26 Nov, 05:21 AM PKT
+# News Hub report - Thu 26 Nov, 06:53 AM PKT
 
 ## Collection
-- New items this run: 21 | items in rolling pool: 288
-- Unique story clusters: 246 (duplicates merged: 42)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 5, Geo News 3, The News International 3, BBC Science 3, The Verge 2, samaa tv 1, Engadget 1, GSMArena 1, BBC Business 1, Foreign Policy 1, Dawn Pakistan 0, Dawn Latest 0
+- New items this run: 17 | items in rolling pool: 206
+- Unique story clusters: 181 (duplicates merged: 25)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 2
+- Items per outlet: Al Jazeera 8, BBC World 4, Jang Urdu 2, Geo News 1, BBC Science 1, ProPakistani 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0, Dawn Fast Lane 0, Jang Fast Lane 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- Overall feeds with entries: 28/120 | empty: 0 | failed: 92 | malformed/partial: 92
+- Trusted publisher desks with at least one healthy source: 6/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Samaa, Express News, Dunya News, Dunya News TV
 
 ## Selected for the queue
-### Explosion rocks Sanaa as Saudi coalition intercepts missiles over Riyadh  [NORMAL]
-- Poster: س صنعا میں دھماکہ، ریاض کے اوپر میزائل ناکام بنا دیئے گئے / Blast in Sanaa as missiles intercepted over Riyadh | category war
-- Alternative headline: Missiles intercepted over Riyadh following blast in Yemen's Sanaa
+### Zambia Bans Protests Against Push to Remove Presidential Term Limits  [NORMAL]
+- Poster: صدارتی مدت کیپ ختم کرنے کے خلاف زیمبیا میں احتجاج پر پابندی / Zambia bans protest against presidential term limit push | category politics
+- Alternative headline: Zambian Authorities Ban Demonstrations Amid Presidential Term Limit Push
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Sanaa explosion, Saudi coalition, Riyadh missiles, Yemen strikes, Iran war | hashtags: #Sanaa #Riyadh #Yemen #SaudiArabia #MiddleEast
-- Scheduled: Thu 26 Nov, 05:21 AM PKT
-- Caption:
-```
-A powerful explosion struck Sanaa following air strikes near the airport, while the Saudi coalition intercepted missiles over Riyadh.
-
-A blast hit Sanaa after air strikes near the airport, as the Saudi-led coalition intercepted ballistic missiles over Riyadh. The escalation highlights widening regional tensions and ongoing cross-border strikes involving Houthi targets and coalition defenses.
-
-ایئرپورٹ کے قریب فضائی حملوں کے بعد صنعا میں ایک دھماکہ ہوا، جبکہ سعودی اتحاد نے ریاض کے اوپر میزائلوں کو ناکام بنا دیا۔ اس کشیدگی سے علاقائی تناؤ میں اضافے کا پتہ چلتا ہے۔
-
-First reported by Al Jazeera.
-
-#Sanaa #Riyadh #Yemen #SaudiArabia #MiddleEast
-```
-
-### US grants SpaceX approval to deploy 1 million space data centres  [NORMAL]
-- Poster: امریکہ نے اسپیس ایکس کو خلا میں ڈیٹا سینٹرز کی منظوری دے دی / US approves SpaceX for 1 million space data centers | category tech
-- Alternative headline: FCC signs off on SpaceX Starmind project for space data centers
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss
-- Supporting coverage: The Verge, Ars Technica, Al Jazeera, TechCrunch, BBC Science
-- Keywords: SpaceX data centers, FCC, Starmind project, Elon Musk, space satellites | hashtags: #SpaceX #FCC #ElonMusk #Starmind #SpaceTech
-- Scheduled: Thu 26 Nov, 05:31 AM PKT
-- Caption:
-```
-Elon Musk has hailed the FCC's approval of SpaceX's Starmind project as a major asset for America and the world.
-
-The United States Federal Communications Commission has authorized SpaceX to deploy up to 1 million satellites for its Starmind project, aiming to establish data centers in space. Elon Musk praised the regulatory approval as a significant milestone.
-
-امریکی فیڈرل کمیونیکیشنز کمیشن نے اسپیس ایکس کو اپنے اسٹارمائنڈ پروجیکٹ کے تحت خلا میں ایک ملین تک سیٹلائٹ نصب کرنے کی منظوری دے دی ہے۔ ایلন مسک نے اس فیصلے کو سراہا ہے۔
-
-First reported by Al Jazeera; also reported by The Verge, Ars Technica, and TechCrunch.
-
-#SpaceX #FCC #ElonMusk #Starmind #SpaceTech
-```
-
-### A meeting with Democrats over healthcare? Trump says he’s open to it  [NORMAL]
-- Poster: کیا ڈیموکریٹس سے صحت کے معاملے پر ملاقات ہوگی؟ ٹرمپ کا مثبت بیان / Trump open to healthcare meeting with Democrats | category politics
-- Alternative headline: Trump expresses openness to meeting Democrats to discuss healthcare policy
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Trump healthcare, Democrats, Medicare for All, US politics | hashtags: #DonaldTrump #Healthcare #Democrats #USPolitics
-- Scheduled: Thu 26 Nov, 05:41 AM PKT
+- Keywords: Zambia protests, presidential term limits, Zambia politics, opposition figures, Al Jazeera | hashtags: #Zambia #Politics #ProtestBan #Democracy
+- Scheduled: Thu 26 Nov, 06:53 AM PKT
 - Caption:
 ```
-Donald Trump says he is open to meeting with Democrats over healthcare, though experts remain sceptical about backing Medicare for All.
+Zambian authorities have banned protests against a controversial push to remove presidential term limits, raising serious concerns among critics.
 
-Donald Trump has stated he is open to a meeting with Democrats regarding healthcare. However, experts consulted by Al Jazeera expressed scepticism over whether he would ultimately back proposals like Medicare for All.
+Zambia has officially banned protests opposing the campaign to remove presidential term limits. Critics warn that this decision, combined with senior opposition figures remaining behind bars, could severely undermine democratic safeguards in the country.
 
-ڈونلڈ ٹرمپ نے کہا ہے کہ وہ صحت کے امور پر ڈیموکریٹس سے ملاقات کے لیے تیار ہیں۔ تاہم، ماہرین نے اس بات پر شک کا اظہار کیا ہے کہ آیا وہ قومی صحت کے منصوبے کی حمایت کریں گے۔
+زیمبیا نے صدارتی مدت کی حد ختم کرنے کی مہم کے خلاف احتجاج پر پابندی عائد کر دی ہے۔ ناقدین کا کہنا ہے کہ اس فیصلے اور اپوزیشن رہنماؤں کی جیل میں موجودگی سے جمہوری اقدار کمزور ہوں گی۔
 
-First reported by Al Jazeera.
+According to a report by Al Jazeera.
 
-#DonaldTrump #Healthcare #Democrats #USPolitics
+#Zambia #Politics #ProtestBan #Democracy
 ```
 
-### Houthis target Saudi Arabia’s Red Sea ports as regional strikes escalate  [NORMAL]
-- Poster: حوثیوں کا سعودی عرب کی بحیرہ احمر کی بندرگاہوں کو نشانہ بنانے کا اعلان / Houthis target Saudi Red Sea ports | category war
-- Alternative headline: Red Sea ports targeted by Houthis amid escalating Saudi-Yemen strikes
+### Ukraine Claims Strike on Russian Air Base Damaging Five Planes  [NORMAL]
+- Poster: یوکرین کا روسی فوجی اڈے پر حملہ، پانچ طیارے تباہ کرنے کا دعویٰ / Ukraine attacks Russian base, says five planes struck | category war
+- Alternative headline: Kyiv Reports Successful Drone Strike on Russian Military Airfield
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Houthi Red Sea ports, Saudi Arabia, Sanaa explosion, ballistic missiles | hashtags: #Houthis #SaudiArabia #RedSea #YemenConflict
-- Scheduled: Thu 26 Nov, 05:51 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss
+- Supporting coverage: Arab News, Al Jazeera
+- Keywords: Ukraine air strike, Russian military base, Nizhny Novgorod, Ukrainian General Staff, Al Jazeera | hashtags: #Ukraine #Russia #MilitaryStrike #War
+- Scheduled: Thu 26 Nov, 07:03 AM PKT
 - Caption:
 ```
-Houthi forces have targeted Saudi Arabia's Red Sea ports as explosions were reported in Sanaa following intercepted ballistic missiles.
+The Ukrainian General Staff reported a major military strike targeting an airbase inside Russian territory, claiming significant damage.
 
-Houthi forces targeted Saudi Arabia's Red Sea ports amidst an escalation of regional strikes. The development follows reported explosions in Sanaa and air defenses intercepting ballistic missiles directed toward Riyadh.
+The Ukrainian General Staff announced that its forces successfully struck a Russian military airbase located in the Nizhny Novgorod region, east of Moscow. According to the report, five planes were damaged in the targeted operation.
 
-حوثی فورز نے علاقائی حملوں میں تیزی کے دوران سعودی عرب کی بحیرہ احمر کی بندرگاہوں کو نشانہ بنایا۔ یہ پیش رفت صنعا میں دھماکوں اور ریاض کی طرف میزائلوں کے روکے جانے کے بعد سامنے آئی ہے۔
+یوکرین کے جنرل سٹاف نے دعویٰ کیا ہے کہ اس کی افواج نے ماسکو کے مشرق میں واقع نیژনি نووگوروڈ کے علاقے میں روسی فوجی اڈے پر حملہ کیا، جس کے نتیجے میں پانچ طیارے کو نقصان پہنچا۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera; also reported by Arab News.
 
-#Houthis #SaudiArabia #RedSea #YemenConflict
+#Ukraine #Russia #MilitaryStrike #War
 ```
 
-### King tides and massive waves batter coastal California  [NORMAL]
-- Poster: کنگ ٹائیڈز اور اونچی لہروں کی کیلیفورنیا کے ساحلوں پر تباہ کاری / Massive waves batter coastal California | category weather
-- Alternative headline: El Nino storms bring destructive king tides to US West Coast
+### Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season  [NORMAL]
+- Poster: نیٹ فلکس نے ول فیرل کی کامیڈی سیریز دی ہاک منسوخ کر دی / Netflix cancels Will Ferrell's comedy The Hawk | category other
+- Alternative headline: Will Ferrell Comedy Series 'The Hawk' Axed by Netflix
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/692652-netflix-cancels-will-ferrells-golf-comedy-the-hawk-after-one-season | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692652-netflix-cancels-will-ferrells-golf-comedy-the-hawk-after-one-season
+- Supporting coverage: Geo News
+- Keywords: The Hawk cancelled, Will Ferrell, Netflix comedy, The Hawk season one, Geo News | hashtags: #Netflix #WillFerrell #TheHawk #Entertainment
+- Scheduled: Thu 26 Nov, 07:13 AM PKT
+- Caption:
+```
+Netflix has officially cancelled Will Ferrell's golf comedy series 'The Hawk' after a sharp viewership decline following its debut.
+
+Netflix has cancelled the golf comedy series 'The Hawk', starring Will Ferrell, after just one season. Despite a strong opening week with millions of views, viewership collapsed sharply in subsequent weeks, leading to the cancellation of Ferrell's first leading television role.
+
+نیٹ فلکس نے ول فیرل کی اداکاری والی گولف کامیڈی سیریز 'دی ہاک' کو صرف ایک سیزن کے بعد منسوخ کر دیا ہے۔ پہلے ہفتے شاندار ویوز کے بعد ناظرین کی تعداد میں بڑی کمی دیکھی گئی۔
+
+According to a report by Geo News.
+
+#Netflix #WillFerrell #TheHawk #Entertainment
+```
+
+### UK Winters Getting Shorter and Summers Hotter, Says Met Office  [NORMAL]
+- Poster: برطانیہ میں سردیاں کم اور گرمیاں طویل ہونے کا انکشاف / UK seasons shift with fewer frosts, says Met Office | category weather
+- Alternative headline: Met Office Warns of Fewer Frosts and More Hot Days in UK
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: California king tides, massive waves, El Nino storms, US West Coast | hashtags: #California #KingTides #ElNino #Weather
-- Scheduled: Thu 26 Nov, 06:01 AM PKT
-- Caption:
-```
-Massive waves and El Nino-driven storms have brought severe king tides to batter coastal California.
-
-Coastal California has been battered by massive waves and severe king tides. The extreme coastal conditions are being driven by El Nino-linked storms affecting the United States West Coast.
-
-کیلیفورنیا کے ساحلی علاقوں میں اونچی لہروں اور شدید طوفانوں نے تباہ مچا دی ہے۔ ال نینو سے جڑے یہ طوفان امریکی مغربی ساحل پر اثر انداز ہو رہے ہیں۔
-
-First reported by Al Jazeera.
-
-#California #KingTides #ElNino #Weather
-```
-
-### What UK season changes mean for you, explained by meteorologists  [NORMAL]
-- Poster: برطانیہ میں موسمی تبدیلیوں کا آپ پر کیا اثر پڑے گا؟ جانیے / What UK season changes mean for you | category weather
-- Alternative headline: Understanding UK seasonal weather changes and what they impact
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Science
-- Keywords: UK season changes, Met Office, UK weather, seasonal shift | hashtags: #UKWeather #MetOffice #Seasons #Weather
-- Scheduled: Thu 26 Nov, 06:11 AM PKT
+- Keywords: UK seasons shift, Met Office, climate change UK, winter frosts, BBC Science | hashtags: #MetOffice #ClimateChange #UKWeather #Science
+- Scheduled: Thu 26 Nov, 07:23 AM PKT
 - Caption:
 ```
-The Met Office explains what upcoming UK season changes mean for the public and local weather conditions.
+New analysis from the UK Met Office reveals a significant shift in seasons, featuring fewer winter frosts and more hot summer days.
 
-In collaboration with the Met Office, weather reports outline upcoming seasonal changes in the United Kingdom and what they mean for residents. The updates provide insights into changing meteorological patterns.
+According to new analysis by the UK Met Office, the country's seasons are shifting due to global climate change. Winter days with air frost have dropped by about a quarter, while summer days reaching 25C have more than doubled compared to historical periods.
 
-میٹ آفس کے اشتراک سے جاری کردہ رپورٹس میں برطانیہ میں موسمی تبدیلیوں اور ان کے شہریوں پر پڑنے والے اثرات کی وضاحت کی گئی ہے۔
+برطانوی محکمۂ موسمیات (میٹ آفس) کی نئی رپورٹ کے مطابق موسمیاتی تبدیلیوں کی وجہ سے ملک میں سردیوں کے دن کم اور گرمیوں کے گرم دن دوگنا ہو چکے ہیں۔
 
-First reported by BBC Science.
+According to a report by BBC Science.
 
-#UKWeather #MetOffice #Seasons #Weather
+#MetOffice #ClimateChange #UKWeather #Science
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Israeli settlers attack several Palestinian villages in occupied West  | Sun 22 Nov, 11:21 PM PKT
-- [needs_review] normal | Canada’s PM appears next to Trump impersonator at press dinner | Sun 22 Nov, 11:31 PM PKT
 - [needs_review] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
 - [needs_review] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
 - [needs_review] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
@@ -216,7 +176,6 @@ First reported by BBC Science.
 - [needs_review] normal | How Pakistanis Save: An Express Tribune Report | Mon 23 Nov, 04:22 AM PKT
 - [needs_review] normal | Trump Targets Schumer as US Senate Democrats Face New Leadership Push | Mon 23 Nov, 04:49 AM PKT
 - [needs_review] normal | PTI Questions Sugar Export Approval and Seeks Audit of Import Deal | Mon 23 Nov, 05:36 AM PKT
-- [published] normal | Atalanta Grab Dramatic Draw With Inter Milan in Serie A | Mon 23 Nov, 05:46 AM PKT
 - [needs_review] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
 - [needs_review] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
 - [needs_review] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
@@ -347,7 +306,7 @@ First reported by BBC Science.
 - [published] normal | China urges US to avoid new tariffs as trade tensions rise | Thu 26 Nov, 12:30 AM PKT
 - [published] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
 - [published] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
-- [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
+- [published] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
 - [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
 - [published] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
@@ -373,18 +332,18 @@ First reported by BBC Science.
 - [queued] normal | Houthis target Saudi Arabia’s Red Sea ports as regional strikes escala | Thu 26 Nov, 05:51 AM PKT
 - [queued] normal | King tides and massive waves batter coastal California | Thu 26 Nov, 06:01 AM PKT
 - [queued] normal | What UK season changes mean for you, explained by meteorologists | Thu 26 Nov, 06:11 AM PKT
+- [queued] normal | Zambia Bans Protests Against Push to Remove Presidential Term Limits | Thu 26 Nov, 06:53 AM PKT
+- [queued] normal | Ukraine Claims Strike on Russian Air Base Damaging Five Planes | Thu 26 Nov, 07:03 AM PKT
+- [queued] normal | Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season | Thu 26 Nov, 07:13 AM PKT
+- [queued] normal | UK Winters Getting Shorter and Summers Hotter, Says Met Office | Thu 26 Nov, 07:23 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING?'.
+- Published 'Tarar urges social media companies to establish offices in Pakistan'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7165 | output tokens: 3233
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 5347 | output tokens: 2208
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
