@@ -170651,7 +170651,366 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b00720ec75b86bfb5f439a38",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T13:11:18+00:00",
+      "last_update": "2026-11-26T16:40:54+00:00",
+      "event": "کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "143",
+        "اجازت",
+        "ایڈمنسٹریشن",
+        "بعد",
+        "بغیر",
+        "تصویر",
+        "تعمیر",
+        "حکام",
+        "زیر",
+        "سوسائٹی",
+        "سوشل",
+        "سیل",
+        "شہر",
+        "عمارت",
+        "عمارتوں",
+        "عمارتیں",
+        "مطابق",
+        "میڈیا۔کراچی",
+        "میں",
+        "واقعہ،",
+        "واقعے",
+        "کراچی",
+        "گرنے"
+      ],
+      "source_excerpt": "تصویر سوشل میڈیا۔کراچی ایڈمنسٹریشن سوسائٹی میں عمارت گرنے کے واقعے کے بعد حکام کے مطابق شہر میں بغیر اجازت زیر تعمیر 143 عمارتوں کو...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636965",
+          "published_at": "2026-11-26T13:11:18+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5024508",
+          "published_at": "2026-11-26T16:40:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636965",
+        "publisher_url": "https://jang.com.pk/news/1636965",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6cf87c7fc3eb36771800cb3b",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T17:38:02+00:00",
+      "last_update": "2026-11-26T17:38:02+00:00",
+      "event": "Netanyahu’s corruption trial: Is it really all over?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "and",
+        "back",
+        "corruption",
+        "court",
+        "efforts",
+        "evade",
+        "focus",
+        "future",
+        "israeli",
+        "leader",
+        "netanyahu",
+        "over",
+        "political",
+        "prosecution",
+        "put",
+        "really",
+        "recommendations",
+        "the",
+        "trial"
+      ],
+      "source_excerpt": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+          "published_at": "2026-11-26T17:38:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "248225a1c66d8f8c0e30436a",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T17:32:21+00:00",
+      "last_update": "2026-11-26T17:32:21+00:00",
+      "event": "Syrian children continue learning amid the ruins of war in Idlib",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "children",
+        "continue",
+        "destroyed",
+        "idlib",
+        "learning",
+        "province",
+        "reopened",
+        "ruins",
+        "school",
+        "semi",
+        "syria",
+        "syrian",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "Syria reopened a semi destroyed school in Idlib province",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+          "published_at": "2026-11-26T17:32:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2a31198733f16a8e7669f652",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T16:49:59+00:00",
+      "last_update": "2026-11-26T16:49:59+00:00",
+      "event": "How a teen’s death raises questions about Colombia’s security crackdown",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abelardo",
+        "about",
+        "accusations",
+        "against",
+        "armed",
+        "campaign",
+        "colombia",
+        "crackdown",
+        "death",
+        "espriella",
+        "extrajudicial",
+        "groups",
+        "has",
+        "how",
+        "killing",
+        "president",
+        "questions",
+        "raises",
+        "resulted",
+        "security",
+        "teen"
+      ],
+      "source_excerpt": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+          "published_at": "2026-11-26T16:49:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b69a01d41d145cc20fa84f6d",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T17:45:45+00:00",
+      "last_update": "2026-11-26T17:45:45+00:00",
+      "event": "Did Scotland's departing chief medical officer actually do anything wrong?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "actually",
+        "amid",
+        "anything",
+        "chief",
+        "citing",
+        "departing",
+        "did",
+        "down",
+        "failures",
+        "grampian",
+        "gregor",
+        "has",
+        "health",
+        "medical",
+        "nhs",
+        "officer",
+        "reasons",
+        "row",
+        "scotland",
+        "sir",
+        "smith",
+        "stepped",
+        "wrong"
+      ],
+      "source_excerpt": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T17:45:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e7499219aadb27a7b5ccf14",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T17:00:00+00:00",
+      "last_update": "2026-11-26T17:00:00+00:00",
+      "event": "BBC Inside Science",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "been",
+        "greatest",
+        "has",
+        "history",
+        "inside",
+        "mathematics",
+        "one",
+        "problems",
+        "science",
+        "solved",
+        "the"
+      ],
+      "source_excerpt": "One of the greatest problems in the history of mathematics has been solved by AI.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T17:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b3bbcc69b8218cda61392909",
+      "remembered_at": "2026-11-26T17:52:50.605129+00:00",
+      "event_date": "2026-11-26T17:49:44+00:00",
+      "last_update": "2026-11-26T17:49:44+00:00",
+      "event": "Sindh launches inquiry into three years of SBCA operations",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "inquiry",
+        "into",
+        "launches",
+        "operations",
+        "sbca",
+        "sindh",
+        "three",
+        "years"
+      ],
+      "source_excerpt": "Sindh launches inquiry into three years of SBCA operations",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-launches-inquiry-into-three-years-of-sbca-operations",
+          "published_at": "2026-11-26T17:49:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-launches-inquiry-into-three-years-of-sbca-operations",
+        "publisher_url": "https://arynews.tv/sindh-launches-inquiry-into-three-years-of-sbca-operations",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T16:52:11.664199+00:00"
+  "updated_at": "2026-11-26T17:52:50.605129+00:00"
 }

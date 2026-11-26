@@ -1,192 +1,170 @@
-# News Hub report - Thu 26 Nov, 09:52 PM PKT
+# News Hub report - Thu 26 Nov, 10:52 PM PKT
 
 ## Collection
-- New items this run: 159 | items in rolling pool: 902
-- Unique story clusters: 774 (duplicates merged: 128)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 97, Al Jazeera 12, Geo News 6, ARY News 6, Pakistan Today 6, ProPakistani 4, samaa tv 3, Dawn 3, The Verge 3, TechJuice 3, Dawn Pakistan 2, The News International 1
+- New items this run: 117 | items in rolling pool: 855
+- Unique story clusters: 734 (duplicates merged: 121)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 66, Geo News 5, Al Jazeera 5, ProPakistani 5, ARY News 4, AP News 3, The News International 2, Dawn Latest 2, TechJuice 2, Dawn Pakistan 1, Babushahi.com 1, samaa tv 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NEW MOVE | https://www.youtube.com/watch?v=bDxAFDat4qE
 
 ## Top 5 most important
-- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Israeli strikes on Gaza kill senior education official and seven others  [NORMAL]
-- Poster: غزہ میں اسرائیلی حملے، وزارت تعلیم کے اعلیٰ عہدیدار جاں بحق / Israeli strikes in Gaza kill senior education official | category politics
-- Alternative headline: Gaza education ministry undersecretary killed in recent Israeli attacks
+### Netanyahu's corruption trial back in focus amid new court suggestions  [NORMAL]
+- Poster: نیتنیاہو کا بدعنوانی مقدمہ عدالت کی نئی تجاویز کے بعد بحث کا محور بن گیا / Netanyahu corruption trial in focus | category politics
+- Alternative headline: Israeli leader's trial and political future face renewed scrutiny
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Gaza attacks, Israeli strikes, Khaled Abu Nada, Education Ministry, Benjamin Netanyahu | hashtags: #Gaza #Israel #Palestine #MiddleEast
-- Scheduled: Thu 26 Nov, 09:52 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Netanyahu corruption trial, Israel politics, Benjamin Netanyahu, court case, legal battle, Middle East | hashtags: #Netanyahu #Israel #Politics #CourtCase #AlJazeera
+- Scheduled: Thu 26 Nov, 10:52 PM PKT
 - Caption:
 ```
-Israeli Prime Minister Benjamin Netanyahu has confirmed the killing of a senior education official in recent attacks on Gaza.
+Recent court recommendations have put Israeli leader Benjamin Netanyahu's corruption trial and political future back into intense focus.
 
-Israeli Prime Minister Benjamin Netanyahu has confirmed the killing of Khaled Abu Nada, the undersecretary of the Education Ministry, during recent Israeli attacks on Gaza that also claimed the lives of seven other people.
+Recent court recommendations have thrust Israeli leader Benjamin Netanyahu's corruption trial back into the spotlight, reviving intense focus on his political future and ongoing efforts to evade prosecution.
 
-اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے غزہ میں ہونے والے حملوں میں وزارت تعلیم کے انڈر سیکرٹری خالد ابو نادہ کی ہلاکت کی تصدیق کی ہے، ان حملوں میں سات دیگر افراد بھی جاں بحق ہوئے۔
+عدالت کی حالیہ تجاویز نے اسرائیلی رہنما بنیامین نیتنیاہو کے بدعنوانی کے مقدمے کو ایک بار پھر توجہ کا مرکز بنا دیا ہے، جس سے ان کے سیاسی مستقبل اور مقدمے سے بچنے کی کوششوں پر بحث تیز ہو گئی ہے۔
 
 First reported by Al Jazeera
 
-#Gaza #Israel #Palestine #MiddleEast
+#Netanyahu #Israel #Politics #CourtCase #AlJazeera
 ```
 
-### Two Italian workers killed in Iranian drone attack on Kuwait  [NORMAL]
-- Poster: کویت میں ایرانی ڈرون حملہ، دو اطالوی کارکن جاں بحق / Two Italian workers killed in Kuwait drone attack | category world
-- Alternative headline: Kuwait reports two deaths following Iranian drone strike on facility
+### French actor Gerard Depardieu to stand trial for alleged 2018 rape  [NORMAL]
+- Poster: فرانسیسی اداکارگیرارڈ ڈپارڈیو پر 2018 کے مبینہ ریپ کے مقدمے کا حکم / Gerard Depardieu to stand trial | category crime
+- Alternative headline: Paris appeals court orders Gerard Depardieu to stand trial over rape allegations
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss
-- Supporting coverage: Reuters, Euronews.com, The National, Al Jazeera, Al Jazeera, samaa tv
-- Keywords: Kuwait drone attack, Iranian drone, Kuwait army, Italian workers, Middle East | hashtags: #Kuwait #Iran #DroneAttack #MiddleEast
-- Scheduled: Thu 26 Nov, 10:02 PM PKT
-- Caption:
-```
-Kuwait's army reports that two Italian workers were killed and four others were injured in an Iranian drone attack.
-
-Kuwait’s army has confirmed that two Italian workers were killed and four other individuals were injured following an Iranian drone attack. Reports indicate that passenger flights were diverted as Kuwait intercepted the aerial assault.
-
-کویت کی فوج نے تصدیق کی ہے کہ ایرانی ڈرون حملے میں دو اطالوی کارکن جاں بحق اور چار دیگر زخمی ہو گئے۔ حملے کے بعد کویت میں مسافر پروازوں کا رخ تبدیل کر دیا گیا۔
-
-First reported by Al Jazeera and Reuters
-
-#Kuwait #Iran #DroneAttack #MiddleEast
-```
-
-### Diesel tanker capsizes near Ibiza, leaving one crew member dead  [NORMAL]
-- Poster: سپین کے قریب ڈیزل سے بھرا ٹینکر ڈوب گیا، ایک عملہ جاں بحق / Diesel tanker capsizes near Ibiza, one dead | category disaster
-- Alternative headline: Tanker carrying 7,000 tonnes of diesel sinks partially off Ibiza
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC World, Al Jazeera
-- Keywords: Ibiza tanker capsize, diesel tanker, Med Emre, Ibiza coast, fuel spill | hashtags: #Ibiza #Spain #TankerIncident #Environment
-- Scheduled: Thu 26 Nov, 10:12 PM PKT
+- Keywords: Gerard Depardieu trial, rape allegations, France court, Charlotte Arnould, MeToo, Paris appeals court | hashtags: #GerardDepardieu #France #Court #MeToo #BBC
+- Scheduled: Thu 26 Nov, 11:02 PM PKT
 - Caption:
 ```
-An oil tanker carrying up to 7,000 tonnes of diesel has capsized off the coast of Ibiza, resulting in one fatality.
+A Paris appeals court has confirmed that French film actor Gérard Depardieu will stand trial for the alleged rape of an actress in 2018.
 
-A Malta-flagged diesel tanker carrying up to 7,000 tonnes has capsized off the coast of Ibiza, leaving one crew member dead. All 17 crew members were rescued, though several were hospitalized. Authorities are currently assessing potential environmental damage and fuel spill risks.
+A Paris appeals court has confirmed that veteran French film actor Gérard Depardieu must stand trial for the alleged rape of actress Charlotte Arnould in 2018. Depardieu, 77, has strongly denied the allegations, while the ruling has been hailed as historic by the complainant's legal team.
 
-سپین کے جزیرے ایبیزا کے قریب 7 ہزار ٹن ڈیزل لے جانے والا ایک جہاز الٹ گیا، جس کے نتیجے میں ایک عملہ جاں بحق ہو گیا۔ تمام 17 عملے کو بچا لیا گیا جبکہ حکام سمندری آلودگی کے خطرات کا جائزہ لے رہے ہیں۔
+پیرس کی اپیل کورٹ نے تصدیق کی ہے کہ فرانسیسی فلمی اداکار گیرارڈ ڈپارڈیو کو 2018 میں ایک اداکارہ کے مبینہ ریپ کے الزام میں مقدمے کا سامنا کرنا ہوگا۔ 77 سالہ ڈپارڈیو نے الزامات کی تردید کی ہے، جب کہ متاثرہ کے وکیل نے اس فیصلے کو تاریخی قرار دیا ہے۔
 
-First reported by BBC World
+First reported by BBC World; also reported by Al Jazeera
 
-#Ibiza #Spain #TankerIncident #Environment
+#GerardDepardieu #France #Court #MeToo #BBC
 ```
 
-### UK net migration falls to lowest level in nearly three decades  [NORMAL]
-- Poster: برطانیہ میں تارکین وطن کی آمد میں تین دہائیوں کی کم ترین سطح / UK net migration hits three-decade low | category other
-- Alternative headline: British annual net migration drops sharply to 77,000
+### Rana Irfan clinches Snooker World Cup title after defeating Mohammad Asif  [NORMAL]
+- Poster: رانا عرفان نے محمد آصف کو شکست دے کر سنوکر ورلڈ کپ جیت لیا / Rana Irfan wins Snooker World Cup | category sports
+- Alternative headline: Rana Irfan whitewashes Asif to win IBSF Men's World Cup in Muscat
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump
-- Supporting coverage: Dawn Latest, Pakistan Today, The Express Tribune
-- Keywords: UK net migration, migration drop, ONS, Shabana Mahmood, British immigration | hashtags: #UK #Migration #BritishPolitics #News
-- Scheduled: Thu 26 Nov, 10:22 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5
+- Supporting coverage: samaa tv, ARY News, Dawn Latest
+- Keywords: Rana Irfan, Snooker World Cup, Mohammad Asif, IBSF, Muscat, Pakistan sports | hashtags: #RanaIrfan #SnookerWorldCup #PakistanSports #MohammadAsif #IBSF
+- Scheduled: Thu 26 Nov, 11:12 PM PKT
 - Caption:
 ```
-Britain recorded its lowest level of annual net migration in nearly three decades, excluding the COVID-19 pandemic period.
+Pakistan's Rana Irfan has won the Snooker World Cup title after defeating compatriot Mohammad Asif in Muscat.
 
-Official statistics show that Britain's annual net migration fell to 77,000 in the year to June, marking the lowest level since 1997 outside of the pandemic. The drop reflects tighter rules on workers, students, and asylum seekers, though officials note further reforms are planned.
+Rana Irfan clinched the IBSF Men's World Cup title in Muscat after defeating fellow compatriot Mohammad Asif in a dominant performance, marking a major triumph for Pakistani cue sports on the international stage.
 
-سرکاری اعداد و شمار کے مطابق برطانیہ میں سالانہ خالص ہجرت کم ہو کر 77 ہزار رہ گئی ہے، جو وبائی دور کے علاوہ 1997 کے بعد سب سے کم سطح ہے۔ اس کمی کی وجہ تارکین وطن کے لیے سخت قوانین کا نفاذ ہے۔
+رانا عرفان نے مسقط میں آئی بی ایس ایف مینز سنوکر ورلڈ کپ کے فائنل میں ساتھی کھلاڑی محمد آصف کو شکست دے کر عالمی ٹائٹل اپنے نام کر لیا، جو پاکستان کے لیے ایک بڑا اعزاز ہے۔
 
-First reported by Dawn Latest
+First reported by samaa tv; also reported by ARY News and Dawn
 
-#UK #Migration #BritishPolitics #News
+#RanaIrfan #SnookerWorldCup #PakistanSports #MohammadAsif #IBSF
 ```
 
-### Flour prices surge sharply in Karachi following official notification  [NORMAL]
-- Poster: کراچی میں آٹے کی قیمتوں میں بڑا اضافہ، فی کلو نیا نرخ جاری / Flour prices surge sharply in Karachi | category economy
-- Alternative headline: Karachi flour prices increase by Rs 20 per kilogram
+### 143 illegal under-construction buildings sealed in Karachi after tragedy  [NORMAL]
+- Poster: کراچی میں عمارت گرنے کے بعد بغیر اجازت زیر تعمیر 143 عمارتیں سیل / 143 illegal buildings sealed in Karachi | category disaster
+- Alternative headline: Karachi administration seals 143 unauthorized buildings following collapse incident
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/flour-prices-surge-sharply-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/flour-prices-surge-sharply-in-karachi
-- Supporting coverage: ARY News
-- Keywords: Karachi flour prices, Sindh Food Department, imported wheat, flour rate, Karachi | hashtags: #Karachi #Inflation #FlourPrices #PakistanEconomy
-- Scheduled: Thu 26 Nov, 10:32 PM PKT
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1636965 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1636965
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: Karachi building seal, illegal buildings, building collapse, Karachi administration, CM House, Sindh | hashtags: #Karachi #BuildingCollapse #IllegalBuildings #SindhGovt #Jang
+- Scheduled: Thu 26 Nov, 11:22 PM PKT
 - Caption:
 ```
-The price of regular flour in Karachi has increased significantly following a notification by the Sindh Food Department.
+Following a building collapse incident in Karachi Administration Society, authorities have sealed 143 unauthorized under-construction buildings across the city.
 
-The price of regular flour in Karachi has risen by Rs. 20 per kg, bringing the official rate to Rs. 145 per kg according to the Sindh Food Department. The adjustment follows the arrival of imported wheat, with subsidized wheat being supplied to mills.
+Following a fatal building collapse in Karachi Administration Society, local authorities have sealed 143 unauthorized under-construction buildings across various districts. A detailed report regarding the crackdown has been submitted to the Chief Minister's House.
 
-محکمہ خوراک سندھ کے نوٹیفکیشن کے مطابق کراچی میں عام آٹے کی قیمت میں 20 روپے فی کلو اضافہ کر دیا گیا ہے، جس کے بعد سرکاری نرخ 145 روپے فی کلو ہو گئے ہیں۔
+کراچی ایڈمنسٹریشن سوسائٹی میں عمارت گرنے کے واقعے کے بعد ضلعی انتظامیہ نے شہر بھر میں بغیر اجازت زیر تعمیر 143 عمارتوں کو سیل کر دیا ہے، اور اس کی رپورٹ وزیراعلیٰ ہاؤس کو ارسال کر دی گئی ہے۔
 
-First reported by ARY News
+First reported by Jang Urdu; also reported by UrduPoint
 
-#Karachi #Inflation #FlourPrices #PakistanEconomy
+#Karachi #BuildingCollapse #IllegalBuildings #SindhGovt #Jang
 ```
 
-### Pregnant US inmate escapes in prison vehicle after medical appointment  [NORMAL]
-- Poster: امریکہ میں حاملہ قیدی طبی معائنے کے بعد پولیس وین لے کر فرار / Pregnant US inmate escapes in prison vehicle | category crime
-- Alternative headline: New Mexico corrections department searches for escaped pregnant inmate
+### UK drivers over 70 face mandatory eye tests every three years under new plans  [NORMAL]
+- Poster: برطانیہ میں 70 سال سے زائد عمر کے ڈرائیوروں کے لیے ہر تین سال بعد نظر کا ٹیسٹ تجویز / UK eye tests for drivers over 70 | category other
+- Alternative headline: UK proposes eye tests every three years for drivers over 70
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, BBC
-- Keywords: inmate escape New Mexico, Rebecca Taylor, pregnant inmate, police vehicle, New Mexico Corrections Department | hashtags: #NewMexico #USNews #PrisonEscape #PoliceSearch
-- Scheduled: Thu 26 Nov, 10:42 PM PKT
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business, Geo News
+- Keywords: drivers over 70 eye tests, UK road safety, Department for Transport, driving licence, elderly drivers, eye test | hashtags: #UKDrivers #RoadSafety #ElderlyDrivers #BBC #GeoNews
+- Scheduled: Thu 26 Nov, 11:32 PM PKT
 - Caption:
 ```
-A pregnant inmate in New Mexico escaped from custody after taking control of a vehicle while returning from a prenatal appointment.
+Under new UK road safety plans, drivers over 70 could face mandatory eye tests every three years to keep their licences.
 
-Rebecca Taylor, a 26-year-old pregnant inmate in New Mexico, escaped from custody by taking control of a transport vehicle when officers stopped for food. Authorities have recovered the vehicle and her prison jumpsuit, but a multi-agency search is ongoing.
+Drivers over the age of 70 in the UK will be required to take eye tests every three years or risk losing their driving licences, under a new road safety strategy proposed by the Department for Transport.
 
-امریکہ کی ریاست نیو میکسیکو میں 26 سالہ حاملہ قیدی ریبیکا ٹیلر طبی معائنے سے واپسی پر پولیس کی گاڑی لے کر فرار ہو گئی۔ حکام کی جانب سے اس کی تلاش کے لیے سرچ آپریشن جاری ہے۔
+برطانیہ میں روڈ سیفٹی کی نئی تجاویز کے تحت 70 سال سے زائد عمر کے ڈرائیوروں کے لیے ہر تین سال بعد نظر کا ٹیسٹ دینا لازمی قرار دیے جانے کا امکان ہے، ورنہ ان کا لائسنس منسوخ ہو سکتا ہے۔
 
-First reported by BBC World
+First reported by BBC Business; also reported by Geo News
 
-#NewMexico #USNews #PrisonEscape #PoliceSearch
+#UKDrivers #RoadSafety #ElderlyDrivers #BBC #GeoNews
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
@@ -338,10 +316,10 @@ First reported by BBC World
 - [needs_review] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
 - [published] normal | Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16 | Thu 26 Nov, 03:57 PM PKT
 - [published] normal | 31 dead in Egypt fire after fuel truck overturns | Thu 26 Nov, 04:07 PM PKT
-- [queued] normal | Pakistan motorbike passenger becomes global cricket sensation after st | Thu 26 Nov, 04:17 PM PKT
-- [queued] normal | IHC extends stay on Islamabad local government elections by two weeks | Thu 26 Nov, 04:27 PM PKT
-- [queued] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
-- [queued] normal | Explosion rocks oil facility in Thailand's Bangkok | Thu 26 Nov, 04:47 PM PKT
+- [needs_review] normal | Pakistan motorbike passenger becomes global cricket sensation after st | Thu 26 Nov, 04:17 PM PKT
+- [needs_review] normal | IHC extends stay on Islamabad local government elections by two weeks | Thu 26 Nov, 04:27 PM PKT
+- [needs_review] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
+- [needs_review] normal | Explosion rocks oil facility in Thailand's Bangkok | Thu 26 Nov, 04:47 PM PKT
 - [published] promo | [YouTube] SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE? | Thu 26 Nov, 04:59 PM PKT
 - [queued] normal | Iraq denies media reports of troop movements towards Kurdish region | Thu 26 Nov, 04:59 PM PKT
 - [queued] normal | PIA UK operations disrupted after Norse Atlantic suspends aircraft lea | Thu 26 Nov, 05:09 PM PKT
@@ -366,18 +344,23 @@ First reported by BBC World
 - [queued] normal | UK net migration falls to lowest level in nearly three decades | Thu 26 Nov, 10:22 PM PKT
 - [queued] normal | Flour prices surge sharply in Karachi following official notification | Thu 26 Nov, 10:32 PM PKT
 - [queued] normal | Pregnant US inmate escapes in prison vehicle after medical appointment | Thu 26 Nov, 10:42 PM PKT
+- [published] promo | [YouTube] MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NE | Thu 26 Nov, 10:52 PM PKT
+- [queued] normal | Netanyahu's corruption trial back in focus amid new court suggestions | Thu 26 Nov, 10:52 PM PKT
+- [queued] normal | French actor Gerard Depardieu to stand trial for alleged 2018 rape | Thu 26 Nov, 11:02 PM PKT
+- [queued] normal | Rana Irfan clinches Snooker World Cup title after defeating Mohammad A | Thu 26 Nov, 11:12 PM PKT
+- [queued] normal | 143 illegal under-construction buildings sealed in Karachi after trage | Thu 26 Nov, 11:22 PM PKT
+- [queued] normal | UK drivers over 70 face mandatory eye tests every three years under ne | Thu 26 Nov, 11:32 PM PKT
 
 ## Publishing this run
-- Published '31 dead in Egypt fire after fuel truck overturns'.
+- Published '[YouTube] MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NEW MOVE'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 8736 | output tokens: 3417
-- Errors: 2
+- Calls: 6 | prompt tokens: 6504 | output tokens: 3354
+- Errors: 4
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
