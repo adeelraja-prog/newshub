@@ -1,199 +1,62 @@
-# News Hub report - Thu 26 Nov, 04:59 PM PKT
+# News Hub report - Thu 26 Nov, 06:22 PM PKT
 
 ## Collection
-- New items this run: 99 | items in rolling pool: 793
-- Unique story clusters: 659 (duplicates merged: 134)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 32, ProPakistani 10, Geo News 9, TechJuice 7, ARY News 6, Al Jazeera 5, Aaj English TV 4, Dawn Pakistan 3, Wired 3, Investify 3, Dawn 2, BBC Business 2
+- New items this run: 151 | items in rolling pool: 872
+- Unique story clusters: 730 (duplicates merged: 142)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 66, Geo News 15, ProPakistani 9, ARY News 6, samaa tv 5, Dawn Latest 5, Al Jazeera 5, Wired 5, The News International 4, TechJuice 4, Jang Urdu 3, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE? | https://www.youtube.com/watch?v=6z1ZZ6lUiZ0
+- Adeel Raja Shorts: 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | https://www.youtube.com/watch?v=RZGZLBYQqh4
 
 ## Top 5 most important
-- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 2 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 106/120 | empty: 3 | failed: 11 | malformed/partial: 11
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India politics | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Iraq denies media reports of troop movements towards Kurdish region  [NORMAL]
-- Poster: عراق کی کردستان کی طرف فوجی نقل و حرکت کی تردید / Iraq denies troop movement reports | category politics
-- Alternative headline: Iraqi government rejects claims of military buildup near Kurdistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Iraq troop movements, Kurdistan region, Iraqi army, government denial, media reports | hashtags: #Iraq #Kurdistan #MiddleEast #Politics
-- Scheduled: Thu 26 Nov, 04:59 PM PKT
-- Caption:
-```
-The Iraqi government has officially rejected media reports claiming that army units were moving towards the Kurdistan region.
-
-The Iraqi government has stated there is no truth to media reports claiming that Iraqi army units were moving towards the Kurdistan region.
-
-عراقی حکومت کا کہنا ہے کہ میڈیا میں آنے والی ان رپورٹس میں کوئی صداقت نہیں جن میں دعویٰ کیا گیا تھا کہ عراقی فوج کے دستے کردستان کے علاقے کی طرف بڑھ رہے ہیں۔
-
-According to Al Jazeera
-
-#Iraq #Kurdistan #MiddleEast #Politics
-```
-
-### PIA UK operations disrupted after Norse Atlantic suspends aircraft lease  [NORMAL]
-- Poster: نورس اٹلانٹک کی جانب سے طیارے معطل کرنے پر پی آئی اے کی پروازیں متاثر / PIA UK flights disrupted by Norse Atlantic | category other
-- Alternative headline: Norse Atlantic abrupt aircraft suspension disrupts PIA flights to UK
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pias-uk-operations-disrupted-after-norse-atlantic-suspends-aircraft-supply | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pias-uk-operations-disrupted-after-norse-atlantic-suspends-aircraft-supply
-- Supporting coverage: ARY News, ProPakistani, TechJuice, Dawn, Dawn Pakistan
-- Keywords: PIA UK operations, Norse Atlantic, flight cancellation, wet-lease agreement, Boeing 777 | hashtags: #PIA #Aviation #UK #Pakistan
-- Scheduled: Thu 26 Nov, 05:09 PM PKT
-- Caption:
-```
-Pakistan International Airlines faced disruptions in its UK flight operations after Norse Atlantic unexpectedly suspended two leased aircraft.
-
-Pakistan International Airlines faced disruptions to its UK flight operations after Norwegian airline Norse Atlantic unexpectedly suspended two leased aircraft. The sudden suspension caused the cancellation of flights between London, Islamabad, Manchester, and Lahore. PIA announced alternative arrangements using its own Boeing 777 aircraft.
-
-پاکستان انٹرنیشنل ایوی ایشن (پی آئی اے) کی برطانیہ کے لیے پروازیں اس وقت متاثر ہوئیں جب نورس اٹلانٹک نے کرائے پر دیے گئے دو طیارے اچانک معطل کر دیے۔ اس اچانک تعطل کے باعث لندن، اسلام آباد، مانچسٹر اور لاہور کے درمیان پروازیں منسوخ کرنا پڑیں۔
-
-First reported by ARY News; also reported by Dawn
-
-#PIA #Aviation #UK #Pakistan
-```
-
-### Karachi building collapse: Eight SBCA officials suspended over negligence  [NORMAL]
-- Poster: کراچی عمارت انہدام: غفلت برتنے پر آٹھ ایس بی سی اے افسران معطل / Eight SBCA officials suspended over Karachi collapse | category other
-- Alternative headline: Sindh suspends SBCA chief and officials after deadly Karachi collapse
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi
-- Supporting coverage: ARY News, Geo News, Geo News, Bol News, The Current
-- Keywords: Karachi building collapse, SBCA officials suspended, Admin Society, Sindh government, negligence | hashtags: #Karachi #BuildingCollapse #SBCA #Sindh
-- Scheduled: Thu 26 Nov, 05:19 PM PKT
-- Caption:
-```
-Eight Sindh Building Control Authority officials have been suspended following a deadly building collapse in Karachi that killed three people.
-
-Following the collapse of an under-construction building in Karachi's Admin Society which killed three people and injured 14, authorities suspended eight Sindh Building Control Authority officials, including the Director of Chanesar Town, deputy directors, assistant directors, and building inspectors.
-
-کراچی کی ایڈمن سوسائٹی میں زیر تعمیر عمارت کے گرنے سے 3 افراد کی ہلاک اور 14 کے زخمی ہونے کے بعد سندھ بلڈنگ کنٹرول اتھارٹی کے آٹھ افسران کو غفلت برتنے پر معطل کر دیا گیا ہے۔
-
-First reported by ARY News; also reported by Geo News
-
-#Karachi #BuildingCollapse #SBCA #Sindh
-```
-
-### Elon Musk pledges two SpaceX shares for every American child  [NORMAL]
-- Poster: ایلون مسک کا ہر امریکی بچے کو اسپیس ایکس کے دو شیئرز دینے کا اعلان / Musk pledges SpaceX shares for US children | category other
-- Alternative headline: Musk promises two SpaceX shares to every child in the US
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today, Dawn, The Current
-- Keywords: Elon Musk SpaceX shares, American child, SpaceX pledge, US children | hashtags: #ElonMusk #SpaceX #US #Shares
-- Scheduled: Thu 26 Nov, 05:29 PM PKT
-- Caption:
-```
-Elon Musk has reportedly pledged two SpaceX shares for every American child.
-
-Tech billionaire Elon Musk has pledged two SpaceX shares for every American child, according to reports from Dawn and other news outlets.
-
-رپورٹس کے مطابق ٹیکنالوجی ارب پتی ایلون مسک نے ہر امریکی بچے کو اسپیس ایکس کے دو شیئرز دینے کا اعلان کیا ہے۔
-
-First reported by Dawn
-
-#ElonMusk #SpaceX #US #Shares
-```
-
-### Highway explosion in Giza: 31 killed and dozens injured in Egypt  [NORMAL]
-- Poster: گیزہ میں ہائی وے دھماکہ: 31 افراد ہلاک اور درجنوں زخمی / Giza highway explosion kills 31 | category other
-- Alternative headline: Deadly road explosion on Giza highway kills 31 people
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Giza highway explosion, Egypt tragedy, road explosion, Giza crash | hashtags: #Egypt #Giza #BreakingNews #Tragedy
-- Scheduled: Thu 26 Nov, 05:39 PM PKT
-- Caption:
-```
-A deadly road explosion on a highway in Giza, Egypt, has resulted in the deaths of 31 people and injured dozens more.
-
-Egypt has suffered another tragedy as a deadly road explosion on a highway in Giza killed 31 people and left dozens injured.
-
-مصر کے علاقے گیزہ میں ہائی وے پر ہونے والے ایک ہلاکت خیز سڑک کے دھماکے میں 31 افراد ہلاک اور درجنوں زخمی ہو گئے ہیں۔
-
-According to Al Jazeera
-
-#Egypt #Giza #BreakingNews #Tragedy
-```
-
-### Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck prize  [NORMAL]
-- Poster: شہید فلسطینی صحافی مریم دغہ کے لیے مقررہ روری پیک انعام کا اعلان / Slain Palestinian journalist wins Rory Peck prize | category other
-- Alternative headline: Killed Gaza journalist Mariam Dagga posthumously awarded Rory Peck prize
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize
-- Supporting coverage: ARY News, The Times of Israel, Ahram Online
-- Keywords: Mariam Dagga, Rory Peck prize, Palestinian journalist, Gaza war, Associated Press | hashtags: #Journalism #Palestine #Gaza #RoryPeckAward
-- Scheduled: Thu 26 Nov, 05:49 PM PKT
-- Caption:
-```
-Palestinian war correspondent Mariam Dagga, killed in an Israeli strike in Gaza last year, has posthumously won the Rory Peck prize.
-
-Palestinian war correspondent Mariam Dagga, who was killed in an Israeli air strike in Gaza last year, has posthumously won the prestigious Rory Peck prize for freelance video journalists. She shares the award with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for their coverage of the war.
-
-فلسطینی جنگی نامہ نگار مریم دغہ، جو گزشتہ سال غزہ میں اسرائیلی فضائی حملے میں شہید ہو گئی تھیں، کو فری لانس ویڈیو صحافیوں کے لیے باوقار روری پیک انعام سے نوازا گیا ہے۔ انہوں نے یہ ایوارڈ اپنے ساتھیوں کے ساتھ مشترکہ طور پر جیتا ہے۔
-
-First reported by ARY News; also reported by AFP
-
-#Journalism #Palestine #Gaza #RoryPeckAward
-```
-
-- Indian outlets blocked this run: 6 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
-- [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
 - [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
@@ -201,7 +64,6 @@ First reported by ARY News; also reported by AFP
 - [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
-- [published] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
 - [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
 - [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
 - [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
@@ -336,12 +198,12 @@ First reported by ARY News; also reported by AFP
 - [needs_review] normal | Qatari firm expresses interest in agricultural investment in Pakistan | Thu 26 Nov, 09:05 AM PKT
 - [needs_review] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
 - [published] normal | PPP expresses serious concern over the ongoing situation in Balochista | Thu 26 Nov, 11:05 AM PKT
-- [queued] normal | Trump and NATO chief urge Russia to avoid expanding the Ukraine war | Thu 26 Nov, 11:15 AM PKT
-- [queued] normal | Security forces eliminate 12 terrorists during intelligence-based oper | Thu 26 Nov, 11:25 AM PKT
-- [queued] normal | Tajik ambassador shares nostalgic memories of Karachi from the 1990s | Thu 26 Nov, 11:35 AM PKT
-- [queued] normal | Sindh CM inaugurates Siemens training academy at NED University | Thu 26 Nov, 11:45 AM PKT
-- [queued] normal | Two cousins lose their lives in a tragic gas cylinder blast in KP | Thu 26 Nov, 11:55 AM PKT
-- [queued] normal | CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue | Thu 26 Nov, 12:27 PM PKT
+- [needs_review] normal | Trump and NATO chief urge Russia to avoid expanding the Ukraine war | Thu 26 Nov, 11:15 AM PKT
+- [needs_review] normal | Security forces eliminate 12 terrorists during intelligence-based oper | Thu 26 Nov, 11:25 AM PKT
+- [needs_review] normal | Tajik ambassador shares nostalgic memories of Karachi from the 1990s | Thu 26 Nov, 11:35 AM PKT
+- [needs_review] normal | Sindh CM inaugurates Siemens training academy at NED University | Thu 26 Nov, 11:45 AM PKT
+- [needs_review] normal | Two cousins lose their lives in a tragic gas cylinder blast in KP | Thu 26 Nov, 11:55 AM PKT
+- [published] normal | CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue | Thu 26 Nov, 12:27 PM PKT
 - [queued] normal | President Zardari Holds Key Meeting to Strengthen Pakistan-Bangladesh  | Thu 26 Nov, 12:37 PM PKT
 - [queued] normal | Duran Duran Guitarist and Songwriter Andy Taylor Dies at 65 | Thu 26 Nov, 12:47 PM PKT
 - [queued] normal | Sindh CM Orders Immediate Suspension of Senior Local Govt and Police O | Thu 26 Nov, 12:57 PM PKT
@@ -360,13 +222,14 @@ First reported by ARY News; also reported by AFP
 - [queued] normal | Elon Musk pledges two SpaceX shares for every American child | Thu 26 Nov, 05:29 PM PKT
 - [queued] normal | Highway explosion in Giza: 31 killed and dozens injured in Egypt | Thu 26 Nov, 05:39 PM PKT
 - [queued] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
+- [queued] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
 
 ## Publishing this run
-- Published '[YouTube] SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE?'.
+- Published 'CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 8490 | output tokens: 3559
-- Errors: 4
+- Calls: 7 | prompt tokens: 17736 | output tokens: 7719
+- Errors: 7
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -383,3 +246,5 @@ First reported by ARY News; also reported by AFP
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 71 column 7 (char 3440)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 282 column 7 (char 13147)

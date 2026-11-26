@@ -167774,7 +167774,773 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf0feb7340e88ac166d48946",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T05:24:16+00:00",
+      "last_update": "2026-11-26T10:45:45+00:00",
+      "event": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "chief",
+        "expand",
+        "nato",
+        "not",
+        "russia",
+        "trump",
+        "ukraine",
+        "urge",
+        "war"
+      ],
+      "source_excerpt": "Trump, NATO chief urge Russia not to 'expand' Ukraine war ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5",
+          "published_at": "2026-11-26T05:24:16+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/trump-nato-chief-urge-russia-not-expand-ukraine-war",
+          "published_at": "2026-11-26T05:24:16+00:00"
+        },
+        {
+          "name": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVlweEtLbmNQZDlob2UyQ2tPaS1wR0wtVzdNRWFSVUpwdlNFN3RncW5TOExVZHk4MmtMekYzallYdjhVckxSeFJ4dVhQbGhGVW00OFhMaHBweXk2Q3poVXlVTjFhNW8wbVR6c1ZGSS1SQ1BvTFJoZ0pKOEhDZklzek9ibTJWSWZFdElnN0hUYWRGWm9fVlJUNGVQNVpXTzJL?oc=5",
+          "published_at": "2026-11-26T06:22:19+00:00"
+        },
+        {
+          "name": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMkJiLVZDN0JaZnJ0STZvWTVJaFU3Ynd4dDdhT2tQd2VjY3UzNkg4Ylc5Y2VXZ3ZLUmNOWEFxWk1DeS1zWWl2Y1JMT29EcWhHVzFzemRRNDk?oc=5",
+          "published_at": "2026-11-26T06:41:44+00:00"
+        },
+        {
+          "name": "Pajhwok Afghan News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR25yRWQ2SnJXa3F4cjNxOEdfUk53blBuSS1DX25WRHBteXBkckJwZDlQM1hKWkh1aTlqTGtWS19MeXZXUFpIazR6NTBvcEhIU1lrc2tuSlVOdjU0djdMajlNdjRpZUpyVlN6aGhaVnVNS29lclZsZXdETlk0N3U0a1pfcGZodXR3Qy05eXFISWpGMFRI?oc=5",
+          "published_at": "2026-11-26T06:46:57+00:00"
+        },
+        {
+          "name": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkt4aGdMTDhmMWM4cjhDS3hEUGFpSmhoa2xvVm5DdzVvMW5IUWRtNU1MWlFzLWtiQm5RanNnYlUzUVlDYy01Ti1GUDByeWVDLVhQQVNLUnlKWVhSNnNUSVdVU1piTENvQnJkTFczc0oxNFlGWXItd25DVEdPMVlRRnBkQWE4Zl9KLUJtamhNNWc0LUwzV083SDd5ejRRUnhFeDFMYmJ1aWo?oc=5",
+          "published_at": "2026-11-26T07:38:00+00:00"
+        },
+        {
+          "name": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVUydmxIb1VUV3RCM1QwQ25CUmkzMVZPY3NHelBxNnZiMlBKMTkwb1J1dS1EenF5dmZ6RFU2bHhwekxtamlUbXpMeTVlcExQUWpmN0NDUk8zZl8zc1lqajNDYnBHQnlIaW9qcmZjLWxZTnFlV2RJWUUwa0hNZFp2RE9DSFVfSG04OUhqV216VG1iYXoz?oc=5",
+          "published_at": "2026-11-26T07:59:00+00:00"
+        },
+        {
+          "name": "EA WorldView",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NUI2OExHNW9GUnZEeXlRbjNzTlUzOTM0SURXWkV0Vk5Vd1JwN19reE9MdDJKbkxPRy00bklDNDFSYUxJQkFILVZ0akJiUUNJQ010aUZ3NEFrWmp4eEp5c3hYaDZhVzY5azUybDJPR3AwTUpGVzZaOENiZGRPbzQ?oc=5",
+          "published_at": "2026-11-26T08:03:45+00:00"
+        },
+        {
+          "name": "The Moscow Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUlTOEVsZnppVmNlcjAwRXR0X0pyREhKbTJLamVqMnhPdFdvZmRka2hJQmVFX1JVNGRiZjRZdkFJSzR5dEdaOVJUdDJJSDV3OVNBaEltVk54Q2xYXzhySlRaaThLbHhWSjFyLUc2UmI4YjBjZmZLY09waWlGMjFua3N4YVRpb3VOR2tRN29aUWJXOUIwYnZCUVhzNEY3VlJuU19hOTNoWWNMZUpHaEpiZFhiZUh6eUk2a3ZmbGg1dw?oc=5",
+          "published_at": "2026-11-26T08:49:04+00:00"
+        },
+        {
+          "name": "DutchNews.nl",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNERNRkR6bF9TOU5TdGZqS0lmal9GaDR0b2ViSVJ3SE5SVTJSZUhjMmNTT3RPS0pMa3I0YV9RbVBOSnBlTzA4MllWc2VzSU9ybVl1Vi1YSGhFdHJEQjVnc2FmcTdBNGpoS251dXNCSWRBcnJ2dWRKUnJ0Z2otNUdOR29ORjZ0ZERrVnMwNWc2bGtjbFFSWlBhbEZpcw?oc=5",
+          "published_at": "2026-11-26T09:03:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "40773c4cff58f77319ac8e53",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:11:32+00:00",
+      "last_update": "2026-11-26T12:42:25+00:00",
+      "event": "Local holiday declared in Islamabad on Nov 27",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "available",
+        "been",
+        "capital",
+        "copy",
+        "dawn",
+        "declared",
+        "for",
+        "friday",
+        "government",
+        "has",
+        "holiday",
+        "ict",
+        "islamabad",
+        "issued",
+        "limits",
+        "local",
+        "notification",
+        "nov",
+        "revenue",
+        "stated",
+        "territo",
+        "territory",
+        "that",
+        "the",
+        "which",
+        "with",
+        "within"
+      ],
+      "source_excerpt": "The government has declared a local holiday within the Islamabad Capital Territory (ICT) for Nov 27 (Friday). A notification issued by the government, a copy of which is available with Dawn , stated that Nov 27 “has been declared a local holiday within the revenue limits of Islamabad Capital Territo",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/islamabad-declares-november-27-a-local-public-holiday/",
+          "published_at": "2026-11-26T12:11:32+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047220/local-holiday-declared-in-islamabad-on-nov-27",
+          "published_at": "2026-11-26T12:36:53+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFFZajgzVnRoQThBRHZaemhOOEZwbW1JWFZjUjZ3QjFGZmd5UmxNQTZpdkdtcXRlOWQwS1p0RU1hemlxenhGczVjY3BxZ3VKaFpFS2dub2FJamV4REYxSGZWQTFtRThNMFpVdllQVUdOeDBUaE41dGZJejVoRXVscUhQQjd6UQ?oc=5",
+          "published_at": "2026-11-26T12:36:53+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyWm96T2pfdnJrdlljeHFwc2JpX3lPbWhtQjNhdXpfbjdRR0xjWGJyMzh1NnJqRFRPZFFSX3NkdjBNaHBWTFBUZDloYXk5ODRPbHBGU2d4cTVONFZ6SHFhU3JOOGc5a2c0Ym1MQUZ4eVRmdw?oc=5",
+          "published_at": "2026-11-26T12:42:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047220/local-holiday-declared-in-islamabad-on-nov-27",
+        "publisher_url": "https://www.dawn.com/news/2047220/local-holiday-declared-in-islamabad-on-nov-27",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fce016b0919870ede74a80dc",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T06:00:28+00:00",
+      "last_update": "2026-11-26T12:00:10+00:00",
+      "event": "Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "boost",
+        "direct",
+        "discuss",
+        "flights",
+        "from",
+        "links",
+        "maldives",
+        "maritime",
+        "may",
+        "pakistan",
+        "trade"
+      ],
+      "source_excerpt": "Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZU9vU1pVZTVkaWhNUzVDS2RyVXVMRE9yeXdNSEhFYXpRWDl4WHdXZHFTSjZhY3drRm8tUk5meDZ3N29sazZlekJCSzB6aWcyZlhPOVB5UjRXNFpSTjJycXAzcXdmcVpLX2FneEZpY3dqTmI1SlZzZmd2UHNYRTdNdEZOR184eDlDYnk5akdBdWoxRmlYYUgw?oc=5",
+          "published_at": "2026-11-26T06:00:28+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-maldives-discuss-direct-flights-from-may-2027-maritime-links-to-boost-trade",
+          "published_at": "2026-11-26T12:00:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-maldives-discuss-direct-flights-from-may-2027-maritime-links-to-boost-trade",
+        "publisher_url": "https://arynews.tv/pakistan-maldives-discuss-direct-flights-from-may-2027-maritime-links-to-boost-trade",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a1d3d8e138a7612b5e689707",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T10:51:26+00:00",
+      "last_update": "2026-11-26T12:12:52+00:00",
+      "event": "Gold price jumps in Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "gold",
+        "jumps",
+        "pakistan",
+        "price"
+      ],
+      "source_excerpt": "Gold price jumps in Pakistan",
+      "sources": [
+        {
+          "name": "Hamariweb.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEF2aEE4OTRKSEJkekg1bkxvQVd2N2hOMVYtUEYxRWE1QmNqOTNaWlpCRG5hOWRTVFFsek1zd2haZDBHZkZnRmgtM0lMM2ZWZGNqVnR5VGk0dG5JVnB4OXJKMG1MeGtpYXBONlJTSmE2RWxfQkFDeHhhekQycWtJRmdDTUw5bzh3M0tFSWQyRzNWWEpib1dJ?oc=5",
+          "published_at": "2026-11-26T10:51:26+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gold-price-jumps-in-pakistan",
+          "published_at": "2026-11-26T12:12:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gold-price-jumps-in-pakistan",
+        "publisher_url": "https://arynews.tv/gold-price-jumps-in-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b843ba2318d0f23d5b58ce0a",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T13:11:00+00:00",
+      "last_update": "2026-11-26T13:11:00+00:00",
+      "event": "Thanksgiving 2026: Your complete guide to what's open and closed",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1941",
+        "2026",
+        "and",
+        "celebrated",
+        "closed",
+        "complete",
+        "falls",
+        "federal",
+        "fourth",
+        "guide",
+        "holidays",
+        "law",
+        "november",
+        "one",
+        "open",
+        "recognized",
+        "set",
+        "thanksgiving",
+        "the",
+        "this",
+        "thursday",
+        "what",
+        "year",
+        "your"
+      ],
+      "source_excerpt": "Thanksgiving 2026: Your complete guide to what’s open and closed Thanksgiving 2026 is celebrated on the fourth Thursday of November, set by a 1941 U.S. law. This year, it falls on Thursday, November 26, 2026. Thanksgiving is one of 11 federal holidays recognized by the U.S....",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692736-thanksgiving-2026-your-complete-guide-to-whats-open-and-closed",
+          "published_at": "2026-11-26T13:11:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692736-thanksgiving-2026-your-complete-guide-to-whats-open-and-closed",
+        "publisher_url": "https://www.geo.tv/latest/692736-thanksgiving-2026-your-complete-guide-to-whats-open-and-closed",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f92605a62047697f349a68a4",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T13:20:56+00:00",
+      "last_update": "2026-11-26T13:20:56+00:00",
+      "event": "LHC disposes of petition seeking Maulana Fazal ur Rehman’s recovery",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "disposes",
+        "fazal",
+        "lhc",
+        "maulana",
+        "petition",
+        "recovery",
+        "rehman",
+        "seeking"
+      ],
+      "source_excerpt": "LHC disposes of petition seeking Maulana Fazal ur Rehman’s recovery",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/lhc-disposes-of-petition-seeking-maulana-fazal-ur-rehmans-recovery",
+          "published_at": "2026-11-26T13:20:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/lhc-disposes-of-petition-seeking-maulana-fazal-ur-rehmans-recovery",
+        "publisher_url": "https://arynews.tv/lhc-disposes-of-petition-seeking-maulana-fazal-ur-rehmans-recovery",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0bfa1545ea99d89bfd41517",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:34:10+00:00",
+      "last_update": "2026-11-26T12:34:10+00:00",
+      "event": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "deadly",
+        "describe",
+        "egypt",
+        "eyewitnesses",
+        "fire",
+        "scenes",
+        "vehicle"
+      ],
+      "source_excerpt": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+          "published_at": "2026-11-26T12:34:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a39d735b9512d97586ffa784",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:31:46+00:00",
+      "last_update": "2026-11-26T12:31:46+00:00",
+      "event": "FIFA says personal and business information stolen in cyberattack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abandoned",
+        "accessed",
+        "according",
+        "and",
+        "business",
+        "cyberattack",
+        "enterprise",
+        "fifa",
+        "files",
+        "forward",
+        "from",
+        "information",
+        "media",
+        "personal",
+        "project",
+        "reports",
+        "says",
+        "stolen",
+        "the",
+        "were"
+      ],
+      "source_excerpt": "No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+          "published_at": "2026-11-26T12:31:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b7810bd467e787994f253d0",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:12:45+00:00",
+      "last_update": "2026-11-26T12:12:45+00:00",
+      "event": "With the rise of AI, are we close to having universal basic income",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "basic",
+        "close",
+        "economy",
+        "having",
+        "income",
+        "mass",
+        "rise",
+        "solution",
+        "the",
+        "ubi",
+        "unemployment",
+        "universal",
+        "with"
+      ],
+      "source_excerpt": "Is UBI the solution to mass unemployment in an AI economy?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+          "published_at": "2026-11-26T12:12:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c433cc3da1aed21d04edb5dd",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:10:49+00:00",
+      "last_update": "2026-11-26T12:10:49+00:00",
+      "event": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accusing",
+        "amid",
+        "and",
+        "attacks",
+        "backed",
+        "did",
+        "east",
+        "group",
+        "houthis",
+        "iran",
+        "its",
+        "leaders",
+        "middle",
+        "sanction",
+        "sanctions",
+        "saudi",
+        "stability",
+        "symbolic",
+        "the",
+        "them",
+        "undermining",
+        "why",
+        "yemen"
+      ],
+      "source_excerpt": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+          "published_at": "2026-11-26T12:10:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4254623b848320dcaed650fa",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T11:56:53+00:00",
+      "last_update": "2026-11-26T11:56:53+00:00",
+      "event": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accusations",
+        "activist",
+        "antiwar",
+        "bailed",
+        "being",
+        "cast",
+        "chambers",
+        "claiming",
+        "denies",
+        "extremist",
+        "fergie",
+        "for",
+        "hamas",
+        "ideas",
+        "james",
+        "palestine",
+        "punished",
+        "recently",
+        "supporting",
+        "trying"
+      ],
+      "source_excerpt": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+          "published_at": "2026-11-26T11:56:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ad255eac34aa9c76b4a693ac",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T12:49:07+00:00",
+      "last_update": "2026-11-26T12:49:07+00:00",
+      "event": "Cost of living roadshow highlights support on offer",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "cash",
+        "cost",
+        "crisis",
+        "event",
+        "facing",
+        "for",
+        "fund",
+        "funded",
+        "highlights",
+        "issues",
+        "living",
+        "offer",
+        "resilience",
+        "roadshow",
+        "sheerness",
+        "support",
+        "the",
+        "this",
+        "those"
+      ],
+      "source_excerpt": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T12:49:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a99d2f685c3e7b30ac39765d",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T11:23:27+00:00",
+      "last_update": "2026-11-26T11:52:04+00:00",
+      "event": "Bilawal doubles down on ‘political reset’, says politicians responsible for 'telling people the truth'",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "dawn",
+        "doubles",
+        "down",
+        "for",
+        "people",
+        "political",
+        "politicians",
+        "reset",
+        "responsible",
+        "says",
+        "telling",
+        "the",
+        "truth"
+      ],
+      "source_excerpt": "Bilawal doubles down on ‘political reset’, says politicians responsible for 'telling people the truth' Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2N6cFJIU3NzVzdudHJ4RjZkdHNDXzRLM1VfSEVGdWhUYlpfTE1LZ0tNMG1iWVY3MERlS3RNRE0yTktZaGVoWExQUDNxS3hVMllZbVFRZlY1S0M0UWppaUswZzA5X3ZZSktUQk9TOTdHZUtIV0pMR3dsSG95VmhKek1oX2J6bFRNVmhPTGxCUkkyRFdTaUdGMEVqNF9hdld2Yk1QeUZVY1FRYnl5MGtkRExTWEZPTWkzQWZKa21DWnQ4a1dQdUN0OTVkZw?oc=5",
+          "published_at": "2026-11-26T11:23:27+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047216/bilawal-doubles-down-on-political-reset-says-politicians-responsible-for-telling-people-the-truth",
+          "published_at": "2026-11-26T11:52:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2N6cFJIU3NzVzdudHJ4RjZkdHNDXzRLM1VfSEVGdWhUYlpfTE1LZ0tNMG1iWVY3MERlS3RNRE0yTktZaGVoWExQUDNxS3hVMllZbVFRZlY1S0M0UWppaUswZzA5X3ZZSktUQk9TOTdHZUtIV0pMR3dsSG95VmhKek1oX2J6bFRNVmhPTGxCUkkyRFdTaUdGMEVqNF9hdld2Yk1QeUZVY1FRYnl5MGtkRExTWEZPTWkzQWZKa21DWnQ4a1dQdUN0OTVkZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "04e91450b18f29303c624886",
+      "remembered_at": "2026-11-26T13:22:06.270813+00:00",
+      "event_date": "2026-11-26T11:49:34+00:00",
+      "last_update": "2026-11-26T12:11:13+00:00",
+      "event": "بجلی صارفین کو فیول ایڈجسٹمنٹ کے اضافی بوجھ سے بچانے کا فیصلہ",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اضافہ",
+        "اضافی",
+        "اکتوبر",
+        "ایڈجسٹمنٹ",
+        "بجلی",
+        "بوجھ",
+        "بچانے",
+        "دسمبر",
+        "صارفین",
+        "علامتی",
+        "فوٹوحکومت",
+        "فیصلہ",
+        "فیول",
+        "پیسے",
+        "کرلیا۔",
+        "یونٹ"
+      ],
+      "source_excerpt": "علامتی فوٹوحکومت نے بجلی صارفین کو فیول ایڈجسٹمنٹ کے اضافی بوجھ سے بچانے کا فیصلہ کرلیا۔ اکتوبر تا دسمبر اضافہ 83 پیسے فی یونٹ تک...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023876",
+          "published_at": "2026-11-26T11:49:34+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023884",
+          "published_at": "2026-11-26T12:10:32+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636960",
+          "published_at": "2026-11-26T12:11:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636960",
+        "publisher_url": "https://jang.com.pk/news/1636960",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T11:59:59.615272+00:00"
+  "updated_at": "2026-11-26T13:22:06.270813+00:00"
 }
