@@ -169339,7 +169339,788 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a0dd3e9f9111cd7715b5ed73",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:11:45+00:00",
+      "last_update": "2026-11-26T15:14:42+00:00",
+      "event": "Roads blocked, traffic congested in several parts of Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blocked",
+        "congested",
+        "dawn",
+        "karachi",
+        "parts",
+        "roads",
+        "several",
+        "traffic"
+      ],
+      "source_excerpt": "Roads blocked, traffic congested in several parts of Karachi Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzVsYXRlcXNvQ0YtSmszUGZBVGdMZmJDeGNrYXMzRVVKSnRjMmpDZXVRSU1PM1pxXzh1RGZENWpxM3ZfQ0FpX05KVlBad29lUjJCLW80bG0wYzEyRG42RVdReGV2SFByMEFmUzlaVDBuQkpYaW4xaDdxb0luM3RpTWlLYVZXZmJ2RUpWSVVWaWt0V2VOTVR4Rg?oc=5",
+          "published_at": "2026-11-26T15:11:45+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047233/roads-blocked-traffic-congested-in-several-parts-of-karachi",
+          "published_at": "2026-11-26T15:14:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzVsYXRlcXNvQ0YtSmszUGZBVGdMZmJDeGNrYXMzRVVKSnRjMmpDZXVRSU1PM1pxXzh1RGZENWpxM3ZfQ0FpX05KVlBad29lUjJCLW80bG0wYzEyRG42RVdReGV2SFByMEFmUzlaVDBuQkpYaW4xaDdxb0luM3RpTWlLYVZXZmJ2RUpWSVVWaWt0V2VOTVR4Rg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b274bd65acadc7871c379395",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:44:26+00:00",
+      "last_update": "2026-11-26T14:44:26+00:00",
+      "event": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2018",
+        "actress",
+        "alleged",
+        "appeals",
+        "arnould",
+        "charlotte",
+        "court",
+        "depardieu",
+        "for",
+        "paris",
+        "rape",
+        "rard",
+        "rules",
+        "stand",
+        "the",
+        "trial",
+        "will"
+      ],
+      "source_excerpt": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T14:44:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5553f10a39aa5206e42b9ed4",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:02:19+00:00",
+      "last_update": "2026-11-26T15:08:02+00:00",
+      "event": "Pakistani among four injured in Iranian attack in Kuwait",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "among",
+        "attack",
+        "four",
+        "injured",
+        "iranian",
+        "kuwait",
+        "pakistani",
+        "samaa"
+      ],
+      "source_excerpt": "Pakistani among four injured in Iranian attack in Kuwait samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Z0OFBlX0MtbThkLWpIRG1ZOVJhd1NnbnRKWDR0QXBGTjc4WWU5cm1sR281MUJyQXQ4WXB1VlFxWDVfUGpiY2xxZG81bDN6R3dibW42VGYwU3hpVkVRbURVUXBIeXhWZTltX2xnYjBwdXJCM3lwaXF3bjktS0RPVC1KcE81YVRmQzF5cDlpUGxiQ3RjYWlxRHhBUnJ2eks1aHFBUw?oc=5",
+          "published_at": "2026-11-26T14:02:19+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWG5zZjF6RWRvZVNjaDNZajRSSG5ZVzZkWU1IelFaTzQyWWtjWUxrV2Qyd0t0cXJIRHAxdlctdlNKRWZQSWFRdFZxYUZaU0VydzJVSHRtNWNjV1dWY25XaXdBQzBkdTZGMFlNa2tHV3hQY2JlQkEtR2tiTG9fVTZNRkFEQjd0ZDRFRWpZVTdHcjJWdWNaVTkybDBaazdRendqNnpIRVZkdXBvMzVt0gFTQVVfeXFMTlZSVC1hWXpCeGxOY0ZJaDBERC1Jb2x4YjF6YThCMTBPUHM1UFJzNzhMSWREZlZVOEROUWl5aGMyamlQb3N5V2QybDNXRGVBSGtmM1U?oc=5",
+          "published_at": "2026-11-26T15:08:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Z0OFBlX0MtbThkLWpIRG1ZOVJhd1NnbnRKWDR0QXBGTjc4WWU5cm1sR281MUJyQXQ4WXB1VlFxWDVfUGpiY2xxZG81bDN6R3dibW42VGYwU3hpVkVRbURVUXBIeXhWZTltX2xnYjBwdXJCM3lwaXF3bjktS0RPVC1KcE81YVRmQzF5cDlpUGxiQ3RjYWlxRHhBUnJ2eks1aHFBUw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f5597c00a559f859b030ae0",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T13:52:00+00:00",
+      "last_update": "2026-11-26T13:52:00+00:00",
+      "event": "Death toll in Karachi under-construction building collapse climbs to four",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "admitted",
+        "afpthree",
+        "after",
+        "bodies",
+        "brought",
+        "building",
+        "climbs",
+        "collapse",
+        "collapsed",
+        "construction",
+        "death",
+        "director",
+        "discharged",
+        "for",
+        "four",
+        "general",
+        "injured",
+        "jpmc",
+        "karachi",
+        "november",
+        "one",
+        "personnel",
+        "remains",
+        "removes",
+        "rescue",
+        "rubble",
+        "says",
+        "sbca",
+        "searches",
+        "sindh",
+        "spokesperson",
+        "the",
+        "toll",
+        "treatment",
+        "under",
+        "victims"
+      ],
+      "source_excerpt": "A rescue personnel searches for victims in the rubble of a collapsed under-construction building in Karachi on November 25, 2026. — AFPThree bodies, 14 injured brought to JPMC: spokesperson.Says 13 discharged after treatment, one remains admitted.Sindh removes SBCA Director General...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692741-death-toll-in-karachi-under-construction-building-collapse-climbs-to-four",
+          "published_at": "2026-11-26T13:52:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2xwTEtLdkx3aE1CTkt6ZG1zajFkS0dZMlNUOW9aYnlJQ1VqT3hsbDRGNEVQOGk1RGdmRElmRldXdGtCdkNkclJ2dDEyaUVzWHBBVFlIZ2t2MlBSX01XQmczWng5dTNBY0hlRXF2bFVpTVpBdUJCTFpuXzhCOUZ6LUtEdHh4djVzY05SRDVCMmdSd0x4WG1KdFg1blg0cmNoMHcxdTh6bUEydw?oc=5",
+          "published_at": "2026-11-26T13:52:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692741-death-toll-in-karachi-under-construction-building-collapse-climbs-to-four",
+        "publisher_url": "https://www.geo.tv/latest/692741-death-toll-in-karachi-under-construction-building-collapse-climbs-to-four",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9117f762468a153b2d4f0d8a",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:20:56+00:00",
+      "last_update": "2026-11-26T14:20:56+00:00",
+      "event": "Traffic jams reported on major roads across Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "jams",
+        "karachi",
+        "major",
+        "reported",
+        "roads",
+        "traffic"
+      ],
+      "source_excerpt": "Traffic jams reported on major roads across Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-traffic-update-26-november",
+          "published_at": "2026-11-26T14:20:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-traffic-update-26-november",
+        "publisher_url": "https://arynews.tv/karachi-traffic-update-26-november",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e687cb6ee98a53e561f6020f",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:01:14+00:00",
+      "last_update": "2026-11-26T14:01:14+00:00",
+      "event": "Flour prices surge sharply in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "flour",
+        "karachi",
+        "prices",
+        "sharply",
+        "surge"
+      ],
+      "source_excerpt": "Flour prices surge sharply in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/flour-prices-surge-sharply-in-karachi",
+          "published_at": "2026-11-26T14:01:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/flour-prices-surge-sharply-in-karachi",
+        "publisher_url": "https://arynews.tv/flour-prices-surge-sharply-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "319b64ad6a9d8faca1ad236c",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:18:48+00:00",
+      "last_update": "2026-11-26T15:18:48+00:00",
+      "event": "Karachi building collapse: Local government secretary suspended for 120 days",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "120",
+        "building",
+        "collapse",
+        "days",
+        "for",
+        "government",
+        "karachi",
+        "local",
+        "secretary",
+        "suspended"
+      ],
+      "source_excerpt": "Karachi building collapse: Local government secretary suspended for 120 days",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days",
+          "published_at": "2026-11-26T15:18:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days",
+        "publisher_url": "https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d62c2128f3a5566dda922b6",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T13:20:50+00:00",
+      "last_update": "2026-11-26T14:52:36+00:00",
+      "event": "UK net migration falls to almost three-decade low, excluding pandemic slump",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "almost",
+        "annual",
+        "britain",
+        "but",
+        "covid",
+        "decade",
+        "decades",
+        "economy",
+        "end",
+        "excluding",
+        "falls",
+        "fell",
+        "governments",
+        "hindering",
+        "level",
+        "low",
+        "lowest",
+        "marking",
+        "migration",
+        "milestone",
+        "net",
+        "official",
+        "outside",
+        "pandemic",
+        "potentially",
+        "previous",
+        "recorded",
+        "showed",
+        "slump",
+        "sought",
+        "statistics",
+        "the",
+        "three",
+        "thursday",
+        "year"
+      ],
+      "source_excerpt": "Britain recorded the lowest level of annual net migration in almost three decades outside of the COVID-19 pandemic, official statistics showed on Thursday, marking a milestone sought by previous governments, but potentially hindering the economy. Net migration fell to 77,000 in the year to the end o",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump",
+          "published_at": "2026-11-26T13:20:50+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanMycXhwU0FNQUJKb2FGbHZSeUNDZF9PU1hiT0lOVGhfbVFQYktENW5JSl9McXl6Rkk1X1hiQTY1UkZUNzVoeThHLVVKSGlYcTlLNTZBUV92RDVLSkozVnBqOHg5MTNyUDgwSmstNTB5MVN6b0VQWnR1S1hlVkhLNTJkaDFOVGdNUV9VclJBMkJGQ3lyLS1Jc1dKRTdTTUI5Z1QwbmNCU0RUeTJhck1ENHBxd3g0a3lPeFE?oc=5",
+          "published_at": "2026-11-26T14:52:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump",
+        "publisher_url": "https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d05098fd42576b35acbd5e2",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:07:54+00:00",
+      "last_update": "2026-11-26T14:47:40+00:00",
+      "event": "Security breach case: IHC seeks replies from parties on Imaan, Hadi's appeals against their conviction",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "ali",
+        "and",
+        "anti",
+        "appeals",
+        "atc",
+        "breach",
+        "case",
+        "chattha",
+        "conviction",
+        "convictions",
+        "court",
+        "duo",
+        "filed",
+        "from",
+        "hadi",
+        "hazir",
+        "high",
+        "husband",
+        "ihc",
+        "imaan",
+        "islamabad",
+        "issued",
+        "lawyers",
+        "mazari",
+        "notices",
+        "parties",
+        "replies",
+        "security",
+        "seeks",
+        "sentenced",
+        "sought",
+        "terrorism",
+        "the",
+        "their",
+        "thursday",
+        "wife",
+        "year",
+        "zainab"
+      ],
+      "source_excerpt": "ISLAMABAD: The Islamabad High Court (IHC) on Thursday issued notices and sought replies from parties on appeals filed by lawyers Imaan Zainab Hazir-Mazari and Hadi Ali Chattha against their convictions in a security breach case. An anti-terrorism court (ATC) sentenced the husband-wife duo to 10 year",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047226/security-breach-case-ihc-seeks-replies-from-parties-on-imaan-hadis-appeals-against-their-conviction",
+          "published_at": "2026-11-26T14:07:54+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhzNEQ4bDhEbEdDMUNmcTlsNlVmWjd1TnVEaTR4MkdmUUZDSXlxdmlUZG5sNi1YWnF0RUt0R2taV1EtMDhKM3RNY3pqaW80aTI3WDdHSnJfZnJxcEJPVjNrY2VoekRFUzgzTXdENnJrdVctek5uNGl6aDBxdEtKamZIckFUd1QyRVFScm5iaU8xeEhXendyU2JNZVVMSTBBeU85R1pTN0p6UGZW?oc=5",
+          "published_at": "2026-11-26T14:47:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047226/security-breach-case-ihc-seeks-replies-from-parties-on-imaan-hadis-appeals-against-their-conviction",
+        "publisher_url": "https://www.dawn.com/news/2047226/security-breach-case-ihc-seeks-replies-from-parties-on-imaan-hadis-appeals-against-their-conviction",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08d44c05e1005ed959a3e57e",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T10:26:23+00:00",
+      "last_update": "2026-11-26T10:26:23+00:00",
+      "event": "JI chief accuses Sindh government of patronising illegal construction in Karachi",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "chief",
+        "construction",
+        "government",
+        "illegal",
+        "karachi",
+        "patronising",
+        "sindh"
+      ],
+      "source_excerpt": "JI chief accuses Sindh government of patronising illegal construction in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ji-chief-accuses-sindh-government-of-patronising-illegal-construction-in-karachi",
+          "published_at": "2026-11-26T10:26:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/ji-chief-accuses-sindh-government-of-patronising-illegal-construction-in-karachi",
+        "publisher_url": "https://arynews.tv/ji-chief-accuses-sindh-government-of-patronising-illegal-construction-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ad759b2ee356c10ae1ac4277",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:11:30+00:00",
+      "last_update": "2026-11-26T15:11:30+00:00",
+      "event": "Andalusia offers a glimpse of Spain’s future as the far right gains ground",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "alliances",
+        "and",
+        "andalusia",
+        "election",
+        "far",
+        "future",
+        "gains",
+        "glimpse",
+        "ground",
+        "immigration",
+        "offers",
+        "politics",
+        "reshape",
+        "right",
+        "rise",
+        "signals",
+        "spain",
+        "sunday",
+        "the",
+        "vox",
+        "wing"
+      ],
+      "source_excerpt": "Ahead of Sunday's election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+          "published_at": "2026-11-26T15:11:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe29316f875b62e9ad615e5c",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:02:50+00:00",
+      "last_update": "2026-11-26T15:02:50+00:00",
+      "event": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysts",
+        "and",
+        "angry",
+        "could",
+        "curb",
+        "efforts",
+        "energy",
+        "fears",
+        "for",
+        "hurt",
+        "instability",
+        "interests",
+        "irregular",
+        "italy",
+        "its",
+        "libya",
+        "migration",
+        "off",
+        "rome",
+        "russian",
+        "say",
+        "ships",
+        "striking",
+        "ukraine",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "Analysts say Rome fears instability in Libya could hurt its energy interests and efforts to curb irregular migration.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
+          "published_at": "2026-11-26T15:02:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2e4f1f37c906e4f39b3d5175",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:00:47+00:00",
+      "last_update": "2026-11-26T15:00:47+00:00",
+      "event": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "allegations",
+        "credibility",
+        "decision",
+        "dismiss",
+        "disputes",
+        "evidence",
+        "gaza",
+        "israeli",
+        "its",
+        "questions",
+        "raises",
+        "ruling",
+        "staff",
+        "substantiated",
+        "the",
+        "tribunal",
+        "unrwa",
+        "used",
+        "without"
+      ],
+      "source_excerpt": "Tribunal raises questions about the credibility of UNRWA's decision to dismiss its staff without substantiated evidence.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+          "published_at": "2026-11-26T15:00:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cfea6c176722f35bcd25c729",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T14:34:27+00:00",
+      "last_update": "2026-11-26T14:34:27+00:00",
+      "event": "Critical incident stood down at Derbyshire hospital trust",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "critical",
+        "derbyshire",
+        "down",
+        "hospital",
+        "incident",
+        "stood",
+        "trust"
+      ],
+      "source_excerpt": "Critical incident stood down at Derbyshire hospital trust BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWw1MVU1R0FmY3pYXzBCNHFCVkxNOU0wZG5Sa05RQXB4OHB5R0Fqak9SR3l6T2R2ZXh1SV9IZXVfVWpnTnBEcTNYN0RTa3RCNHpoNGdFdHFubzQ?oc=5",
+          "published_at": "2026-11-26T14:34:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWw1MVU1R0FmY3pYXzBCNHFCVkxNOU0wZG5Sa05RQXB4OHB5R0Fqak9SR3l6T2R2ZXh1SV9IZXVfVWpnTnBEcTNYN0RTa3RCNHpoNGdFdHFubzQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cfd12ca39f3c8585e8b38c0d",
+      "remembered_at": "2026-11-26T15:40:38.361602+00:00",
+      "event_date": "2026-11-26T15:29:42+00:00",
+      "last_update": "2026-11-26T15:29:42+00:00",
+      "event": "Woman who killed aunt to remain in psychiatric hospital for treatment",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aunt",
+        "bbc",
+        "for",
+        "hospital",
+        "killed",
+        "psychiatric",
+        "remain",
+        "treatment",
+        "who",
+        "woman"
+      ],
+      "source_excerpt": "Woman who killed aunt to remain in psychiatric hospital for treatment BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94RnN0b2FzRGdPZWNPNjhaYnJXMDhkeHByblVvUDJ1d0VNVnU0Mm1LX0pQeGloMUJ4WkxtYTNSak8wTTdYREM3LWU4UkZmdWxMbGZvMUtvbVhMV2s?oc=5",
+          "published_at": "2026-11-26T15:29:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94RnN0b2FzRGdPZWNPNjhaYnJXMDhkeHByblVvUDJ1d0VNVnU0Mm1LX0pQeGloMUJ4WkxtYTNSak8wTTdYREM3LWU4UkZmdWxMbGZvMUtvbVhMV2s?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T14:39:05.267150+00:00"
+  "updated_at": "2026-11-26T15:40:38.361602+00:00"
 }
