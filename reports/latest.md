@@ -1,177 +1,194 @@
-# News Hub report - Thu 26 Nov, 08:40 PM PKT
+# News Hub report - Thu 26 Nov, 09:52 PM PKT
 
 ## Collection
-- New items this run: 63 | items in rolling pool: 873
-- Unique story clusters: 750 (duplicates merged: 123)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 4
-- Items per outlet: Pakistan Today 10, Geo News 7, UrduPoint 6, ARY News 4, The Express Tribune 3, Al Jazeera 3, Aaj English TV 3, TechJuice 3, samaa tv 2, Dawn 2, AP News 2, ProPakistani 2
+- New items this run: 159 | items in rolling pool: 902
+- Unique story clusters: 774 (duplicates merged: 128)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 97, Al Jazeera 12, Geo News 6, ARY News 6, Pakistan Today 6, ProPakistani 4, samaa tv 3, Dawn 3, The Verge 3, TechJuice 3, Dawn Pakistan 2, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Roads blocked, traffic congested in several parts of Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani among four injured in Iranian attack in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death toll in Karachi under-construction building collapse climbs to four | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Traffic jams reported on major roads across Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Roads blocked, traffic congested in several parts of Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani among four injured in Iranian attack in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death toll in Karachi under-construction building collapse climbs to four | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Traffic jams reported on major roads across Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Roads blocked, traffic congested in several parts of Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani among four injured in Iranian attack in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death toll in Karachi under-construction building collapse climbs to four | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Traffic jams reported on major roads across Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Two dead after Iranian drone attack on Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UK net migration falls to almost three-decade low, excluding pandemic slump | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Flour prices surge sharply in Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pregnant US inmate escapes in prison vehicle after medical appointment | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 113/120 | empty: 7 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan National Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Pakistan Government Politics Desk | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: The Guardian | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Karachi building collapse: Former LG secretary suspended for 120 days  [NORMAL]
-- Poster: کراچی عمارت گرنے کا واقعہ: سابق بلدیاتی سیکرٹری 120 دن کے لیے معطل / Karachi building collapse: Former LG secretary suspended for 120 days | category politics
-- Alternative headline: Federal government suspends Grade-21 officer over KAECHS building collapse
+### Israeli strikes on Gaza kill senior education official and seven others  [NORMAL]
+- Poster: غزہ میں اسرائیلی حملے، وزارت تعلیم کے اعلیٰ عہدیدار جاں بحق / Israeli strikes in Gaza kill senior education official | category politics
+- Alternative headline: Gaza education ministry undersecretary killed in recent Israeli attacks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Gaza attacks, Israeli strikes, Khaled Abu Nada, Education Ministry, Benjamin Netanyahu | hashtags: #Gaza #Israel #Palestine #MiddleEast
+- Scheduled: Thu 26 Nov, 09:52 PM PKT
+- Caption:
+```
+Israeli Prime Minister Benjamin Netanyahu has confirmed the killing of a senior education official in recent attacks on Gaza.
+
+Israeli Prime Minister Benjamin Netanyahu has confirmed the killing of Khaled Abu Nada, the undersecretary of the Education Ministry, during recent Israeli attacks on Gaza that also claimed the lives of seven other people.
+
+اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے غزہ میں ہونے والے حملوں میں وزارت تعلیم کے انڈر سیکرٹری خالد ابو نادہ کی ہلاکت کی تصدیق کی ہے، ان حملوں میں سات دیگر افراد بھی جاں بحق ہوئے۔
+
+First reported by Al Jazeera
+
+#Gaza #Israel #Palestine #MiddleEast
+```
+
+### Two Italian workers killed in Iranian drone attack on Kuwait  [NORMAL]
+- Poster: کویت میں ایرانی ڈرون حملہ، دو اطالوی کارکن جاں بحق / Two Italian workers killed in Kuwait drone attack | category world
+- Alternative headline: Kuwait reports two deaths following Iranian drone strike on facility
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss
+- Supporting coverage: Reuters, Euronews.com, The National, Al Jazeera, Al Jazeera, samaa tv
+- Keywords: Kuwait drone attack, Iranian drone, Kuwait army, Italian workers, Middle East | hashtags: #Kuwait #Iran #DroneAttack #MiddleEast
+- Scheduled: Thu 26 Nov, 10:02 PM PKT
+- Caption:
+```
+Kuwait's army reports that two Italian workers were killed and four others were injured in an Iranian drone attack.
+
+Kuwait’s army has confirmed that two Italian workers were killed and four other individuals were injured following an Iranian drone attack. Reports indicate that passenger flights were diverted as Kuwait intercepted the aerial assault.
+
+کویت کی فوج نے تصدیق کی ہے کہ ایرانی ڈرون حملے میں دو اطالوی کارکن جاں بحق اور چار دیگر زخمی ہو گئے۔ حملے کے بعد کویت میں مسافر پروازوں کا رخ تبدیل کر دیا گیا۔
+
+First reported by Al Jazeera and Reuters
+
+#Kuwait #Iran #DroneAttack #MiddleEast
+```
+
+### Diesel tanker capsizes near Ibiza, leaving one crew member dead  [NORMAL]
+- Poster: سپین کے قریب ڈیزل سے بھرا ٹینکر ڈوب گیا، ایک عملہ جاں بحق / Diesel tanker capsizes near Ibiza, one dead | category disaster
+- Alternative headline: Tanker carrying 7,000 tonnes of diesel sinks partially off Ibiza
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, Al Jazeera
+- Keywords: Ibiza tanker capsize, diesel tanker, Med Emre, Ibiza coast, fuel spill | hashtags: #Ibiza #Spain #TankerIncident #Environment
+- Scheduled: Thu 26 Nov, 10:12 PM PKT
+- Caption:
+```
+An oil tanker carrying up to 7,000 tonnes of diesel has capsized off the coast of Ibiza, resulting in one fatality.
+
+A Malta-flagged diesel tanker carrying up to 7,000 tonnes has capsized off the coast of Ibiza, leaving one crew member dead. All 17 crew members were rescued, though several were hospitalized. Authorities are currently assessing potential environmental damage and fuel spill risks.
+
+سپین کے جزیرے ایبیزا کے قریب 7 ہزار ٹن ڈیزل لے جانے والا ایک جہاز الٹ گیا، جس کے نتیجے میں ایک عملہ جاں بحق ہو گیا۔ تمام 17 عملے کو بچا لیا گیا جبکہ حکام سمندری آلودگی کے خطرات کا جائزہ لے رہے ہیں۔
+
+First reported by BBC World
+
+#Ibiza #Spain #TankerIncident #Environment
+```
+
+### UK net migration falls to lowest level in nearly three decades  [NORMAL]
+- Poster: برطانیہ میں تارکین وطن کی آمد میں تین دہائیوں کی کم ترین سطح / UK net migration hits three-decade low | category other
+- Alternative headline: British annual net migration drops sharply to 77,000
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047225/uk-net-migration-falls-to-almost-three-decade-low-excluding-pandemic-slump
+- Supporting coverage: Dawn Latest, Pakistan Today, The Express Tribune
+- Keywords: UK net migration, migration drop, ONS, Shabana Mahmood, British immigration | hashtags: #UK #Migration #BritishPolitics #News
+- Scheduled: Thu 26 Nov, 10:22 PM PKT
+- Caption:
+```
+Britain recorded its lowest level of annual net migration in nearly three decades, excluding the COVID-19 pandemic period.
+
+Official statistics show that Britain's annual net migration fell to 77,000 in the year to June, marking the lowest level since 1997 outside of the pandemic. The drop reflects tighter rules on workers, students, and asylum seekers, though officials note further reforms are planned.
+
+سرکاری اعداد و شمار کے مطابق برطانیہ میں سالانہ خالص ہجرت کم ہو کر 77 ہزار رہ گئی ہے، جو وبائی دور کے علاوہ 1997 کے بعد سب سے کم سطح ہے۔ اس کمی کی وجہ تارکین وطن کے لیے سخت قوانین کا نفاذ ہے۔
+
+First reported by Dawn Latest
+
+#UK #Migration #BritishPolitics #News
+```
+
+### Flour prices surge sharply in Karachi following official notification  [NORMAL]
+- Poster: کراچی میں آٹے کی قیمتوں میں بڑا اضافہ، فی کلو نیا نرخ جاری / Flour prices surge sharply in Karachi | category economy
+- Alternative headline: Karachi flour prices increase by Rs 20 per kilogram
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/flour-prices-surge-sharply-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/flour-prices-surge-sharply-in-karachi
 - Supporting coverage: ARY News
-- Keywords: Waseem Shamshad, Karachi building collapse, Local Government Secretary, Establishment Division, KAECHS, Asmatullah Junejo | hashtags: #Karachi #BuildingCollapse #BreakingNews #Pakistan #LocalGovernment
-- Scheduled: Thu 26 Nov, 08:40 PM PKT
+- Keywords: Karachi flour prices, Sindh Food Department, imported wheat, flour rate, Karachi | hashtags: #Karachi #Inflation #FlourPrices #PakistanEconomy
+- Scheduled: Thu 26 Nov, 10:32 PM PKT
 - Caption:
 ```
-The federal government has suspended former Local Government Secretary Waseem Shamshad for 120 days following the tragic building collapse in Karachi.
+The price of regular flour in Karachi has increased significantly following a notification by the Sindh Food Department.
 
-The federal government has suspended former Local Government Secretary Waseem Shamshad for 120 days in connection with the Karachi Administration Employees Cooperative Housing Society building collapse. Meanwhile, police have detained five individuals, including the building contractor and the owner's brother.
+The price of regular flour in Karachi has risen by Rs. 20 per kg, bringing the official rate to Rs. 145 per kg according to the Sindh Food Department. The adjustment follows the arrival of imported wheat, with subsidized wheat being supplied to mills.
 
-وفاقی حکومت نے کراچی میں کوآپریٹو ہاؤسنگ سوسائٹی کی عمارت گرنے کے واقعے کے سلسلے میں سابق بلدیاتی سیکرٹری وسیم شمشاد کو 120 دن کے لیے معطل کر دیا ہے۔ دریں اثنا، پولیس نے بلڈنگ کنٹریکٹر اور مالک کے بھائی سمیت پانچ افراد کو حراست میں لے لیا ہے۔
+محکمہ خوراک سندھ کے نوٹیفکیشن کے مطابق کراچی میں عام آٹے کی قیمت میں 20 روپے فی کلو اضافہ کر دیا گیا ہے، جس کے بعد سرکاری نرخ 145 روپے فی کلو ہو گئے ہیں۔
 
-According to ARY News
+First reported by ARY News
 
-#Karachi #BuildingCollapse #BreakingNews #Pakistan #LocalGovernment
+#Karachi #Inflation #FlourPrices #PakistanEconomy
 ```
 
-### Roads blocked and traffic heavily congested in several parts of Karachi  [NORMAL]
-- Poster: کراچی کے مختلف حصوں میں سڑکیں بند، ٹریفک شدید متاثر / Roads blocked and traffic congested in parts of Karachi | category other
-- Alternative headline: Traffic snarls and road closures reported across multiple areas of Karachi
+### Pregnant US inmate escapes in prison vehicle after medical appointment  [NORMAL]
+- Poster: امریکہ میں حاملہ قیدی طبی معائنے کے بعد پولیس وین لے کر فرار / Pregnant US inmate escapes in prison vehicle | category crime
+- Alternative headline: New Mexico corrections department searches for escaped pregnant inmate
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzVsYXRlcXNvQ0YtSmszUGZBVGdMZmJDeGNrYXMzRVVKSnRjMmpDZXVRSU1PM1pxXzh1RGZENWpxM3ZfQ0FpX05KVlBad29lUjJCLW80bG0wYzEyRG42RVdReGV2SFByMEFmUzlaVDBuQkpYaW4xaDdxb0luM3RpTWlLYVZXZmJ2RUpWSVVWaWt0V2VOTVR4Rg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzVsYXRlcXNvQ0YtSmszUGZBVGdMZmJDeGNrYXMzRVVKSnRjMmpDZXVRSU1PM1pxXzh1RGZENWpxM3ZfQ0FpX05KVlBad29lUjJCLW80bG0wYzEyRG42RVdReGV2SFByMEFmUzlaVDBuQkpYaW4xaDdxb0luM3RpTWlLYVZXZmJ2RUpWSVVWaWt0V2VOTVR4Rg?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Karachi traffic, roads blocked, traffic congestion, Karachi, commuters | hashtags: #Karachi #TrafficUpdate #KarachiTraffic #Pakistan
-- Scheduled: Thu 26 Nov, 08:50 PM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, BBC
+- Keywords: inmate escape New Mexico, Rebecca Taylor, pregnant inmate, police vehicle, New Mexico Corrections Department | hashtags: #NewMexico #USNews #PrisonEscape #PoliceSearch
+- Scheduled: Thu 26 Nov, 10:42 PM PKT
 - Caption:
 ```
-Commuters faced severe difficulties as multiple roads were blocked and traffic remained congested across several parts of Karachi.
+A pregnant inmate in New Mexico escaped from custody after taking control of a vehicle while returning from a prenatal appointment.
 
-Road closures and heavy traffic congestion were reported in several parts of Karachi, causing significant inconvenience for commuters travelling across the city.
+Rebecca Taylor, a 26-year-old pregnant inmate in New Mexico, escaped from custody by taking control of a transport vehicle when officers stopped for food. Authorities have recovered the vehicle and her prison jumpsuit, but a multi-agency search is ongoing.
 
-کراچی کے مختلف حصوں میں سڑکیں بند ہونے اور ٹریفک کی شدید جام رہنے کی اطلاعات موصول ہوئی ہیں، جس کی وجہ سے شہریوں کو آمدورفت میں شدید مشکلات کا سامنا کرنا پڑا۔
+امریکہ کی ریاست نیو میکسیکو میں 26 سالہ حاملہ قیدی ریبیکا ٹیلر طبی معائنے سے واپسی پر پولیس کی گاڑی لے کر فرار ہو گئی۔ حکام کی جانب سے اس کی تلاش کے لیے سرچ آپریشن جاری ہے۔
 
-First reported by Dawn
+First reported by BBC World
 
-#Karachi #TrafficUpdate #KarachiTraffic #Pakistan
-```
-
-### Pakistani national among four injured in Iranian attack in Kuwait  [NORMAL]
-- Poster: کویت میں ایرانی حملے کے دوران ایک پاکستانی سمیت چار افراد زخمی / Pakistani among four injured in attack in Kuwait | category security
-- Alternative headline: Kuwait intercepts drones targeting vital facility, injuring four including a Pakistani
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Z0OFBlX0MtbThkLWpIRG1ZOVJhd1NnbnRKWDR0QXBGTjc4WWU5cm1sR281MUJyQXQ4WXB1VlFxWDVfUGpiY2xxZG81bDN6R3dibW42VGYwU3hpVkVRbURVUXBIeXhWZTltX2xnYjBwdXJCM3lwaXF3bjktS0RPVC1KcE81YVRmQzF5cDlpUGxiQ3RjYWlxRHhBUnJ2eks1aHFBUw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Z0OFBlX0MtbThkLWpIRG1ZOVJhd1NnbnRKWDR0QXBGTjc4WWU5cm1sR281MUJyQXQ4WXB1VlFxWDVfUGpiY2xxZG81bDN6R3dibW42VGYwU3hpVkVRbURVUXBIeXhWZTltX2xnYjBwdXJCM3lwaXF3bjktS0RPVC1KcE81YVRmQzF5cDlpUGxiQ3RjYWlxRHhBUnJ2eks1aHFBUw?oc=5
-- Supporting coverage: samaa tv, Aaj English TV
-- Keywords: Pakistani injured in Kuwait, Iranian attack, Kuwait, injured Pakistani, drone attack | hashtags: #Kuwait #Pakistan #BreakingNews #Security
-- Scheduled: Thu 26 Nov, 09:00 PM PKT
-- Caption:
-```
-A Pakistani national is among four people reported injured following an attack in Kuwait.
-
-A Pakistani citizen is among four individuals who sustained injuries during an attack in Kuwait. Authorities reported that vital facilities were targeted, prompting defensive interceptions.
-
-کویت میں ہونے والے ایک حملے کے نتیجے میں ایک پاکستانی شہری سمیت چار افراد زخمی ہو گئے ہیں۔ حکام کے مطابق اس حملے میں اہم تنصیبات کو نشانہ بنایا گیا۔
-
-First reported by samaa tv
-
-#Kuwait #Pakistan #BreakingNews #Security
-```
-
-### Karachi building collapse death toll rises to four as rescue ops continue  [NORMAL]
-- Poster: کراچی میں گرنے والی عمارت کا ملبہ، جاں بحق افراد کی تعداد چار ہو گئی / Karachi building collapse death toll rises to four | category disaster
-- Alternative headline: Death toll in Karachi under-construction building collapse climbs to four
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692741-death-toll-in-karachi-under-construction-building-collapse-climbs-to-four | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692741-death-toll-in-karachi-under-construction-building-collapse-climbs-to-four
-- Supporting coverage: Geo News, Geo News
-- Keywords: Karachi building collapse, death toll four, Admin Society, Baloch Colony, rescue operation, JPMC | hashtags: #Karachi #BuildingCollapse #BalochColony #BreakingNews
-- Scheduled: Thu 26 Nov, 09:10 PM PKT
-- Caption:
-```
-The death toll from the tragic collapse of an under-construction building in Karachi's Baloch Colony has risen to four.
-
-Rescue teams recovered another body from the rubble of a collapsed six-storey building in Karachi's Admin Society, bringing the death toll to four. Police have registered a case and arrested four out of ten nominated suspects.
-
-کراچی کے علاقے بلوچ کالونی کے قریب گرنے والی چھ منزلہ عمارت کے ملبے سے امدادی ٹیموں نے ایک اور لاش برآمد کر لی ہے، جس کے بعد جاں بحق افراد کی تعداد چار ہو گئی ہے۔ پولیس نے مقدمہ درج کر کے چار ملزمان کو گرفتار کر لیا ہے۔
-
-According to Geo News
-
-#Karachi #BuildingCollapse #BalochColony #BreakingNews
-```
-
-### Severe traffic jams reported on major thoroughfares across Karachi  [NORMAL]
-- Poster: کراچی کی اہم سڑکوں پر ٹریفک کا شدید جام، شہریوں کو مشکلات / Severe traffic jams reported across Karachi | category other
-- Alternative headline: Traffic congestion hits MA Jinnah Road, Shahrah-e-Faisal and other Karachi roads
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/karachi-traffic-update-26-november | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/karachi-traffic-update-26-november
-- Supporting coverage: ARY News
-- Keywords: Karachi traffic congestion, traffic jam, MA Jinnah Road, Shahrah-e-Faisal, Karachi roads | hashtags: #Karachi #TrafficJam #KarachiTraffic #Updates
-- Scheduled: Thu 26 Nov, 09:20 PM PKT
-- Caption:
-```
-Commuters faced heavy delays as severe traffic congestion crippled major roads across Karachi.
-
-Traffic congestion was reported on several major roads across Karachi, including MA Jinnah Road, Shahrah-e-Faisal near Baloch Colony Bridge, and Rashid Minhas Road, causing widespread difficulties for commuters.
-
-کراچی کی کئی اہم شاہراہوں بشمول ایم اے جناح روڈ، شاہراہ فیصل اور راشد منہاس روڈ پر شدید ٹریفک جام کی اطلاعات ہیں، جس کی وجہ سے شہریوں کو آمدورفت میں شدید مشکلات کا سامنا کرنا پڑا۔
-
-According to ARY News
-
-#Karachi #TrafficJam #KarachiTraffic #Updates
+#NewMexico #USNews #PrisonEscape #PoliceSearch
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 21
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
-- [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
-- [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 - [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
@@ -320,7 +337,7 @@ According to ARY News
 - [needs_review] normal | Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast | Thu 26 Nov, 01:07 PM PKT
 - [needs_review] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
 - [published] normal | Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16 | Thu 26 Nov, 03:57 PM PKT
-- [queued] normal | 31 dead in Egypt fire after fuel truck overturns | Thu 26 Nov, 04:07 PM PKT
+- [published] normal | 31 dead in Egypt fire after fuel truck overturns | Thu 26 Nov, 04:07 PM PKT
 - [queued] normal | Pakistan motorbike passenger becomes global cricket sensation after st | Thu 26 Nov, 04:17 PM PKT
 - [queued] normal | IHC extends stay on Islamabad local government elections by two weeks | Thu 26 Nov, 04:27 PM PKT
 - [queued] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
@@ -343,15 +360,24 @@ According to ARY News
 - [queued] normal | Pakistani national among four injured in Iranian attack in Kuwait | Thu 26 Nov, 09:00 PM PKT
 - [queued] normal | Karachi building collapse death toll rises to four as rescue ops conti | Thu 26 Nov, 09:10 PM PKT
 - [queued] normal | Severe traffic jams reported on major thoroughfares across Karachi | Thu 26 Nov, 09:20 PM PKT
+- [queued] normal | Israeli strikes on Gaza kill senior education official and seven other | Thu 26 Nov, 09:52 PM PKT
+- [queued] normal | Two Italian workers killed in Iranian drone attack on Kuwait | Thu 26 Nov, 10:02 PM PKT
+- [queued] normal | Diesel tanker capsizes near Ibiza, leaving one crew member dead | Thu 26 Nov, 10:12 PM PKT
+- [queued] normal | UK net migration falls to lowest level in nearly three decades | Thu 26 Nov, 10:22 PM PKT
+- [queued] normal | Flour prices surge sharply in Karachi following official notification | Thu 26 Nov, 10:32 PM PKT
+- [queued] normal | Pregnant US inmate escapes in prison vehicle after medical appointment | Thu 26 Nov, 10:42 PM PKT
 
 ## Publishing this run
-- Published 'Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16'.
+- Published '31 dead in Egypt fire after fuel truck overturns'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7351 | output tokens: 3421
+- Calls: 3 | prompt tokens: 8736 | output tokens: 3417
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

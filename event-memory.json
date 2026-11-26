@@ -170120,7 +170120,538 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "778cbdd315d5605288a8a9dc",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T14:02:19+00:00",
+      "last_update": "2026-11-26T16:41:15+00:00",
+      "event": "Two dead after Iranian drone attack on Kuwait",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "army",
+        "attack",
+        "dead",
+        "drone",
+        "four",
+        "injured",
+        "iranian",
+        "italian",
+        "killed",
+        "kuwait",
+        "others",
+        "says",
+        "two",
+        "were",
+        "workers"
+      ],
+      "source_excerpt": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5",
+          "published_at": "2026-11-26T14:02:19+00:00"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVRaEJwRjVGNTBMemFRQ0NEYlAyZktOd2lhbV9iV2tNbjFmVVBKR2ViSW51RzBKS003TXFXNl82TVBZYm5zUnJ0UzhOdjVHMXY5cVNjS0FXblVwcGdiMWxHU0taNjFNUi1LcFZKbzRKdVkyOGhSU2dWelpCTWNSZk0zcmI1bWZWWHYtNmlOd3hSbEgtLWJZVjd2b3ViVjlVVWlIR0tRbzdrd093?oc=5",
+          "published_at": "2026-11-26T14:22:22+00:00"
+        },
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
+          "published_at": "2026-11-26T15:52:29+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+          "published_at": "2026-11-26T15:55:15+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnFuM1JtRWRtNFU3aVhGYWlUNllTMXIyVkZNR2V0QlF5R3pRdkVjUktFdXc3NDc0RVpKV1BMVWhqQXpaS2N6Q0oxamNHdXlOZmZ4bU5UaDZSbjktc1VmZ1QybzFWcTREVWwzY0RqZ1NSbk5VdjM3YVltLW5nVG12cUpSenNhX0czUFZETGFVZUNJa0NWV0JLOXFDeENwd9IBowFBVV95cUxQa3dBMWhNVnpzSVJjcFQ1bWtvTEp0S2x1TWxmYmF6bkRCTzVCb2RVUHdoMDNFNnM0N2NYcmlFN0RHQ3VKLXZmOEowdjNDTGRTd0xPVFJJRTZUb1FUbWlUc0RoN2NFbF9mM1hBME1naXlSaWdtXzJQOEpxSlZwZ0xKX1daTnpyX2ZyUFNYbTBldUVRWU9fWFQ5LXpEWWVLMUNuX1o0?oc=5",
+          "published_at": "2026-11-26T16:00:02+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjc2LWEydnpYQjUxb0RIWFZsWktyZ3FJTXk5UkVRVEdXdUVVMkNMLTVpTExJcEF1N19hWVR3QkdTSk5Samc0TjB5bkJHVVB3bFlRZnVOMW05QjZRdWtoc2xScFRkajVaeG4xZVpSMlpTSVJGNVJjSGE0MGp5NFdVbHZIWll0b3JwcWotZVJBVjk2TXd3X2N4NlJvbTU?oc=5",
+          "published_at": "2026-11-26T16:10:34+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+          "published_at": "2026-11-26T16:32:31+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZHNqdWFuVHVhY3RkaWhsNXgzS0hGRVQxT2tjbzc0bUg0V0tEbUJheW1NbHJPdHdWLXV2U2p5Zy1Ia3lhR2phTngycHBKcUZzVDJHak5rUlBTejFfTGc1WXVjMWdDYnVvUWFyUEk2V0otNjNBTnlwYmZKZVNDNENfaTZUWUhKX201aXl0V0NoXzdOU1dmR0dQSlZMWkd1c08tajhITTlBMnpVUQ?oc=5",
+          "published_at": "2026-11-26T16:33:17+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T16:39:30+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTJLR040dFNoUlFYaVk0RF9CMUp2d1drUlVYVkNXWGQ4MldxM0VFTE52MDMzTHNXVmpFVEZjeGUteHlCY00zWjFNcFVVX1ZWOWhLSE9GeF9tRGE2bWVVd1l4eHVtY3hUc0dnN19rbVZfN0k4cUtZcTRwQlgzbXF5NUZmM242RmU2UGVXR2tGRHM1RUNOMF9qdVZDTjBFZFZDOWp1blozM3lhU1VXcVhR0gG0AUFVX3lxTFBoVDAzRnVkN1JNUEliazROM0hQamFsWVF0a3lxZXBISlcwOFhoWndKNnlDU1JVMzZWVXM1aVVLRm1aQXNNOU45bnZIVHlqcUg2R2hCbHY4bEtHaEFqS2dmY0RmUlpRMG9MRTZoZTYxMDRLLXhaLWtla2dzNWY1b0xzMU15R0dlVkdJTW9EeFNHYkdRN0RwT2llT2ZWUVlKQ3IwS1ZrRWRHSXdwMUdGZGVkcjF0WA?oc=5",
+          "published_at": "2026-11-26T16:41:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0d64e028ba48545753f9ad6",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T14:58:35+00:00",
+      "last_update": "2026-11-26T15:47:27+00:00",
+      "event": "Rana Irfan beats Mohammad Asif to win snooker world cup",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asif",
+        "beats",
+        "cup",
+        "irfan",
+        "mohammad",
+        "rana",
+        "samaa",
+        "snooker",
+        "win",
+        "world"
+      ],
+      "source_excerpt": "Rana Irfan beats Mohammad Asif to win snooker world cup samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5",
+          "published_at": "2026-11-26T14:58:35+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/rana-irfan-clinches-snooker-world-cup-title",
+          "published_at": "2026-11-26T15:47:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a79176ad0173900c7f7bdc32",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T16:20:54+00:00",
+      "last_update": "2026-11-26T16:20:54+00:00",
+      "event": "Spanish economist to become new European Central Bank chief",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bank",
+        "become",
+        "breaking",
+        "central",
+        "chief",
+        "economist",
+        "european",
+        "new",
+        "news",
+        "spanish",
+        "story",
+        "this"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+          "published_at": "2026-11-26T16:20:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "20e84a1b7b570fb9b83cab0a",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T15:57:49+00:00",
+      "last_update": "2026-11-26T15:57:49+00:00",
+      "event": "Why is France roiling?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allahoum",
+        "crisis",
+        "financial",
+        "france",
+        "how",
+        "jazeera",
+        "looks",
+        "next",
+        "ramy",
+        "roiling",
+        "shaping",
+        "vote",
+        "why",
+        "year"
+      ],
+      "source_excerpt": "Al Jazeera’s Ramy Allahoum looks at how France's financial crisis is shaping next year’s vote.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+          "published_at": "2026-11-26T15:57:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4166a84cbc489f5e90e56648",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T15:53:32+00:00",
+      "last_update": "2026-11-26T15:56:15+00:00",
+      "event": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "apartheid",
+        "bds",
+        "calls",
+        "colonialism",
+        "demand",
+        "disobey",
+        "end",
+        "ever",
+        "football",
+        "gaza",
+        "guardiola",
+        "horror",
+        "icon",
+        "israel",
+        "more",
+        "occupation",
+        "over",
+        "pep",
+        "praises",
+        "says",
+        "than",
+        "urgent",
+        "world"
+      ],
+      "source_excerpt": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+          "published_at": "2026-11-26T15:53:32+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXBscHhkT3RFb21rekgyU1FGX1c4YUFnaUdXQ0pNMm9vTUMwd1VwbjRRNzZsOUxKMnpDS0NTSkJZV3B2YVlpalZyaWlWTUF3bWk4dVFJNkxJNWFZYUxfUEFqVGpGeVNOQ1pCT3drbVlPQVVMTUFNZmJvekJHNDJxcUJjaHM3b0RvVEN5cUc3VktBZnZLMEZUWE16aXpzNlI5dVBpRXhSNkE4cy1xdkMzTnI2WHVDaW_SAbwBQVVfeXFMUFNEQVYtU05ZUnl0UWh4bzY0Yk9uVnBIcUNxNU5FMDFQYmlJTkF1WUNrWTZqMnZOaXpEWElORnRJNV8xMENuSkRTMDNSQWtpbWttWVFKNm0wZXNjay00NnZRUkoyeU1yNzc5a1pWXy1BMW5vcWtWWDgzYUZNazJ6U2gxQ3VncGRYTG5IU0g0b2s3cVhOX0FUMmFnYmdrSkJfX0Y2TThqWV80RGxzTVd4ckVza0lFWktnLTFMTUQ?oc=5",
+          "published_at": "2026-11-26T15:56:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c85fd72a9001e27eefa8277a",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T15:45:59+00:00",
+      "last_update": "2026-11-26T15:45:59+00:00",
+      "event": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aimed",
+        "and",
+        "bilateral",
+        "bin",
+        "cairo",
+        "ceasefire",
+        "discuss",
+        "egyptian",
+        "for",
+        "further",
+        "gaza",
+        "hamad",
+        "leaders",
+        "official",
+        "qatari",
+        "regional",
+        "relations",
+        "security",
+        "sheikh",
+        "strengthening",
+        "tamim",
+        "thani",
+        "visit"
+      ],
+      "source_excerpt": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+          "published_at": "2026-11-26T15:45:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08f536dac31900635c788af4",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T15:29:03+00:00",
+      "last_update": "2026-11-26T15:29:03+00:00",
+      "event": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abc",
+        "attempt",
+        "blocks",
+        "chair",
+        "disney",
+        "donald",
+        "fcc",
+        "has",
+        "his",
+        "judge",
+        "marching",
+        "orders",
+        "president",
+        "rhetoric",
+        "said",
+        "stations",
+        "taken",
+        "target",
+        "the",
+        "trump"
+      ],
+      "source_excerpt": "The judge said the FCC chair has taken US President Donald Trump's rhetoric ‌‌as his 'marching orders'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+          "published_at": "2026-11-26T15:29:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "414f4da148540caf15d42a0b",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T16:18:30+00:00",
+      "last_update": "2026-11-26T16:18:30+00:00",
+      "event": "Fireball steals the show during Thanksgiving drone display in Indiana",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "captured",
+        "display",
+        "drone",
+        "drones",
+        "during",
+        "fireball",
+        "glowing",
+        "holiday",
+        "illuminated",
+        "indiana",
+        "night",
+        "object",
+        "show",
+        "sky",
+        "steals",
+        "thanksgiving",
+        "the",
+        "themed",
+        "video",
+        "was"
+      ],
+      "source_excerpt": "The glowing object was captured on video as holiday-themed drones illuminated the night sky.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T16:18:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "015d9ff350c4af092a538e65",
+      "remembered_at": "2026-11-26T16:52:11.664199+00:00",
+      "event_date": "2026-11-26T16:00:17+00:00",
+      "last_update": "2026-11-26T16:00:17+00:00",
+      "event": "ECP issues delimitation schedule for 9 KP districts, freezes administrative boundaries",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administrative",
+        "and",
+        "bar",
+        "boundaries",
+        "chitral",
+        "commission",
+        "councils",
+        "delimitation",
+        "districts",
+        "ecp",
+        "election",
+        "for",
+        "freezes",
+        "hangu",
+        "included",
+        "islamabad",
+        "issued",
+        "issues",
+        "karak",
+        "khyber",
+        "malakand",
+        "mansehra",
+        "neighbourhood",
+        "nine",
+        "paharpur",
+        "pakhtunkhwa",
+        "pakistan",
+        "schedule",
+        "shangla",
+        "swat",
+        "the",
+        "thursday",
+        "upper",
+        "village"
+      ],
+      "source_excerpt": "ISLAMABAD: The Election Commission of Pakistan (ECP) on Thursday issued the schedule for the delimitation of village and neighbourhood councils in nine districts of Khyber Pakhtunkhwa. The nine districts included Karak, Hangu, Mansehra, Malakand, Shangla, Chitral Upper, Swat, Bar Swat and Paharpur.",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047239/ecp-issues-delimitation-schedule-for-9-kp-districts-freezes-administrative-boundaries",
+          "published_at": "2026-11-26T16:00:17+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObk05eDJUazFmSUw2Z0ttZVA4VUQ4RzBNdzFqclpKb211NDFQdm45bEdkRS1mTTBMLVg3cWZPdDhFT19oR0tzdlAxM3Bpd0JQM3JfZFJ1VHNtdWFiQWdDdkNmQnhzZGxJLXVMWTkwREhLVFZ6dUhmTkx1b1daVDZsTWljYXN3VDJWek0yc3dnX0ZESWhXbjJBcGFfdUpjU3UweXc5VnlfZ1lfNlhCT0VZUXlST0ozU3Nfb25B?oc=5",
+          "published_at": "2026-11-26T16:00:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047239/ecp-issues-delimitation-schedule-for-9-kp-districts-freezes-administrative-boundaries",
+        "publisher_url": "https://www.dawn.com/news/2047239/ecp-issues-delimitation-schedule-for-9-kp-districts-freezes-administrative-boundaries",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T15:40:38.361602+00:00"
+  "updated_at": "2026-11-26T16:52:11.664199+00:00"
 }
