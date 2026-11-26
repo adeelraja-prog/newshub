@@ -1,165 +1,99 @@
-# News Hub report - Thu 26 Nov, 06:53 AM PKT
+# News Hub report - Thu 26 Nov, 07:52 AM PKT
 
 ## Collection
-- New items this run: 17 | items in rolling pool: 206
-- Unique story clusters: 181 (duplicates merged: 25)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 2
-- Items per outlet: Al Jazeera 8, BBC World 4, Jang Urdu 2, Geo News 1, BBC Science 1, ProPakistani 1, Geo News Fast Lane 0, ARY News Fast Lane 0, Samaa Fast Lane 0, Express News Fast Lane 0, Dawn Fast Lane 0, Jang Fast Lane 0
+- New items this run: 108 | items in rolling pool: 260
+- Unique story clusters: 227 (duplicates merged: 33)
+- Clusters dropped as already published/queued: 38; unchanged since last analysis: 6
+- Items per outlet: Dawn 77, Investify 11, Profit by Pakistan Today 4, Dawn Pakistan 2, Dawn Latest 2, The Express Tribune 2, Geo News 1, Al Jazeera 1, Bloomberg 1, GSMArena 1, BBC Business 1, 联合早报 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Ukraine attacks Russian military base, says five planes struck | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Netflix cancels Will Ferrell's golf comedy 'The Hawk' after one season | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Expect fewer frosts and more hot days as UK seasons shift, says Met Office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Guitar wars - the transatlantic battle over the Stratocaster | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, China eye gas, mining projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM stresses IT potential for economic growth | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTI disowns Achakzai’s call for national govt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ukraine strikes airbase deep inside Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Photos: Storms and an El Nino-charged king tide batter California’s coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 28/120 | empty: 0 | failed: 92 | malformed/partial: 92
-- Trusted publisher desks with at least one healthy source: 6/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Samaa Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Jang Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Pakistan Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Urdu Search | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express News TV Search | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: Samaa, Express News, Dunya News, Dunya News TV
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Zambia Bans Protests Against Push to Remove Presidential Term Limits  [NORMAL]
-- Poster: صدارتی مدت کیپ ختم کرنے کے خلاف زیمبیا میں احتجاج پر پابندی / Zambia bans protest against presidential term limit push | category politics
-- Alternative headline: Zambian Authorities Ban Demonstrations Amid Presidential Term Limit Push
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Zambia protests, presidential term limits, Zambia politics, opposition figures, Al Jazeera | hashtags: #Zambia #Politics #ProtestBan #Democracy
-- Scheduled: Thu 26 Nov, 06:53 AM PKT
-- Caption:
-```
-Zambian authorities have banned protests against a controversial push to remove presidential term limits, raising serious concerns among critics.
-
-Zambia has officially banned protests opposing the campaign to remove presidential term limits. Critics warn that this decision, combined with senior opposition figures remaining behind bars, could severely undermine democratic safeguards in the country.
-
-زیمبیا نے صدارتی مدت کی حد ختم کرنے کی مہم کے خلاف احتجاج پر پابندی عائد کر دی ہے۔ ناقدین کا کہنا ہے کہ اس فیصلے اور اپوزیشن رہنماؤں کی جیل میں موجودگی سے جمہوری اقدار کمزور ہوں گی۔
-
-According to a report by Al Jazeera.
-
-#Zambia #Politics #ProtestBan #Democracy
-```
-
-### Ukraine Claims Strike on Russian Air Base Damaging Five Planes  [NORMAL]
-- Poster: یوکرین کا روسی فوجی اڈے پر حملہ، پانچ طیارے تباہ کرنے کا دعویٰ / Ukraine attacks Russian base, says five planes struck | category war
-- Alternative headline: Kyiv Reports Successful Drone Strike on Russian Military Airfield
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss
-- Supporting coverage: Arab News, Al Jazeera
-- Keywords: Ukraine air strike, Russian military base, Nizhny Novgorod, Ukrainian General Staff, Al Jazeera | hashtags: #Ukraine #Russia #MilitaryStrike #War
-- Scheduled: Thu 26 Nov, 07:03 AM PKT
-- Caption:
-```
-The Ukrainian General Staff reported a major military strike targeting an airbase inside Russian territory, claiming significant damage.
-
-The Ukrainian General Staff announced that its forces successfully struck a Russian military airbase located in the Nizhny Novgorod region, east of Moscow. According to the report, five planes were damaged in the targeted operation.
-
-یوکرین کے جنرل سٹاف نے دعویٰ کیا ہے کہ اس کی افواج نے ماسکو کے مشرق میں واقع نیژনি نووگوروڈ کے علاقے میں روسی فوجی اڈے پر حملہ کیا، جس کے نتیجے میں پانچ طیارے کو نقصان پہنچا۔
-
-First reported by Al Jazeera; also reported by Arab News.
-
-#Ukraine #Russia #MilitaryStrike #War
-```
-
-### Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season  [NORMAL]
-- Poster: نیٹ فلکس نے ول فیرل کی کامیڈی سیریز دی ہاک منسوخ کر دی / Netflix cancels Will Ferrell's comedy The Hawk | category other
-- Alternative headline: Will Ferrell Comedy Series 'The Hawk' Axed by Netflix
+### PTI Disowns Achakzai's Call for a National Government  [NORMAL]
+- Poster: پی ٹی آئی نے محمود خان اچکزئی کی قومی حکومت کی کال سے لاتعلقی کا اظہار کر دیا / PTI Disowns Achakzai's National Government Call | category politics
+- Alternative headline: Pakistan Tehreek-e-Insaf Rejects Mahmood Khan Achakzai's National Govt Proposal
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692652-netflix-cancels-will-ferrells-golf-comedy-the-hawk-after-one-season | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692652-netflix-cancels-will-ferrells-golf-comedy-the-hawk-after-one-season
-- Supporting coverage: Geo News
-- Keywords: The Hawk cancelled, Will Ferrell, Netflix comedy, The Hawk season one, Geo News | hashtags: #Netflix #WillFerrell #TheHawk #Entertainment
-- Scheduled: Thu 26 Nov, 07:13 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: PTI, Mahmood Khan Achakzai, national government, politics, Dawn | hashtags: #PTI #MahmoodKhanAchakzai #PakistanPolitics #Dawn
+- Scheduled: Thu 26 Nov, 07:52 AM PKT
 - Caption:
 ```
-Netflix has officially cancelled Will Ferrell's golf comedy series 'The Hawk' after a sharp viewership decline following its debut.
+Pakistan Tehreek-e-Insaf has officially distanced itself from Mahmood Khan Achakzai's recent proposal for forming a national government.
 
-Netflix has cancelled the golf comedy series 'The Hawk', starring Will Ferrell, after just one season. Despite a strong opening week with millions of views, viewership collapsed sharply in subsequent weeks, leading to the cancellation of Ferrell's first leading television role.
+Pakistan Tehreek-e-Insaf (PTI) has formally disowned statements and calls made by Mahmood Khan Achakzai regarding the establishment of a national government. The party clarified its stance amidst ongoing political discussions and differing viewpoints among opposition and allied political figures.
 
-نیٹ فلکس نے ول فیرل کی اداکاری والی گولف کامیڈی سیریز 'دی ہاک' کو صرف ایک سیزن کے بعد منسوخ کر دیا ہے۔ پہلے ہفتے شاندار ویوز کے بعد ناظرین کی تعداد میں بڑی کمی دیکھی گئی۔
+پاکستان تحریک انصاف (پی ٹی آئی) نے محمود خان اچکزئی کی جانب سے قومی حکومت کے قیام کے مطالبے سے باضابطہ طور پر لاتعلقی کا اظہار کر دیا ہے۔ پارٹی نے موجودہ سیاسی صورتحال کے تناظر میں اپنی پوزیشن واضح کی ہے۔
 
-According to a report by Geo News.
+First reported by Dawn.
 
-#Netflix #WillFerrell #TheHawk #Entertainment
+#PTI #MahmoodKhanAchakzai #PakistanPolitics #Dawn
 ```
 
-### UK Winters Getting Shorter and Summers Hotter, Says Met Office  [NORMAL]
-- Poster: برطانیہ میں سردیاں کم اور گرمیاں طویل ہونے کا انکشاف / UK seasons shift with fewer frosts, says Met Office | category weather
-- Alternative headline: Met Office Warns of Fewer Frosts and More Hot Days in UK
+### Pakistan and China Set Sights on New Gas and Mining Projects  [NORMAL]
+- Poster: پاکستان اور چین کی گیس اور کان کنی کے منصوبوں پر نظر / Pakistan, China Eye Gas and Mining Projects | category economy
+- Alternative headline: Pak-China Economic Cooperation Expands to Cover Gas and Mining Ventures
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: UK seasons shift, Met Office, climate change UK, winter frosts, BBC Science | hashtags: #MetOffice #ClimateChange #UKWeather #Science
-- Scheduled: Thu 26 Nov, 07:23 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29uSVpEZ1o2Wi1NdGdZRWZ6SjhsRjE3b2xqenQyejdiNkk4VTV4SHhqeFMxdzdnZ0sxWFZHbzBLakgwdU1HRlh6TEJaM0RSOE9XRlNlajRMeHdOZ05WeHBHWHRNVXlYMWtkLXZrUDZFU01BZlJmRW1WUzk4clcxb9IBiAFBVV95cUxNOTAxemZ0c0YyaXNHQWFESkFxMUlkcDcwemI2S29NVTJjMG9JM2t1d09ON0VXS2N4Sl9GMHNYV1o0RndqQWZBWDFUck92S1ozVjRMclA4Mmp3Nkt5aUlKLTFVSl9xZC1CUFRlVzNkUG82Q2VrZTVMc0ZhLXRRdmFhbGM4cmFEVkxt?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: Pakistan-China, gas projects, mining, economy, The Express Tribune | hashtags: #PakistanChina #GasProjects #Mining #Economy
+- Scheduled: Thu 26 Nov, 08:02 AM PKT
 - Caption:
 ```
-New analysis from the UK Met Office reveals a significant shift in seasons, featuring fewer winter frosts and more hot summer days.
+Pakistan and China are exploring new avenues of cooperation by focusing on prospective gas and mining projects to boost economic ties.
 
-According to new analysis by the UK Met Office, the country's seasons are shifting due to global climate change. Winter days with air frost have dropped by about a quarter, while summer days reaching 25C have more than doubled compared to historical periods.
+Pakistan and China have turned their focus toward expanding bilateral cooperation through new gas and mining initiatives. The collaborative efforts aim to enhance energy security and resource development between the two nations.
 
-برطانوی محکمۂ موسمیات (میٹ آفس) کی نئی رپورٹ کے مطابق موسمیاتی تبدیلیوں کی وجہ سے ملک میں سردیوں کے دن کم اور گرمیوں کے گرم دن دوگنا ہو چکے ہیں۔
+پاکستان اور چین نے گیس اور کان کنی کے نئے منصوبوں کے ذریعے دوطرفہ تعاون کو وسعت دینے پر توجہ مرکوز کی ہے۔ ان کوششوں کا مقصد دونوں ممالک کے درمیان توانائی کے تحفظ اور وسائل کی ترقی کو فروغ دینا ہے۔
 
-According to a report by BBC Science.
+First reported by The Express Tribune.
 
-#MetOffice #ClimateChange #UKWeather #Science
+#PakistanChina #GasProjects #Mining #Economy
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Russian vessel hit by suspected sea drone in Libya | Mon 23 Nov, 12:04 AM PKT
-- [needs_review] normal | Civilians killed in RSF drone strikes across Sudan | Mon 23 Nov, 12:14 AM PKT
-- [needs_review] normal | Cox’s Bazar: Rohingya families face harsh exile during Ramadan | Mon 23 Nov, 12:24 AM PKT
-- [needs_review] normal | Aber Kawas makes history as New York's first Palestinian state senator | Mon 23 Nov, 12:46 AM PKT
-- [needs_review] normal | Pakistani national among two injured in Iranian attacks on Bahrain | Mon 23 Nov, 12:56 AM PKT
 - [needs_review] normal | Ukrainians search through rubble for missing following deadly Russian  | Mon 23 Nov, 01:16 AM PKT
 - [needs_review] normal | PTI urges Bilawal not to back extension of Governor’s Rule | Mon 23 Nov, 01:31 AM PKT
 - [needs_review] normal | Houthis claim targeted strike on Saudi Arabia's Rabigh refinery | Mon 23 Nov, 01:41 AM PKT
@@ -179,7 +113,6 @@ According to a report by BBC Science.
 - [needs_review] normal | 10 Injured as Quadcopters Hit Peace Jirga in Bannu | Mon 23 Nov, 05:56 AM PKT
 - [needs_review] normal | PTI Pushes for KP Leaders' Freedom Following Legal Changes | Mon 23 Nov, 06:59 AM PKT
 - [needs_review] normal | Suspected Drone Attack Triggers Explosion on Russian Ship in Libya | Mon 23 Nov, 07:09 AM PKT
-- [published] normal | South Korea's Stock Market Tumbles Amid Growing AI Bubble Fears | Mon 23 Nov, 07:19 AM PKT
 - [needs_review] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
 - [needs_review] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
 - [needs_review] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
@@ -307,10 +240,10 @@ According to a report by BBC Science.
 - [published] normal | Pakistan records 10th polio case of 2026 after KP report | Thu 26 Nov, 12:40 AM PKT
 - [published] normal | Pakistan and Russia target $5 billion trade by 2030 | Thu 26 Nov, 12:50 AM PKT
 - [published] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
-- [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
+- [needs_review] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
 - [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
 - [published] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
-- [queued] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
+- [published] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
 - [queued] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
 - [queued] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
 - [queued] normal | Bangladesh ties of 'great importance' to Pakistan, President and PM te | Thu 26 Nov, 02:59 AM PKT
@@ -336,12 +269,14 @@ According to a report by BBC Science.
 - [queued] normal | Ukraine Claims Strike on Russian Air Base Damaging Five Planes | Thu 26 Nov, 07:03 AM PKT
 - [queued] normal | Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season | Thu 26 Nov, 07:13 AM PKT
 - [queued] normal | UK Winters Getting Shorter and Summers Hotter, Says Met Office | Thu 26 Nov, 07:23 AM PKT
+- [queued] normal | PTI Disowns Achakzai's Call for a National Government | Thu 26 Nov, 07:52 AM PKT
+- [queued] normal | Pakistan and China Set Sights on New Gas and Mining Projects | Thu 26 Nov, 08:02 AM PKT
 
 ## Publishing this run
-- Published 'Tarar urges social media companies to establish offices in Pakistan'.
+- Published 'President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5347 | output tokens: 2208
+- Calls: 2 | prompt tokens: 3732 | output tokens: 999
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {

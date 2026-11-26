@@ -161445,7 +161445,738 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a6959dd7af7279cc1d7d609",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:55:28+00:00",
+      "last_update": "2026-11-26T01:55:28+00:00",
+      "event": "PM stresses IT potential for economic growth",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "economic",
+        "for",
+        "growth",
+        "potential",
+        "stresses"
+      ],
+      "source_excerpt": "PM stresses IT potential for economic growth Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOek9SQlh5d1VaSjl4Zkl1YzA5b0lnZ3dFYlE2S05lb0kxZ2JPNjZWQXRmOWFlUEoxYWxIeERCQWFxXzRlTm9heUhPcXFIdmFIejUzQVJSdE5LaHV4S2JJRjJBR3UtV3VmVjJ6XzVCQ0JYbU5yZVVMRktrOUZKNFIyRGh3a0k?oc=5",
+          "published_at": "2026-11-26T01:55:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047128/pm-stresses-it-potential-for-economic-growth",
+          "published_at": "2026-11-26T01:55:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOek9SQlh5d1VaSjl4Zkl1YzA5b0lnZ3dFYlE2S05lb0kxZ2JPNjZWQXRmOWFlUEoxYWxIeERCQWFxXzRlTm9heUhPcXFIdmFIejUzQVJSdE5LaHV4S2JJRjJBR3UtV3VmVjJ6XzVCQ0JYbU5yZVVMRktrOUZKNFIyRGh3a0k?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f73ce46d3e3997ed46acd9e5",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:54:37+00:00",
+      "last_update": "2026-11-26T02:25:04+00:00",
+      "event": "PTI disowns Achakzai’s call for national govt",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "achakzai",
+        "call",
+        "dawn",
+        "disowns",
+        "for",
+        "govt",
+        "national",
+        "pti"
+      ],
+      "source_excerpt": "PTI disowns Achakzai’s call for national govt Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5",
+          "published_at": "2026-11-26T01:54:37+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047151/pti-disowns-achakzais-call-for-national-govt",
+          "published_at": "2026-11-26T02:25:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNpV1ZzbTFEU0VHVW8tQ0FxTm9qWUJybUJKV0Mtb096NWxGWVl5M2VCYnQ4M2pZNWY5Mlp2ZkE4dFljbEdBZEphQy1NbDJla0ZmTFctTlVnT1EtM09RaW1qTjBldklVMkRuWml3YjZKdGpTRlhoSEk1b1l1VW4wS2RZSHI?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a9d6053c652f0df1c33e6d9",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:47:39+00:00",
+      "last_update": "2026-11-26T01:47:39+00:00",
+      "event": "Ukraine strikes airbase deep inside Russia",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airbase",
+        "deep",
+        "express",
+        "inside",
+        "russia",
+        "strikes",
+        "the",
+        "tribune",
+        "ukraine"
+      ],
+      "source_excerpt": "Ukraine strikes airbase deep inside Russia The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1BCbjVBNmx1TWZFSms5ZGYyQzk1OERKZU1QYmc5czd0WmMtc2w4cTNMdUk2RDNWUjk1TjdIZnJGb0daQUduTFNRY2g5bnFzdk9fQ2VTMHFTRnNjS3VHcGZxOTdtdTV1QWhINjktbk9Oc1VKV2wxNTNiMnNyZ0pOR3JEenJnZ9IBjgFBVV95cUxOcndxek54SEgtc1dGRDl1QU8zQTZDRm5ONFRUUkFsVElMZTc0RWUyYUIxZlNxZ2VLZ01WbDVCR0xFYkdITlV1Y0V6dXVTXzAxZDBGYjZUaXlReTZDTGhUNDNUS2hHdFdwS2N1MDZGcDZvZWRuWTdDd055Nng4cnNTODdkQjhHX3VJQnlBWTNn?oc=5",
+          "published_at": "2026-11-26T01:47:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1BCbjVBNmx1TWZFSms5ZGYyQzk1OERKZU1QYmc5czd0WmMtc2w4cTNMdUk2RDNWUjk1TjdIZnJGb0daQUduTFNRY2g5bnFzdk9fQ2VTMHFTRnNjS3VHcGZxOTdtdTV1QWhINjktbk9Oc1VKV2wxNTNiMnNyZ0pOR3JEenJnZ9IBjgFBVV95cUxOcndxek54SEgtc1dGRDl1QU8zQTZDRm5ONFRUUkFsVElMZTc0RWUyYUIxZlNxZ2VLZ01WbDVCR0xFYkdITlV1Y0V6dXVTXzAxZDBGYjZUaXlReTZDTGhUNDNUS2hHdFdwS2N1MDZGcDZvZWRuWTdDd055Nng4cnNTODdkQjhHX3VJQnlBWTNn?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ecc202c2511c161ed63db97",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T02:03:03+00:00",
+      "last_update": "2026-11-26T02:03:03+00:00",
+      "event": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attempts",
+        "country",
+        "declaration",
+        "deny",
+        "deployment",
+        "jong",
+        "kim",
+        "korea",
+        "korean",
+        "leader",
+        "north",
+        "nuclear",
+        "nukes",
+        "open",
+        "says",
+        "seen",
+        "should",
+        "status",
+        "tactical",
+        "war",
+        "warns",
+        "widen",
+        "will"
+      ],
+      "source_excerpt": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+          "published_at": "2026-11-26T02:03:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fce09cae16628a27a4b6c363",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T02:13:00+00:00",
+      "last_update": "2026-11-26T02:13:00+00:00",
+      "event": "UK government set to publish new treaties agreed with EU",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreed",
+        "any",
+        "bbc",
+        "border",
+        "checks",
+        "clause",
+        "contain",
+        "costs",
+        "government",
+        "infrastructure",
+        "need",
+        "new",
+        "publish",
+        "rebuild",
+        "reimburse",
+        "set",
+        "termination",
+        "the",
+        "treaties",
+        "understands",
+        "with",
+        "year"
+      ],
+      "source_excerpt": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T02:13:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a03cf1f6498a8b7290c6a517",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T02:06:10+00:00",
+      "last_update": "2026-11-26T02:06:10+00:00",
+      "event": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "could",
+        "foreign",
+        "from",
+        "over",
+        "shabab",
+        "somalia",
+        "take",
+        "troops",
+        "withdraw"
+      ],
+      "source_excerpt": "As foreign troops withdraw from Somalia, could al-Shabab take over? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETWhLVjQ5dk5FU2xNQ0FiNkJQdzk3QzdwSDN6SFMzd1kwdWstRDFTNndTWGVBZHRiY1lvS0dHZ3RTRW90ZUp5ZUQtR2EyVDBiemIzVXozOXBadW8?oc=5",
+          "published_at": "2026-11-26T02:06:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETWhLVjQ5dk5FU2xNQ0FiNkJQdzk3QzdwSDN6SFMzd1kwdWstRDFTNndTWGVBZHRiY1lvS0dHZ3RTRW90ZUp5ZUQtR2EyVDBiemIzVXozOXBadW8?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aebb16a61bff04a458744b83",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:57:49+00:00",
+      "last_update": "2026-11-26T01:57:49+00:00",
+      "event": "Peshawar police repulse attack on checkpost",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "checkpost",
+        "dawn",
+        "peshawar",
+        "police",
+        "repulse"
+      ],
+      "source_excerpt": "Peshawar police repulse attack on checkpost Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5sM3ptRDlLMGkzdXFnWHVEN3JveE5uYWliRUxMZEdjSnZuSE5yNFVZckRJLVJIZ2RJNmg3SElhdHpYVTlzeUpQQnZKWWw2VWJSOGwyVTNNa2ZpdWxNMHBBMnJiTUZqa2xXaUNxSXdnTTEwc25jWnlPTVZWUmJQTVlMbw?oc=5",
+          "published_at": "2026-11-26T01:57:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5sM3ptRDlLMGkzdXFnWHVEN3JveE5uYWliRUxMZEdjSnZuSE5yNFVZckRJLVJIZ2RJNmg3SElhdHpYVTlzeUpQQnZKWWw2VWJSOGwyVTNNa2ZpdWxNMHBBMnJiTUZqa2xXaUNxSXdnTTEwc25jWnlPTVZWUmJQTVlMbw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "49927282dca552aca28b8746",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:57:29+00:00",
+      "last_update": "2026-11-26T01:57:29+00:00",
+      "event": "Kyrgyzstan seeks stronger trade ties with Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "kyrgyzstan",
+        "pakistan",
+        "seeks",
+        "stronger",
+        "ties",
+        "trade",
+        "with"
+      ],
+      "source_excerpt": "Kyrgyzstan seeks stronger trade ties with Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHdheHhCQjRxa0kyM1hsdTNfTVNEaTg3Z1BlbnQ4Njdsc3hWYkJ6ZG5PdFVQWWFNc1QtWGNFdTdaRkgtaHloN3poVml6aUExUjFRYVdHUzhtOTh6UFFEMmtKNXZkTEhLY0l4YnJEc3o5ZEFGbXNicFNGZGl5d0p3LXJFN25hejV6ZGh4LQ?oc=5",
+          "published_at": "2026-11-26T01:57:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHdheHhCQjRxa0kyM1hsdTNfTVNEaTg3Z1BlbnQ4Njdsc3hWYkJ6ZG5PdFVQWWFNc1QtWGNFdTdaRkgtaHloN3poVml6aUExUjFRYVdHUzhtOTh6UFFEMmtKNXZkTEhLY0l4YnJEc3o5ZEFGbXNicFNGZGl5d0p3LXJFN25hejV6ZGh4LQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4bef301571a0f7a47ad6fb79",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:55:00+00:00",
+      "last_update": "2026-11-26T01:55:00+00:00",
+      "event": "Maldi­vian to start direct Pakistan flights soon",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "direct",
+        "flights",
+        "maldi",
+        "pakistan",
+        "soon",
+        "start",
+        "vian"
+      ],
+      "source_excerpt": "Maldi­vian to start direct Pakistan flights soon Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDF2SHVGQTktS2U4czRLSk9tOFRmaGkwUGtuc0VSOG9lZnpock14YklsZ0tDamRkaWpFQjRWR3p6N1RZel8wQzdRalNuWmMzWFJBSWNaNE5fd3VVaGRPN3J6dzZUSXU2LUpKNm5jdWtWZVhJNG8xY0lTNHV3djFJSnR4T0lfaDJM?oc=5",
+          "published_at": "2026-11-26T01:55:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDF2SHVGQTktS2U4czRLSk9tOFRmaGkwUGtuc0VSOG9lZnpock14YklsZ0tDamRkaWpFQjRWR3p6N1RZel8wQzdRalNuWmMzWFJBSWNaNE5fd3VVaGRPN3J6dzZUSXU2LUpKNm5jdWtWZVhJNG8xY0lTNHV3djFJSnR4T0lfaDJM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d02b8d19005474c0a963ee6",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:56:16+00:00",
+      "last_update": "2026-11-26T01:56:16+00:00",
+      "event": "Three killed across Punjab in ‘CCD encounters’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "ccd",
+        "dawn",
+        "encounters",
+        "killed",
+        "punjab",
+        "three"
+      ],
+      "source_excerpt": "Three killed across Punjab in ‘CCD encounters’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazVsNTBOSVo1S3E5UndENGp5dTJFcUc3MGIyWGZUMkhGUE9rV0JlTnFLcDl1THlJSkptT2xON0NidXhnRVVtcHdyOV9iLURRVWlra1JwNmR3OUt3cGN6c2JINzFycHhnejQ1akQwY1V4Q2lxS0ZEVjM3cndjcjZOS1FfRXk?oc=5",
+          "published_at": "2026-11-26T01:56:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazVsNTBOSVo1S3E5UndENGp5dTJFcUc3MGIyWGZUMkhGUE9rV0JlTnFLcDl1THlJSkptT2xON0NidXhnRVVtcHdyOV9iLURRVWlra1JwNmR3OUt3cGN6c2JINzFycHhnejQ1akQwY1V4Q2lxS0ZEVjM3cndjcjZOS1FfRXk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ceda78ad8cec2fa151b73a76",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:55:46+00:00",
+      "last_update": "2026-11-26T01:55:46+00:00",
+      "event": "Fatima-led Pakistan squad announced for West Indies tour",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "announced",
+        "dawn",
+        "fatima",
+        "for",
+        "indies",
+        "led",
+        "pakistan",
+        "squad",
+        "tour",
+        "west"
+      ],
+      "source_excerpt": "Fatima-led Pakistan squad announced for West Indies tour Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVJweERrTFZrR0s2a0pDWHIyNEZfelczemdjQVg1eVU0d0dIOUJ2QzN3MEZjWXloUDMtdE9SeEswa0J5aGRCdFBfcGxGR1RJNlNaSTQyNk1CZWxsTjhlUlRTMElhV0Z1QUFVTjhhbVFvY0JnbXdJVkRZTE83czlmRHJoVkhxT0xia2FVa0VGbjVmQWZT?oc=5",
+          "published_at": "2026-11-26T01:55:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVJweERrTFZrR0s2a0pDWHIyNEZfelczemdjQVg1eVU0d0dIOUJ2QzN3MEZjWXloUDMtdE9SeEswa0J5aGRCdFBfcGxGR1RJNlNaSTQyNk1CZWxsTjhlUlRTMElhV0Z1QUFVTjhhbVFvY0JnbXdJVkRZTE83czlmRHJoVkhxT0xia2FVa0VGbjVmQWZT?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25f764f12aeaa9cc30a3ea31",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:55:46+00:00",
+      "last_update": "2026-11-26T01:55:46+00:00",
+      "event": "Irfan stars as Pakistan dominate Snooker World Cup knockouts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cup",
+        "dawn",
+        "dominate",
+        "irfan",
+        "knockouts",
+        "pakistan",
+        "snooker",
+        "stars",
+        "world"
+      ],
+      "source_excerpt": "Irfan stars as Pakistan dominate Snooker World Cup knockouts Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEk0cVRGcHdsSmZPUHhqcXZZWGVIXzRfTjdkS3MwdkJlSXdMNEpuUlE5dUhQRkNXdS1aamh3VGtxRTd1RTNBOHE2ZWdZQWFnRWRnN05QNzQtVGYxNm16NVdhVzV5WVlDWEdMMDJuYzVTSGJlSTB5ZnlveERIcHFZVG1tdHNzSHU2VUpCUlJLRW44VHZpNXVSLVBn?oc=5",
+          "published_at": "2026-11-26T01:55:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEk0cVRGcHdsSmZPUHhqcXZZWGVIXzRfTjdkS3MwdkJlSXdMNEpuUlE5dUhQRkNXdS1aamh3VGtxRTd1RTNBOHE2ZWdZQWFnRWRnN05QNzQtVGYxNm16NVdhVzV5WVlDWEdMMDJuYzVTSGJlSTB5ZnlveERIcHFZVG1tdHNzSHU2VUpCUlJLRW44VHZpNXVSLVBn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "35f49701534a7238318e33b6",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:55:46+00:00",
+      "last_update": "2026-11-26T01:55:46+00:00",
+      "event": "Asim lone Pakistani in CAS squash last eight",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asim",
+        "cas",
+        "dawn",
+        "eight",
+        "last",
+        "lone",
+        "pakistani",
+        "squash"
+      ],
+      "source_excerpt": "Asim lone Pakistani in CAS squash last eight Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEVMajRGSkt2RnJCSnBacXRJQzdhSjNpZElsN0gzb0FYQzJsbnZOcFNiS0ZDeDRFWWxJTWx3b3lvWFhUX2NfTkh6MHJ2bGhhUS0xRW8zSDJHTDNKaHJmU3ZzZGpabzdBVzJBM1ZCSXZNTG5fOTBGWnZ2cGFBX1h5bFV5Y1Q?oc=5",
+          "published_at": "2026-11-26T01:55:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEVMajRGSkt2RnJCSnBacXRJQzdhSjNpZElsN0gzb0FYQzJsbnZOcFNiS0ZDeDRFWWxJTWx3b3lvWFhUX2NfTkh6MHJ2bGhhUS0xRW8zSDJHTDNKaHJmU3ZzZGpabzdBVzJBM1ZCSXZNTG5fOTBGWnZ2cGFBX1h5bFV5Y1Q?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c81aaa1c052d4afb6be99f99",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:56:16+00:00",
+      "last_update": "2026-11-26T01:56:16+00:00",
+      "event": "PPP concerned about Balochistan situation",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "balochistan",
+        "concerned",
+        "dawn",
+        "ppp",
+        "situation"
+      ],
+      "source_excerpt": "PPP concerned about Balochistan situation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFFsYjhDWjcwYjh0NGxrY0YyRlVuTEpfdDlQakxDUE1FYnA2X0hBQlpXUXNfTDhJZVpZclp4OFhpUURNanh4cEp6X0VnQkNON3I3X1hrdUV5NzFHV0h2V05sWkFCOWgxTG4yaVo4SG9obWdYbTk5dm82cGFpLUxqSg?oc=5",
+          "published_at": "2026-11-26T01:56:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFFsYjhDWjcwYjh0NGxrY0YyRlVuTEpfdDlQakxDUE1FYnA2X0hBQlpXUXNfTDhJZVpZclp4OFhpUURNanh4cEp6X0VnQkNON3I3X1hrdUV5NzFHV0h2V05sWkFCOWgxTG4yaVo4SG9obWdYbTk5dm82cGFpLUxqSg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "68225361b9f691dd3e049130",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:54:37+00:00",
+      "last_update": "2026-11-26T01:54:37+00:00",
+      "event": "Islamabad, Beijing set sights on energy investment",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beijing",
+        "dawn",
+        "energy",
+        "investment",
+        "islamabad",
+        "set",
+        "sights"
+      ],
+      "source_excerpt": "Islamabad, Beijing set sights on energy investment Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJvSHFGYnRsSWtoTmhPMGxFRGZQRGw3MG5pbWYzWHdtRkRDU3J1b1VSbElYNXBabUtLQVUtUzVwU1l3NzFna3J6LTFhTFgyb3hqTWVYeVlJcnVONGFGcWJ1MVdwTWZad0IzZGdzbWxaVEdxZ0hVbU50UEhFdll4b09NaHYzajJhbkxJ?oc=5",
+          "published_at": "2026-11-26T01:54:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGJvSHFGYnRsSWtoTmhPMGxFRGZQRGw3MG5pbWYzWHdtRkRDU3J1b1VSbElYNXBabUtLQVUtUzVwU1l3NzFna3J6LTFhTFgyb3hqTWVYeVlJcnVONGFGcWJ1MVdwTWZad0IzZGdzbWxaVEdxZ0hVbU50UEhFdll4b09NaHYzajJhbkxJ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b50f90eeab6615c63fd82e68",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:57:29+00:00",
+      "last_update": "2026-11-26T01:57:29+00:00",
+      "event": "Pakistan Learning Festival concludes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "concludes",
+        "dawn",
+        "festival",
+        "learning",
+        "pakistan"
+      ],
+      "source_excerpt": "Pakistan Learning Festival concludes Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdGNUYmphWEFMeFdvckY2OW5HX2gtMFRSTFZEZEU0c2FvcVNfNVlIZENEbHlucXFSRGF2bW9hS2ZLUl9peWdpSXgzMXphSnNhSVM5QVRsZGpVeGVkZUFkWEFrcHVSa2Q2RVh1V2V1LUpWMERHOXl5T3NR?oc=5",
+          "published_at": "2026-11-26T01:57:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdGNUYmphWEFMeFdvckY2OW5HX2gtMFRSTFZEZEU0c2FvcVNfNVlIZENEbHlucXFSRGF2bW9hS2ZLUl9peWdpSXgzMXphSnNhSVM5QVRsZGpVeGVkZUFkWEFrcHVSa2Q2RVh1V2V1LUpWMERHOXl5T3NR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa6a8a56a4f0959aca752fa8",
+      "remembered_at": "2026-11-26T02:52:06.723097+00:00",
+      "event_date": "2026-11-26T01:54:37+00:00",
+      "last_update": "2026-11-26T01:54:37+00:00",
+      "event": "Pakistan wants human control in nuclear decision-making",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "control",
+        "dawn",
+        "decision",
+        "human",
+        "making",
+        "nuclear",
+        "pakistan",
+        "wants"
+      ],
+      "source_excerpt": "Pakistan wants human control in nuclear decision-making Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXNiV0RxQzRyb1Y4TmFOcGRLaHpwMHcyMW9Yd25ISTN4TmlzNEVHdmw4dEw2YVNxbC02ZllTZGVnbkdteG5pYmstRlBOOTJBYTdYYTVQYnBRX1hWRU1sbkhySTRTbmh3bG15SlRETzJxVGNmOWVYRGZFOXFiY2RiRllJZVdZaElCTWtHdmVDT25vYjQ?oc=5",
+          "published_at": "2026-11-26T01:54:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXNiV0RxQzRyb1Y4TmFOcGRLaHpwMHcyMW9Yd25ISTN4TmlzNEVHdmw4dEw2YVNxbC02ZllTZGVnbkdteG5pYmstRlBOOTJBYTdYYTVQYnBRX1hWRU1sbkhySTRTbmh3bG15SlRETzJxVGNmOWVYRGZFOXFiY2RiRllJZVdZaElCTWtHdmVDT25vYjQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T01:53:45.590578+00:00"
+  "updated_at": "2026-11-26T02:52:06.723097+00:00"
 }
