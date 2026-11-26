@@ -1,145 +1,144 @@
-# News Hub report - Fri 27 Nov, 03:53 AM PKT
+# News Hub report - Fri 27 Nov, 04:52 AM PKT
 
 ## Collection
-- New items this run: 21 | items in rolling pool: 463
-- Unique story clusters: 411 (duplicates merged: 52)
-- Clusters dropped as already published/queued: 36; unchanged since last analysis: 6
-- Items per outlet: The Express Tribune 5, Geo News 3, AP News 2, Dawn 1, The News International 1, Al Jazeera 1, GSMArena 1, BBC Health 1, https://houseofsaud.com/ 1, NBC News 1, Mondoweiss 1, The Hill 1
+- New items this run: 10 | items in rolling pool: 365
+- Unique story clusters: 323 (duplicates merged: 42)
+- Clusters dropped as already published/queued: 35; unchanged since last analysis: 4
+- Items per outlet: Dawn Latest 2, BBC 2, Al Jazeera 2, BBC Health 2, BBC Science 1, BBC World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Tarar criticises Fazl and Bilawal over protests and referendum debate  [NORMAL]
-- Poster: عطا تارڑ کی فضل اور بلاول پر احتجاج اور ریفرنڈم کے معاملے پر تنقید / Tarar critiques Fazl and Bilawal over protests | category politics
-- Alternative headline: Atta Tarar slams opposition leaders over recent protests and referendum talks
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5
-- Supporting coverage: Geo News
-- Keywords: Atta Tarar, Fazlur Rehman, Bilawal Bhutto, protests, referendum, politics | hashtags: #AttaTarar #BilawalBhutto #FazlurRehman #PakistanPolitics #News
-- Scheduled: Fri 27 Nov, 03:53 AM PKT
-- Caption:
-```
-Federal Minister Atta Tarar has lashed out at opposition leaders Fazlur Rehman and Bilawal Bhutto Zardari over ongoing political protests and the referendum debate.
-
-Federal Minister Atta Tarar has strongly criticised political leaders Fazlur Rehman and Bilawal Bhutto Zardari in connection with recent protests and discussions surrounding a potential referendum. The remarks highlight ongoing political tensions and sharp disagreements among key political stakeholders in the country.
-
-وفاقی وزیر عطا تارڑ نے حالیہ سیاسی احتجاج اور ریفرنڈم کے مباحثے کے حوالے سے مولانا فضل الرحمٰن اور بلاول بھutto زرداری پر شدید تنقید کی ہے۔ ان بیانات سے ملک کے اہم سیاسی رہنماؤں کے درمیان جاری کشیدگی اور اختلافات ظاہر ہوتے ہیں۔
-
-According to Geo News
-
-#AttaTarar #BilawalBhutto #FazlurRehman #PakistanPolitics #News
-```
-
-### Bournemouth and Milan secure stunning comeback victories in Europa League  [NORMAL]
-- Poster: بورنموت اور میلان کی یوروپا لیگ میں شاندار کم بیک فتوحات / Bournemouth and Milan win in Europa League | category sports
-- Alternative headline: Europa League: Bournemouth and AC Milan pull off impressive comeback wins
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5
-- Supporting coverage: Dawn
-- Keywords: Europa League, Bournemouth, AC Milan, comeback victories, football, sports | hashtags: #EuropaLeague #ACMilan #Bournemouth #Football #SportsNews
-- Scheduled: Fri 27 Nov, 04:03 AM PKT
-- Caption:
-```
-Both Bournemouth and AC Milan staged dramatic comebacks to secure crucial victories in their latest Europa League encounters.
-
-In recent Europa League action, both Bournemouth and AC Milan demonstrated remarkable resilience by registering thrilling comeback victories. The hard-fought wins have boosted their respective campaigns in the European tournament, entertaining football fans with dramatic turnarounds on the pitch.
-
-یوروپا لیگ کے ایکشن میں بورنموت اور اے سی میلان دونوں نے شاندار کارکردگی کا مظاہرہ کرتے ہوئے سنسنی خیز کم بیک فتوحات حاصل کی ہیں۔ ان مشکل فتوحات سے دونوں ٹیموں کی ٹورنامنٹ میں پوزیشن مزید مستحکم ہو گئی ہے۔
-
-First reported by Dawn
-
-#EuropaLeague #ACMilan #Bournemouth #Football #SportsNews
-```
-
-### Bangladesh garment workers clash with police after wage hike falls short  [NORMAL]
-- Poster: بنگلہ دیش میں کم اجرت پرگارمنٹ ورکرز اور پولیس کے درمیان جھڑپیں / Bangladesh garment workers clash with police | category world
-- Alternative headline: Police clash with garment workers in Bangladesh over inadequate wages
+### Report reveals CIA used waterboarding more widely than admitted  [NORMAL]
+- Poster: سی آئی اے نے اعتراف سے زیادہ افراد پر واٹر بورڈنگ کی / CIA waterboarded more people than admitted | category other
+- Alternative headline: CIA tortured more individuals with waterboarding than previously acknowledged
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Bangladesh garment workers, wage protest, police clashes, minimum wage, Al Jazeera, textile workers | hashtags: #Bangladesh #GarmentWorkers #Protest #MinimumWage #WorldNews
-- Scheduled: Fri 27 Nov, 04:13 AM PKT
+- Keywords: CIA, waterboarding, torture, New York Times, US agency | hashtags: #CIA #Waterboarding #Torture #NewYorkTimes
+- Scheduled: Fri 27 Nov, 04:52 AM PKT
 - Caption:
 ```
-Bangladeshi garment workers clashed with police after arguing that a recent 36 percent minimum wage increase still fell short of their demands.
+A recent New York Times report supports the long-held belief that the CIA used waterboarding more extensively than officially acknowledged.
 
-Bangladeshi garment workers clashed with police following widespread dissatisfaction over wages. Although workers recently received a 36 percent minimum wage increase, protesters argued the raise remains inadequate to cope with rising living costs, leading to renewed street demonstrations and confrontations with law enforcement.
+A New York Times report has lent credence to the long-held belief that the controversial torture method of waterboarding was used much more widely by the CIA than the US agency previously admitted.
 
-بنگلہ دیش میں گارمنٹ کے کارکنوں اور پولیس کے درمیان جھڑپیں ہوئیں کیونکہ کارکنوں کا کہنا تھا کہ کم از کم اجرت میں 36 فیصد اضافہ ان کے مطالبات کے مطابق ناکافی ہے۔ مہنگائی کے پیش نظر یہ احتجاج شدت اختیار کر گیا۔
+نیویارک ٹائمز کی ایک رپورٹ نے اس طویل عرصے سے چلی آ رہی رائے کو تقویت دی ہے کہ سی آئی اے کی طرف سے واٹر بورڈنگ کا طریقہ کار اس سے کہیں زیادہ وسیع پیمانے پر استعمال کیا گیا جتنا کہ امریکی ادارے نے پہلے اعتراف کیا تھا۔
 
 First reported by Al Jazeera
 
-#Bangladesh #GarmentWorkers #Protest #MinimumWage #WorldNews
+#CIA #Waterboarding #Torture #NewYorkTimes
 ```
 
-### Man and dog narrowly escape powerful king tide in Oregon  [NORMAL]
-- Poster: اوریگون میں طاقتور لہروں سے شخص اور اس کا کتا بال بال بچ گئے / Man and dog escape Oregon king tide | category disaster
-- Alternative headline: Watch: Massive king tide nearly sweeps away man and dog in Oregon
+### NHS warns of severe flu surge as hospital admissions spike  [NORMAL]
+- Poster: این ایچ ایس نے اسپتالوں میں فلو کے مریضوں میں اضافے پر خبردار کر دیا / NHS warns of severe flu surge in hospitals | category health
+- Alternative headline: Health officials urge vaccinations amid alarming rise in flu cases
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: king tide, Oregon, Cannon Beach, coastal flooding, BBC Science, weather | hashtags: #Oregon #KingTide #BBCNews #Weather #Safety
-- Scheduled: Fri 27 Nov, 04:23 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: NHS, flu, hospital admissions, UKHSA, vaccination, England | hashtags: #NHS #Flu #Health #Vaccination #UK
+- Scheduled: Fri 27 Nov, 05:02 AM PKT
 - Caption:
 ```
-Footage from Oregon shows a man and his dog narrowly escaping after being caught by a powerful wave during high king tides.
+Health officials in England have urged vulnerable populations to get vaccinated immediately following a sharp surge in severe flu cases.
 
-Footage captured at Cannon Beach in Oregon shows a man and his dog being swept by a powerful wave after a surge during unusually high king tides. Fortunately, local police confirmed that both escaped unharmed. Authorities have issued warnings for people to stay away from coastal areas due to dangerous waves.
+A surge in severe flu cases has prompted health officials in England to urge high-risk individuals to get vaccinated. The UK Health Security Agency reported that hospital admissions rose by nearly 80% over the last week, reaching the highest level for this time of year since before the pandemic.
 
-امریکہ کے علاقے اوریگون میں کینن بیچ کی فوٹیج میں دیکھا گیا کہ ایک شخص اور اس کا کتا طاقتور لہروں کی زد میں آنے کے بعد بال بال بچ گئے۔ پولیس نے تصدیق کی کہ دونوں محفوظ رہے، جبکہ حکام نے ساحلی علاقوں سے دور رہنے کی ہدایت کی ہے۔
+فلو کے شدید کیسز میں اضافے نے انگلینڈ کے صحت کے حکام کو مجبور کیا ہے کہ وہ خطرے سے دوچار افراد پر زور دیں کہ وہ جلد از جلد ویکسین لگوائیں۔ یو کے ہیلتھ سیکیورٹی ایجنسی نے بتایا کہ گزشتہ ہفتے اسپتالوں میں داخلے کی شرح میں تقریبا 80 فیصد اضافہ ہوا ہے۔
 
-First reported by BBC Science
+According to BBC Health
 
-#Oregon #KingTide #BBCNews #Weather #Safety
+#NHS #Flu #Health #Vaccination #UK
 ```
 
-- Indian outlets blocked this run: 0 items
+### Zelensky questions Trump's friendly stance toward Putin in BBC interview  [NORMAL]
+- Poster: زیلنسکی کا بی بی سی انٹرویو میں ٹرمپ اور پوتن کی دوستی پر اظہارِ تعجب / Zelensky questions Trump-Putin friendship | category world
+- Alternative headline: Ukrainian president calls Trump and Putin friendship strange
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5
+- Supporting coverage: BBC
+- Keywords: Zelensky, Trump, Putin, BBC, friendship, interview | hashtags: #Zelensky #Trump #Putin #BBC #Ukraine
+- Scheduled: Fri 27 Nov, 05:12 AM PKT
+- Caption:
+```
+In a recent BBC interview, Ukrainian President Volodymyr Zelensky questioned Donald Trump's portrayal of Vladimir Putin as a friend.
+
+In an interview with the BBC, Ukrainian President Volodymyr Zelensky questioned Donald Trump's decision to post a photo embracing Vladimir Putin, calling it strange to view an aggressor and killer as a friend.
+
+بی بی سی کو دیئے گئے ایک انٹرویو میں یوکرین کے صدر ولادیمیر زیلنسکی نے ڈونلڈ ٹرمپ کی طرف سے ولادیمیر پوتن کو گلے لگاتے ہوئے تصویر پوسٹ کرنے پر سوال اٹھایا اور کہا کہ کسی حملہ آور اور قاتل کو دوست سمجھنا عجیب ہے۔
+
+According to BBC
+
+#Zelensky #Trump #Putin #BBC #Ukraine
+```
+
+### Asian stocks ride rollercoaster following Jensen Huang's return as Nvidia CEO  [NORMAL]
+- Poster: ینسن ہوانگ کی واپسی کے بعد ایشیائی مارکیٹس میں اتار چڑھاؤ / Asian stocks volatile after Nvidia CEO return | category tech
+- Alternative headline: What's next for Asian markets after major AI bets on Nvidia?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC
+- Keywords: Nvidia, Jensen Huang, Asian stocks, AI, BBC | hashtags: #Nvidia #JensenHuang #AI #AsiaStocks #BBC
+- Scheduled: Fri 27 Nov, 05:22 AM PKT
+- Caption:
+```
+Asian stock markets have experienced significant volatility following Jensen Huang's shocking return as Nvidia's CEO.
+
+Asian stock markets have experienced a rollercoaster ride following the shocking return of Jensen Huang as Nvidia CEO, prompting questions about the region's massive artificial intelligence investments tied to the chip giant.
+
+ینسن ہوانگ کی اینڈیا کے سی ای او کے طور پر حیرت انگیز واپسی کے بعد ایشیائی اسٹاک مارکیٹس میں اتار چڑھاؤ دیکھا گیا ہے، جس سے خطے کی مصنوعی ذہانت کی بڑی سرمایہ کاری کے حوالے سے سوالات اٹھ کھڑے ہوئے ہیں۔
+
+According to BBC
+
+#Nvidia #JensenHuang #AI #AsiaStocks #BBC
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
@@ -309,12 +308,12 @@ First reported by BBC Science
 - [needs_review] normal | Severe traffic jams reported on major thoroughfares across Karachi | Thu 26 Nov, 09:20 PM PKT
 - [needs_review] normal | Israeli strikes on Gaza kill senior education official and seven other | Thu 26 Nov, 09:52 PM PKT
 - [published] normal | Two Italian workers killed in Iranian drone attack on Kuwait | Thu 26 Nov, 10:02 PM PKT
-- [queued] normal | Diesel tanker capsizes near Ibiza, leaving one crew member dead | Thu 26 Nov, 10:12 PM PKT
-- [queued] normal | UK net migration falls to lowest level in nearly three decades | Thu 26 Nov, 10:22 PM PKT
-- [queued] normal | Flour prices surge sharply in Karachi following official notification | Thu 26 Nov, 10:32 PM PKT
-- [queued] normal | Pregnant US inmate escapes in prison vehicle after medical appointment | Thu 26 Nov, 10:42 PM PKT
+- [needs_review] normal | Diesel tanker capsizes near Ibiza, leaving one crew member dead | Thu 26 Nov, 10:12 PM PKT
+- [needs_review] normal | UK net migration falls to lowest level in nearly three decades | Thu 26 Nov, 10:22 PM PKT
+- [needs_review] normal | Flour prices surge sharply in Karachi following official notification | Thu 26 Nov, 10:32 PM PKT
+- [needs_review] normal | Pregnant US inmate escapes in prison vehicle after medical appointment | Thu 26 Nov, 10:42 PM PKT
 - [published] promo | [YouTube] MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NE | Thu 26 Nov, 10:52 PM PKT
-- [queued] normal | Netanyahu's corruption trial back in focus amid new court suggestions | Thu 26 Nov, 10:52 PM PKT
+- [published] normal | Netanyahu's corruption trial back in focus amid new court suggestions | Thu 26 Nov, 10:52 PM PKT
 - [queued] normal | French actor Gerard Depardieu to stand trial for alleged 2018 rape | Thu 26 Nov, 11:02 PM PKT
 - [queued] normal | Rana Irfan clinches Snooker World Cup title after defeating Mohammad A | Thu 26 Nov, 11:12 PM PKT
 - [queued] normal | 143 illegal under-construction buildings sealed in Karachi after trage | Thu 26 Nov, 11:22 PM PKT
@@ -337,12 +336,16 @@ First reported by BBC Science
 - [queued] normal | Bournemouth and Milan secure stunning comeback victories in Europa Lea | Fri 27 Nov, 04:03 AM PKT
 - [queued] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
 - [queued] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
+- [queued] normal | Report reveals CIA used waterboarding more widely than admitted | Fri 27 Nov, 04:52 AM PKT
+- [queued] normal | NHS warns of severe flu surge as hospital admissions spike | Fri 27 Nov, 05:02 AM PKT
+- [queued] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
+- [queued] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
 
 ## Publishing this run
-- Published 'Two Italian workers killed in Iranian drone attack on Kuwait'.
+- Published 'Netanyahu's corruption trial back in focus amid new court suggestions'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4147 | output tokens: 2696
+- Calls: 2 | prompt tokens: 5303 | output tokens: 2862
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
