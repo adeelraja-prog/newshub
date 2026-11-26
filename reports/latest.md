@@ -1,63 +1,181 @@
-# News Hub report - Thu 26 Nov, 06:22 PM PKT
+# News Hub report - Thu 26 Nov, 07:39 PM PKT
 
 ## Collection
-- New items this run: 151 | items in rolling pool: 872
-- Unique story clusters: 730 (duplicates merged: 142)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 66, Geo News 15, ProPakistani 9, ARY News 6, samaa tv 5, Dawn Latest 5, Al Jazeera 5, Wired 5, The News International 4, TechJuice 4, Jang Urdu 3, The Express Tribune 2
+- New items this run: 138 | items in rolling pool: 908
+- Unique story clusters: 780 (duplicates merged: 128)
+- Clusters dropped as already published/queued: 15; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 53, Geo News 12, ProPakistani 10, Al Jazeera 7, ARY News 6, TechJuice 5, Pakistan Today 5, samaa tv 4, The News International 4, Dawn Pakistan 4, Jang Urdu 4, The Guardian 4
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja Shorts: 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | https://www.youtube.com/watch?v=RZGZLBYQqh4
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices fall as Fed rate-hike expectations weigh - Nov 26, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Trump continue with Iran war despite funding restrictions? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices fall as Fed rate-hike expectations weigh - Nov 26, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Trump continue with Iran war despite funding restrictions? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump, NATO chief urge Russia not to 'expand' Ukraine war | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Local holiday declared in Islamabad on Nov 27 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Maldives discuss direct flights from May 2027, maritime links to boost trade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gold price jumps in Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold prices fall as Fed rate-hike expectations weigh - Nov 26, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Can Trump continue with Iran war despite funding restrictions? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 106/120 | empty: 3 | failed: 11 | malformed/partial: 11
-- Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News Search | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 107/120 | empty: 3 | failed: 10 | malformed/partial: 10
+- Trusted publisher desks with at least one healthy source: 9/10
+- ATTENTION: Express News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV Search | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: X Search · PTI | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: South Asia Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: X Search · Judiciary | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Pakistan Provincial Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: US Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: AJK Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Prices | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India politics | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BBC India Economy | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- Trusted publisher desks with no healthy source: Express News
 
 ## Selected for the queue
-- Indian outlets blocked this run: 3 items
+### Islamabad and Rawalpindi declare local public holiday on November 27  [NORMAL]
+- Poster: سلام آباد اور راولپنڈی میں 27 نومبر کو مقامی تعطیل کا اعلان / Local holiday in Islamabad and Rawalpindi on Nov 27 | category politics
+- Alternative headline: Nov 27 announced as local holiday in Islamabad and Rawalpindi
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047220/local-holiday-declared-in-islamabad-on-nov-27 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047220/local-holiday-declared-in-islamabad-on-nov-27
+- Supporting coverage: TechJuice, Dawn Latest, Dawn, samaa tv, Dawn Pakistan
+- Keywords: local holiday Islamabad, Rawalpindi holiday, November 27, ICT notification, essential services, Rawalpindi schools | hashtags: #Islamabad #Rawalpindi #LocalHoliday #Pakistan #News
+- Scheduled: Thu 26 Nov, 07:39 PM PKT
+- Caption:
+```
+The Islamabad Capital Territory and Rawalpindi have announced a local public holiday for November 27, while essential services remain operational.
+
+Local authorities have announced a public holiday in the Islamabad Capital Territory and Rawalpindi for November 27. Notifications state that essential services, hospitals, and emergency departments will remain operational, while educational institutes in Rawalpindi will follow their scheduled exams.
+
+مقامی حکام نے اسلام آباد کیپیتل ٹ território اور راولپنڈی میں 27 نومبر کو عام تعطیل کا اعلان کیا ہے۔ نوٹیفیکیشن کے مطابق ضروری خدمات، اسپتال اور ہنگامی محکمے کھلے رہیں گے جبکہ راولپنڈی میں تعلیمی اداروں کے امتحانات شیڈول کے مطابق ہوں گے۔
+
+First reported by Dawn Latest; also reported by TechJuice.
+
+#Islamabad #Rawalpindi #LocalHoliday #Pakistan #News
+```
+
+### Pakistan hosts Makkah defense pact meeting in Islamabad today  [NORMAL]
+- Poster: پاکستان آج اسلام آباد میں مکہ دفاعی معاہدے کے اجلاس کی میزبانی کر رہا ہے / Pakistan hosts Makkah defense pact meeting in Islamabad | category other
+- Alternative headline: Makkah pact nations gather in Islamabad to discuss regional conflicts
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjdwcTJheFdZSFV1ZS03X2I0bE83UzE5NDVIbmV1UTFhTHBMeFVqZnhEVDJEdjN6LVlITy1Kbk54aUphWkFZdDBoTHJMY3MtYW92TV92eHlNVE9sanlkYnRtZW9JQ0JscUhBYlpUVnNGVjY0dFVubjBiSHNEUVNKZVZYWVlfV0JDX0hpVkZDU2FPVTc5N21ZWA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjdwcTJheFdZSFV1ZS03X2I0bE83UzE5NDVIbmV1UTFhTHBMeFVqZnhEVDJEdjN6LVlITy1Kbk54aUphWkFZdDBoTHJMY3MtYW92TV92eHlNVE9sanlkYnRtZW9JQ0JscUhBYlpUVnNGVjY0dFVubjBiSHNEUVNKZVZYWVlfV0JDX0hpVkZDU2FPVTc5N21ZWA?oc=5
+- Supporting coverage: samaa tv, samaa tv, Aaj English TV, Dawn, Geo News, Geo News
+- Keywords: Makkah defense pact, Islamabad meeting, Khawaja Asif, Saudi Arabia Yemen, defence pact nations, Pakistan foreign policy | hashtags: #Pakistan #Islamabad #MakkahPact #Defense #ForeignPolicy
+- Scheduled: Thu 26 Nov, 07:49 PM PKT
+- Caption:
+```
+Pakistan is hosting a meeting of the Makkah defense pact nations in Islamabad today to discuss key regional issues.
+
+Pakistan is hosting a high-level meeting of the Makkah defense pact nations in Islamabad. Defence Minister Khawaja Asif stated that the participating nations are discussing regional conflicts, including the situation between Saudi Arabia and Yemen.
+
+پاکستان اسلام آباد میں مکہ دفاعی معاہدے کے ممالک کے اہم اجلاس کی میزبانی کر رہا ہے۔ وزیر دفاع خواجہ آصف نے بتایا کہ شریک ممالک سعودی عرب اور یمن کے درمیان تنازع سمیت علاقائی امور پر تبادلہ خیال کر رہے ہیں۔
+
+First reported by samaa tv; also reported by Geo News.
+
+#Pakistan #Islamabad #MakkahPact #Defense #ForeignPolicy
+```
+
+### Gold prices fall in Pakistan as Federal Reserve rate-hike expectations weigh  [NORMAL]
+- Poster: امریکی فیڈرل ریزرو کی شرح سود بڑھنے کی توقعات سے سونے کی قیمتوں میں کمی / Gold prices drop in Pakistan amid Fed rate-hike expectations | category other
+- Alternative headline: Global market pressures push gold prices down in Pakistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWs1c0o2VVI5ZTFVcHB6WTlnRXdrNUJyQmdVaHJGeW1ORE5WSEN6d2RHNkY5ZnpsZk5SOVBJUHNCdGxjU1NVZHhqelZZQnFleTd4dmtpS0p5ckE1bVdFemllOWt2M0l4ZFJNc3lYT25ka3JiRGxRbkVrLTdXRGtWOE1lNXpZMloxQTdjUXRKcTMxeW9QT3FuSjkwTDU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWs1c0o2VVI5ZTFVcHB6WTlnRXdrNUJyQmdVaHJGeW1ORE5WSEN6d2RHNkY5ZnpsZk5SOVBJUHNCdGxjU1NVZHhqelZZQnFleTd4dmtpS0p5ckE1bVdFemllOWt2M0l4ZFJNc3lYT25ka3JiRGxRbkVrLTdXRGtWOE1lNXpZMloxQTdjUXRKcTMxeW9QT3FuSjkwTDU?oc=5
+- Supporting coverage: samaa tv, Geo News, Geo News, Geo News, Investify, samaa tv
+- Keywords: gold prices Pakistan, Fed rate hike, bullion market, gold rate down, international gold, economy | hashtags: #GoldRate #Pakistan #Economy #FedRate #MarketUpdate
+- Scheduled: Thu 26 Nov, 07:59 PM PKT
+- Caption:
+```
+Gold prices in Pakistan registered a decline as expectations of US Federal Reserve rate hikes weighed on global bullion markets.
+
+Gold prices in Pakistan fell amid international market trends influenced by expectations of US Federal Reserve rate hikes. Traders and investors closely monitor global economic indicators as bullion values fluctuate in response to shifting monetary policies.
+
+امریکی فیڈرل ریزرو کی جانب سے شرح سود میں اضافے کی توقعات کے اثرات کے باعث پاکستان میں سونے کی قیمتوں میں کمی واقع ہوئی ہے۔ عالمی مالیاتی منڈیوں کے رجحانات کے پیش نظر صرافہ مارکیٹ میں اتار چڑھاؤ جاری ہے۔
+
+First reported by samaa tv; also reported by Geo News.
+
+#GoldRate #Pakistan #Economy #FedRate #MarketUpdate
+```
+
+### US budget bill creates funding pressure on Trump regarding Iran conflict  [NORMAL]
+- Poster: امریکہ میں بجٹ بل کے ذریعے ٹرمپ پر ایران جنگ کے حوالے سے دباؤ / US budget bill puts funding pressure on Trump over Iran war | category us_politics
+- Alternative headline: Can Trump continue Iran military operations amid budget restrictions?
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss
+- Supporting coverage: Newsweek, https://houseofsaud.com/, Al Jazeera, Al Jazeera
+- Keywords: Trump Iran war funding, US Congress budget, government shutdown, US politics, military funding, Al Jazeera | hashtags: #USPolitics #DonaldTrump #IranWar #Congress #BreakingNews
+- Scheduled: Thu 26 Nov, 08:09 PM PKT
+- Caption:
+```
+A new US Congress budget bill could serve as a legislative pressure tactic against Donald Trump regarding ongoing military actions.
+
+A proposed United States Congress budget bill could act as a significant pressure tactic on President Donald Trump to conclude military engagements involving Iran. While supporters view it as a necessary check, analysts warn it risks triggering a government shutdown.
+
+امریکی کانگریس کا ایک تجویز کردہ بجٹ بل صدر ڈونلڈ ٹرمپ پر ایران سے متعلق عسکری کارروائیاں ختم کرنے کے لیے دباؤ کا ذریعہ بن سکتا ہے۔ ناقدین اور حامیوں کے مطابق اس سے حکومتی شٹ ڈاؤن کا خطرہ بھی پیدا ہو سکتا ہے۔
+
+First reported by Al Jazeera; also reported by Newsweek.
+
+#USPolitics #DonaldTrump #IranWar #Congress #BreakingNews
+```
+
+### Karachi court rejects plea to extend stay order in Admin Society building case  [NORMAL]
+- Poster: کراچی کی عدالت نے ایڈمن سوسائٹی عمارت کیس میں حکم امتداد کی مدت بڑھانے کی استدعا مسترد کر دی / Karachi court rejects request to extend stay order in building case | category courts
+- Alternative headline: Stay order withdrawn as Karachi court dismisses building owner's request
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case
+- Supporting coverage: ARY News
+- Keywords: Karachi court stay order, Admin Society building collapse, SBCA, ARY News, civil judge Karachi, court proceedings | hashtags: #Karachi #AdminSociety #CourtNews #SBCA #Pakistan
+- Scheduled: Thu 26 Nov, 08:19 PM PKT
+- Caption:
+```
+A Karachi court has withdrawn an interim stay order concerning a building collapse case in Admin Society after the plaintiff failed to submit arguments.
+
+A senior civil judge in Karachi rejected a plea to extend an interim stay order regarding a building collapse in Admin Society. The court withdrew the relief after noting that the plaintiff failed to present arguments despite multiple opportunities and warnings.
+
+کراچی کی ایک سینئر سول عدالت نے ایڈمن سوسائٹی میں عمارت کے انہدام سے متعلق کیس میں عبوری حکم امتداد میں توسیع کی درخواست مسترد کر دی۔ عدالت نے نوٹ کیا کہ مدعی متعدد مواقع کے باوجود دلائل دینے میں ناکام رہا۔
+
+First reported by ARY News.
+
+#Karachi #AdminSociety #CourtNews #SBCA #Pakistan
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
 
 ## Queue status
-- [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
 - [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
@@ -204,11 +322,11 @@
 - [needs_review] normal | Sindh CM inaugurates Siemens training academy at NED University | Thu 26 Nov, 11:45 AM PKT
 - [needs_review] normal | Two cousins lose their lives in a tragic gas cylinder blast in KP | Thu 26 Nov, 11:55 AM PKT
 - [published] normal | CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue | Thu 26 Nov, 12:27 PM PKT
-- [queued] normal | President Zardari Holds Key Meeting to Strengthen Pakistan-Bangladesh  | Thu 26 Nov, 12:37 PM PKT
-- [queued] normal | Duran Duran Guitarist and Songwriter Andy Taylor Dies at 65 | Thu 26 Nov, 12:47 PM PKT
-- [queued] normal | Sindh CM Orders Immediate Suspension of Senior Local Govt and Police O | Thu 26 Nov, 12:57 PM PKT
-- [queued] normal | Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast | Thu 26 Nov, 01:07 PM PKT
-- [queued] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
+- [needs_review] normal | President Zardari Holds Key Meeting to Strengthen Pakistan-Bangladesh  | Thu 26 Nov, 12:37 PM PKT
+- [needs_review] normal | Duran Duran Guitarist and Songwriter Andy Taylor Dies at 65 | Thu 26 Nov, 12:47 PM PKT
+- [needs_review] normal | Sindh CM Orders Immediate Suspension of Senior Local Govt and Police O | Thu 26 Nov, 12:57 PM PKT
+- [needs_review] normal | Bank of Korea Hikes Interest Rates and Raises GDP Growth Forecast | Thu 26 Nov, 01:07 PM PKT
+- [needs_review] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
 - [queued] normal | Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16 | Thu 26 Nov, 03:57 PM PKT
 - [queued] normal | 31 dead in Egypt fire after fuel truck overturns | Thu 26 Nov, 04:07 PM PKT
 - [queued] normal | Pakistan motorbike passenger becomes global cricket sensation after st | Thu 26 Nov, 04:17 PM PKT
@@ -222,29 +340,22 @@
 - [queued] normal | Elon Musk pledges two SpaceX shares for every American child | Thu 26 Nov, 05:29 PM PKT
 - [queued] normal | Highway explosion in Giza: 31 killed and dozens injured in Egypt | Thu 26 Nov, 05:39 PM PKT
 - [queued] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
-- [queued] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
+- [published] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
+- [queued] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
+- [queued] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
+- [queued] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
+- [queued] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
+- [queued] normal | Karachi court rejects plea to extend stay order in Admin Society build | Thu 26 Nov, 08:19 PM PKT
 
 ## Publishing this run
-- Published 'CDA Plans Blue Area-Style Commercial Bylaws for New Islamabad Avenue'.
+- Published '[YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT'.
 
 ## Gemini usage
-- Calls: 7 | prompt tokens: 17736 | output tokens: 7719
-- Errors: 7
+- Calls: 4 | prompt tokens: 19692 | output tokens: 6694
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 71 column 7 (char 3440)
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 282 column 7 (char 13147)
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 172 column 7 (char 7644)

@@ -168540,7 +168540,806 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "767fa00587684b28e7f5016f",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T09:32:09+00:00",
+      "last_update": "2026-11-26T12:37:22+00:00",
+      "event": "Gold prices fall as Fed rate-hike expectations weigh - Nov 26, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "expectations",
+        "fall",
+        "fed",
+        "gold",
+        "hike",
+        "nov",
+        "prices",
+        "rate",
+        "samaa",
+        "weigh"
+      ],
+      "source_excerpt": "Gold prices fall as Fed rate-hike expectations weigh - Nov 26, 2026 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWs1c0o2VVI5ZTFVcHB6WTlnRXdrNUJyQmdVaHJGeW1ORE5WSEN6d2RHNkY5ZnpsZk5SOVBJUHNCdGxjU1NVZHhqelZZQnFleTd4dmtpS0p5ckE1bVdFemllOWt2M0l4ZFJNc3lYT25ka3JiRGxRbkVrLTdXRGtWOE1lNXpZMloxQTdjUXRKcTMxeW9QT3FuSjkwTDU?oc=5",
+          "published_at": "2026-11-26T09:32:09+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGRJdXBOV1FobllYM216cnRtYzNRRVM2RUlUUEJDVFZJSktwS0tqM2RWZnBqQm9EZXYwSDFUWmRkQUZJU09YQnJyQVpIdXlwbTM1Qm1xUU13Q1lwSzlLRS04b21iaG1LR3A1aEJyREpxSmVDZlQ0Y0pkeC1nZGJyZ0QwWGJIQ01q?oc=5",
+          "published_at": "2026-11-26T09:37:17+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQUpnZm1CTXZIOVc1ZjFEdjR3d1ZTWi00WnRyUG1sbmRqRzVRQ29VWWVYQ0VidFRWbkpESkx6RGx4LUJzWS0ybEFTUnluRmtUODhLckVVRERPSUVVNWcwb0d6Q1dnb2hzWWRWZG96LXhNN0RSbUlzcmhWWDg2U0U?oc=5",
+          "published_at": "2026-11-26T10:06:33+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYlRMaXlDd21jX3lBTng1eVlYcVFCNGJKQzdVSW9BWW5zTjhWY3JRZDh2S2NMRDktVmRhOVFBRTZNdUhsRVdIWkEzeXo5VUoyM1FHMnNqUHBpZU5WRC1LYS1hSnl4TkI0bkJEVmJFbWNJSlV1T002V2VuQUcyTms?oc=5",
+          "published_at": "2026-11-26T10:06:33+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnd3SVIzOF9jeXlMc1FmUktyaHIwVGxmS3NycjJXbTBKWGsyaVVFMmdMTWFxMlZZUUNPTFIzaG80OWNFWkNVdlpRTWJDX1VLMkZOTjZHOVo3UFZOTlR2ZnR2WVc3bDJ5dnVxY2FWdG5zSlBiaXlNU05Gdnl3S3VKVEl2WXg0RE1NczNEMWpqUFYwdWFkLTljOHpEdDRjT3c2Y29nc1J5cG1FTXNqVzJN?oc=5",
+          "published_at": "2026-11-26T11:30:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3ZySkJDZVdyUkw2aEczNlRuU1NNck5QYWFNSE85c0tKNGpPTXpyRWJDZFFnaGFpSXVjbkdGbS1tYmtFOU9fRFhYR2ZXNk5uMmVkUURFUjlsVkRRUnM5aE5oVXpYaFE1Wk9hX2NNWjFaQkV6bG1MNHRiX1BtRlZIRkw4T3RsaW8?oc=5",
+          "published_at": "2026-11-26T12:37:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWs1c0o2VVI5ZTFVcHB6WTlnRXdrNUJyQmdVaHJGeW1ORE5WSEN6d2RHNkY5ZnpsZk5SOVBJUHNCdGxjU1NVZHhqelZZQnFleTd4dmtpS0p5ckE1bVdFemllOWt2M0l4ZFJNc3lYT25ka3JiRGxRbkVrLTdXRGtWOE1lNXpZMloxQTdjUXRKcTMxeW9QT3FuSjkwTDU?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "50ce9f124ca3339355935695",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T10:00:00+00:00",
+      "last_update": "2026-11-26T14:20:59+00:00",
+      "event": "Can Trump continue with Iran war despite funding restrictions?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "bill",
+        "budget",
+        "but",
+        "can",
+        "congress",
+        "continue",
+        "could",
+        "despite",
+        "end",
+        "funding",
+        "iran",
+        "pressure",
+        "restrictions",
+        "serve",
+        "shutdown",
+        "tactic",
+        "the",
+        "trigger",
+        "trump",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpc0tiLWpqZGZ1Rl80Q0NnLWdNS2VqYjZlU05WNmlWOEVsZlljbktOQmptWXdOQzFPNXlqa3JmMy1wRjZOTWNTZFdMYmdDRmJGN2xlZXdYWHl2LVF2TmUzdE1xcDJPbVpSXzh2X2RrYmhXWjdoRUZaOW80bmU?oc=5",
+          "published_at": "2026-11-26T10:00:00+00:00"
+        },
+        {
+          "name": "https://houseofsaud.com/",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Va1VFdDJ1NFRKTVRvX2EwVkY2QlplUnhENWctcTZqX1FrR3ZuQ3hDLXNjZ0xkVElVRDVXTmRsS2l5ZlB4dTdNMGd1dTVybzNBWU5ZOU0wRjZRcUcxcFFuYnNxdGo?oc=5",
+          "published_at": "2026-11-26T10:04:36+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+          "published_at": "2026-11-26T14:17:21+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3RqQ0dlWHRjbm5jSTd1SjV0YU9vUlhIX1JCUTh6ZFh6RWVHSFY4V2ZWWWNjMG9DVEd6QnUxckNYdFZ1TGtjTjZqTDc5U3E4eUJwYUw5S0dUN0JLR19QazVucDdlai1IN1FTZlhZbGc3dmY3R1o5UEZVRFFiRmNGd2RUQ3piVmZ2VlBaczVkYXN0Yy01N1Fjd1B5cTVOYTl5NnpFZElB0gGrAUFVX3lxTFBzYkdXQXFreExwcXdDQ2Q3Ung3MlFVU21HMnA2RnN5dFdUeklpWHNtX3lBTUxPaThVSDBZMmZzOE5aYldab3l4cHJwQW1tTzNfODZGYTZOUlk2eEQwRFV1VWotclhidVlwVVc0SVRUODRGVGhKRUZqa3ptZ1M3MExfMUdVLUsyaTVvallfbTg3aldjNHNCS1ZlVHJNYWFPN1pMSk9QNTlaNXdQOA?oc=5",
+          "published_at": "2026-11-26T14:20:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d48bb10703af7ab12a1c73f",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:03:53+00:00",
+      "last_update": "2026-11-26T14:03:53+00:00",
+      "event": "Karachi court rejects plea to extend stay order in Admin Society building case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admin",
+        "building",
+        "case",
+        "court",
+        "extend",
+        "karachi",
+        "order",
+        "plea",
+        "rejects",
+        "society",
+        "stay"
+      ],
+      "source_excerpt": "Karachi court rejects plea to extend stay order in Admin Society building case",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case",
+          "published_at": "2026-11-26T14:03:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case",
+        "publisher_url": "https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "51f40a16520512f5c9a99439",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T12:33:23+00:00",
+      "last_update": "2026-11-26T12:52:00+00:00",
+      "event": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "aged",
+        "and",
+        "andy",
+        "bandmates",
+        "bon",
+        "brought",
+        "death",
+        "duran",
+        "fire",
+        "for",
+        "guitarist",
+        "his",
+        "indelible",
+        "music",
+        "other",
+        "our",
+        "say",
+        "simon",
+        "swagger",
+        "taylor",
+        "tributes"
+      ],
+      "source_excerpt": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T12:33:23+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFlfbVM1SEl5Q0EtdFVvQUc5NFlMZkhsd3B4Y0pnOWdJblRES2VUZFpaUWRYeXZFRUczakdOZ1VuWmlueDFTMUtjc0EwaXE1TlFvUXhiR21LTlpKeUJvSm1YeWRMc0pLLVVvMVFsTHpqRU1odVI5Zm0tZTFiOURWT0N2U0V5ajl0aWVwYUJEYU9xMmllVk41WnZYS24xVDhjS3FqZjBXSFU?oc=5",
+          "published_at": "2026-11-26T12:52:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692730-andy-taylor-cause-of-death-duran-duran-guitarists-health-battle-revealed",
+          "published_at": "2026-11-26T12:52:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c31400f500ad0169eb11455",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:35:22+00:00",
+      "last_update": "2026-11-26T14:35:22+00:00",
+      "event": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "appointment",
+        "been",
+        "burglary",
+        "charges",
+        "escapes",
+        "for",
+        "had",
+        "imprisoned",
+        "inmate",
+        "medical",
+        "mexico",
+        "multiple",
+        "new",
+        "pregnant",
+        "prison",
+        "rebecca",
+        "taylor",
+        "theft",
+        "vehicle"
+      ],
+      "source_excerpt": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T14:35:22+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSS10MXk4SmplZzF1MUxlb0VBSU9kYTlFSXJhZ2NlanJPUHdBWmtMdDczcUkta2FvTmRMTnlfQWMtcFpHeUZWUDZLMFhLLUx1YUR5bGFNMnB6M0U?oc=5",
+          "published_at": "2026-11-26T14:35:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "852b0db4e0a42b1efd1dbf1d",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:10:00+00:00",
+      "last_update": "2026-11-26T14:10:00+00:00",
+      "event": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "baghdad",
+        "between",
+        "border",
+        "control",
+        "crossings",
+        "deepening",
+        "drawn",
+        "erbil",
+        "feud",
+        "from",
+        "has",
+        "how",
+        "iraq",
+        "kurdish",
+        "minister",
+        "move",
+        "oil",
+        "oilfields",
+        "prime",
+        "region",
+        "response",
+        "rift",
+        "sharp",
+        "take",
+        "zaidi"
+      ],
+      "source_excerpt": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+          "published_at": "2026-11-26T14:10:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb8204797fd2100d386af9d3",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:02:02+00:00",
+      "last_update": "2026-11-26T14:02:02+00:00",
+      "event": "Inside Liberland, the crypto ‘country’ few have heard of",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allen",
+        "antoine",
+        "build",
+        "country",
+        "crypto",
+        "few",
+        "free",
+        "group",
+        "have",
+        "heard",
+        "inside",
+        "jazeera",
+        "liberland",
+        "nation",
+        "people",
+        "reports",
+        "tax",
+        "the",
+        "trying"
+      ],
+      "source_excerpt": "Al Jazeera's Antoine Allen reports on a group of people trying to build a tax-free nation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+          "published_at": "2026-11-26T14:02:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b512fef5ea029e9a52158afc",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T13:34:21+00:00",
+      "last_update": "2026-11-26T13:34:21+00:00",
+      "event": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "can",
+        "claims",
+        "courts",
+        "eastern",
+        "erdogan",
+        "faces",
+        "for",
+        "gas",
+        "haftar",
+        "hurdles",
+        "libya",
+        "maritime",
+        "mediterranean",
+        "meets",
+        "pivotal",
+        "process",
+        "reunify",
+        "rival",
+        "sides",
+        "turkiye",
+        "unification"
+      ],
+      "source_excerpt": "Maritime agreement pivotal for Turkiye's Eastern Mediterranean gas claims as Libya's unification process faces hurdles.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+          "published_at": "2026-11-26T13:34:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5a677c3f6d61ec9def851034",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T13:29:30+00:00",
+      "last_update": "2026-11-26T13:29:30+00:00",
+      "event": "Are we ready to live longer? | Centre Stage",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "are",
+        "centre",
+        "foundation",
+        "future",
+        "healthcare",
+        "jazeera",
+        "live",
+        "longer",
+        "qatar",
+        "ready",
+        "slama",
+        "slim",
+        "stage",
+        "talks",
+        "the",
+        "wish"
+      ],
+      "source_excerpt": "Dr Slim Slama of Qatar Foundation's WISH talks to Al Jazeera about the future of healthcare.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+          "published_at": "2026-11-26T13:29:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25e8c118939d58b87341b502",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T13:23:46+00:00",
+      "last_update": "2026-11-26T13:23:46+00:00",
+      "event": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2006",
+        "after",
+        "amendments",
+        "anti",
+        "antiterror",
+        "attack",
+        "church",
+        "committee",
+        "deadly",
+        "debates",
+        "draft",
+        "for",
+        "house",
+        "its",
+        "jordan",
+        "karak",
+        "law",
+        "legal",
+        "parliament",
+        "refer",
+        "review",
+        "terrorism",
+        "the",
+        "votes"
+      ],
+      "source_excerpt": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+          "published_at": "2026-11-26T13:23:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "561a56953c4dc907ed32296f",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:00:20+00:00",
+      "last_update": "2026-11-26T14:00:20+00:00",
+      "event": "Millions of people to see average monthly mortgage payments rise by £100",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "average",
+        "deal",
+        "estimated",
+        "face",
+        "fixed",
+        "higher",
+        "millions",
+        "monthly",
+        "more",
+        "mortgage",
+        "off",
+        "payments",
+        "people",
+        "previously",
+        "repayments",
+        "rise",
+        "roll",
+        "see",
+        "than",
+        "they",
+        "when"
+      ],
+      "source_excerpt": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T14:00:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "de4cc5135a303a3389eed023",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T13:40:46+00:00",
+      "last_update": "2026-11-26T13:40:46+00:00",
+      "event": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "blame",
+        "brothers",
+        "but",
+        "chain",
+        "collapse",
+        "collapsed",
+        "firm",
+        "for",
+        "gordon",
+        "have",
+        "its",
+        "jack",
+        "last",
+        "management",
+        "mps",
+        "owner",
+        "owners",
+        "poundland",
+        "retailer",
+        "says",
+        "simon",
+        "the",
+        "them",
+        "without",
+        "would",
+        "year"
+      ],
+      "source_excerpt": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T13:40:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83af23d374b313e4e333fb5f",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:05:27+00:00",
+      "last_update": "2026-11-26T14:05:27+00:00",
+      "event": "When will Poundland close? Five questions about its future",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "close",
+        "closing",
+        "down",
+        "five",
+        "future",
+        "hapen",
+        "its",
+        "poundland",
+        "questions",
+        "staff",
+        "suppliers",
+        "what",
+        "when",
+        "why",
+        "will"
+      ],
+      "source_excerpt": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T14:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6f295d40efc6e3b965d457c",
+      "remembered_at": "2026-11-26T14:39:05.267150+00:00",
+      "event_date": "2026-11-26T14:00:42+00:00",
+      "last_update": "2026-11-26T14:00:42+00:00",
+      "event": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "assessed",
+        "being",
+        "carrying",
+        "damage",
+        "diesel",
+        "environmental",
+        "ibiza",
+        "killing",
+        "near",
+        "one",
+        "possible",
+        "rescue",
+        "sea",
+        "service",
+        "sinks",
+        "spain",
+        "still",
+        "tanker",
+        "the",
+        "tonnes"
+      ],
+      "source_excerpt": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T14:00:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T13:22:06.270813+00:00"
+  "updated_at": "2026-11-26T14:39:05.267150+00:00"
 }
