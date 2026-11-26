@@ -1,73 +1,168 @@
-# News Hub report - Fri 27 Nov, 01:57 AM PKT
+# News Hub report - Fri 27 Nov, 02:55 AM PKT
 
 ## Collection
-- New items this run: 20 | items in rolling pool: 605
-- Unique story clusters: 532 (duplicates merged: 73)
-- Clusters dropped as already published/queued: 37; unchanged since last analysis: 4
-- Items per outlet: The Express Tribune 5, Al Jazeera 4, Geo News 2, TechCrunch 2, Dawn 1, Dawn Pakistan 1, Engadget 1, GSMArena 1, BBC Health 1, Around Prague 1, The Guardian 1
+- New items this run: 18 | items in rolling pool: 513
+- Unique story clusters: 446 (duplicates merged: 67)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 8
+- Items per outlet: Geo News 5, Pakistan Today 3, Al Jazeera 2, Dawn Pakistan 1, The Verge 1, Engadget 1, BBC Science 1, The Virginian-Pilot 1, Arab News PK 1, Al Arabiya English 1, TRT World 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are winter rains forcing Palestinians in Gaza to flee again? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Judge strikes down Trump’s latest restrictions on US birthright citizenship | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Watch: Roofs torn off and streets under water as severe weather hits US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Iran Confirms Qatar and Pakistan Still Relaying US Messages  [NORMAL]
-- Poster: امریکہ اور ایران کے درمیان مذاکرات، ثالثی کا سلسلہ جاری / Qatar and Pakistan Continue US-Iran Mediation | category world
-- Alternative headline: Mediators Keep US-Iran Communication Open, Says Tehran
+### Why Donald Trump's new global tariffs are a lesser threat  [NORMAL]
+- Poster: ٹرمپ کے نئے ٹیرف کا خطرہ کم کیوں ہے؟ / Why Trump's tariffs pose a lesser threat | category world
+- Alternative headline: US trade representative details tentative approach to upcoming global tariffs
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05WR3h6VHcweTdfS1dfTXVqREJuVkc5UWlQLWxHeUVkTDdZY3ExS194VmNZNDIydm5RYnh6TmUzRk9qcnlQYnNsUHpoZmVpV0NQQXBkOExSQkJmeE5vaHplcF84SHdrMmRZdGEzVVlvbEFpZXdaY2k1cE1CTFlIVGtGMm5RZl9RR0F3aHZ3djUxRldBQnFJcGJ6RWJhZmpYbm5aMjhEU2htYTQ5R1VWa0NRdXBGMlVDYXZPSlVXVQ?oc=5
-- Supporting coverage: Dawn, samaa tv
-- Keywords: US-Iran talks, Iran foreign minister, Qatar mediation, Pakistan mediation, US Iran messages | hashtags: #USIran #Iran #Pakistan #Qatar #Diplomacy
-- Scheduled: Fri 27 Nov, 01:57 AM PKT
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: tariffs, Trump, US trade, negotiations, global economy | hashtags: #Trump #Tariffs #USEconomy #GlobalTrade
+- Scheduled: Fri 27 Nov, 02:55 AM PKT
 - Caption:
 ```
-Iran's foreign minister confirms that regional mediators are actively transmitting messages between Tehran and Washington.
+As the US outlines its upcoming tariffs with room for negotiation, analysts explore why this round feels less threatening than previous announcements.
 
-Iran's foreign minister has stated that regional mediators, including Qatar and Pakistan, continue to transmit messages between Iran and the United States, keeping diplomatic communication channels active amidst ongoing tensions.
+Unlike previous dramatic announcements, recent US tariff plans feature talks of negotiations and are not expected to take effect until January or February. Officials note the rates are upper ceilings currently open to discussion following months of hearings.
 
-ایران کے وزیر خارجہ کا کہنا ہے کہ قطر اور پاکستان سمیت علاقائی ثالث ایران اور امریکہ کے درمیان پیغامات کی ترسیل جاری رکھے ہوئے ہیں، جس سے کشیدہ حالات میں سفارتی رابطے بحال ہیں۔
+پچھلے ڈرامائی اعلانات کے برعکس، حالیہ امریکی ٹیرف منصوبوں میں مذاکرات کی بات کی گئی ہے اور یہ جنوری یا فروری تک نافذ نہیں ہوں گے۔ حکام کا کہنا ہے کہ شرحیں بالائی حدود ہیں جو کئی ماہ کی سماعتوں کے بعد فی الحال بات چیت کے لیے کھلی ہیں۔
 
-First reported by Dawn.
+First reported by BBC Business
 
-#USIran #Iran #Pakistan #Qatar #Diplomacy
+#Trump #Tariffs #USEconomy #GlobalTrade
+```
+
+### Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts operations  [NORMAL]
+- Poster: سعودی عرب کی جازان ریفائنری پر حملہ، ایک کارکن ہلاک / Attack on Saudi Jazan refinery kills worker | category security
+- Alternative headline: Jazan refinery attack sparks fire and casualties, Saudi Energy Ministry reports
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Jazan refinery, Saudi Arabia, attack, Aramco, energy security | hashtags: #SaudiArabia #JazanRefinery #Aramco #BreakingNews
+- Scheduled: Fri 27 Nov, 03:05 AM PKT
+- Caption:
+```
+An attack on Saudi Aramco's Jazan refinery resulted in a tragic casualty and disrupted operations, according to the Saudi Energy Ministry.
+
+An attack on Saudi Aramco's Jazan refinery killed a Nepali national, injured several people, and sparked a fire. The Saudi Energy Ministry confirmed the incident led to disrupted operations at the facility.
+
+سعودی آرامکو کی جازان ریفائنری پر حملے میں ایک نیپالی شہری ہلاک، کئی افراد زخمی اور آگ لگ گئی۔ سعودی وزارت توانائی نے تصدیق کی کہ اس واقعے سے تنصیب میں کام کاج متاثر ہوا۔
+
+First reported by Al Jazeera
+
+#SaudiArabia #JazanRefinery #Aramco #BreakingNews
+```
+
+### Indian politician facing murder charges hosts massive 400,000-guest wedding  [NORMAL]
+- Poster: قتل کے مقدمات کا سامنا کرنے والے بھارتی سیاستدان کی شاندار شادی / Indian politician hosts massive wedding | category other
+- Alternative headline: Anant Singh hosts lavish wedding for daughter in India's poorest state
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: wedding, Anant Singh, Bihar, India, politician | hashtags: #India #Bihar #Wedding #News
+- Scheduled: Fri 27 Nov, 03:15 AM PKT
+- Caption:
+```
+An estimated 400,000 guests attended a politician's daughter's lavish wedding in India's poorest state, sparking widespread attention.
+
+An estimated 400,000 people attended Indian politician Anant Singh's daughter's lavish wedding. The high-profile event took place in Bihar, recognized as India's poorest state.
+
+بھارتی سیاستدان اننت سنگھ کی بیٹی کی شاندار شادی میں تقریباً 400,000 افراد نے شرکت کی۔ یہ پرتعیش تقریب بھارت کی غریب ترین ریاست بہار میں منعقد ہوئی۔
+
+First reported by Al Jazeera
+
+#India #Bihar #Wedding #News
+```
+
+### Mexico seeks US talks over suspected SpaceX rocket debris near border  [NORMAL]
+- Poster: میکسیکو کا مشتبہ اسپیس ایکس ملبے پر امریکہ سے مذاکرات کا مطالبہ / Mexico seeks talks on SpaceX debris | category world
+- Alternative headline: Growing concerns in Mexico as SpaceX ramps up Texas rocket launches
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: SpaceX, Mexico, US talks, debris, Texas | hashtags: #SpaceX #Mexico #US #SpaceDebris
+- Scheduled: Fri 27 Nov, 03:25 AM PKT
+- Caption:
+```
+Mexico has raised concerns and requested talks with the US following suspected SpaceX debris near their shared border.
+
+Mexico is seeking talks with the United States regarding suspected SpaceX debris. The concern follows SpaceX ramping up its rocket launches from the Starbase facility located near the Texas border.
+
+میکسیکو نے اسپیس ایکس کے مشتبہ ملبے کے معاملے پر امریکہ سے بات چیت کا مطالبہ کیا ہے۔ یہ تشویش ٹیکساس کی سرحد کے قریب اسٹار بیس سے اسپیس ایکس کے راکٹ لانچ میں اضافے کے بعد سامنے آئی ہے۔
+
+First reported by Al Jazeera
+
+#SpaceX #Mexico #US #SpaceDebris
+```
+
+### Baby's fight for life gives UK Christmas tractor run special meaning  [NORMAL]
+- Poster: بچے کی زندگی کی جنگ نے کرسمس ٹریکٹر رَن کو خاص بنا دیا / Baby's fight gives tractor run special meaning | category health
+- Alternative headline: How one family's personal medical journey transformed a local Christmas tradition
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: Christmas tractor run, baby, Coventry, fundraising, health | hashtags: #ChristmasTractorRun #Coventry #Fundraising #BBCHealth
+- Scheduled: Fri 27 Nov, 03:35 AM PKT
+- Caption:
+```
+A young baby's courageous fight for survival has added deep personal significance to this year's regional Christmas tractor run.
+
+Arthur's inspiring fight for life has given this year's Christmas tractor run a deeply personal meaning for organiser Martin Brandreth and his family in Coventry and Warwickshire.
+
+آرتھر کی زندگی کی جنگ نے کووینٹری اور وارکشائر میں آرگنائزر مارٹن برینڈریتھ اور ان کے خاندان کے لیے اس سال کے کرسمس ٹریکٹر رَن کو ایک خاص اور ذاتی معنی دے دیے ہیں۔
+
+First reported by BBC Health
+
+#ChristmasTractorRun #Coventry #Fundraising #BBCHealth
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
@@ -228,11 +323,11 @@ First reported by Dawn.
 - [published] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
 - [published] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
 - [published] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
-- [queued] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
-- [queued] normal | Karachi court rejects plea to extend stay order in Admin Society build | Thu 26 Nov, 08:19 PM PKT
-- [queued] normal | Karachi building collapse: Former LG secretary suspended for 120 days | Thu 26 Nov, 08:40 PM PKT
-- [queued] normal | Roads blocked and traffic heavily congested in several parts of Karach | Thu 26 Nov, 08:50 PM PKT
-- [queued] normal | Pakistani national among four injured in Iranian attack in Kuwait | Thu 26 Nov, 09:00 PM PKT
+- [needs_review] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
+- [needs_review] normal | Karachi court rejects plea to extend stay order in Admin Society build | Thu 26 Nov, 08:19 PM PKT
+- [needs_review] normal | Karachi building collapse: Former LG secretary suspended for 120 days | Thu 26 Nov, 08:40 PM PKT
+- [needs_review] normal | Roads blocked and traffic heavily congested in several parts of Karach | Thu 26 Nov, 08:50 PM PKT
+- [published] normal | Pakistani national among four injured in Iranian attack in Kuwait | Thu 26 Nov, 09:00 PM PKT
 - [queued] normal | Karachi building collapse death toll rises to four as rescue ops conti | Thu 26 Nov, 09:10 PM PKT
 - [queued] normal | Severe traffic jams reported on major thoroughfares across Karachi | Thu 26 Nov, 09:20 PM PKT
 - [queued] normal | Israeli strikes on Gaza kill senior education official and seven other | Thu 26 Nov, 09:52 PM PKT
@@ -256,15 +351,20 @@ First reported by Dawn.
 - [queued] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
 - [queued] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
 - [queued] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
+- [queued] normal | Why Donald Trump's new global tariffs are a lesser threat | Fri 27 Nov, 02:55 AM PKT
+- [queued] normal | Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts o | Fri 27 Nov, 03:05 AM PKT
+- [queued] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
+- [queued] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
+- [queued] normal | Baby's fight for life gives UK Christmas tractor run special meaning | Fri 27 Nov, 03:35 AM PKT
 
 ## Publishing this run
-- Published 'Gold prices fall in Pakistan as Federal Reserve rate-hike expectations weigh'.
+- Published 'Pakistani national among four injured in Iranian attack in Kuwait'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 2417 | output tokens: 494
+- Calls: 3 | prompt tokens: 4593 | output tokens: 2786
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

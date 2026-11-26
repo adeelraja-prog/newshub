@@ -172400,7 +172400,390 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "94029eeab15546c04173c1c0",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T21:04:39+00:00",
+      "last_update": "2026-11-26T21:04:39+00:00",
+      "event": "Bangladesh garment workers clash with police over low wages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bangladesh",
+        "bangladeshi",
+        "clash",
+        "clashed",
+        "demands",
+        "fell",
+        "garment",
+        "increase",
+        "low",
+        "minimum",
+        "over",
+        "police",
+        "short",
+        "their",
+        "wage",
+        "wages",
+        "with",
+        "workers"
+      ],
+      "source_excerpt": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+          "published_at": "2026-11-26T21:04:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9562e4c4355dedfc07adaf59",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T21:51:16+00:00",
+      "last_update": "2026-11-26T21:51:16+00:00",
+      "event": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "both",
+        "department",
+        "dog",
+        "escape",
+        "escaped",
+        "his",
+        "king",
+        "man",
+        "narrowly",
+        "oregon",
+        "police",
+        "powerful",
+        "says",
+        "the",
+        "tide",
+        "unharmed",
+        "watch"
+      ],
+      "source_excerpt": "Both the man and his dog escaped unharmed, the police department says.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T21:51:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "887c4d42a50300c8391f8ebe",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:31:27+00:00",
+      "last_update": "2026-11-26T20:31:27+00:00",
+      "event": "Everyday noise pollution",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "everyday",
+        "express",
+        "noise",
+        "pollution",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Everyday noise pollution The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41TlJwX2UzWGhTV0VscC1KbzVBSmVtaWI0RTZqenhfNXdWaDBWS0daTHNDY0xBWmNZRDdhQUtLWDZjaVZJSWhDdDRVLV9CelRuYU5EcVVMR3FQZzhUelJjc1RHWVJEekxabHhNUDYzRQ?oc=5",
+          "published_at": "2026-11-26T20:31:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41TlJwX2UzWGhTV0VscC1KbzVBSmVtaWI0RTZqenhfNXdWaDBWS0daTHNDY0xBWmNZRDdhQUtLWDZjaVZJSWhDdDRVLV9CelRuYU5EcVVMR3FQZzhUelJjc1RHWVJEekxabHhNUDYzRQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eef0f304dd03150881e04524",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:21:17+00:00",
+      "last_update": "2026-11-26T20:21:17+00:00",
+      "event": "Students’ struggles",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "struggles",
+        "students",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Students’ struggles The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qS2xTNnRUamV4VUx3U2NGb2J0dlB1a0tVMTFzVzljUkxsNHdxcTFGUVA5NzBQc0tsOENjSHVhd3hOMDZSZGw2UFRBVXZxZGZDTlVaZzVZY181RU9YUzZKR0xJYkxGV1U?oc=5",
+          "published_at": "2026-11-26T20:21:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qS2xTNnRUamV4VUx3U2NGb2J0dlB1a0tVMTFzVzljUkxsNHdxcTFGUVA5NzBQc0tsOENjSHVhd3hOMDZSZGw2UFRBVXZxZGZDTlVaZzVZY181RU9YUzZKR0xJYkxGV1U?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a76320ea43b1ec76e2b9b01",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:31:52+00:00",
+      "last_update": "2026-11-26T20:31:52+00:00",
+      "event": "Ghotki’s silent crisis",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crisis",
+        "express",
+        "ghotki",
+        "silent",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Ghotki’s silent crisis The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jbW5YSEYzbWZtWGFJQWRNdWo2SWdqb3ZxbVFKcVZ3Sm8zRmNVaWF6MkptYTBrSGV4T1Vuemd5WWxyZGJkX0I4c3Eyb2ppUll6VlVSbncxZmxNQ2thUEd3bGRia1dfRjBnWEFJ?oc=5",
+          "published_at": "2026-11-26T20:31:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jbW5YSEYzbWZtWGFJQWRNdWo2SWdqb3ZxbVFKcVZ3Sm8zRmNVaWF6MkptYTBrSGV4T1Vuemd5WWxyZGJkX0I4c3Eyb2ppUll6VlVSbncxZmxNQ2thUEd3bGRia1dfRjBnWEFJ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8b38db6efb2ea72fe9924bc",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:40:00+00:00",
+      "last_update": "2026-11-26T20:40:00+00:00",
+      "event": "Colman Domingo answers Michael backlash with four words on X",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "answers",
+        "awards",
+        "backlash",
+        "began",
+        "blunt",
+        "colman",
+        "critic",
+        "domingo",
+        "exchange",
+        "for",
+        "four",
+        "has",
+        "him",
+        "hurt",
+        "leave",
+        "michael",
+        "oscar",
+        "out",
+        "predictions",
+        "pundits",
+        "question",
+        "replying",
+        "responded",
+        "the",
+        "their",
+        "urged",
+        "wednesday",
+        "when",
+        "who",
+        "with",
+        "words",
+        "you"
+      ],
+      "source_excerpt": "Colman Domingo answers Michael backlash with four words on X Colman Domingo has responded to a critic who urged awards pundits to leave him out of their Oscar predictions for Michael, replying on X with a blunt question: \"Who hurt you?\" The exchange began on Wednesday, when...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692787-colman-domingo-answers-michael-backlash-with-four-words-on-x",
+          "published_at": "2026-11-26T20:40:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692787-colman-domingo-answers-michael-backlash-with-four-words-on-x",
+        "publisher_url": "https://www.geo.tv/latest/692787-colman-domingo-answers-michael-backlash-with-four-words-on-x",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fc744b91e91e2c254b93502",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:35:00+00:00",
+      "last_update": "2026-11-26T20:35:00+00:00",
+      "event": "'Pervert glasses' named Australia's word of the year 2026: What does it mean?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2025",
+        "2026",
+        "after",
+        "another",
+        "australia",
+        "choosing",
+        "come",
+        "dictionary",
+        "does",
+        "for",
+        "glasses",
+        "has",
+        "interesting",
+        "its",
+        "macquarie",
+        "mean",
+        "named",
+        "pervert",
+        "refers",
+        "slop",
+        "smart",
+        "term",
+        "the",
+        "what",
+        "winner",
+        "with",
+        "word",
+        "year"
+      ],
+      "source_excerpt": "'Pervert glasses' named Australia's word of the year 2026: What does it mean? After choosing “AI slop” as its word of the year in 2025, Australia's Macquarie Dictionary has come up with another interesting winner for 2026: “pervert glasses”. The term refers to smart glasses...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692791-pervert-glasses-named-australias-word-of-the-year-2026-what-does-it-mean",
+          "published_at": "2026-11-26T20:35:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692791-pervert-glasses-named-australias-word-of-the-year-2026-what-does-it-mean",
+        "publisher_url": "https://www.geo.tv/latest/692791-pervert-glasses-named-australias-word-of-the-year-2026-what-does-it-mean",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "11689645f0b449db56a6a179",
+      "remembered_at": "2026-11-26T21:55:07.109527+00:00",
+      "event_date": "2026-11-26T20:16:42+00:00",
+      "last_update": "2026-11-26T20:16:42+00:00",
+      "event": "Licence to collapse",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "collapse",
+        "express",
+        "licence",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Licence to collapse The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xMV9PX2QzOFlGWktHR3JGOVpqLVVVbFVzcjQxVllTMFhTd3ZrSmNnOERlZzVEckNQenExQ3N1d3hNbXA0MzN5S2h6YW5qRlBfNEdlNXAwM25CalEyQlYyVUtxWmc4T2vSAW9BVV95cUxOcUZ0c0UxTGhkbFVXWk1NUFlHRWphc3lQbUJ1ZFFzYVBuRWNzMVlTZERndFZZN1U1cEM3VW5TanFpOUxFVC1kWURlOEtBUVA5aWFiNTVhTFdncVhFV0VlMUJOVGNJNThGSmZoUm1iOVE?oc=5",
+          "published_at": "2026-11-26T20:16:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xMV9PX2QzOFlGWktHR3JGOVpqLVVVbFVzcjQxVllTMFhTd3ZrSmNnOERlZzVEckNQenExQ3N1d3hNbXA0MzN5S2h6YW5qRlBfNEdlNXAwM25CalEyQlYyVUtxWmc4T2vSAW9BVV95cUxOcUZ0c0UxTGhkbFVXWk1NUFlHRWphc3lQbUJ1ZFFzYVBuRWNzMVlTZERndFZZN1U1cEM3VW5TanFpOUxFVC1kWURlOEtBUVA5aWFiNTVhTFdncVhFV0VlMUJOVGNJNThGSmZoUm1iOVE?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T20:57:43.639642+00:00"
+  "updated_at": "2026-11-26T21:55:07.109527+00:00"
 }
