@@ -1,168 +1,195 @@
-# News Hub report - Thu 26 Nov, 04:25 AM PKT
+# News Hub report - Thu 26 Nov, 05:21 AM PKT
 
 ## Collection
-- New items this run: 16 | items in rolling pool: 395
-- Unique story clusters: 348 (duplicates merged: 47)
-- Clusters dropped as already published/queued: 19; unchanged since last analysis: 2
-- Items per outlet: Geo News 5, Al Jazeera 2, The Express Tribune 1, TechCrunch 1, Ars Technica 1, GSMArena 1, BBC Health 1, BBC Science 1, Arab Center Washington DC 1, The New Arab 1, The Guardian 1
+- New items this run: 21 | items in rolling pool: 288
+- Unique story clusters: 246 (duplicates merged: 42)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 2
+- Items per outlet: Al Jazeera 5, Geo News 3, The News International 3, BBC Science 3, The Verge 2, samaa tv 1, Engadget 1, GSMArena 1, BBC Business 1, Foreign Policy 1, Dawn Pakistan 0, Dawn Latest 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Malen and Roma deny injury-hit PSG in Champions League draw | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Deadly truck fire is latest of Egypt’s transport disasters | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Long waits 'a tragedy' as thousands seek ADHD and autism assessments | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Images from Earth's asteroid defence test reveal new crater | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 30 killed in massive fire as fuel truck crashes on Cairo highway | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US grants SpaceX approval for 1 million space data centres | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A meeting with Democrats over healthcare? Trump says he’s open to it | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Houthis target Saudi Arabia’s Red Sea ports as strikes escalate | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- King tides and big waves batter coastal California | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Saudi-led coalition reports Houthi projectile strike on Jazan port  [NORMAL]
-- Poster: حوثی میزائل کا سعودی عرب کی جازان پورٹ پر حملہ / Houthi projectile hits Jazan port | category security
-- Alternative headline: Houthi projectile hits Jazan port in Saudi Arabia
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm1iSnBmNThXVEdsX3lrVXJrYmVwSVFhNlh4YWc5eFpmd3hXZS1Uc050bV9BaTBOVGt0VHdpVjJQOWZGYkJYSTVfRlZNWXAyd0FEMWNIYUpVX2YtNEU1Q3lETUQtcjg5LXFEVk56UnpTNTZNLU54UzM5dU4yOWs2NlpWbzJfTVdXQmtCdGZkRDl0R0lhNDBJc2lPRFpoUnVCVUk4?oc=5
-- Supporting coverage: Dawn, samaa tv
-- Keywords: Jazan port, Houthi projectile, Saudi-led coalition, Saudi Arabia | hashtags: #SaudiArabia #JazanPort #Houthis #MiddleEast
-- Scheduled: Thu 26 Nov, 04:25 AM PKT
-- Caption:
-```
-A Saudi-led coalition reports that a Houthi projectile has struck the kingdom's Jazan port.
-
-The Saudi-led coalition announced that a Houthi projectile struck the kingdom's Jazan port. No immediate details of casualties or extensive damages were widely highlighted in the initial brief report, which follows previous intercepted missile and drone attempts in the region.
-
-سعودی اتحاد نے اعلان کیا ہے کہ حوثی فائر کردہ ایک پراجیکٹائل نے مملکت کی جازان بندرگاہ کو نشانہ بنایا ہے۔ ابتدائی رپورٹ میں جانی نقصان یا بڑے پیمانے پر ہونے والے نقصان کی فوری تفصیلات سامنے نہیں آئیں۔
-
-First reported by Dawn
-
-#SaudiArabia #JazanPort #Houthis #MiddleEast
-```
-
-### Malen and Roma hold injury-hit PSG to 2-2 draw  [NORMAL]
-- Poster: روما نے زخمی پی ایس جی کو چیمپئنز لیگ میں روک دیا / Roma deny injury-hit PSG | category sports
-- Alternative headline: Roma and Malen deny PSG victory in Champions League
+### Explosion rocks Sanaa as Saudi coalition intercepts missiles over Riyadh  [NORMAL]
+- Poster: س صنعا میں دھماکہ، ریاض کے اوپر میزائل ناکام بنا دیئے گئے / Blast in Sanaa as missiles intercepted over Riyadh | category war
+- Alternative headline: Missiles intercepted over Riyadh following blast in Yemen's Sanaa
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Sanaa explosion, Saudi coalition, Riyadh missiles, Yemen strikes, Iran war | hashtags: #Sanaa #Riyadh #Yemen #SaudiArabia #MiddleEast
+- Scheduled: Thu 26 Nov, 05:21 AM PKT
+- Caption:
+```
+A powerful explosion struck Sanaa following air strikes near the airport, while the Saudi coalition intercepted missiles over Riyadh.
+
+A blast hit Sanaa after air strikes near the airport, as the Saudi-led coalition intercepted ballistic missiles over Riyadh. The escalation highlights widening regional tensions and ongoing cross-border strikes involving Houthi targets and coalition defenses.
+
+ایئرپورٹ کے قریب فضائی حملوں کے بعد صنعا میں ایک دھماکہ ہوا، جبکہ سعودی اتحاد نے ریاض کے اوپر میزائلوں کو ناکام بنا دیا۔ اس کشیدگی سے علاقائی تناؤ میں اضافے کا پتہ چلتا ہے۔
+
+First reported by Al Jazeera.
+
+#Sanaa #Riyadh #Yemen #SaudiArabia #MiddleEast
+```
+
+### US grants SpaceX approval to deploy 1 million space data centres  [NORMAL]
+- Poster: امریکہ نے اسپیس ایکس کو خلا میں ڈیٹا سینٹرز کی منظوری دے دی / US approves SpaceX for 1 million space data centers | category tech
+- Alternative headline: FCC signs off on SpaceX Starmind project for space data centers
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss
+- Supporting coverage: The Verge, Ars Technica, Al Jazeera, TechCrunch, BBC Science
+- Keywords: SpaceX data centers, FCC, Starmind project, Elon Musk, space satellites | hashtags: #SpaceX #FCC #ElonMusk #Starmind #SpaceTech
+- Scheduled: Thu 26 Nov, 05:31 AM PKT
+- Caption:
+```
+Elon Musk has hailed the FCC's approval of SpaceX's Starmind project as a major asset for America and the world.
+
+The United States Federal Communications Commission has authorized SpaceX to deploy up to 1 million satellites for its Starmind project, aiming to establish data centers in space. Elon Musk praised the regulatory approval as a significant milestone.
+
+امریکی فیڈرل کمیونیکیشنز کمیشن نے اسپیس ایکس کو اپنے اسٹارمائنڈ پروجیکٹ کے تحت خلا میں ایک ملین تک سیٹلائٹ نصب کرنے کی منظوری دے دی ہے۔ ایلন مسک نے اس فیصلے کو سراہا ہے۔
+
+First reported by Al Jazeera; also reported by The Verge, Ars Technica, and TechCrunch.
+
+#SpaceX #FCC #ElonMusk #Starmind #SpaceTech
+```
+
+### A meeting with Democrats over healthcare? Trump says he’s open to it  [NORMAL]
+- Poster: کیا ڈیموکریٹس سے صحت کے معاملے پر ملاقات ہوگی؟ ٹرمپ کا مثبت بیان / Trump open to healthcare meeting with Democrats | category politics
+- Alternative headline: Trump expresses openness to meeting Democrats to discuss healthcare policy
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Champions League, PSG, Roma, Malen | hashtags: #ChampionsLeague #PSG #Roma #Football
-- Scheduled: Thu 26 Nov, 04:35 AM PKT
+- Keywords: Trump healthcare, Democrats, Medicare for All, US politics | hashtags: #DonaldTrump #Healthcare #Democrats #USPolitics
+- Scheduled: Thu 26 Nov, 05:41 AM PKT
 - Caption:
 ```
-Holders Paris Saint-Germain struggled with an injury-ravaged squad as Roma held them to a 2-2 draw.
+Donald Trump says he is open to meeting with Democrats over healthcare, though experts remain sceptical about backing Medicare for All.
 
-Champions League holders Paris Saint-Germain were held to a 2-2 draw by Roma. The French side struggled on the pitch as they continued to manage an injury-ravaged squad during the European fixture.
+Donald Trump has stated he is open to a meeting with Democrats regarding healthcare. However, experts consulted by Al Jazeera expressed scepticism over whether he would ultimately back proposals like Medicare for All.
 
-چیمپئنز لیگ کی چیمپئن پیرس سینٹ جرمین کو روما نے دو کے مقابلے میں دو گول سے برابر پر روک دیا۔ انجری کا شکار ہونے والے اسکواڈ کی وجہ سے پی ایس جی کو میچ کے دوران شدید مشکلات کا سامنا کرنا پڑا۔
+ڈونلڈ ٹرمپ نے کہا ہے کہ وہ صحت کے امور پر ڈیموکریٹس سے ملاقات کے لیے تیار ہیں۔ تاہم، ماہرین نے اس بات پر شک کا اظہار کیا ہے کہ آیا وہ قومی صحت کے منصوبے کی حمایت کریں گے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#ChampionsLeague #PSG #Roma #Football
+#DonaldTrump #Healthcare #Democrats #USPolitics
 ```
 
-### Deadly truck fire is latest of Egypt’s transport disasters  [NORMAL]
-- Poster: قاہرہ کے قریب ٹرک میں آتشزدگی، متعدد ہلاک / Deadly truck fire near Cairo | category disaster
-- Alternative headline: Truck carrying gas cylinders catches fire near Cairo
+### Houthis target Saudi Arabia’s Red Sea ports as regional strikes escalate  [NORMAL]
+- Poster: حوثیوں کا سعودی عرب کی بحیرہ احمر کی بندرگاہوں کو نشانہ بنانے کا اعلان / Houthis target Saudi Red Sea ports | category war
+- Alternative headline: Red Sea ports targeted by Houthis amid escalating Saudi-Yemen strikes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: truck fire, Cairo, Egypt, transport disaster | hashtags: #Egypt #Cairo #TruckFire #Accident
-- Scheduled: Thu 26 Nov, 04:45 AM PKT
+- Keywords: Houthi Red Sea ports, Saudi Arabia, Sanaa explosion, ballistic missiles | hashtags: #Houthis #SaudiArabia #RedSea #YemenConflict
+- Scheduled: Thu 26 Nov, 05:51 AM PKT
 - Caption:
 ```
-Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo's Ring Road.
+Houthi forces have targeted Saudi Arabia's Red Sea ports as explosions were reported in Sanaa following intercepted ballistic missiles.
 
-A deadly truck fire near Cairo's Ring Road has added to Egypt's transport disasters. Dozens of people were killed and injured when the vehicle, reportedly carrying gas cylinders, caught fire.
+Houthi forces targeted Saudi Arabia's Red Sea ports amidst an escalation of regional strikes. The development follows reported explosions in Sanaa and air defenses intercepting ballistic missiles directed toward Riyadh.
 
-قاہرہ کی رنگ روڈ کے قریب گیس سلنڈروں سے بھرے ٹرک میں آگ لگنے سے متعدد افراد جاں بحق اور زخمی ہوگئے، جو مصر میں ٹرانسپورٹ کے حادثات کا تازہ ترین واقعہ ہے۔
+حوثی فورز نے علاقائی حملوں میں تیزی کے دوران سعودی عرب کی بحیرہ احمر کی بندرگاہوں کو نشانہ بنایا۔ یہ پیش رفت صنعا میں دھماکوں اور ریاض کی طرف میزائلوں کے روکے جانے کے بعد سامنے آئی ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Egypt #Cairo #TruckFire #Accident
+#Houthis #SaudiArabia #RedSea #YemenConflict
 ```
 
-### Long waits for ADHD and autism assessments called a tragedy  [NORMAL]
-- Poster: اے ڈی ایچ ڈی اور آٹزم اسسمنٹ کیلئے طویل انتظار / Long waits for ADHD and autism checks | category health
-- Alternative headline: Thousands face long waits for ADHD and autism checks
+### King tides and massive waves batter coastal California  [NORMAL]
+- Poster: کنگ ٹائیڈز اور اونچی لہروں کی کیلیفورنیا کے ساحلوں پر تباہ کاری / Massive waves batter coastal California | category weather
+- Alternative headline: El Nino storms bring destructive king tides to US West Coast
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: ADHD assessments, autism, mental health, Scotland, NHS waits | hashtags: #ADHD #Autism #Health #Scotland
-- Scheduled: Thu 26 Nov, 04:55 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: California king tides, massive waves, El Nino storms, US West Coast | hashtags: #California #KingTides #ElNino #Weather
+- Scheduled: Thu 26 Nov, 06:01 AM PKT
 - Caption:
 ```
-A GP warns that long waits for ADHD and autism assessments mean those most in need are missed.
+Massive waves and El Nino-driven storms have brought severe king tides to batter coastal California.
 
-New figures show over 38,000 adults are waiting for neurodevelopmental assessments in Scotland, with at least 14,000 waiting longer than two years. Experts warn that soaring demand has overwhelmed mental health services, creating a two-tier system.
+Coastal California has been battered by massive waves and severe king tides. The extreme coastal conditions are being driven by El Nino-linked storms affecting the United States West Coast.
 
-نئے اعداد و شمار سے پتہ چلتا ہے کہ اسکاٹ لینڈ میں 38 ہزار سے زائد بالغ افراد نیورو ڈیولپمنٹل اسسمنٹ کے منتظر ہیں، جن میں سے کم از کم 14 ہزار افراد دو سال سے زائد عرصے سے انتظار کر رہے ہیں۔
+کیلیفورنیا کے ساحلی علاقوں میں اونچی لہروں اور شدید طوفانوں نے تباہ مچا دی ہے۔ ال نینو سے جڑے یہ طوفان امریکی مغربی ساحل پر اثر انداز ہو رہے ہیں۔
 
-First reported by BBC Health
+First reported by Al Jazeera.
 
-#ADHD #Autism #Health #Scotland
+#California #KingTides #ElNino #Weather
 ```
 
-### Images from Earth's asteroid defence test reveal new crater  [NORMAL]
-- Poster: زمین کے دفاعی ٹیسٹ کی تصاویر میں نئے گڑھے کا انکشاف / New crater revealed in asteroid test | category science
-- Alternative headline: New crater revealed in images from asteroid defence test
+### What UK season changes mean for you, explained by meteorologists  [NORMAL]
+- Poster: برطانیہ میں موسمی تبدیلیوں کا آپ پر کیا اثر پڑے گا؟ جانیے / What UK season changes mean for you | category weather
+- Alternative headline: Understanding UK seasonal weather changes and what they impact
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss
+- Original source: published_report - BBC Science https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss
 - Supporting coverage: BBC Science
-- Keywords: asteroid defence test, crater, NASA, space science | hashtags: #NASA #Asteroid #SpaceScience #Astronomy
-- Scheduled: Thu 26 Nov, 05:05 AM PKT
+- Keywords: UK season changes, Met Office, UK weather, seasonal shift | hashtags: #UKWeather #MetOffice #Seasons #Weather
+- Scheduled: Thu 26 Nov, 06:11 AM PKT
 - Caption:
 ```
-New images from Earth's asteroid defence test have successfully revealed a newly formed crater.
+The Met Office explains what upcoming UK season changes mean for the public and local weather conditions.
 
-New images from Earth's asteroid defence test have revealed a newly formed crater. The findings provide further scientific insight into the impact mechanics of planetary defense missions.
+In collaboration with the Met Office, weather reports outline upcoming seasonal changes in the United Kingdom and what they mean for residents. The updates provide insights into changing meteorological patterns.
 
-زمین کے ایسٹرائڈ ڈیفنس ٹیسٹ سے حاصل ہونے والی نئی تصاویر میں ایک نئے گڑھے کا انکشاف ہوا ہے، جو سیارچہ دفاعی مشنز کے اثرات کا جائزہ لینے میں مددگار ہے۔
+میٹ آفس کے اشتراک سے جاری کردہ رپورٹس میں برطانیہ میں موسمی تبدیلیوں اور ان کے شہریوں پر پڑنے والے اثرات کی وضاحت کی گئی ہے۔
 
-First reported by BBC Science
+First reported by BBC Science.
 
-#NASA #Asteroid #SpaceScience #Astronomy
+#UKWeather #MetOffice #Seasons #Weather
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 18
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
@@ -323,7 +350,7 @@ First reported by BBC Science
 - [queued] normal | Tarar urges social media companies to establish offices in Pakistan | Thu 26 Nov, 01:00 AM PKT
 - [queued] normal | Sporting Lisbon vs Manchester United: UEFA Champions League live | Thu 26 Nov, 01:10 AM PKT
 - [published] promo | [YouTube] Latif Khosa’s Upcoming Adiala Visit & New Provinces Game | Thu 26 Nov, 02:29 AM PKT
-- [queued] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
+- [published] promo | [YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING? | Thu 26 Nov, 02:29 AM PKT
 - [queued] normal | President Zardari calls for stronger Pakistan-Bangladesh ties, offers  | Thu 26 Nov, 02:29 AM PKT
 - [queued] normal | PIA passengers in UK left distressed as 2 flights cancelled due to abr | Thu 26 Nov, 02:39 AM PKT
 - [queued] normal | Moment Nasa spacecraft leaves stadium-sized crater in asteroid | Thu 26 Nov, 02:49 AM PKT
@@ -340,14 +367,24 @@ First reported by BBC Science
 - [queued] normal | Deadly truck fire is latest of Egypt’s transport disasters | Thu 26 Nov, 04:45 AM PKT
 - [queued] normal | Long waits for ADHD and autism assessments called a tragedy | Thu 26 Nov, 04:55 AM PKT
 - [queued] normal | Images from Earth's asteroid defence test reveal new crater | Thu 26 Nov, 05:05 AM PKT
+- [queued] normal | Explosion rocks Sanaa as Saudi coalition intercepts missiles over Riya | Thu 26 Nov, 05:21 AM PKT
+- [queued] normal | US grants SpaceX approval to deploy 1 million space data centres | Thu 26 Nov, 05:31 AM PKT
+- [queued] normal | A meeting with Democrats over healthcare? Trump says he’s open to it | Thu 26 Nov, 05:41 AM PKT
+- [queued] normal | Houthis target Saudi Arabia’s Red Sea ports as regional strikes escala | Thu 26 Nov, 05:51 AM PKT
+- [queued] normal | King tides and massive waves batter coastal California | Thu 26 Nov, 06:01 AM PKT
+- [queued] normal | What UK season changes mean for you, explained by meteorologists | Thu 26 Nov, 06:11 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan and Russia target $5 billion trade by 2030'.
+- Published '[YouTube] AL-QADIR TRUST CASE: WHAT HAPPENED IN TODAY’S HEARING?'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 6110 | output tokens: 2876
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 3 | prompt tokens: 7165 | output tokens: 3233
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

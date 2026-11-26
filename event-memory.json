@@ -159676,7 +159676,684 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d69db646a5bad48003a6270",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T17:44:51+00:00",
+      "last_update": "2026-11-26T00:07:51+00:00",
+      "event": "US grants SpaceX approval for 1 million space data centres",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "and",
+        "approval",
+        "asset",
+        "centres",
+        "data",
+        "elon",
+        "fcc",
+        "for",
+        "grants",
+        "great",
+        "hails",
+        "million",
+        "musk",
+        "project",
+        "space",
+        "spacex",
+        "starmind",
+        "the",
+        "world"
+      ],
+      "source_excerpt": "Elon Musk hails FCC's approval of SpaceX's Starmind project as 'a great asset to America and the world.'",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "published_at": "2026-11-25T17:44:51+00:00"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "published_at": "2026-11-25T18:22:38+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+          "published_at": "2026-11-25T19:13:02+00:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "published_at": "2026-11-25T20:56:44+00:00"
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T00:07:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6e1c9eb3e5403b9fc1203d89",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-26T00:18:49+00:00",
+      "last_update": "2026-11-26T00:18:49+00:00",
+      "event": "A meeting with Democrats over healthcare? Trump says he’s open to it",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "are",
+        "back",
+        "democrats",
+        "experts",
+        "for",
+        "healthcare",
+        "jazeera",
+        "medicare",
+        "meeting",
+        "national",
+        "open",
+        "over",
+        "proposal",
+        "says",
+        "sceptical",
+        "tell",
+        "that",
+        "they",
+        "trump",
+        "with",
+        "would"
+      ],
+      "source_excerpt": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+          "published_at": "2026-11-26T00:18:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e2f1d698bd1c449d55fa1cf",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-26T00:00:00+00:00",
+      "last_update": "2026-11-26T00:03:53+00:00",
+      "event": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "air",
+        "airport",
+        "blast",
+        "coalition",
+        "explosion",
+        "hits",
+        "intercepted",
+        "intercepts",
+        "iran",
+        "live",
+        "missiles",
+        "near",
+        "over",
+        "riyadh",
+        "rocks",
+        "sanaa",
+        "saudi",
+        "strikes",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+          "published_at": "2026-11-26T00:00:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHBLNS01bDVwTEVEWk1ZZktDNEZCc0l6SnJzZklteEZsV1NaLWV2NGFBQUFxT1kyTHJZSXhrMzIySDFySnZOSTZueDJuTElIYWRIOTFCWlZrc2RiYUdPNDNla1FwNWpZb2JkbDlFNVJadEtCa1B6VFZVdmdaS3hiTmJHS2dQWElXQTJWTnp2RmFFcTQ5dTR6MXBDYXlRM0dfVWtTYm9OTy0wZ3JxNUdISWV6cFJTdWlUNmVF0gHAAUFVX3lxTFBzd0RmSHRJLXFKcks2dndWNFlPdWRvdmVQc0ZWQVhmR0FXZ0h1NHJRcHdUZDFKQ3hwWHZyYngwZHNPU2Q0MDNJVFJmdDM3R2t6Y2g2ZjBOblJUWTh6d2cyTVV2YW1NRGZLejRxaUxtZGZjOXNuTVNKYlNwbFdaVVBsVzNSM1hzcUM5dkJvNXFEQjVvUVprRnB3SEE1RVRnR19hOVFVZ3RoMUVGQk43Z19xYk5CVTFscDYxRi1GNXNUdA?oc=5",
+          "published_at": "2026-11-26T00:03:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0dc22d28c7b95128ecd64736",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T23:33:39+00:00",
+      "last_update": "2026-11-25T23:33:39+00:00",
+      "event": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "air",
+        "arabia",
+        "ballistic",
+        "defenses",
+        "escalate",
+        "explosion",
+        "houthis",
+        "intercept",
+        "missiles",
+        "ports",
+        "red",
+        "reported",
+        "riyadh",
+        "sanaa",
+        "saudi",
+        "sea",
+        "strikes",
+        "target",
+        "targeting"
+      ],
+      "source_excerpt": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+          "published_at": "2026-11-25T23:33:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0a55a8f0e2dc495be9c2bf95",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T23:20:03+00:00",
+      "last_update": "2026-11-25T23:20:03+00:00",
+      "event": "King tides and big waves batter coastal California",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "batter",
+        "big",
+        "bring",
+        "california",
+        "coast",
+        "coastal",
+        "driven",
+        "king",
+        "massive",
+        "nino",
+        "storms",
+        "the",
+        "tides",
+        "waves",
+        "west"
+      ],
+      "source_excerpt": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+          "published_at": "2026-11-25T23:20:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5193b5a7bddc3567afa785e8",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-26T00:14:16+00:00",
+      "last_update": "2026-11-26T00:14:16+00:00",
+      "event": "What UK season changes mean for you",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "become",
+        "changes",
+        "common",
+        "days",
+        "for",
+        "frequent",
+        "frosts",
+        "hot",
+        "less",
+        "mean",
+        "met",
+        "more",
+        "office",
+        "says",
+        "season",
+        "summer",
+        "the",
+        "what",
+        "will",
+        "you"
+      ],
+      "source_excerpt": "Frosts will become less common and hot summer days more frequent in the UK, the Met Office says.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T00:14:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6bc48c751e8221f16054d1f",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-26T00:08:07+00:00",
+      "last_update": "2026-11-26T00:08:07+00:00",
+      "event": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affecting",
+        "and",
+        "are",
+        "changing",
+        "crops",
+        "days",
+        "different",
+        "expect",
+        "farmers",
+        "fewer",
+        "frosts",
+        "grow",
+        "hot",
+        "leading",
+        "met",
+        "more",
+        "office",
+        "says",
+        "seasons",
+        "shift",
+        "some",
+        "wildlife"
+      ],
+      "source_excerpt": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T00:08:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d6b85897defe7e32db30c82",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-26T00:01:37+00:00",
+      "last_update": "2026-11-26T00:01:37+00:00",
+      "event": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "battle",
+        "company",
+        "dispute",
+        "fender",
+        "firm",
+        "generic",
+        "german",
+        "guitar",
+        "its",
+        "key",
+        "makes",
+        "model",
+        "over",
+        "stratocaster",
+        "that",
+        "the",
+        "transatlantic",
+        "versions",
+        "wars",
+        "with"
+      ],
+      "source_excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T00:01:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4158311f3175f8ed260f540f",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T22:28:00+00:00",
+      "last_update": "2026-11-25T22:28:00+00:00",
+      "event": "Brad Pitt, Angelina Jolie settle years-long winery battle out of court",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "and",
+        "angelina",
+        "battle",
+        "both",
+        "brad",
+        "chateau",
+        "claims",
+        "court",
+        "dismiss",
+        "each",
+        "french",
+        "have",
+        "jolie",
+        "legal",
+        "long",
+        "miraval",
+        "moving",
+        "november",
+        "other",
+        "out",
+        "over",
+        "pitt",
+        "running",
+        "settle",
+        "settled",
+        "sides",
+        "the",
+        "their",
+        "wednesday",
+        "winery",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Brad Pitt, Angelina Jolie settle years-long winery battle out of court Brad Pitt and Angelina Jolie have settled the long-running legal battle over their French winery, Chateau Miraval, with both sides moving on Wednesday 25 November to dismiss their claims against each other. The...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692642-brad-pitt-and-angelina-jolie-settle-their-years-long-winery-battle-out-of-court",
+          "published_at": "2026-11-25T22:28:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVBfejE4NzhEUHJxR0hjeHp1X3AySlg5TENQaUp6S3AxM1JlNTZGY05BWHVBWHl1V2d2NFZvYU9UZGJwVUhZV0dWN01hdFdHdFBKZXJZSGVlMlp0Ym5NcmNtaWZaYzkxcVRTdjNrRklaUHh6VF9ydTl5Q19PVmpYeVMtU2NHOW5wR1RiUXdfMXEzaU5lWW16TGM5S1BRaTM1VWxkSEJrUGdMUVV0RDJzQ3hB?oc=5",
+          "published_at": "2026-11-25T22:28:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692642-brad-pitt-and-angelina-jolie-settle-their-years-long-winery-battle-out-of-court",
+        "publisher_url": "https://www.geo.tv/latest/692642-brad-pitt-and-angelina-jolie-settle-their-years-long-winery-battle-out-of-court",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "26a5b14026eea15d56528628",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T23:24:00+00:00",
+      "last_update": "2026-11-25T23:24:00+00:00",
+      "event": "Jeff Goldblum reflects on longtime career singing from 'Wicked'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "being",
+        "broke",
+        "career",
+        "conversation",
+        "days",
+        "during",
+        "festival",
+        "film",
+        "from",
+        "goldblum",
+        "honourary",
+        "international",
+        "into",
+        "jeff",
+        "longtime",
+        "marrakech",
+        "presented",
+        "reflects",
+        "singing",
+        "song",
+        "soundtrack",
+        "stage",
+        "swinton",
+        "the",
+        "tilda",
+        "toile",
+        "was",
+        "wicked",
+        "with"
+      ],
+      "source_excerpt": "Jeff Goldblum reflects on longtime career singing from 'Wicked' Jeff Goldblum broke into song from the Wicked soundtrack during an on-stage conversation at the Marrakech International Film Festival, days after being presented with an honourary Étoile d'Or by Tilda Swinton. It was...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692645-jeff-goldblum-reflects-on-longtime-career-singing-from-wicked",
+          "published_at": "2026-11-25T23:24:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOExrMEdRY0xMZmMyUnJKQ1ZtbTZ6a3M2Smd5U2R6YnhxVGQ5YkNuY1dQNEZjaDQtSXNSTWRiaVE0cDlNaHM1emwxU3VyYmZ4YkVEZTJLdXh0RkdGV0dzS2FCMTMzUGpad0FpVHNXN05NeGtTM0tfVGhsTURsSXZ6SlgzcHM4VHhFamZLSFROVW1XNTY2WU1CcjJn?oc=5",
+          "published_at": "2026-11-25T23:24:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692645-jeff-goldblum-reflects-on-longtime-career-singing-from-wicked",
+        "publisher_url": "https://www.geo.tv/latest/692645-jeff-goldblum-reflects-on-longtime-career-singing-from-wicked",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3e943f2ca0fa5bdf31e6b34",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T23:15:19+00:00",
+      "last_update": "2026-11-25T23:15:19+00:00",
+      "event": "Prince Harry wants ‘deliberate’ Royal calendar clash",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calendar",
+        "clash",
+        "deliberate",
+        "harry",
+        "international",
+        "news",
+        "prince",
+        "royal",
+        "the",
+        "wants"
+      ],
+      "source_excerpt": "Prince Harry wants ‘deliberate’ Royal calendar clash The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjQxZWpESFdZQm9Nc04xX2wtdkwtQ0J2OVBmR2p3azNyNEFabzBqLVhZN0swejEtVHd2OEpaamtSNFE5WUptVnAtVE1VYld0dFdTM01lY3d1d1VyRlBNSldrZHhiT1NuZzZ6X2JTeUpDUldhamlOTk4yVEhITnlwcEU3djhoMEc5X0ZjRzY3RkFpVXPSAZMBQVVfeXFMT1I0MWVqREhXWUJvTXNOMV9sLXZMLUNCdjlQZkdqd2szcjRBWm8wai1YWTdLMHoxLVR3djhKWmprUjRROVlKbVZwLVRNVWJXdHRXUzNNZWN3dXdVckZQTUpXa2R4Yk9Tbmc2el9iU3lKQ1JXYWppTk5OMlRISE55cHBFN3Y4aDBHOV9GY0c2N0ZBaVVz?oc=5",
+          "published_at": "2026-11-25T23:15:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjQxZWpESFdZQm9Nc04xX2wtdkwtQ0J2OVBmR2p3azNyNEFabzBqLVhZN0swejEtVHd2OEpaamtSNFE5WUptVnAtVE1VYld0dFdTM01lY3d1d1VyRlBNSldrZHhiT1NuZzZ6X2JTeUpDUldhamlOTk4yVEhITnlwcEU3djhoMEc5X0ZjRzY3RkFpVXPSAZMBQVVfeXFMT1I0MWVqREhXWUJvTXNOMV9sLXZMLUNCdjlQZkdqd2szcjRBWm8wai1YWTdLMHoxLVR3djhKWmprUjRROVlKbVZwLVRNVWJXdHRXUzNNZWN3dXdVckZQTUpXa2R4Yk9Tbmc2el9iU3lKQ1JXYWppTk5OMlRISE55cHBFN3Y4aDBHOV9GY0c2N0ZBaVVz?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2cc8cc0c1cfb0eb1d7298c10",
+      "remembered_at": "2026-11-26T00:21:50.582257+00:00",
+      "event_date": "2026-11-25T23:14:23+00:00",
+      "last_update": "2026-11-25T23:14:23+00:00",
+      "event": "Prince Harry Royal ‘distrust’ as Christmas left to Meghan Markle",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "christmas",
+        "distrust",
+        "harry",
+        "international",
+        "left",
+        "markle",
+        "meghan",
+        "news",
+        "prince",
+        "royal",
+        "the"
+      ],
+      "source_excerpt": "Prince Harry Royal ‘distrust’ as Christmas left to Meghan Markle The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3RFaGY3Mjd3Yzl6Yk43MkpaVWxBSXg3UDRkd2ZiOWNCUXBLdTllby15SHRDa1FnTThWRk9mc24tUkVvWElMcDc2UWxfaTNDbHlnbmFOS3E1aDVodmpvV2R4SnhqQXpmS2J0cXNyVndoZXJzdnZWWEYwUGxZaVRkM3FscFUzSmpDTHdEaGt4LUFwZkVLQTNveGozNXlMakV2cEc00gGjAUFVX3lxTE5PdEVoZjcyN3djOXpiTjcySlpVbEFJeDdQNGR3ZmI5Y0JRcEt1OWVvLXlIdENrUWdNOFZGT2Zzbi1SRW9YSUxwNzZRbF9pM0NseWduYU5LcTVoNWh2am9XZHhKeGpBemZLYnRxc3JWd2hlcnN2dlZYRjBQbFlpVGQzcWxwVTNKakNMd0Roa3gtQXBmRUtBM294ajM1eUxqRXZwRzQ?oc=5",
+          "published_at": "2026-11-25T23:14:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3RFaGY3Mjd3Yzl6Yk43MkpaVWxBSXg3UDRkd2ZiOWNCUXBLdTllby15SHRDa1FnTThWRk9mc24tUkVvWElMcDc2UWxfaTNDbHlnbmFOS3E1aDVodmpvV2R4SnhqQXpmS2J0cXNyVndoZXJzdnZWWEYwUGxZaVRkM3FscFUzSmpDTHdEaGt4LUFwZkVLQTNveGozNXlMakV2cEc00gGjAUFVX3lxTE5PdEVoZjcyN3djOXpiTjcySlpVbEFJeDdQNGR3ZmI5Y0JRcEt1OWVvLXlIdENrUWdNOFZGT2Zzbi1SRW9YSUxwNzZRbF9pM0NseWduYU5LcTVoNWh2am9XZHhKeGpBemZLYnRxc3JWd2hlcnN2dlZYRjBQbFlpVGQzcWxwVTNKakNMd0Roa3gtQXBmRUtBM294ajM1eUxqRXZwRzQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-25T23:25:31.507623+00:00"
+  "updated_at": "2026-11-26T00:21:50.582257+00:00"
 }
