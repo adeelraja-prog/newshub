@@ -171507,7 +171507,533 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55b4f5a36f04346b4e0941ed",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T15:00:00+00:00",
+      "last_update": "2026-11-26T15:00:00+00:00",
+      "event": "CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "building",
+        "chief",
+        "collapse",
+        "express",
+        "karachi",
+        "murad",
+        "officers",
+        "orders",
+        "over",
+        "removal",
+        "sbca",
+        "suspension",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTJGLWgzaW9keUlqam5JaWhheW5LNmkwVFdQT2plNzdzcTlyWHpHbWMxcGlGSmozOXZSaGlYQzhZMk0tOG5icm1FRXZlbmNjZUdrQWVkMkxna0R2Y3lXdHZBQVQ1b3hJaVVWNmhMZXpFNWVDZ0FZTG5QM29iX2otaFlZRzZmcUxaMWZPT2xLZnp0c3hFb2FRWC1vN016ck5mRnhNTTBseFp4dmNXa0U3Qk50Z3Z0SzdyOHByQXZ1X3lNVWt0bmV2VWlBTQ?oc=5",
+          "published_at": "2026-11-26T15:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTJGLWgzaW9keUlqam5JaWhheW5LNmkwVFdQT2plNzdzcTlyWHpHbWMxcGlGSmozOXZSaGlYQzhZMk0tOG5icm1FRXZlbmNjZUdrQWVkMkxna0R2Y3lXdHZBQVQ1b3hJaVVWNmhMZXpFNWVDZ0FZTG5QM29iX2otaFlZRzZmcUxaMWZPT2xLZnp0c3hFb2FRWC1vN016ck5mRnhNTTBseFp4dmNXa0U3Qk50Z3Z0SzdyOHByQXZ1X3lNVWt0bmV2VWlBTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "387764804663381ddf3ad72e",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:44:05+00:00",
+      "last_update": "2026-11-26T19:44:05+00:00",
+      "event": "Peru burns more than 10 tonnes of seized drugs",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "and",
+        "began",
+        "burning",
+        "burns",
+        "disposal",
+        "drug",
+        "drugs",
+        "final",
+        "its",
+        "more",
+        "narcotics",
+        "operation",
+        "peru",
+        "seized",
+        "seventh",
+        "than",
+        "tonnes"
+      ],
+      "source_excerpt": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+          "published_at": "2026-11-26T19:44:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c17d830f5cd70dc14b88b7e7",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:19:12+00:00",
+      "last_update": "2026-11-26T19:19:12+00:00",
+      "event": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "aid",
+        "and",
+        "are",
+        "buildings",
+        "damaged",
+        "displaced",
+        "flee",
+        "flooded",
+        "forcing",
+        "gaza",
+        "humanitarian",
+        "israeli",
+        "leave",
+        "palestinians",
+        "rains",
+        "restrictions",
+        "tents",
+        "vulnerable",
+        "why",
+        "winter"
+      ],
+      "source_excerpt": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+          "published_at": "2026-11-26T19:19:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c3efd44ad0d2a16fb58c4c43",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:09:39+00:00",
+      "last_update": "2026-11-26T19:09:39+00:00",
+      "event": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "after",
+        "against",
+        "birthright",
+        "citizenship",
+        "court",
+        "down",
+        "had",
+        "judge",
+        "latest",
+        "narrower",
+        "restrictions",
+        "ruling",
+        "set",
+        "strikes",
+        "supreme",
+        "the",
+        "tried",
+        "trump"
+      ],
+      "source_excerpt": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+          "published_at": "2026-11-26T19:09:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "af346415fb90a849aa3f6c2a",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:07:44+00:00",
+      "last_update": "2026-11-26T19:07:44+00:00",
+      "event": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "after",
+        "and",
+        "been",
+        "bosnia",
+        "care",
+        "croatia",
+        "exposed",
+        "failures",
+        "have",
+        "including",
+        "oversight",
+        "persistent",
+        "poor",
+        "psychiatric",
+        "scandals",
+        "scrutiny",
+        "shortages",
+        "staff",
+        "training",
+        "under",
+        "weak"
+      ],
+      "source_excerpt": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+          "published_at": "2026-11-26T19:07:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c2fcca36f3ac36fca5966b08",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T18:53:15+00:00",
+      "last_update": "2026-11-26T18:53:15+00:00",
+      "event": "What will Trump’s latest tariffs mean for the world?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "come",
+        "for",
+        "illegal",
+        "latest",
+        "mean",
+        "measures",
+        "new",
+        "previous",
+        "ruled",
+        "tariffs",
+        "the",
+        "trade",
+        "trump",
+        "what",
+        "will",
+        "world"
+      ],
+      "source_excerpt": "New measures come after previous trade tariffs ruled illegal.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+          "published_at": "2026-11-26T18:53:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "068bb7edfa9159f5eb95c594",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:26:16+00:00",
+      "last_update": "2026-11-26T19:26:16+00:00",
+      "event": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affected",
+        "and",
+        "been",
+        "begins",
+        "country",
+        "have",
+        "hits",
+        "holiday",
+        "hundreds",
+        "off",
+        "roofs",
+        "severe",
+        "storms",
+        "streets",
+        "thanksgiving",
+        "the",
+        "thousands",
+        "torn",
+        "under",
+        "watch",
+        "water",
+        "weather",
+        "weekend"
+      ],
+      "source_excerpt": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T19:26:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "98eccd77f0a40a275fc97ea9",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T19:55:58+00:00",
+      "last_update": "2026-11-26T19:55:58+00:00",
+      "event": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "are",
+        "beyond",
+        "countries",
+        "faisal",
+        "first",
+        "have",
+        "his",
+        "islam",
+        "less",
+        "looking",
+        "new",
+        "now",
+        "other",
+        "rerouted",
+        "response",
+        "salvo",
+        "tariff",
+        "tariffs",
+        "tenure",
+        "they",
+        "threat",
+        "trade",
+        "trump",
+        "why"
+      ],
+      "source_excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T19:55:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25adf3952ec44cce88a3192c",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T18:54:51+00:00",
+      "last_update": "2026-11-26T18:54:51+00:00",
+      "event": "What are tariffs, how do they work and why is Trump using them?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "are",
+        "bbc",
+        "how",
+        "tariffs",
+        "them",
+        "they",
+        "trump",
+        "using",
+        "what",
+        "why",
+        "work"
+      ],
+      "source_excerpt": "What are tariffs, how do they work and why is Trump using them? BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+          "published_at": "2026-11-26T18:54:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c40e6c850fd9f10786027fad",
+      "remembered_at": "2026-11-26T20:00:18.097475+00:00",
+      "event_date": "2026-11-26T12:10:32+00:00",
+      "last_update": "2026-11-26T16:41:06+00:00",
+      "event": "بجلی صارفین کو فیول ایڈجسٹمنٹ کے اضافی بوجھ سے بچانے کا فیصلہ",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اضافہ",
+        "اضافی",
+        "اکتوبر",
+        "ایڈجسٹمنٹ",
+        "بجلی",
+        "بوجھ",
+        "بچانے",
+        "دسمبر",
+        "صارفین",
+        "علامتی",
+        "فوٹوحکومت",
+        "فیصلہ",
+        "فیول",
+        "پیسے",
+        "کرلیا۔",
+        "یونٹ"
+      ],
+      "source_excerpt": "علامتی فوٹوحکومت نے بجلی صارفین کو فیول ایڈجسٹمنٹ کے اضافی بوجھ سے بچانے کا فیصلہ کرلیا۔ اکتوبر تا دسمبر اضافہ 83 پیسے فی یونٹ تک...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023884",
+          "published_at": "2026-11-26T12:10:32+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636960",
+          "published_at": "2026-11-26T12:11:13+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5024513",
+          "published_at": "2026-11-26T16:41:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636960",
+        "publisher_url": "https://jang.com.pk/news/1636960",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T18:54:25.951296+00:00"
+  "updated_at": "2026-11-26T20:00:18.097475+00:00"
 }

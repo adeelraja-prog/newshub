@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 11:54 PM PKT
+# News Hub report - Fri 27 Nov, 01:00 AM PKT
 
 ## Collection
-- New items this run: 59 | items in rolling pool: 778
-- Unique story clusters: 675 (duplicates merged: 103)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 14, Aaj English TV 6, Geo News 4, ARY News 4, Al Jazeera 4, Pakistan Today 4, samaa tv 3, The News International 2, The New York Times 2, TechJuice 2, Dawn 1, X 1
+- New items this run: 30 | items in rolling pool: 694
+- Unique story clusters: 605 (duplicates merged: 89)
+- Clusters dropped as already published/queued: 37; unchanged since last analysis: 6
+- Items per outlet: Geo News 5, Al Jazeera 5, The Express Tribune 2, samaa tv 2, The News International 1, ARY News 1, X 1, AP News 1, The Verge 1, TechCrunch 1, Engadget 1, GSMArena 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi Traffic: Police announce alternative routes after highway closure | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- CM Murad orders removal of SBCA chief, suspension of 16 officers over Karachi building collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Chief medical officer Gregor Smith resigns on mental health grounds | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Second court defeat for Trump's deep-sea mining ambitions | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Peru burns more than 10 tonnes of seized drugs | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,159 +39,60 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Trump demands investigation into pre-midterm GDP data releases  [NORMAL]
-- Poster: ٹرمپ کا مڈٹرم سے پہلے جاری کردہ جی ڈی پی ڈیٹا کی تحقیقات کا مطالبہ / Trump demands probe into pre-midterm GDP data | category us_politics
-- Alternative headline: US President calls growth numbers released before midterms fake
+### Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdown  [NORMAL]
+- Poster: کولمبیا میں نو عمر کی ہلاکت کے بعد سیکیورٹی کریک ڈاؤن پر سوالات / Teen's death raises questions on Colombia security | category politics
+- Alternative headline: Colombia Security Crackdown Faces Scrutiny After Teenager's Death
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: GDP data, Trump, midterm elections, US economy, investigation, growth numbers | hashtags: #Trump #GDP #USElections #Economy #AlJazeera
-- Scheduled: Thu 26 Nov, 11:54 PM PKT
+- Keywords: Colombia security crackdown, Abelardo de la Espriella, Colombia teen death, extrajudicial killing, armed groups, Al Jazeera | hashtags: #Colombia #SecurityCrackdown #AlJazeera #WorldNews
+- Scheduled: Fri 27 Nov, 01:00 AM PKT
 - Caption:
 ```
-US President Donald Trump has called economic growth numbers released before the midterm elections 'fake' and demanded a formal investigation.
+A teenager's death has ignited intense scrutiny and serious questions regarding President Abelardo de la Espriella's aggressive security crackdown against armed groups.
 
-US President Donald Trump has claimed that growth numbers released ahead of the US midterm elections were 'fake' and the result of a deliberate decision. He has demanded an official investigation into the matter, raising fresh questions over official economic reporting.
+President Abelardo de la Espriella's ongoing security campaign targeting armed groups in Colombia has drawn heavy scrutiny following the tragic death of a teenager. The incident has resulted in serious accusations of extrajudicial killings, raising concerns about the methods used in the state's crackdown.
 
-امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ وسط مدتی انتخابات سے قبل جاری کیے گئے معاشی ترقی کے اعداد و شمار جعلی تھے اور یہ ایک سوچ سمجھ کر کیا گیا فیصلہ تھا۔ انہوں نے اس معاملے کی باضابطہ تحقیقات کا مطالبہ کیا ہے۔
+کولمبیا میں مسلح گروہوں کے خلاف صدر ابیلارڈو ڈی لا اسپیریلا کی سیکیورٹی مہم کے دوران ایک نوجوان کی ہلاکت کے بعد شدید سوالات اٹھ کھڑے ہوئے ہیں۔ اس واقعے کے نتیجے میں ماڈجیوڈیشل ہلاکتوں کے الزامات عائد کیے جا رہے ہیں۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#Trump #GDP #USElections #Economy #AlJazeera
+#Colombia #SecurityCrackdown #AlJazeera #WorldNews
 ```
 
-### Syrian children continue learning amid war ruins in Idlib  [NORMAL]
-- Poster: شام کے صوبہ ادلب میں جنگ کے کھنڈرات کے درمیان بچوں کی تعلیم جاری / Syrian children study amid war ruins in Idlib | category other
-- Alternative headline: Idlib reopens semi-destroyed school for children amid conflict
+### Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll Plaza  [NORMAL]
+- Poster: کراچی میں نیشنل ہائی وارجام، پولیس کی جانب سے متبادل راستوں کا اعلان / Karachi highway closed; traffic diverted | category other
+- Alternative headline: National Highway Blocked: Karachi Traffic Police Issue Alternate Routes
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Idlib education, Syrian children, war ruins, school reopened, Idlib province, conflict | hashtags: #Syria #Idlib #Education #Children #AlJazeera
-- Scheduled: Fri 27 Nov, 12:04 AM PKT
+- Original source: published_report - ARY News https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure
+- Supporting coverage: ARY News
+- Keywords: Karachi traffic, National Highway, Sassi Toll Plaza, Karachi Traffic Police, Ghaghar Phatak, protest | hashtags: #KarachiTraffic #NationalHighway #TrafficAlert #ARYNews #Karachi
+- Scheduled: Fri 27 Nov, 01:10 AM PKT
 - Caption:
 ```
-Despite the devastating impact of war, a semi-destroyed school has been reopened in Syria's Idlib province so children can continue their education.
+Karachi Traffic Police have issued an urgent advisory after a protest forced the complete closure of the Main National Highway near Sassi Toll Plaza.
 
-Children in Syria's Idlib province are continuing their education under difficult circumstances as a semi-destroyed school has been reopened in the war-torn region, offering a glimmer of hope amidst ongoing conflict and displacement.
+Traffic has been suspended on both sides of the Main National Highway near Sassi Toll Plaza towards Ghaghar Phatak due to a protest. Karachi Traffic Police have announced alternative routes, directing commuters coming from Thatta and Steel Mills via specific diversion paths while advising them to contact helpline 1915.
 
-شام کے صوبہ ادلب میں جنگ اور تباہی کے باوجود بچوں کی تعلیم کا سلسلہ جاری ہے۔ جنگ زدہ علاقے میں ایک نصف تباہ شدہ اسکول کو دوبارہ کھول دیا گیا ہے تاکہ بچے اپنی تعلیم جاری رکھ سکیں۔
+کراچی میں سسی ٹول پلازہ کے قریب دھرنے کے باعث مین نیشنل ہائی وے دونوں اطراف سے ٹریفک کے لیے بند کر دی گئی ہے۔ ٹریفک پولیس نے مسافروں کی سہولت کے لیے متبادل راستوں کا اعلان کرتے ہوئے ہیلپ لائن 1915 سے رابطہ کرنے کی ہدایت کی ہے۔
 
-First reported by Al Jazeera.
+According to ARY News
 
-#Syria #Idlib #Education #Children #AlJazeera
-```
-
-### Scotland's chief medical officer resigns amid controversy  [NORMAL]
-- Poster: اسکاٹ لینڈ کے چیف میڈیکل آفیسر تنازع کے بعد اپنے عہدے سے مستعفی / Scotland CMO resigns amid controversy | category other
-- Alternative headline: Did Scotland departing CMO do anything wrong over unreleased report?
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: chief medical officer, Scotland, Sir Gregor Smith, resignation, controversy, NHS Grampian | hashtags: #Scotland #CMO #HealthNews #BBC #Resignation
-- Scheduled: Fri 27 Nov, 12:14 AM PKT
-- Caption:
-```
-Scotland's chief medical officer Sir Gregor Smith has stepped down following a controversy surrounding an unreleased report into hospital deaths.
-
-Sir Gregor Smith has resigned as Scotland's chief medical officer, citing personal mental health reasons, after becoming caught up in a controversy over a 2022 unpublished report regarding potentially avoidable deaths at Aberdeen Royal Infirmary.
-
-سر گریگر اسمتھ نے اسکاٹ لینڈ کے چیف میڈیکل آفیسر کے عہدے سے استعفا دے دیا ہے۔ انہوں نے یہ فیصلہ ذاتی ذہنی صحت کی وجہ سے کیا، جب وہ ایبرڈین رائل انفارمری میں اموات سے متعلق ایک غیر مطبوعہ رپورٹ کے تنازع کی زد میں آ گئے تھے۔
-
-First reported by BBC Health.
-
-#Scotland #CMO #HealthNews #BBC #Resignation
-```
-
-### Could AI have solved mathematics' greatest mystery?  [NORMAL]
-- Poster: کیا مصنوعی ذہانت نے ریاضی کا سب سے بڑا معمہ حل کر لیا ہے؟ / Did AI solve mathematics greatest mystery? | category science
-- Alternative headline: Mathematician uses AI system Claude to tackle Riemann Hypothesis
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Science https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Science https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Science
-- Keywords: Riemann Hypothesis, AI system Claude, Levent Alpoge, mathematics, BBC Inside Science, proof | hashtags: #Mathematics #AI #RiemannHypothesis #ScienceNews #BBC
-- Scheduled: Fri 27 Nov, 12:24 AM PKT
-- Caption:
-```
-Mathematician Levent Alpoge believes he has found a proof for the Riemann Hypothesis using the AI system Claude.
-
-Mathematician Levent Alpoge, working with the AI system Claude, believes he has found a proof for the Riemann Hypothesis, which has baffled mathematicians for 165 years. BBC Inside Science explores what this breakthrough means for mathematics and researchers.
-
-ریاضی دان لیوینٹ الپوگ نے اے آئی سسٹم کلائوڈ کی مدد سے ریمن ہائپوتھیسس کا ثبوت تلاش کرنے کا دعویٰ کیا ہے، جو پچھلے 165 سالوں سے ریاضی دانوں کے لیے ایک معمہ بنا ہوا تھا۔
-
-First reported by BBC Science.
-
-#Mathematics #AI #RiemannHypothesis #ScienceNews #BBC
-```
-
-### Kushner sparks outrage over comments on Gaza destruction  [NORMAL]
-- Poster: جیرڈ کشنر کا غزہ کی تباہی میں 'اچھی بات' تلاش کرنے پر متنازع بیان / Kushner sparks outrage over Gaza remarks | category other
-- Alternative headline: Jared Kushner explains the 'good thing' about Gaza war ruins
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Jared Kushner, Gaza destruction, Israel war, rebuilding Gaza, controversial remarks | hashtags: #Gaza #JaredKushner #IsraelGazaWar #MiddleEast #AlJazeera
-- Scheduled: Fri 27 Nov, 12:34 AM PKT
-- Caption:
-```
-Jared Kushner claimed that a positive outcome of Israel's war on Gaza is the potential to rebuild the territory into 'something new'.
-
-Jared Kushner stated that the 'good thing' about Israel's military campaign in Gaza is that the devastated enclave can be redeveloped into 'something new', drawing significant attention and reaction amid the ongoing humanitarian crisis.
-
-جیرڈ کشنر کا کہنا ہے کہ غزہ پر اسرائیلی جنگ کا 'اچھا پہلو' یہ ہے کہ اسے کسی نئی چیز میں تبدیل کیا جا سکتا ہے۔ اس بیان نے جاری انسانی بحران کے دوران شدید ردعمل کو جنم دیا ہے۔
-
-First reported by Al Jazeera.
-
-#Gaza #JaredKushner #IsraelGazaWar #MiddleEast #AlJazeera
-```
-
-### Guinea-Bissau delays presidential election by two years  [NORMAL]
-- Poster: گنی بساؤ میں صدارتی انتخابات دو سال کے لیے مؤخر / Guinea-Bissau delays presidential vote | category us_politics
-- Alternative headline: Military leaders push Guinea-Bissau poll to November 2028
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Guinea-Bissau election, military leaders, presidential poll, election delayed, November 2028 | hashtags: #GuineaBissau #Elections #Africa #Politics #AlJazeera
-- Scheduled: Fri 27 Nov, 12:44 AM PKT
-- Caption:
-```
-Military leaders in Guinea-Bissau have announced that presidential and legislative elections originally set for December have been delayed to November 2028.
-
-Military leaders in Guinea-Bissau have announced a two-year delay for the country's presidential and legislative elections. Originally scheduled for December 6, the polls will now take place in November 2028, extending military oversight.
-
-گنی بساؤ کے فوجی حکمرانوں نے صدارتی اور پارلیمانی انتخابات میں دو سال کی تاخیر کا اعلان کیا ہے۔ 6 دسمبر کو ہونے والے انتخابات اب نومبر 2028 میں ہوں گے۔
-
-First reported by Al Jazeera.
-
-#GuineaBissau #Elections #Africa #Politics #AlJazeera
+#KarachiTraffic #NationalHighway #TrafficAlert #ARYNews #Karachi
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
-- [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
-- [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
 - [published] promo | [YouTube] RANA SANAULLAH BLASTS MOHSIN NAQVI | IMRAN KHAN HEALTH CRISI | Tue 24 Nov, 01:35 AM PKT
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
 - [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
@@ -349,7 +250,7 @@ First reported by Al Jazeera.
 - [needs_review] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
 - [published] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
 - [published] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
-- [queued] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
+- [published] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
 - [queued] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
 - [queued] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
 - [queued] normal | Karachi court rejects plea to extend stay order in Admin Society build | Thu 26 Nov, 08:19 PM PKT
@@ -376,14 +277,21 @@ First reported by Al Jazeera.
 - [queued] normal | Could AI have solved mathematics' greatest mystery? | Fri 27 Nov, 12:24 AM PKT
 - [queued] normal | Kushner sparks outrage over comments on Gaza destruction | Fri 27 Nov, 12:34 AM PKT
 - [queued] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
+- [queued] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
+- [queued] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
 
 ## Publishing this run
-- Published 'Islamabad and Rawalpindi declare local public holiday on November 27'.
+- Published 'Pakistan hosts Makkah defense pact meeting in Islamabad today'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4674 | output tokens: 2944
-- Errors: 1
+- Calls: 4 | prompt tokens: 2960 | output tokens: 1157
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
