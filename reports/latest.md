@@ -1,168 +1,145 @@
-# News Hub report - Fri 27 Nov, 02:55 AM PKT
+# News Hub report - Fri 27 Nov, 03:53 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 513
-- Unique story clusters: 446 (duplicates merged: 67)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 8
-- Items per outlet: Geo News 5, Pakistan Today 3, Al Jazeera 2, Dawn Pakistan 1, The Verge 1, Engadget 1, BBC Science 1, The Virginian-Pilot 1, Arab News PK 1, Al Arabiya English 1, TRT World 1
+- New items this run: 21 | items in rolling pool: 463
+- Unique story clusters: 411 (duplicates merged: 52)
+- Clusters dropped as already published/queued: 36; unchanged since last analysis: 6
+- Items per outlet: The Express Tribune 5, Geo News 3, AP News 2, Dawn 1, The News International 1, Al Jazeera 1, GSMArena 1, BBC Health 1, https://houseofsaud.com/ 1, NBC News 1, Mondoweiss 1, The Hill 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Faisal Islam: Why Trump's new tariffs are less of a threat | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Attack on Saudi’s Jazan refinery kills one person, disrupts operations | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Indian politician facing murder charges hosts 400,000-guest wedding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico seeks US talks about suspected SpaceX debris | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The baby who gives Christmas tractor run special meaning | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bournemouth, Milan record comeback victories in Europa League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh garment workers clash with police over low wages | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Watch: Man and dog narrowly escape powerful king tide in Oregon | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Why Donald Trump's new global tariffs are a lesser threat  [NORMAL]
-- Poster: ٹرمپ کے نئے ٹیرف کا خطرہ کم کیوں ہے؟ / Why Trump's tariffs pose a lesser threat | category world
-- Alternative headline: US trade representative details tentative approach to upcoming global tariffs
+### Tarar criticises Fazl and Bilawal over protests and referendum debate  [NORMAL]
+- Poster: عطا تارڑ کی فضل اور بلاول پر احتجاج اور ریفرنڈم کے معاملے پر تنقید / Tarar critiques Fazl and Bilawal over protests | category politics
+- Alternative headline: Atta Tarar slams opposition leaders over recent protests and referendum talks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: tariffs, Trump, US trade, negotiations, global economy | hashtags: #Trump #Tariffs #USEconomy #GlobalTrade
-- Scheduled: Fri 27 Nov, 02:55 AM PKT
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5
+- Supporting coverage: Geo News
+- Keywords: Atta Tarar, Fazlur Rehman, Bilawal Bhutto, protests, referendum, politics | hashtags: #AttaTarar #BilawalBhutto #FazlurRehman #PakistanPolitics #News
+- Scheduled: Fri 27 Nov, 03:53 AM PKT
 - Caption:
 ```
-As the US outlines its upcoming tariffs with room for negotiation, analysts explore why this round feels less threatening than previous announcements.
+Federal Minister Atta Tarar has lashed out at opposition leaders Fazlur Rehman and Bilawal Bhutto Zardari over ongoing political protests and the referendum debate.
 
-Unlike previous dramatic announcements, recent US tariff plans feature talks of negotiations and are not expected to take effect until January or February. Officials note the rates are upper ceilings currently open to discussion following months of hearings.
+Federal Minister Atta Tarar has strongly criticised political leaders Fazlur Rehman and Bilawal Bhutto Zardari in connection with recent protests and discussions surrounding a potential referendum. The remarks highlight ongoing political tensions and sharp disagreements among key political stakeholders in the country.
 
-پچھلے ڈرامائی اعلانات کے برعکس، حالیہ امریکی ٹیرف منصوبوں میں مذاکرات کی بات کی گئی ہے اور یہ جنوری یا فروری تک نافذ نہیں ہوں گے۔ حکام کا کہنا ہے کہ شرحیں بالائی حدود ہیں جو کئی ماہ کی سماعتوں کے بعد فی الحال بات چیت کے لیے کھلی ہیں۔
+وفاقی وزیر عطا تارڑ نے حالیہ سیاسی احتجاج اور ریفرنڈم کے مباحثے کے حوالے سے مولانا فضل الرحمٰن اور بلاول بھutto زرداری پر شدید تنقید کی ہے۔ ان بیانات سے ملک کے اہم سیاسی رہنماؤں کے درمیان جاری کشیدگی اور اختلافات ظاہر ہوتے ہیں۔
 
-First reported by BBC Business
+According to Geo News
 
-#Trump #Tariffs #USEconomy #GlobalTrade
+#AttaTarar #BilawalBhutto #FazlurRehman #PakistanPolitics #News
 ```
 
-### Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts operations  [NORMAL]
-- Poster: سعودی عرب کی جازان ریفائنری پر حملہ، ایک کارکن ہلاک / Attack on Saudi Jazan refinery kills worker | category security
-- Alternative headline: Jazan refinery attack sparks fire and casualties, Saudi Energy Ministry reports
+### Bournemouth and Milan secure stunning comeback victories in Europa League  [NORMAL]
+- Poster: بورنموت اور میلان کی یوروپا لیگ میں شاندار کم بیک فتوحات / Bournemouth and Milan win in Europa League | category sports
+- Alternative headline: Europa League: Bournemouth and AC Milan pull off impressive comeback wins
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5
+- Supporting coverage: Dawn
+- Keywords: Europa League, Bournemouth, AC Milan, comeback victories, football, sports | hashtags: #EuropaLeague #ACMilan #Bournemouth #Football #SportsNews
+- Scheduled: Fri 27 Nov, 04:03 AM PKT
+- Caption:
+```
+Both Bournemouth and AC Milan staged dramatic comebacks to secure crucial victories in their latest Europa League encounters.
+
+In recent Europa League action, both Bournemouth and AC Milan demonstrated remarkable resilience by registering thrilling comeback victories. The hard-fought wins have boosted their respective campaigns in the European tournament, entertaining football fans with dramatic turnarounds on the pitch.
+
+یوروپا لیگ کے ایکشن میں بورنموت اور اے سی میلان دونوں نے شاندار کارکردگی کا مظاہرہ کرتے ہوئے سنسنی خیز کم بیک فتوحات حاصل کی ہیں۔ ان مشکل فتوحات سے دونوں ٹیموں کی ٹورنامنٹ میں پوزیشن مزید مستحکم ہو گئی ہے۔
+
+First reported by Dawn
+
+#EuropaLeague #ACMilan #Bournemouth #Football #SportsNews
+```
+
+### Bangladesh garment workers clash with police after wage hike falls short  [NORMAL]
+- Poster: بنگلہ دیش میں کم اجرت پرگارمنٹ ورکرز اور پولیس کے درمیان جھڑپیں / Bangladesh garment workers clash with police | category world
+- Alternative headline: Police clash with garment workers in Bangladesh over inadequate wages
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Jazan refinery, Saudi Arabia, attack, Aramco, energy security | hashtags: #SaudiArabia #JazanRefinery #Aramco #BreakingNews
-- Scheduled: Fri 27 Nov, 03:05 AM PKT
+- Keywords: Bangladesh garment workers, wage protest, police clashes, minimum wage, Al Jazeera, textile workers | hashtags: #Bangladesh #GarmentWorkers #Protest #MinimumWage #WorldNews
+- Scheduled: Fri 27 Nov, 04:13 AM PKT
 - Caption:
 ```
-An attack on Saudi Aramco's Jazan refinery resulted in a tragic casualty and disrupted operations, according to the Saudi Energy Ministry.
+Bangladeshi garment workers clashed with police after arguing that a recent 36 percent minimum wage increase still fell short of their demands.
 
-An attack on Saudi Aramco's Jazan refinery killed a Nepali national, injured several people, and sparked a fire. The Saudi Energy Ministry confirmed the incident led to disrupted operations at the facility.
+Bangladeshi garment workers clashed with police following widespread dissatisfaction over wages. Although workers recently received a 36 percent minimum wage increase, protesters argued the raise remains inadequate to cope with rising living costs, leading to renewed street demonstrations and confrontations with law enforcement.
 
-سعودی آرامکو کی جازان ریفائنری پر حملے میں ایک نیپالی شہری ہلاک، کئی افراد زخمی اور آگ لگ گئی۔ سعودی وزارت توانائی نے تصدیق کی کہ اس واقعے سے تنصیب میں کام کاج متاثر ہوا۔
+بنگلہ دیش میں گارمنٹ کے کارکنوں اور پولیس کے درمیان جھڑپیں ہوئیں کیونکہ کارکنوں کا کہنا تھا کہ کم از کم اجرت میں 36 فیصد اضافہ ان کے مطالبات کے مطابق ناکافی ہے۔ مہنگائی کے پیش نظر یہ احتجاج شدت اختیار کر گیا۔
 
 First reported by Al Jazeera
 
-#SaudiArabia #JazanRefinery #Aramco #BreakingNews
+#Bangladesh #GarmentWorkers #Protest #MinimumWage #WorldNews
 ```
 
-### Indian politician facing murder charges hosts massive 400,000-guest wedding  [NORMAL]
-- Poster: قتل کے مقدمات کا سامنا کرنے والے بھارتی سیاستدان کی شاندار شادی / Indian politician hosts massive wedding | category other
-- Alternative headline: Anant Singh hosts lavish wedding for daughter in India's poorest state
+### Man and dog narrowly escape powerful king tide in Oregon  [NORMAL]
+- Poster: اوریگون میں طاقتور لہروں سے شخص اور اس کا کتا بال بال بچ گئے / Man and dog escape Oregon king tide | category disaster
+- Alternative headline: Watch: Massive king tide nearly sweeps away man and dog in Oregon
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: wedding, Anant Singh, Bihar, India, politician | hashtags: #India #Bihar #Wedding #News
-- Scheduled: Fri 27 Nov, 03:15 AM PKT
+- Original source: published_report - BBC Science https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science
+- Keywords: king tide, Oregon, Cannon Beach, coastal flooding, BBC Science, weather | hashtags: #Oregon #KingTide #BBCNews #Weather #Safety
+- Scheduled: Fri 27 Nov, 04:23 AM PKT
 - Caption:
 ```
-An estimated 400,000 guests attended a politician's daughter's lavish wedding in India's poorest state, sparking widespread attention.
+Footage from Oregon shows a man and his dog narrowly escaping after being caught by a powerful wave during high king tides.
 
-An estimated 400,000 people attended Indian politician Anant Singh's daughter's lavish wedding. The high-profile event took place in Bihar, recognized as India's poorest state.
+Footage captured at Cannon Beach in Oregon shows a man and his dog being swept by a powerful wave after a surge during unusually high king tides. Fortunately, local police confirmed that both escaped unharmed. Authorities have issued warnings for people to stay away from coastal areas due to dangerous waves.
 
-بھارتی سیاستدان اننت سنگھ کی بیٹی کی شاندار شادی میں تقریباً 400,000 افراد نے شرکت کی۔ یہ پرتعیش تقریب بھارت کی غریب ترین ریاست بہار میں منعقد ہوئی۔
+امریکہ کے علاقے اوریگون میں کینن بیچ کی فوٹیج میں دیکھا گیا کہ ایک شخص اور اس کا کتا طاقتور لہروں کی زد میں آنے کے بعد بال بال بچ گئے۔ پولیس نے تصدیق کی کہ دونوں محفوظ رہے، جبکہ حکام نے ساحلی علاقوں سے دور رہنے کی ہدایت کی ہے۔
 
-First reported by Al Jazeera
+First reported by BBC Science
 
-#India #Bihar #Wedding #News
-```
-
-### Mexico seeks US talks over suspected SpaceX rocket debris near border  [NORMAL]
-- Poster: میکسیکو کا مشتبہ اسپیس ایکس ملبے پر امریکہ سے مذاکرات کا مطالبہ / Mexico seeks talks on SpaceX debris | category world
-- Alternative headline: Growing concerns in Mexico as SpaceX ramps up Texas rocket launches
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: SpaceX, Mexico, US talks, debris, Texas | hashtags: #SpaceX #Mexico #US #SpaceDebris
-- Scheduled: Fri 27 Nov, 03:25 AM PKT
-- Caption:
-```
-Mexico has raised concerns and requested talks with the US following suspected SpaceX debris near their shared border.
-
-Mexico is seeking talks with the United States regarding suspected SpaceX debris. The concern follows SpaceX ramping up its rocket launches from the Starbase facility located near the Texas border.
-
-میکسیکو نے اسپیس ایکس کے مشتبہ ملبے کے معاملے پر امریکہ سے بات چیت کا مطالبہ کیا ہے۔ یہ تشویش ٹیکساس کی سرحد کے قریب اسٹار بیس سے اسپیس ایکس کے راکٹ لانچ میں اضافے کے بعد سامنے آئی ہے۔
-
-First reported by Al Jazeera
-
-#SpaceX #Mexico #US #SpaceDebris
-```
-
-### Baby's fight for life gives UK Christmas tractor run special meaning  [NORMAL]
-- Poster: بچے کی زندگی کی جنگ نے کرسمس ٹریکٹر رَن کو خاص بنا دیا / Baby's fight gives tractor run special meaning | category health
-- Alternative headline: How one family's personal medical journey transformed a local Christmas tradition
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/videos/cmvg238elxlgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: Christmas tractor run, baby, Coventry, fundraising, health | hashtags: #ChristmasTractorRun #Coventry #Fundraising #BBCHealth
-- Scheduled: Fri 27 Nov, 03:35 AM PKT
-- Caption:
-```
-A young baby's courageous fight for survival has added deep personal significance to this year's regional Christmas tractor run.
-
-Arthur's inspiring fight for life has given this year's Christmas tractor run a deeply personal meaning for organiser Martin Brandreth and his family in Coventry and Warwickshire.
-
-آرتھر کی زندگی کی جنگ نے کووینٹری اور وارکشائر میں آرگنائزر مارٹن برینڈریتھ اور ان کے خاندان کے لیے اس سال کے کرسمس ٹریکٹر رَن کو ایک خاص اور ذاتی معنی دے دیے ہیں۔
-
-First reported by BBC Health
-
-#ChristmasTractorRun #Coventry #Fundraising #BBCHealth
+#Oregon #KingTide #BBCNews #Weather #Safety
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
@@ -328,10 +305,10 @@ First reported by BBC Health
 - [needs_review] normal | Karachi building collapse: Former LG secretary suspended for 120 days | Thu 26 Nov, 08:40 PM PKT
 - [needs_review] normal | Roads blocked and traffic heavily congested in several parts of Karach | Thu 26 Nov, 08:50 PM PKT
 - [published] normal | Pakistani national among four injured in Iranian attack in Kuwait | Thu 26 Nov, 09:00 PM PKT
-- [queued] normal | Karachi building collapse death toll rises to four as rescue ops conti | Thu 26 Nov, 09:10 PM PKT
-- [queued] normal | Severe traffic jams reported on major thoroughfares across Karachi | Thu 26 Nov, 09:20 PM PKT
-- [queued] normal | Israeli strikes on Gaza kill senior education official and seven other | Thu 26 Nov, 09:52 PM PKT
-- [queued] normal | Two Italian workers killed in Iranian drone attack on Kuwait | Thu 26 Nov, 10:02 PM PKT
+- [needs_review] normal | Karachi building collapse death toll rises to four as rescue ops conti | Thu 26 Nov, 09:10 PM PKT
+- [needs_review] normal | Severe traffic jams reported on major thoroughfares across Karachi | Thu 26 Nov, 09:20 PM PKT
+- [needs_review] normal | Israeli strikes on Gaza kill senior education official and seven other | Thu 26 Nov, 09:52 PM PKT
+- [published] normal | Two Italian workers killed in Iranian drone attack on Kuwait | Thu 26 Nov, 10:02 PM PKT
 - [queued] normal | Diesel tanker capsizes near Ibiza, leaving one crew member dead | Thu 26 Nov, 10:12 PM PKT
 - [queued] normal | UK net migration falls to lowest level in nearly three decades | Thu 26 Nov, 10:22 PM PKT
 - [queued] normal | Flour prices surge sharply in Karachi following official notification | Thu 26 Nov, 10:32 PM PKT
@@ -356,14 +333,17 @@ First reported by BBC Health
 - [queued] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
 - [queued] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
 - [queued] normal | Baby's fight for life gives UK Christmas tractor run special meaning | Fri 27 Nov, 03:35 AM PKT
+- [queued] normal | Tarar criticises Fazl and Bilawal over protests and referendum debate | Fri 27 Nov, 03:53 AM PKT
+- [queued] normal | Bournemouth and Milan secure stunning comeback victories in Europa Lea | Fri 27 Nov, 04:03 AM PKT
+- [queued] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
+- [queued] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
 
 ## Publishing this run
-- Published 'Pakistani national among four injured in Iranian attack in Kuwait'.
+- Published 'Two Italian workers killed in Iranian drone attack on Kuwait'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4593 | output tokens: 2786
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 2 | prompt tokens: 4147 | output tokens: 2696
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,

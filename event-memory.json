@@ -172783,7 +172783,754 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df0e700f620f4355c87fe5f1",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:48:45+00:00",
+      "last_update": "2026-11-26T22:48:45+00:00",
+      "event": "Bournemouth, Milan record comeback victories in Europa League",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bournemouth",
+        "comeback",
+        "dawn",
+        "europa",
+        "league",
+        "milan",
+        "record",
+        "victories"
+      ],
+      "source_excerpt": "Bournemouth, Milan record comeback victories in Europa League Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5",
+          "published_at": "2026-11-26T22:48:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk4ycWRmZkwwdUJiU1R1LW5haXNES25LczZUS1ZWTG54UkNNQTg1NXJENWJHT05HVXJfamsyT0p6d2lIMEwwNjd4WGNqcW9BNUZ4ejMzZzlZQ1FTbzBzcXdPbF8xRGxFXzRZUTUzRVZHcW0zYmFsQndMaWZ1OHd3SzB2U1otbG5HRFh4R0pETm1iNDRFeUo1c1ZB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e4fd5e6c78d85c790b421872",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:06:54+00:00",
+      "last_update": "2026-11-26T22:06:54+00:00",
+      "event": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acknowledged",
+        "admitted",
+        "agency",
+        "belief",
+        "cia",
+        "credence",
+        "held",
+        "lends",
+        "long",
+        "method",
+        "more",
+        "new",
+        "people",
+        "report",
+        "than",
+        "that",
+        "times",
+        "torture",
+        "tortured",
+        "used",
+        "was",
+        "waterboarding",
+        "widely",
+        "with",
+        "york"
+      ],
+      "source_excerpt": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+          "published_at": "2026-11-26T22:06:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "324eda2c7de834fc1092a158",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:06:24+00:00",
+      "last_update": "2026-11-26T22:06:24+00:00",
+      "event": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admissions",
+        "are",
+        "boss",
+        "flu",
+        "get",
+        "getting",
+        "health",
+        "horrible",
+        "hospital",
+        "nhs",
+        "officials",
+        "possible",
+        "risk",
+        "soon",
+        "spike",
+        "surge",
+        "those",
+        "urging",
+        "vaccinated",
+        "warns"
+      ],
+      "source_excerpt": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T22:06:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1b026e95b3ce7f2a895a71b",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:06:20+00:00",
+      "last_update": "2026-11-26T22:06:20+00:00",
+      "event": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "friendship",
+        "interview",
+        "putin",
+        "questions",
+        "strange",
+        "trump",
+        "zelensky"
+      ],
+      "source_excerpt": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5",
+          "published_at": "2026-11-26T22:06:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5baaa27a4bf296e93612e0d9",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:02:20+00:00",
+      "last_update": "2026-11-26T22:02:20+00:00",
+      "event": "Under GSP+, Pakistan looks to expand agri-exports",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agri",
+        "expand",
+        "exports",
+        "express",
+        "gsp",
+        "looks",
+        "pakistan",
+        "the",
+        "tribune",
+        "under"
+      ],
+      "source_excerpt": "Under GSP+, Pakistan looks to expand agri-exports The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTd5aHY3aXM4WmxwLXhOWGIxTklZVXRrc1BocWJ1dTF6SGU2bEhGR3YwS2xjVFVXV1lYM3VscXQxU3g1azYtSUpaU2pjZzM1UzYxTkJiMUw2Uk9vRVFnUDBPNE94Wi1oOGszMk42N0tPUld2M3V1T2J2UGw4ZUdtWmVRanZEblU3cjJGdNIBlAFBVV95cUxOdjNJZVZncnhuSkpGQnk5NUZzcFZsSUdsd0F2dkw2dXhRU3FLdGFRSEtDblJGWUM0Umc5ZEJJMFpRSDAzWVdVUmFCdmhnOXZQVUJEUTNVb3VjQ2E5dUZrSURnSnhPWW9laGtaVEZ1akZISzVmLTlhbTZtUXlBWm5Xb01aNndDMG9vREN0SkZIdmQwaDc0?oc=5",
+          "published_at": "2026-11-26T22:02:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTd5aHY3aXM4WmxwLXhOWGIxTklZVXRrc1BocWJ1dTF6SGU2bEhGR3YwS2xjVFVXV1lYM3VscXQxU3g1azYtSUpaU2pjZzM1UzYxTkJiMUw2Uk9vRVFnUDBPNE94Wi1oOGszMk42N0tPUld2M3V1T2J2UGw4ZUdtWmVRanZEblU3cjJGdNIBlAFBVV95cUxOdjNJZVZncnhuSkpGQnk5NUZzcFZsSUdsd0F2dkw2dXhRU3FLdGFRSEtDblJGWUM0Umc5ZEJJMFpRSDAzWVdVUmFCdmhnOXZQVUJEUTNVb3VjQ2E5dUZrSURnSnhPWW9laGtaVEZ1akZISzVmLTlhbTZtUXlBWm5Xb01aNndDMG9vREN0SkZIdmQwaDc0?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "686cc8a14452b0a1d4cdf8c8",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T21:41:00+00:00",
+      "last_update": "2026-11-26T21:41:00+00:00",
+      "event": "Lana Del Rey says she's 'close to wrapping up' two new albums: 'Don't fret'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "10th",
+        "about",
+        "album",
+        "albums",
+        "awaited",
+        "close",
+        "comments",
+        "day",
+        "del",
+        "don",
+        "dropped",
+        "fret",
+        "her",
+        "instagram",
+        "just",
+        "lana",
+        "long",
+        "major",
+        "new",
+        "post",
+        "revealed",
+        "rey",
+        "says",
+        "section",
+        "she",
+        "singer",
+        "studio",
+        "thanksgiving",
+        "that",
+        "the",
+        "two",
+        "update",
+        "wrapping"
+      ],
+      "source_excerpt": "Lana Del Rey says she's 'close to wrapping up' two new albums Lana Del Rey just dropped a major update about her new album. The singer revealed in the comments section of her Thanksgiving Day Instagram post that she is “close to wrapping up” her long-awaited 10th studio album...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692801-lana-del-rey-says-shes-close-to-wrapping-up-two-new-albums-dont-fret",
+          "published_at": "2026-11-26T21:41:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692801-lana-del-rey-says-shes-close-to-wrapping-up-two-new-albums-dont-fret",
+        "publisher_url": "https://www.geo.tv/latest/692801-lana-del-rey-says-shes-close-to-wrapping-up-two-new-albums-dont-fret",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b90d1d22ccb18ec92265a85",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T21:00:00+00:00",
+      "last_update": "2026-11-26T21:00:00+00:00",
+      "event": "Dolly Parton's niece posts emotional Thanksgiving tribute months after death",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "are",
+        "aunt",
+        "carrying",
+        "danielle",
+        "day",
+        "death",
+        "dolly",
+        "emotional",
+        "family",
+        "first",
+        "followers",
+        "has",
+        "her",
+        "lessons",
+        "marked",
+        "months",
+        "niece",
+        "parton",
+        "post",
+        "posts",
+        "telling",
+        "thanksgiving",
+        "that",
+        "the",
+        "them",
+        "through",
+        "tribute",
+        "video",
+        "with",
+        "without"
+      ],
+      "source_excerpt": "Dolly Parton's niece posts emotional Thanksgiving tribute months after death Danielle Parton has marked her family's first Thanksgiving without Dolly Parton with an emotional video tribute, telling followers that her aunt's lessons are carrying them through the day. The post...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692792-dolly-partons-niece-posts-emotional-thanksgiving-tribute-months-after-death",
+          "published_at": "2026-11-26T21:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692792-dolly-partons-niece-posts-emotional-thanksgiving-tribute-months-after-death",
+        "publisher_url": "https://www.geo.tv/latest/692792-dolly-partons-niece-posts-emotional-thanksgiving-tribute-months-after-death",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d0069d5cbbaf2d4394cfcc2",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T21:39:25+00:00",
+      "last_update": "2026-11-26T21:39:25+00:00",
+      "event": "Tarar criticises Fazl, Bilawal over protests and referendum debate",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bilawal",
+        "criticises",
+        "debate",
+        "fazl",
+        "geo",
+        "news",
+        "over",
+        "protests",
+        "referendum",
+        "tarar"
+      ],
+      "source_excerpt": "Tarar criticises Fazl, Bilawal over protests and referendum debate Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5",
+          "published_at": "2026-11-26T21:39:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNLeHJrNmh3WFZsSlZtRG80aUFqZHNJOVJVbzMyeUtHNGthWHNGM1pXbWdWamNENkhJZDFZV2YtMUJXNmVRM2E2QUtwZTItNVpjRXJwanZ3QkVCSC1FU2JlRXdLNm54LUpLV1kzTEtNdC0zSjVUeWRwd1ItWWdZQk9Yb1c3aldNVVY4aERDWU9PYXl2Ylp4WkNvRGQ1Rkk?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d28c09d5de679fe3e38e39be",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:41:00+00:00",
+      "last_update": "2026-11-26T22:41:00+00:00",
+      "event": "Sofia Vergara receives one of Barranquilla’s highest honours during Colombia visit",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barranquilla",
+        "colombia",
+        "during",
+        "highest",
+        "honours",
+        "international",
+        "news",
+        "one",
+        "receives",
+        "sofia",
+        "the",
+        "vergara",
+        "visit"
+      ],
+      "source_excerpt": "Sofia Vergara receives one of Barranquilla’s highest honours during Colombia visit The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzZKZ1BkZzVBX0pqQlloVmRlakNOWUUtV1U5OUdLLVNtbEdiZXI4MGJYVHpQaHEwYV90QURkZVZGTER4WWJzSUpXT1l1ZWlJOTJKUXltV3NLaHJUOGdwUHhPalZqdzZaa3gyai1FT0F4TURGMFhySkp3NUpTZTBJeUVES3RSNkdfNW9USDh0SnI5andOR0xMZEwxN1ZkRHgxcGNDWk1FYU5DS1I3UGNGTlYzMTBmMkgtSW1tUdIBvAFBVV95cUxOTzZKZ1BkZzVBX0pqQlloVmRlakNOWUUtV1U5OUdLLVNtbEdiZXI4MGJYVHpQaHEwYV90QURkZVZGTER4WWJzSUpXT1l1ZWlJOTJKUXltV3NLaHJUOGdwUHhPalZqdzZaa3gyai1FT0F4TURGMFhySkp3NUpTZTBJeUVES3RSNkdfNW9USDh0SnI5andOR0xMZEwxN1ZkRHgxcGNDWk1FYU5DS1I3UGNGTlYzMTBmMkgtSW1tUQ?oc=5",
+          "published_at": "2026-11-26T22:41:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzZKZ1BkZzVBX0pqQlloVmRlakNOWUUtV1U5OUdLLVNtbEdiZXI4MGJYVHpQaHEwYV90QURkZVZGTER4WWJzSUpXT1l1ZWlJOTJKUXltV3NLaHJUOGdwUHhPalZqdzZaa3gyai1FT0F4TURGMFhySkp3NUpTZTBJeUVES3RSNkdfNW9USDh0SnI5andOR0xMZEwxN1ZkRHgxcGNDWk1FYU5DS1I3UGNGTlYzMTBmMkgtSW1tUdIBvAFBVV95cUxOTzZKZ1BkZzVBX0pqQlloVmRlakNOWUUtV1U5OUdLLVNtbEdiZXI4MGJYVHpQaHEwYV90QURkZVZGTER4WWJzSUpXT1l1ZWlJOTJKUXltV3NLaHJUOGdwUHhPalZqdzZaa3gyai1FT0F4TURGMFhySkp3NUpTZTBJeUVES3RSNkdfNW9USDh0SnI5andOR0xMZEwxN1ZkRHgxcGNDWk1FYU5DS1I3UGNGTlYzMTBmMkgtSW1tUQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b060239b32090ed8efb6becf",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:34:00+00:00",
+      "last_update": "2026-11-26T22:34:00+00:00",
+      "event": "Meghan Markle's Thanksgiving plans revealed, Duchess shares festive update",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeared",
+        "are",
+        "behind",
+        "brand",
+        "duchess",
+        "elegant",
+        "ever",
+        "festive",
+        "finishing",
+        "followers",
+        "getting",
+        "her",
+        "how",
+        "into",
+        "lifestyle",
+        "markle",
+        "meghan",
+        "new",
+        "place",
+        "plans",
+        "preparations",
+        "putting",
+        "revealed",
+        "scenes",
+        "shared",
+        "shares",
+        "showing",
+        "spirit",
+        "sussex",
+        "taking",
+        "thanksgiving",
+        "the",
+        "touches",
+        "update",
+        "video"
+      ],
+      "source_excerpt": "Meghan Markle is getting into the Thanksgiving spirit, showing followers how festive preparations are taking place behind the scenes at As Ever. The Duchess of Sussex appeared in a new video shared by her lifestyle brand, putting the finishing touches to an elegant Thanksgiving...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692805-meghan-markles-thanksgiving-plans-revealed-duchess-shares-festive-update",
+          "published_at": "2026-11-26T22:34:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692805-meghan-markles-thanksgiving-plans-revealed-duchess-shares-festive-update",
+        "publisher_url": "https://www.geo.tv/latest/692805-meghan-markles-thanksgiving-plans-revealed-duchess-shares-festive-update",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4971fa7d87887d5503a16137",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T21:59:00+00:00",
+      "last_update": "2026-11-26T21:59:00+00:00",
+      "event": "Maura Higgins thanks Mark Ballas with luxury gift after 'Dancing With the Stars'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "ballas",
+        "dancing",
+        "day",
+        "finale",
+        "gift",
+        "given",
+        "has",
+        "her",
+        "higgins",
+        "instagram",
+        "luxury",
+        "mark",
+        "maura",
+        "november",
+        "partner",
+        "photograph",
+        "posted",
+        "revealing",
+        "rolex",
+        "season",
+        "she",
+        "stars",
+        "stories",
+        "thanks",
+        "the",
+        "with"
+      ],
+      "source_excerpt": "Maura Higgins thanks Mark Ballas with luxury gift after 'Dancing With the Stars' Maura Higgins has given her Dancing with the Stars partner Mark Ballas a Rolex, revealing the gift on her Instagram Stories on 25 November, the day after the season 35 finale. She posted a photograph...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692794-maura-higgins-thanks-mark-ballas-with-luxury-gift-after-dancing-with-the-stars",
+          "published_at": "2026-11-26T21:59:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692794-maura-higgins-thanks-mark-ballas-with-luxury-gift-after-dancing-with-the-stars",
+        "publisher_url": "https://www.geo.tv/latest/692794-maura-higgins-thanks-mark-ballas-with-luxury-gift-after-dancing-with-the-stars",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b46986e330cce5467cb2276b",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:07:30+00:00",
+      "last_update": "2026-11-26T22:07:30+00:00",
+      "event": "Oil up 2% on mine strikes in Hormuz",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "hormuz",
+        "mine",
+        "oil",
+        "strikes",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Oil up 2% on mine strikes in Hormuz The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWNzdmS2lyWTloMkdaTVQySlZQVFFUYmhvcmg5REFGajZDR0p0VEc1T2Rkd0JPVWR0bWJqZUZtZGsxdkUyZmFzOVBFdzhvZ1NzUVBKV212emlHUjR1Q01Lb3piMS1sY2hCMzVtNWlhRHZjWUtYMW1XMFVlTdIBgwFBVV95cUxOUU9IVFRCeFJBT21BN3pFaGQ4ejdqUEM2QUxIcF93WkdZMm9kaFNUTFdKcHhnZTRCVFFFSGdiVXBxdUNWOC1XVlI4aXlacUMxSjdlUVd2TlpMLUlDVTN3U05jYk42YzN0VjhYdXRnNnp6NUhzWkdkbFI2eDBuWTB0bVJnMA?oc=5",
+          "published_at": "2026-11-26T22:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWNzdmS2lyWTloMkdaTVQySlZQVFFUYmhvcmg5REFGajZDR0p0VEc1T2Rkd0JPVWR0bWJqZUZtZGsxdkUyZmFzOVBFdzhvZ1NzUVBKV212emlHUjR1Q01Lb3piMS1sY2hCMzVtNWlhRHZjWUtYMW1XMFVlTdIBgwFBVV95cUxOUU9IVFRCeFJBT21BN3pFaGQ4ejdqUEM2QUxIcF93WkdZMm9kaFNUTFdKcHhnZTRCVFFFSGdiVXBxdUNWOC1XVlI4aXlacUMxSjdlUVd2TlpMLUlDVTN3U05jYk42YzN0VjhYdXRnNnp6NUhzWkdkbFI2eDBuWTB0bVJnMA?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae3ca44fbf980aa1aba55322",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:13:07+00:00",
+      "last_update": "2026-11-26T22:13:07+00:00",
+      "event": "Court issues notices to govt, other respondents",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "court",
+        "express",
+        "govt",
+        "issues",
+        "notices",
+        "other",
+        "respondents",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Court issues notices to govt, other respondents The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkpfQlZEdkVUY2VSNkdLX0N3T1ltQk84MzJ5LUdpSkR3bjI2bDQ4a1NjaHltX3lIMlY0MFJsTWZiTHZCbXVjWk1UdkRnRkc4dlJDRVZ5TGFEOXplMjZ0UUlsWUJYX0ZzVkNUUFhJOXhsSUp6M3UwWU1VRjkyT0NZQUxyNFBlVC0xWDYw0gGTAUFVX3lxTE9TUEY1aWVwWmFTN0hLcnJ2NEVVMTJSMHh4TGJlRnNhSlhWN1NuOVIxSEtaaXdCdVphQ3VRaEx1dzFybnhKUzhmMGxxZmZZNFBwMldoRUJYYUI2ekJsRzVGNFpfUEMwRjBvVkxxRTVMakswMmt1bUdOYXNGVnhkTGpwdmV3RG1rd05Qby1mSWdNMmlxdw?oc=5",
+          "published_at": "2026-11-26T22:13:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkpfQlZEdkVUY2VSNkdLX0N3T1ltQk84MzJ5LUdpSkR3bjI2bDQ4a1NjaHltX3lIMlY0MFJsTWZiTHZCbXVjWk1UdkRnRkc4dlJDRVZ5TGFEOXplMjZ0UUlsWUJYX0ZzVkNUUFhJOXhsSUp6M3UwWU1VRjkyT0NZQUxyNFBlVC0xWDYw0gGTAUFVX3lxTE9TUEY1aWVwWmFTN0hLcnJ2NEVVMTJSMHh4TGJlRnNhSlhWN1NuOVIxSEtaaXdCdVphQ3VRaEx1dzFybnhKUzhmMGxxZmZZNFBwMldoRUJYYUI2ekJsRzVGNFpfUEMwRjBvVkxxRTVMakswMmt1bUdOYXNGVnhkTGpwdmV3RG1rd05Qby1mSWdNMmlxdw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aaaf079a0bb853bca94f4266",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T22:08:31+00:00",
+      "last_update": "2026-11-26T22:08:31+00:00",
+      "event": "FoodAg signs $168m in deals, MoUs",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "168m",
+        "deals",
+        "express",
+        "foodag",
+        "mous",
+        "signs",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "FoodAg signs $168m in deals, MoUs The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jdXQxNjdGV1RHZTl1YmotOEVsYnJ1X1dtZ1dod0pEYU9uN2QzZENaODEwQ1pRODM2cU10WlhWdF9mV0VNbE80am01U2VORFJJRHZyS05veUpsX1RPVlRTak9kRkVYbFlQZ2JKRFpfdURsQUVVLXJV0gF_QVVfeXFMT0dQTUNvTGVSQ2pWR2Rna2g2cGpXWXdBdmZZVUJJQ2FVSTlYNk5YdHgweE5NdEVqZXBNeDNoemhlbmU1TWJuWTVhY01UcXpFMHBVY2UzMEVCOTFBZnB0QUg3dEdDZTc1RVljNGw3QVNBOUJNMWh4UU1TZWhZbU90bw?oc=5",
+          "published_at": "2026-11-26T22:08:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jdXQxNjdGV1RHZTl1YmotOEVsYnJ1X1dtZ1dod0pEYU9uN2QzZENaODEwQ1pRODM2cU10WlhWdF9mV0VNbE80am01U2VORFJJRHZyS05veUpsX1RPVlRTak9kRkVYbFlQZ2JKRFpfdURsQUVVLXJV0gF_QVVfeXFMT0dQTUNvTGVSQ2pWR2Rna2g2cGpXWXdBdmZZVUJJQ2FVSTlYNk5YdHgweE5NdEVqZXBNeDNoemhlbmU1TWJuWTVhY01UcXpFMHBVY2UzMEVCOTFBZnB0QUg3dEdDZTc1RVljNGw3QVNBOUJNMWh4UU1TZWhZbU90bw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "73a0e9911e9469487634aadb",
+      "remembered_at": "2026-11-26T22:53:44.510026+00:00",
+      "event_date": "2026-11-26T21:46:51+00:00",
+      "last_update": "2026-11-26T21:46:51+00:00",
+      "event": "SBP's foreign reserves rise $8m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "foreign",
+        "reserves",
+        "rise",
+        "sbp",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "SBP's foreign reserves rise $8m The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5",
+          "published_at": "2026-11-26T21:46:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T21:55:07.109527+00:00"
+  "updated_at": "2026-11-26T22:53:44.510026+00:00"
 }
