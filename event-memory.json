@@ -165050,7 +165050,935 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "506000acc7a3073b6f264bb2",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T06:55:03+00:00",
+      "last_update": "2026-11-26T07:55:47+00:00",
+      "event": "Ireland to make historic first men's cricket tour of Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cricket",
+        "first",
+        "historic",
+        "ireland",
+        "make",
+        "men",
+        "pakistan",
+        "samaa",
+        "tour"
+      ],
+      "source_excerpt": "Ireland to make historic first men's cricket tour of Pakistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWlGM1dQQU55NTFlWnNIbk8zbXBMNXNvdUZfUE9JVFdtalQwRGQtUDlzclBTY3liMFF6QTIxNFI5eHdLOHRQTmpKRUtwN3JLYVo1R29UZ0dPaFJlWnA2QXhrUVN0U19ONlI5YzcybTJ4OTVLcWtjRUNhZ282SGRXdVhGekdQTVRzQzlsNzd1eHE5VmxBWVQ0OQ?oc=5",
+          "published_at": "2026-11-26T06:55:03+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/pakistan-to-host-ireland-for-historic-first-mens-cricket-tour-in-lahore/",
+          "published_at": "2026-11-26T07:55:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWlGM1dQQU55NTFlWnNIbk8zbXBMNXNvdUZfUE9JVFdtalQwRGQtUDlzclBTY3liMFF6QTIxNFI5eHdLOHRQTmpKRUtwN3JLYVo1R29UZ0dPaFJlWnA2QXhrUVN0U19ONlI5YzcybTJ4OTVLcWtjRUNhZ282SGRXdVhGekdQTVRzQzlsNzd1eHE5VmxBWVQ0OQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7a276ff02348dfe1e5778b8a",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:11:58+00:00",
+      "last_update": "2026-11-26T08:09:04+00:00",
+      "event": "Pakistan hosts Makkah defense pact meeting in Islamabad today",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "defense",
+        "hosts",
+        "islamabad",
+        "makkah",
+        "meeting",
+        "pact",
+        "pakistan",
+        "samaa",
+        "today"
+      ],
+      "source_excerpt": "Pakistan hosts Makkah defense pact meeting in Islamabad today samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjdwcTJheFdZSFV1ZS03X2I0bE83UzE5NDVIbmV1UTFhTHBMeFVqZnhEVDJEdjN6LVlITy1Kbk54aUphWkFZdDBoTHJMY3MtYW92TV92eHlNVE9sanlkYnRtZW9JQ0JscUhBYlpUVnNGVjY0dFVubjBiSHNEUVNKZVZYWVlfV0JDX0hpVkZDU2FPVTc5N21ZWA?oc=5",
+          "published_at": "2026-11-26T07:11:58+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEJxY2N6S2ZkTHBLVXpXTko0a3dhRy1HczZkbXphYlpsSGFWUldVS3N5UVVWZURNcHd2UjBUNmhudEtTRFQ5U3d0bUw0UDBROXg0UXE5cG1WZGt1blFPZjZBS1hwRzhmaUtMcVZSZHFrVWJRZ3laT2l2a3J1c3NyQklCNDNUdVZjYk1kQVNDMlVudHExWXFSbA?oc=5",
+          "published_at": "2026-11-26T07:12:49+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzg0dnJ0d0hZREotUnduWFFzd192cnI2WDNNc3ExLXdvOHR5bUZaV1BMS3JKNy1KcUFXa0pLMG9OMTdDakVrZTNlTlFXSlhObUxsb1Y5MVhfTzNMV2tQZTJiY3dLQVh5czU2NlNzSWs0R09aZmRoOUxVSGhIWFg3MEtkbFJCbUZ2dGptZkxHTDHSAVNBVV95cUxONWxQRkpqWWZVRnFsc3YzUEg4VTI3WXBsWVhMZG5aZUdhZXNScW1BckgzdDcyWTNhS2oxai1BVTg1QUpJSVhKZjEwQkhLaHBLZl9qZw?oc=5",
+          "published_at": "2026-11-26T08:09:04+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjdwcTJheFdZSFV1ZS03X2I0bE83UzE5NDVIbmV1UTFhTHBMeFVqZnhEVDJEdjN6LVlITy1Kbk54aUphWkFZdDBoTHJMY3MtYW92TV92eHlNVE9sanlkYnRtZW9JQ0JscUhBYlpUVnNGVjY0dFVubjBiSHNEUVNKZVZYWVlfV0JDX0hpVkZDU2FPVTc5N21ZWA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2fb58412ae5b8d03f33520d6",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:16:38+00:00",
+      "last_update": "2026-11-26T08:31:38+00:00",
+      "event": "Sindh makes 75% attendance mandatory for govt college students",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attendance",
+        "college",
+        "for",
+        "govt",
+        "makes",
+        "mandatory",
+        "sindh",
+        "students"
+      ],
+      "source_excerpt": "Sindh makes 75% attendance mandatory for govt college students",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/26/new-attendance-policy-announced-for-college-students/",
+          "published_at": "2026-11-26T07:16:38+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/sindh-makes-75-attendance-mandatory-for-govt-college-students",
+          "published_at": "2026-11-26T08:31:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/sindh-makes-75-attendance-mandatory-for-govt-college-students",
+        "publisher_url": "https://arynews.tv/sindh-makes-75-attendance-mandatory-for-govt-college-students",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bf6992219b096d9c5c25b7f0",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:16:17+00:00",
+      "last_update": "2026-11-26T08:31:20+00:00",
+      "event": "Musk pledges two SpaceX shares for every American child",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "american",
+        "child",
+        "dawn",
+        "every",
+        "for",
+        "musk",
+        "pledges",
+        "shares",
+        "spacex",
+        "two"
+      ],
+      "source_excerpt": "Musk pledges two SpaceX shares for every American child Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5",
+          "published_at": "2026-11-26T08:16:17+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047193/musk-pledges-two-spacex-shares-for-every-american-child",
+          "published_at": "2026-11-26T08:16:17+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0UwX29DREl6RWJRME5MWlMwcC1MSjU1Y1VoUmthczc2MnlVNVV1a0V0dWJCazMtREF5TmpUaXdjemU5MjZfQk9GOExfLVVFODhaMTRJaF9LZXRQb3hjYnpTbFhHdktRVjREa2piaGlrMDBQckxZOTFtdDQzdmotSmVSWUMzcWo2eG1jaEFqc3J0MktPdm16T2xVMV9TbWMyZElsag?oc=5",
+          "published_at": "2026-11-26T08:31:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ae60be0851967a7f59ec357",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T05:11:34+00:00",
+      "last_update": "2026-11-26T07:35:07+00:00",
+      "event": "بلوچستان میں سیکیورٹی فورسز کی کارروائیاں، فتنہ الہندوستان کے 12 دہشت گرد ہلاک",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اضلاع",
+        "الہندوستان",
+        "اور",
+        "بلوچستان",
+        "بھارتی",
+        "دوران",
+        "دہشت",
+        "سبی،",
+        "سرپرستی",
+        "سیکیورٹی",
+        "فائل",
+        "فتنہ",
+        "فورسز",
+        "فوٹوسیکیورٹی",
+        "مختلف",
+        "میں",
+        "نوشکی،",
+        "نومبر",
+        "پنجگور",
+        "کارروائیاں،",
+        "کارروائیوں",
+        "کیچ",
+        "گرد",
+        "ہلاک"
+      ],
+      "source_excerpt": "---فائل فوٹوسیکیورٹی فورسز نے 20 نومبر سے بلوچستان کے اضلاع نوشکی، سبی، پنجگور اور کیچ میں مختلف کارروائیوں کے دوران بھارتی سرپرستی...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1636911",
+          "published_at": "2026-11-26T05:11:34+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5023558",
+          "published_at": "2026-11-26T07:35:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1636911",
+        "publisher_url": "https://jang.com.pk/news/1636911",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ec69e983f431a63fe3141afb",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:31:25+00:00",
+      "last_update": "2026-11-26T08:31:25+00:00",
+      "event": "A step-by-step guide to applying for a Pakistani passport",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "along",
+        "and",
+        "application",
+        "applying",
+        "are",
+        "available",
+        "below",
+        "dawn",
+        "different",
+        "documents",
+        "expired",
+        "explain",
+        "first",
+        "for",
+        "guide",
+        "has",
+        "here",
+        "office",
+        "options",
+        "pakistani",
+        "passport",
+        "previous",
+        "procedure",
+        "process",
+        "renewal",
+        "required",
+        "step",
+        "the",
+        "time",
+        "with",
+        "you",
+        "your"
+      ],
+      "source_excerpt": "Are you applying for a passport for the first time, or has your previous passport expired? Here’s Dawn’s guide to the passport application and renewal process. Below, we explain the documents required, the procedure for applying at a passport office and the different options available, along with th",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2044025/a-step-by-step-guide-to-applying-for-a-pakistani-passport",
+          "published_at": "2026-11-26T08:31:25+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczVpRkFPYmJxRVVyMHFPTldhbUxVZGJlWVhLclBwamxsLWhDcFdKOFZ1SnE3Vl9vZzUxMXBWQnpLNzduYXV3LVVKS0RmTUl5clhZMWhudHlGMXJQMmQ3c1QwTUtEclpoeUtZQ3drN2ktaWhzd1JLeVBDSmcydUxLNk9LR1JhZHlxbE4zYXhxODJJaUJGT0E?oc=5",
+          "published_at": "2026-11-26T08:31:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2044025/a-step-by-step-guide-to-applying-for-a-pakistani-passport",
+        "publisher_url": "https://www.dawn.com/news/2044025/a-step-by-step-guide-to-applying-for-a-pakistani-passport",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02b321701cbf84d3775fda83",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:54:06+00:00",
+      "last_update": "2026-11-26T07:54:06+00:00",
+      "event": "I still send WhatsApp messages to my husband who died in the fire",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "are",
+        "bbc",
+        "blaze",
+        "children",
+        "christy",
+        "coping",
+        "death",
+        "died",
+        "fire",
+        "her",
+        "hong",
+        "how",
+        "husband",
+        "kong",
+        "messages",
+        "send",
+        "she",
+        "still",
+        "tells",
+        "the",
+        "whatsapp",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "Christy tells the BBC how she and her children are coping a year after her husband's death in the Hong Kong blaze.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cq143gz7mpzeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T07:54:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/videos/cq143gz7mpzeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cq143gz7mpzeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c00781d001254d3c5c2afb6f",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:31:24+00:00",
+      "last_update": "2026-11-26T07:31:24+00:00",
+      "event": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "are",
+        "authorities",
+        "dead",
+        "disaster",
+        "flooded",
+        "for",
+        "gold",
+        "highlights",
+        "hunt",
+        "illegal",
+        "indonesian",
+        "mine",
+        "missing",
+        "monday",
+        "say",
+        "the",
+        "thirteen",
+        "which"
+      ],
+      "source_excerpt": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T07:31:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "daa74a362352a6d580cd7d95",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:33:51+00:00",
+      "last_update": "2026-11-26T08:33:51+00:00",
+      "event": "Thanksgiving and National Day of Mourning: What is the history?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activists",
+        "and",
+        "challenge",
+        "day",
+        "for",
+        "highlight",
+        "history",
+        "indigenous",
+        "mourning",
+        "narratives",
+        "national",
+        "ongoing",
+        "recognition",
+        "sovereignty",
+        "struggles",
+        "thanksgiving",
+        "the",
+        "what"
+      ],
+      "source_excerpt": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+          "published_at": "2026-11-26T08:33:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a59c83a762c08aca481fd00e",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:29:53+00:00",
+      "last_update": "2026-11-26T08:29:53+00:00",
+      "event": "Ms Rachel on Gaza: ‘everybody should speak out’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "called",
+        "celebrities",
+        "content",
+        "creator",
+        "everybody",
+        "for",
+        "gaza",
+        "genocide",
+        "has",
+        "more",
+        "out",
+        "rachel",
+        "should",
+        "speak",
+        "the"
+      ],
+      "source_excerpt": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+          "published_at": "2026-11-26T08:29:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81bba3fa8da8b25a7376723c",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:23:51+00:00",
+      "last_update": "2026-11-26T08:23:51+00:00",
+      "event": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "bodies",
+        "died",
+        "flood",
+        "flooded",
+        "gold",
+        "heavy",
+        "illegal",
+        "indonesia",
+        "java",
+        "least",
+        "mine",
+        "miners",
+        "missing",
+        "others",
+        "rain",
+        "recover",
+        "remain",
+        "rescuers",
+        "west"
+      ],
+      "source_excerpt": "At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+          "published_at": "2026-11-26T08:23:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bdd92d2bc1840642d556c0be",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:43:14+00:00",
+      "last_update": "2026-11-26T07:43:14+00:00",
+      "event": "Photos: Rallies around the world denounce violence against women",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "about",
+        "against",
+        "and",
+        "around",
+        "data",
+        "denounce",
+        "family",
+        "girls",
+        "intentionally",
+        "intimate",
+        "killed",
+        "last",
+        "member",
+        "partner",
+        "photos",
+        "rallies",
+        "shows",
+        "the",
+        "violence",
+        "were",
+        "women",
+        "world",
+        "year"
+      ],
+      "source_excerpt": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+          "published_at": "2026-11-26T07:43:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6db74f0f586b23cc055ca2a5",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:41:30+00:00",
+      "last_update": "2026-11-26T07:41:30+00:00",
+      "event": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "authorities",
+        "cases",
+        "civilians",
+        "congo",
+        "contain",
+        "country",
+        "displaces",
+        "disrupts",
+        "east",
+        "ebola",
+        "fighting",
+        "health",
+        "outbreak",
+        "response",
+        "struggle",
+        "surpass",
+        "workers",
+        "worst"
+      ],
+      "source_excerpt": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+          "published_at": "2026-11-26T07:41:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c3e9bb0d78b350e536b2513",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:38:00+00:00",
+      "last_update": "2026-11-26T07:38:00+00:00",
+      "event": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "conditions",
+        "dead",
+        "deep",
+        "efforts",
+        "excavation",
+        "facing",
+        "flood",
+        "gold",
+        "indonesia",
+        "intensify",
+        "least",
+        "lighting",
+        "mine",
+        "minimal",
+        "narrow",
+        "pits",
+        "rescue",
+        "slippery",
+        "tough",
+        "with",
+        "workers"
+      ],
+      "source_excerpt": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+          "published_at": "2026-11-26T07:38:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "712db6db993d8d3bfce24dd3",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T08:44:13+00:00",
+      "last_update": "2026-11-26T08:44:13+00:00",
+      "event": "Why is it so hard to get ADHD or autism diagnosis on the NHS?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adhd",
+        "and",
+        "assessment",
+        "autism",
+        "balmain",
+        "but",
+        "causes",
+        "diagnosis",
+        "financial",
+        "for",
+        "get",
+        "hard",
+        "has",
+        "health",
+        "her",
+        "impact",
+        "just",
+        "lynne",
+        "mental",
+        "nhs",
+        "not",
+        "pressure",
+        "says",
+        "the",
+        "too",
+        "wait",
+        "wellbeing",
+        "why"
+      ],
+      "source_excerpt": "Lynne Balmain says the wait for an ADHD assessment causes not just financial pressure, but has an impact on her mental health and wellbeing too.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/c3j4rwxr1zgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T08:44:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/c3j4rwxr1zgyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c3j4rwxr1zgyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7f1596bd441d7ac12ec9997",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:43:48+00:00",
+      "last_update": "2026-11-26T07:43:48+00:00",
+      "event": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "been",
+        "capital",
+        "clean",
+        "closed",
+        "collapse",
+        "deadly",
+        "disaster",
+        "dump",
+        "guinea",
+        "has",
+        "leading",
+        "main",
+        "months",
+        "orders",
+        "piling",
+        "residents",
+        "rubbish",
+        "since",
+        "streets",
+        "the"
+      ],
+      "source_excerpt": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T07:43:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bef8e50fb08f9e88477632bf",
+      "remembered_at": "2026-11-26T08:46:53.280680+00:00",
+      "event_date": "2026-11-26T07:34:47+00:00",
+      "last_update": "2026-11-26T07:34:47+00:00",
+      "event": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "brief",
+        "busiest",
+        "came",
+        "causing",
+        "days",
+        "eve",
+        "fedex",
+        "flights",
+        "ground",
+        "holiday",
+        "miami",
+        "one",
+        "overshoots",
+        "plane",
+        "runway",
+        "stop",
+        "suspension",
+        "thanksgiving",
+        "the",
+        "travel",
+        "year"
+      ],
+      "source_excerpt": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T07:34:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T07:27:31.867679+00:00"
+  "updated_at": "2026-11-26T08:46:53.280680+00:00"
 }
