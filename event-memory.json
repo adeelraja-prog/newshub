@@ -167094,7 +167094,687 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7b0de80491d8872c9f6f47a",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:22:59+00:00",
+      "last_update": "2026-11-26T11:22:59+00:00",
+      "event": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "another",
+        "are",
+        "deadly",
+        "dozens",
+        "egypt",
+        "explosion",
+        "giza",
+        "has",
+        "highway",
+        "how",
+        "injures",
+        "kills",
+        "railways",
+        "road",
+        "roads",
+        "suffered",
+        "tragedy"
+      ],
+      "source_excerpt": "Egypt has suffered another tragedy as a deadly road explosion kills 31 and injures dozens.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+          "published_at": "2026-11-26T11:22:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c778fd90bad2dce4a04e58bc",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T07:43:04+00:00",
+      "last_update": "2026-11-26T11:19:29+00:00",
+      "event": "Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "gaza",
+        "israel",
+        "journalist",
+        "killed",
+        "palestinian",
+        "peck",
+        "prestigious",
+        "prize",
+        "rory",
+        "wins"
+      ],
+      "source_excerpt": "Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize",
+          "published_at": "2026-11-26T07:43:04+00:00"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2FnemVMN3FmVDFBQWRaYkV1VjJpMkhKQ3lZc3N3aVB2UFdtZmVDeWx0Q0JWVFVXcVp5bkFfb09EOVNSQS1QQTBDOWw5MVFhOWZsaTJ0Nm54SmdjLVB4dkV6cGtHX1lPbEk2d2xxb0RMdXBnczRBcURWQlh5NnRULUtHVVA2ZktCN0RldFBTSW1XWEE2Vi1RYlZ0UzY1d1V3RE9ZdHRTVmpIbkk4YkRpQdIBtgFBVV95cUxQT2xkVUZHbFFjX3VlcWZZWHBoOVA5LTBacGNINGFsVUVPTmVPbjVGeHM4YXJINUxIR3hGTzdmMEFHQmxQS1BrbjUwaXV2ZVNWcjBXZGExUmE2bkdkdUhuNHhIb3A1czVWY0ViSmxSVmNtSHhxQ3NUTkhpNGQtYWJzN2hLMlFXQi01b2Y1VE1RZzFkOWY3Z0ZrQmNzU1E0NEJHMG9jMFJtTGxITE1Ic2J6U3dKYjlzQQ?oc=5",
+          "published_at": "2026-11-26T07:45:13+00:00"
+        },
+        {
+          "name": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXhCMWJ1cWNHRGpyRnJXQmNlejh0eU9rRDFrTlBPY01XeDh4Ukd3YnBYcWVCVU00aTc3UUI0MDFCcjl2dThEQVdWOWptZVpmaWtoMlZHZ2l4X2VJQ29LVzNRTVlUalpVWm5wN2R3WTlrNDlTdXVfQ19CQnVXa2gzbmJOZ0tDSXRwWlJVM0pONFI2XzhhOE90UGF0R2hzNTdEbFVYVU1aQ3FORERHdDJzRWNtbURWRy1zem1yWUhVaTQ0c3E4dmlMbXBacXg4T1Mx?oc=5",
+          "published_at": "2026-11-26T11:19:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize",
+        "publisher_url": "https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d74a38fd35868da2d049860f",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:38:00+00:00",
+      "last_update": "2026-11-26T11:38:00+00:00",
+      "event": "PCB announces fixtures for Ireland's maiden Pakistan tour",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2024",
+        "afp",
+        "and",
+        "announces",
+        "batting",
+        "between",
+        "board",
+        "broward",
+        "central",
+        "county",
+        "cricket",
+        "cup",
+        "fakhar",
+        "fixtures",
+        "florida",
+        "for",
+        "group",
+        "icc",
+        "ireland",
+        "june",
+        "lahore",
+        "lauderhill",
+        "maiden",
+        "match",
+        "men",
+        "pakistan",
+        "park",
+        "pcb",
+        "stadium",
+        "the",
+        "thursday",
+        "tour",
+        "twenty20",
+        "world",
+        "zaman"
+      ],
+      "source_excerpt": "Pakistan´s Fakhar Zaman batting in the ICC men's Twenty20 World Cup 2024 group A cricket match between Pakistan and Ireland at Central Broward Park & Broward County Stadium in Lauderhill, Florida, US, June 16, 2024. — AFP LAHORE: The Pakistan Cricket Board on Thursday...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692716-pcb-announces-fixtures-for-irelands-maiden-pakistan-tour",
+          "published_at": "2026-11-26T11:38:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFGRnk2UU04S3h3MnlpY2FUemVSQmdzQldnRTRoRk5XTF9hamNhQ05LMWhUajVpcUtNdWZUMnVaSXo1c0VCMHpWNFEtSVhqVXJ2M1NZSnRwNVlVNDVPM09fbm80am5USVZfSmRQaHVKT1luOWxRNmlDQjhweXk5eFg5N2hvbmpQUy1hQzBHSzl2bGM?oc=5",
+          "published_at": "2026-11-26T11:38:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692716-pcb-announces-fixtures-for-irelands-maiden-pakistan-tour",
+        "publisher_url": "https://www.geo.tv/latest/692716-pcb-announces-fixtures-for-irelands-maiden-pakistan-tour",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "603494748eedbf122a532345",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T10:27:18+00:00",
+      "last_update": "2026-11-26T11:51:23+00:00",
+      "event": "Apple removes AI chatbot 'Talkie' over child safety concerns",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apple",
+        "chatbot",
+        "child",
+        "concerns",
+        "over",
+        "removes",
+        "safety",
+        "samaa",
+        "talkie"
+      ],
+      "source_excerpt": "Apple removes AI chatbot 'Talkie' over child safety concerns samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYndrc2FPM0M4bEhiM01icVRXRlN5Q1BjYUZJZmRqV0hzV3pYVDctcW1CTTJhQVpabVRfQk1vRUo4VGtPMGRRM1g2cEtUS1lCVG1JbjZwdU1rM2VjTXk0QnlzVTNJd0tGM2Z4MWo5cXRNYUwyRTk4dlBWOWpkbHRlbldjZklRLUJ3bl9PWGx1Qk8yeEY2?oc=5",
+          "published_at": "2026-11-26T10:27:18+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/apple-pulls-minimax-ai-app-amid-child-safety-concerns",
+          "published_at": "2026-11-26T11:51:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYndrc2FPM0M4bEhiM01icVRXRlN5Q1BjYUZJZmRqV0hzV3pYVDctcW1CTTJhQVpabVRfQk1vRUo4VGtPMGRRM1g2cEtUS1lCVG1JbjZwdU1rM2VjTXk0QnlzVTNJd0tGM2Z4MWo5cXRNYUwyRTk4dlBWOWpkbHRlbldjZklRLUJ3bl9PWGx1Qk8yeEY2?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "caa075736c6e4c41291db1be",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:38:20+00:00",
+      "last_update": "2026-11-26T11:38:20+00:00",
+      "event": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "76ers",
+        "and",
+        "assists",
+        "becomes",
+        "double",
+        "game",
+        "james",
+        "lebron",
+        "miami",
+        "nba",
+        "oldest",
+        "philadelphia",
+        "player",
+        "points",
+        "post",
+        "posted",
+        "rebounds",
+        "seven",
+        "snapped",
+        "streak",
+        "triple",
+        "win",
+        "winning"
+      ],
+      "source_excerpt": "James posted 25 points, 12 assists and 10 rebounds as Philadelphia snapped Miami's seven-game winning streak.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+          "published_at": "2026-11-26T11:38:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2b06ea0e579f4bcccf3ceeb9",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:23:29+00:00",
+      "last_update": "2026-11-26T11:23:29+00:00",
+      "event": "Iraq denies reports of troop movements towards Kurdish region",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "army",
+        "denies",
+        "government",
+        "iraq",
+        "iraqi",
+        "kurdish",
+        "kurdistan",
+        "media",
+        "movements",
+        "moving",
+        "region",
+        "reports",
+        "says",
+        "that",
+        "the",
+        "there",
+        "towards",
+        "troop",
+        "truth",
+        "units",
+        "were"
+      ],
+      "source_excerpt": "Government says there is 'no truth' to media reports that Iraqi army units were moving towards the Kurdistan region.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+          "published_at": "2026-11-26T11:23:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "048435bdd5fbc00340ffe5fe",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:16:03+00:00",
+      "last_update": "2026-11-26T11:16:03+00:00",
+      "event": "‘Proscribing free speech’: Why a Jewish group is challenging UK’s Hamas ban",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ban",
+        "being",
+        "challenging",
+        "complete",
+        "for",
+        "free",
+        "group",
+        "hamas",
+        "jewish",
+        "network",
+        "palestine",
+        "proscribing",
+        "says",
+        "speech",
+        "stifle",
+        "the",
+        "used",
+        "was",
+        "why"
+      ],
+      "source_excerpt": "The Jewish Network for Palestine says the complete ban on Hamas was being used to stifle free speech.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
+          "published_at": "2026-11-26T11:16:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ed6a29800c515eb41f6c0f3",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:07:30+00:00",
+      "last_update": "2026-11-26T11:07:30+00:00",
+      "event": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aimed",
+        "are",
+        "china",
+        "deals",
+        "fall",
+        "friendly",
+        "further",
+        "hikes",
+        "india",
+        "negotiations",
+        "new",
+        "policy",
+        "securing",
+        "tariff",
+        "tariffs",
+        "threatens",
+        "through",
+        "trade",
+        "trump",
+        "vietnam"
+      ],
+      "source_excerpt": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+          "published_at": "2026-11-26T11:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "12ad21c5779e2492a1317c4a",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:00:39+00:00",
+      "last_update": "2026-11-26T11:00:39+00:00",
+      "event": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "administered",
+        "africa",
+        "cheaper",
+        "effective",
+        "for",
+        "hiv",
+        "hope",
+        "infection",
+        "injection",
+        "jab",
+        "lenacapavir",
+        "millions",
+        "nearly",
+        "preventing",
+        "prevention",
+        "reaches",
+        "twice",
+        "year"
+      ],
+      "source_excerpt": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T11:00:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b8caeb1364f8d9fbfe1dfcfd",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:43:38+00:00",
+      "last_update": "2026-11-26T11:43:38+00:00",
+      "event": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "atlantic",
+        "bankruptcy",
+        "but",
+        "carrier",
+        "collapse",
+        "faces",
+        "file",
+        "financial",
+        "flights",
+        "for",
+        "funding",
+        "lifeline",
+        "looking",
+        "norse",
+        "potential",
+        "suspends",
+        "the",
+        "urgent",
+        "will",
+        "without"
+      ],
+      "source_excerpt": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T11:43:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f46694cbe73b4fac52da389c",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:21:45+00:00",
+      "last_update": "2026-11-26T11:21:45+00:00",
+      "event": "Drivers over 70 face eye tests every three years under new plans",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "changes",
+        "could",
+        "drivers",
+        "every",
+        "eye",
+        "face",
+        "licences",
+        "meet",
+        "new",
+        "not",
+        "over",
+        "plans",
+        "see",
+        "standards",
+        "stripped",
+        "tests",
+        "the",
+        "they",
+        "three",
+        "under",
+        "years"
+      ],
+      "source_excerpt": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T11:21:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48d9be2399ba16a7df857d79",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:09:44+00:00",
+      "last_update": "2026-11-26T11:09:44+00:00",
+      "event": "Coventry-born NHS psychiatrist swaps consulting room for cinema",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "born",
+        "cinema",
+        "consulting",
+        "coventry",
+        "for",
+        "nhs",
+        "psychiatrist",
+        "room",
+        "swaps"
+      ],
+      "source_excerpt": "Coventry-born NHS psychiatrist swaps consulting room for cinema BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QaXctTFZaYnUwVnhxc0s0eF9GNHNSOEJnZTV6V19Ba2M5VU1YUXBsTENXUlQxNWo5Smo0NFdGRjVoYlRkVUJlMW5XclkzQ3hWS3dEQXBmUzR1ak0?oc=5",
+          "published_at": "2026-11-26T11:09:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QaXctTFZaYnUwVnhxc0s0eF9GNHNSOEJnZTV6V19Ba2M5VU1YUXBsTENXUlQxNWo5Smo0NFdGRjVoYlRkVUJlMW5XclkzQ3hWS3dEQXBmUzR1ak0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5f85097df07f03cda346f04",
+      "remembered_at": "2026-11-26T11:59:59.615272+00:00",
+      "event_date": "2026-11-26T11:15:20+00:00",
+      "last_update": "2026-11-26T11:15:20+00:00",
+      "event": "Europe | Latest News & Updates",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "europe",
+        "latest",
+        "news",
+        "updates"
+      ],
+      "source_excerpt": "Europe | Latest News & Updates BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sQXo2Um1zR2JVLTN3ZFVTdjQ3RUZBQ2Y0eTJHVFFxRW1FVmxqZkhzTHA3Tk9HM0J2ZVgxWEJxTm12cks1YURBMjdVWUxuQQ?oc=5",
+          "published_at": "2026-11-26T11:15:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sQXo2Um1zR2JVLTN3ZFVTdjQ3RUZBQ2Y0eTJHVFFxRW1FVmxqZkhzTHA3Tk9HM0J2ZVgxWEJxTm12cks1YURBMjdVWUxuQQ?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T10:57:41.243588+00:00"
+  "updated_at": "2026-11-26T11:59:59.615272+00:00"
 }

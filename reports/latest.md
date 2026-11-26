@@ -1,196 +1,197 @@
-# News Hub report - Thu 26 Nov, 03:57 PM PKT
+# News Hub report - Thu 26 Nov, 04:59 PM PKT
 
 ## Collection
-- New items this run: 150 | items in rolling pool: 721
-- Unique story clusters: 601 (duplicates merged: 120)
-- Clusters dropped as already published/queued: 17; unchanged since last analysis: 5
-- Items per outlet: UrduPoint 57, Geo News 14, ARY News 7, Al Jazeera 7, ProPakistani 6, samaa tv 5, Dawn 5, Wired 5, TechJuice 5, Dawn Latest 4, Investify 4, The News International 3
+- New items this run: 99 | items in rolling pool: 793
+- Unique story clusters: 659 (duplicates merged: 134)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 32, ProPakistani 10, Geo News 9, TechJuice 7, ARY News 6, Al Jazeera 5, Aaj English TV 4, Dawn Pakistan 3, Wired 3, Investify 3, Dawn 2, BBC Business 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE? | https://www.youtube.com/watch?v=6z1ZZ6lUiZ0
 
 ## Top 5 most important
-- 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- IHC extends stay on Islamabad LG polls for two weeks | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Jannik Sinner ruled out of 2027 Australian Open after knee surgery | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Explosion occurs at oil facility in Thailand’s Bangkok | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PIA’s UK operations disrupted after Norse Atlantic suspends aircraft supply | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse: Eight SBCA officials suspended over negligence | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Highway explosion in Giza: How deadly are Egypt’s roads and railways? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 115/120 | empty: 2 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Political and Court Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Balochistan Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Rawalpindi ATC defers verdict in Aleema Khan protest case until Dec 16  [NORMAL]
-- Poster: علیم خان کے خلاف احتجاجی کیس کا فیصلہ 16 دسمبر تک ملتوی / Aleema Khan protest case verdict deferred to Dec 16 | category politics
-- Alternative headline: ATC postpones verdict in Aleema Khan's Nov 2024 protest case for eighth time
+### Iraq denies media reports of troop movements towards Kurdish region  [NORMAL]
+- Poster: عراق کی کردستان کی طرف فوجی نقل و حرکت کی تردید / Iraq denies troop movement reports | category politics
+- Alternative headline: Iraqi government rejects claims of military buildup near Kurdistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Iraq troop movements, Kurdistan region, Iraqi army, government denial, media reports | hashtags: #Iraq #Kurdistan #MiddleEast #Politics
+- Scheduled: Thu 26 Nov, 04:59 PM PKT
+- Caption:
+```
+The Iraqi government has officially rejected media reports claiming that army units were moving towards the Kurdistan region.
+
+The Iraqi government has stated there is no truth to media reports claiming that Iraqi army units were moving towards the Kurdistan region.
+
+عراقی حکومت کا کہنا ہے کہ میڈیا میں آنے والی ان رپورٹس میں کوئی صداقت نہیں جن میں دعویٰ کیا گیا تھا کہ عراقی فوج کے دستے کردستان کے علاقے کی طرف بڑھ رہے ہیں۔
+
+According to Al Jazeera
+
+#Iraq #Kurdistan #MiddleEast #Politics
+```
+
+### PIA UK operations disrupted after Norse Atlantic suspends aircraft lease  [NORMAL]
+- Poster: نورس اٹلانٹک کی جانب سے طیارے معطل کرنے پر پی آئی اے کی پروازیں متاثر / PIA UK flights disrupted by Norse Atlantic | category other
+- Alternative headline: Norse Atlantic abrupt aircraft suspension disrupts PIA flights to UK
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047187/rawalpindi-atc-defers-verdict-in-november-2024-protest-case-involving-aleema-khan-until-dec-16 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047187/rawalpindi-atc-defers-verdict-in-november-2024-protest-case-involving-aleema-khan-until-dec-16
-- Supporting coverage: Dawn Pakistan, The Express Tribune
-- Keywords: Aleema Khan, Rawalpindi ATC, PTI, protest case, Imran Khan | hashtags: #AleemaKhan #RawalpindiATC #PTI #PakistanNews
-- Scheduled: Thu 26 Nov, 03:57 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/pias-uk-operations-disrupted-after-norse-atlantic-suspends-aircraft-supply | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pias-uk-operations-disrupted-after-norse-atlantic-suspends-aircraft-supply
+- Supporting coverage: ARY News, ProPakistani, TechJuice, Dawn, Dawn Pakistan
+- Keywords: PIA UK operations, Norse Atlantic, flight cancellation, wet-lease agreement, Boeing 777 | hashtags: #PIA #Aviation #UK #Pakistan
+- Scheduled: Thu 26 Nov, 05:09 PM PKT
 - Caption:
 ```
-An anti-terrorism court in Rawalpindi has once again adjourned the verdict in a case against Aleema Khan.
+Pakistan International Airlines faced disruptions in its UK flight operations after Norse Atlantic unexpectedly suspended two leased aircraft.
 
-An anti-terrorism court in Rawalpindi has adjourned the announcement of its reserved verdict in a case against Aleema Khan, sister of PTI founder Imran Khan, until December 16. The case is linked to the November 26, 2024 protest. The defense counsel objected that the verdict was reserved without hearing their arguments.
+Pakistan International Airlines faced disruptions to its UK flight operations after Norwegian airline Norse Atlantic unexpectedly suspended two leased aircraft. The sudden suspension caused the cancellation of flights between London, Islamabad, Manchester, and Lahore. PIA announced alternative arrangements using its own Boeing 777 aircraft.
 
-راولپنڈی کی انسداد دہشت گردی عدالت نے پی ٹی آئی کے بانی عمران خان کی بہن علیم خان کے خلاف نومبر 2024 کے احتجاج کے مقدمے کا محفوظ فیصلہ 16 دسمبر تک ملتوی کر دیا ہے۔ دفاعی کونسل نے اعتراض اٹھایا کہ عدالت نے دلائل سنے بغیر فیصلہ محفوظ کیا۔
+پاکستان انٹرنیشنل ایوی ایشن (پی آئی اے) کی برطانیہ کے لیے پروازیں اس وقت متاثر ہوئیں جب نورس اٹلانٹک نے کرائے پر دیے گئے دو طیارے اچانک معطل کر دیے۔ اس اچانک تعطل کے باعث لندن، اسلام آباد، مانچسٹر اور لاہور کے درمیان پروازیں منسوخ کرنا پڑیں۔
 
-First reported by Dawn Pakistan
+First reported by ARY News; also reported by Dawn
 
-#AleemaKhan #RawalpindiATC #PTI #PakistanNews
+#PIA #Aviation #UK #Pakistan
 ```
 
-### 31 dead in Egypt fire after fuel truck overturns  [NORMAL]
-- Poster: مصر میں تیل کے ٹینکر کو حادثہ، خوفناک آتشزدگی میں 31 افراد جاں بحق / 31 dead in Egypt fuel truck fire | category disaster
-- Alternative headline: 31 killed in massive fuel tanker fire on Cairo Ring Road
+### Karachi building collapse: Eight SBCA officials suspended over negligence  [NORMAL]
+- Poster: کراچی عمارت انہدام: غفلت برتنے پر آٹھ ایس بی سی اے افسران معطل / Eight SBCA officials suspended over Karachi collapse | category other
+- Alternative headline: Sindh suspends SBCA chief and officials after deadly Karachi collapse
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/31-dead-in-egypt-fire-after-fuel-truck-overturns
-- Supporting coverage: ARY News, ARYnews.tv, Dawn Latest, The Current
-- Keywords: Egypt fire, Cairo, fuel truck, accident, casualties | hashtags: #EgyptFire #Cairo #BreakingNews #WorldNews
-- Scheduled: Thu 26 Nov, 04:07 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/sindh-suspends-sbca-officials-after-building-collapse-in-karachi
+- Supporting coverage: ARY News, Geo News, Geo News, Bol News, The Current
+- Keywords: Karachi building collapse, SBCA officials suspended, Admin Society, Sindh government, negligence | hashtags: #Karachi #BuildingCollapse #SBCA #Sindh
+- Scheduled: Thu 26 Nov, 05:19 PM PKT
 - Caption:
 ```
-At least 31 people were killed in Cairo after a fuel truck overturned and burst into flames on a busy highway.
+Eight Sindh Building Control Authority officials have been suspended following a deadly building collapse in Karachi that killed three people.
 
-A massive fire erupted in the Egyptian capital Cairo after a fuel truck overturned on a crowded highway, killing at least 31 people. The health ministry deployed numerous ambulances, taking injured individuals to hospitals while authorities opened an investigation into the tragic incident.
+Following the collapse of an under-construction building in Karachi's Admin Society which killed three people and injured 14, authorities suspended eight Sindh Building Control Authority officials, including the Director of Chanesar Town, deputy directors, assistant directors, and building inspectors.
 
-قاہرہ میں ایک مصروف شاہراہ پر ایندھن سے بھرے ٹرک الٹنے اور آگ لگنے کے نتیجے میں کم از کم 31 افراد جاں بحق ہو گئے۔ وزارت صحت نے جائے وقوعہ پر ایمبولینسیں روانہ کیں جبکہ حکام نے واقعے کی تحقیقات شروع کر دی ہیں۔
+کراچی کی ایڈمن سوسائٹی میں زیر تعمیر عمارت کے گرنے سے 3 افراد کی ہلاک اور 14 کے زخمی ہونے کے بعد سندھ بلڈنگ کنٹرول اتھارٹی کے آٹھ افسران کو غفلت برتنے پر معطل کر دیا گیا ہے۔
 
-First reported by ARY News
+First reported by ARY News; also reported by Geo News
 
-#EgyptFire #Cairo #BreakingNews #WorldNews
+#Karachi #BuildingCollapse #SBCA #Sindh
 ```
 
-### Pakistan motorbike passenger becomes global cricket sensation after stunning catch  [NORMAL]
-- Poster: چلتی موٹر سائیکل پر حیرت انگیز کیچ، پاکستانی شہری سوشل میڈیا پر چھا گیا / Pakistan motorbike passenger takes unbelievable catch | category sports
-- Alternative headline: 'Unbelievable catch': Motorbike passenger becomes cricket sensation
+### Elon Musk pledges two SpaceX shares for every American child  [NORMAL]
+- Poster: ایلون مسک کا ہر امریکی بچے کو اسپیس ایکس کے دو شیئرز دینے کا اعلان / Musk pledges SpaceX shares for US children | category other
+- Alternative headline: Musk promises two SpaceX shares to every child in the US
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692690-unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692690-unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation
-- Supporting coverage: Geo News, Geo News, Dawn, Dawn Latest, ARY News, Dawn Latest
-- Keywords: motorbike catch, Mehran Khan, Swat, cricket sensation, Mingora | hashtags: #UnbelievableCatch #Swat #Cricket #Viral
-- Scheduled: Thu 26 Nov, 04:17 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3UzWEpFY1REZlhrOW9PNUFJcVB4U3l5NndZYXVJTEpkNThYTzNkT1MxS1JGVl9tYUFGWDVkaTdhdnBhZHdhRnhhWEl1bmNHeXNnUkt3cUR4czlsY1I0YlRJbDhDbjNPOVB6b29LenZnYUVveDNDdGtqR1Y4ZjdwTjR3cVkyQU5hdXowMi13cHZoaTA?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today, Dawn, The Current
+- Keywords: Elon Musk SpaceX shares, American child, SpaceX pledge, US children | hashtags: #ElonMusk #SpaceX #US #Shares
+- Scheduled: Thu 26 Nov, 05:29 PM PKT
 - Caption:
 ```
-A civil servant in Swat became an internet sensation after taking a one-handed catch while riding a motorbike.
+Elon Musk has reportedly pledged two SpaceX shares for every American child.
 
-Mehran Khan, a 27-year-old civil servant and amateur cricketer, grabbed global attention after taking a stunning one-handed catch while riding on the back of a friend's motorbike in Mingora, Swat. The cricket ball had sailed towards them from a nearby local match.
+Tech billionaire Elon Musk has pledged two SpaceX shares for every American child, according to reports from Dawn and other news outlets.
 
-سوات کے علاقے منگورہ میں چلتی موٹر سائیکل کے پیچھے بیٹھے 27 سالہ سرکاری ملازم مہران خان نے ایک ہاتھ سے شاندار کیچ پکڑ کر دنیا بھر کی توجہ حاصل کر لی۔ کرکٹ بال قریبی میچ سے اڑ کر ان کی طرف آئی تھی۔
-
-First reported by Geo News
-
-#UnbelievableCatch #Swat #Cricket #Viral
-```
-
-### IHC extends stay on Islamabad local government elections by two weeks  [NORMAL]
-- Poster: اسلام آباد بلدیاتی انتخابات پر حکم امتناعی میں دو ہفتے کی توسیع / IHC extends stay on Islamabad LG polls | category courts
-- Alternative headline: Islamabad LG polls stay order extended for another two weeks by IHC
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0N5Qmp3Qjk1NUw3NG4yNXZ6Q29VeTE0Q21OS3JkMHItc0hhcjUzSGJKNlJiV1ZEam9SSHRBOXVmTjdFd3VtR1ZBTWhlZjNJaHE1OW9vNjI0QVNwM0RyM28ya3p2WXpONTV1ZUVadkVEcmZiYW82dGRSY3RMMC1KOVl6Tmx5eWNhbV9TQWxmUQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0N5Qmp3Qjk1NUw3NG4yNXZ6Q29VeTE0Q21OS3JkMHItc0hhcjUzSGJKNlJiV1ZEam9SSHRBOXVmTjdFd3VtR1ZBTWhlZjNJaHE1OW9vNjI0QVNwM0RyM28ya3p2WXpONTV1ZUVadkVEcmZiYW82dGRSY3RMMC1KOVl6Tmx5eWNhbV9TQWxmUQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Geo News, Geo News
-- Keywords: Islamabad LG polls, IHC, stay order, local government elections, Islamabad High Court | hashtags: #Islamabad #IHC #LocalElections #Pakistan
-- Scheduled: Thu 26 Nov, 04:27 PM PKT
-- Caption:
-```
-The Islamabad High Court has extended the stay order on the local government elections in the federal capital.
-
-The Islamabad High Court (IHC) has extended its stay order regarding the local government elections in Islamabad for an additional two weeks, delaying the electoral process further while legal proceedings continue.
-
-اسلام آباد ہائیکورٹ نے وفاقی دارالحکومت میں بلدیاتی انتخابات کے معاملے پر حکم امتناعی میں مزید دو ہفتے کی توسیع کر دی ہے، جس سے انتخابی عمل مزید تاخیر کا شکار ہو گیا ہے۔
+رپورٹس کے مطابق ٹیکنالوجی ارب پتی ایلون مسک نے ہر امریکی بچے کو اسپیس ایکس کے دو شیئرز دینے کا اعلان کیا ہے۔
 
 First reported by Dawn
 
-#Islamabad #IHC #LocalElections #Pakistan
+#ElonMusk #SpaceX #US #Shares
 ```
 
-### Jannik Sinner ruled out of 2027 Australian Open after knee surgery  [NORMAL]
-- Poster: گھٹنے کی سرجری کے باعث جانک سنر آسٹریلین اوپن 2027 سے باہر / Jannik Sinner out of Australian Open | category sports
-- Alternative headline: Two-time champion Sinner out of Australian Open following knee operation
+### Highway explosion in Giza: 31 killed and dozens injured in Egypt  [NORMAL]
+- Poster: گیزہ میں ہائی وے دھماکہ: 31 افراد ہلاک اور درجنوں زخمی / Giza highway explosion kills 31 | category other
+- Alternative headline: Deadly road explosion on Giza highway kills 31 people
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss
-- Supporting coverage: Al Jazeera, ARY News
-- Keywords: Jannik Sinner, Australian Open, knee surgery, tennis, Wimbledon | hashtags: #JannikSinner #AustralianOpen #Tennis #SportsNews
-- Scheduled: Thu 26 Nov, 04:37 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Giza highway explosion, Egypt tragedy, road explosion, Giza crash | hashtags: #Egypt #Giza #BreakingNews #Tragedy
+- Scheduled: Thu 26 Nov, 05:39 PM PKT
 - Caption:
 ```
-Tennis star Jannik Sinner will miss the upcoming Australian Open following a knee surgery.
+A deadly road explosion on a highway in Giza, Egypt, has resulted in the deaths of 31 people and injured dozens more.
 
-Two-time champion Jannik Sinner has been ruled out of the 2027 Australian Open after undergoing knee surgery. Sinner has not played a competitive match since winning the Wimbledon title in July 2026.
+Egypt has suffered another tragedy as a deadly road explosion on a highway in Giza killed 31 people and left dozens injured.
 
-دو بار کے چیمپیئن جانک سنر گھٹنے کی سرجری کے بعد 2027 کے آسٹریلین اوپن سے باہر ہو گئے ہیں۔ سنر نے جولائی 2026 میں ومبلڈن کا ٹائٹل جیتنے کے بعد سے کوئی میچ نہیں کھیلا ہے۔
+مصر کے علاقے گیزہ میں ہائی وے پر ہونے والے ایک ہلاکت خیز سڑک کے دھماکے میں 31 افراد ہلاک اور درجنوں زخمی ہو گئے ہیں۔
 
-First reported by Al Jazeera
+According to Al Jazeera
 
-#JannikSinner #AustralianOpen #Tennis #SportsNews
+#Egypt #Giza #BreakingNews #Tragedy
 ```
 
-### Explosion rocks oil facility in Thailand's Bangkok  [NORMAL]
-- Poster: تھائی لینڈ کے دارالحکومت بنکاک میں آئل ڈپو پر دھماکہ / Explosion at Bangkok oil facility | category disaster
-- Alternative headline: Authorities urge evacuation after blast at Bangkok oil depot
+### Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck prize  [NORMAL]
+- Poster: شہید فلسطینی صحافی مریم دغہ کے لیے مقررہ روری پیک انعام کا اعلان / Slain Palestinian journalist wins Rory Peck prize | category other
+- Alternative headline: Killed Gaza journalist Mariam Dagga posthumously awarded Rory Peck prize
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera, BBC
-- Keywords: Bangkok explosion, oil facility, Thailand, oil depot, evacuation | hashtags: #Bangkok #Thailand #BreakingNews #Explosion
-- Scheduled: Thu 26 Nov, 04:47 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/palestinian-journalist-killed-by-israel-in-gaza-wins-prestigious-rory-peck-prize
+- Supporting coverage: ARY News, The Times of Israel, Ahram Online
+- Keywords: Mariam Dagga, Rory Peck prize, Palestinian journalist, Gaza war, Associated Press | hashtags: #Journalism #Palestine #Gaza #RoryPeckAward
+- Scheduled: Thu 26 Nov, 05:49 PM PKT
 - Caption:
 ```
-Authorities have urged residents to evacuate following an explosion at an oil facility in eastern Bangkok.
+Palestinian war correspondent Mariam Dagga, killed in an Israeli strike in Gaza last year, has posthumously won the Rory Peck prize.
 
-An explosion occurred at an oil facility in eastern Bangkok, Thailand, prompting authorities to urge residents in the surrounding area to evacuate their homes for safety as emergency responses unfolded.
+Palestinian war correspondent Mariam Dagga, who was killed in an Israeli air strike in Gaza last year, has posthumously won the prestigious Rory Peck prize for freelance video journalists. She shares the award with AP colleagues Abdel Kareem Hana and Jehad Alshrafi for their coverage of the war.
 
-تھائی لینڈ کے دارالحکومت بنکاک کے ایک آئل ڈپو میں دھماکہ ہوا ہے، جس کے بعد حکام نے قریبی علاقوں کے رہائشیوں کو حفاظتی پیش نظر وہاں سے نکل جانے کی ہدایت کی ہے۔
+فلسطینی جنگی نامہ نگار مریم دغہ، جو گزشتہ سال غزہ میں اسرائیلی فضائی حملے میں شہید ہو گئی تھیں، کو فری لانس ویڈیو صحافیوں کے لیے باوقار روری پیک انعام سے نوازا گیا ہے۔ انہوں نے یہ ایوارڈ اپنے ساتھیوں کے ساتھ مشترکہ طور پر جیتا ہے۔
 
-First reported by Al Jazeera
+First reported by ARY News; also reported by AFP
 
-#Bangkok #Thailand #BreakingNews #Explosion
+#Journalism #Palestine #Gaza #RoryPeckAward
 ```
 
-- Indian outlets blocked this run: 8 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 17
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Port Qasim's only coal conveyor system breaks down, disrupting imports | Mon 23 Nov, 10:35 AM PKT
 - [needs_review] normal | Syria-EU talks advance, but diplomats fear migration will dominate | Mon 23 Nov, 11:40 AM PKT
 - [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
@@ -198,9 +199,6 @@ First reported by Al Jazeera
 - [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
-- [published] promo | [YouTube] SHEHBAZ SHARIF: THE PRIME MINISTER WHO NEVER SAYS NO! | Mon 23 Nov, 04:43 PM PKT
-- [published] normal | Belgium Flights Grounded as Strike Halts Air Traffic Over Austerity | Mon 23 Nov, 04:43 PM PKT
-- [published] normal | Russian Vessel Hit by Suspected Ukrainian Drone at Libya Port | Mon 23 Nov, 04:53 PM PKT
 - [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
 - [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 - [published] normal | K-P Govt to Rename Imran Khan Cricket Stadium Back to Arbab Niaz Stadi | Mon 23 Nov, 05:51 PM PKT
@@ -355,15 +353,33 @@ First reported by Al Jazeera
 - [queued] normal | IHC extends stay on Islamabad local government elections by two weeks | Thu 26 Nov, 04:27 PM PKT
 - [queued] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
 - [queued] normal | Explosion rocks oil facility in Thailand's Bangkok | Thu 26 Nov, 04:47 PM PKT
+- [published] promo | [YouTube] SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE? | Thu 26 Nov, 04:59 PM PKT
+- [queued] normal | Iraq denies media reports of troop movements towards Kurdish region | Thu 26 Nov, 04:59 PM PKT
+- [queued] normal | PIA UK operations disrupted after Norse Atlantic suspends aircraft lea | Thu 26 Nov, 05:09 PM PKT
+- [queued] normal | Karachi building collapse: Eight SBCA officials suspended over neglige | Thu 26 Nov, 05:19 PM PKT
+- [queued] normal | Elon Musk pledges two SpaceX shares for every American child | Thu 26 Nov, 05:29 PM PKT
+- [queued] normal | Highway explosion in Giza: 31 killed and dozens injured in Egypt | Thu 26 Nov, 05:39 PM PKT
+- [queued] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
 
 ## Publishing this run
-- Published 'PPP expresses serious concern over the ongoing situation in Balochistan'.
+- Published '[YouTube] SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE?'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 7394 | output tokens: 3426
-- Errors: 2
+- Calls: 6 | prompt tokens: 8490 | output tokens: 3559
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
