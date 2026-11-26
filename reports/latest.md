@@ -1,174 +1,194 @@
-# News Hub report - Thu 26 Nov, 10:52 PM PKT
+# News Hub report - Thu 26 Nov, 11:54 PM PKT
 
 ## Collection
-- New items this run: 117 | items in rolling pool: 855
-- Unique story clusters: 734 (duplicates merged: 121)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 66, Geo News 5, Al Jazeera 5, ProPakistani 5, ARY News 4, AP News 3, The News International 2, Dawn Latest 2, TechJuice 2, Dawn Pakistan 1, Babushahi.com 1, samaa tv 1
+- New items this run: 59 | items in rolling pool: 778
+- Unique story clusters: 675 (duplicates merged: 103)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 14, Aaj English TV 6, Geo News 4, ARY News 4, Al Jazeera 4, Pakistan Today 4, samaa tv 3, The News International 2, The New York Times 2, TechJuice 2, Dawn 1, X 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NEW MOVE | https://www.youtube.com/watch?v=bDxAFDat4qE
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Rana Irfan beats Mohammad Asif to win snooker world cup | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- کراچی: عمارت گرنے کا واقعہ، شہر میں بغیر اجازت زیر تعمیر 143 عمارتیں سیل | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Drivers over 70 face eye tests every three years under new plans | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Syrian children continue learning amid the ruins of war in Idlib | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Did Scotland's departing chief medical officer actually do anything wrong? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- BBC Inside Science | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kushner explains the ‘good thing’ about Gaza’s destruction | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump calls GDP data released before midterms ‘fake’, demands investigation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Netanyahu's corruption trial back in focus amid new court suggestions  [NORMAL]
-- Poster: نیتنیاہو کا بدعنوانی مقدمہ عدالت کی نئی تجاویز کے بعد بحث کا محور بن گیا / Netanyahu corruption trial in focus | category politics
-- Alternative headline: Israeli leader's trial and political future face renewed scrutiny
+### Trump demands investigation into pre-midterm GDP data releases  [NORMAL]
+- Poster: ٹرمپ کا مڈٹرم سے پہلے جاری کردہ جی ڈی پی ڈیٹا کی تحقیقات کا مطالبہ / Trump demands probe into pre-midterm GDP data | category us_politics
+- Alternative headline: US President calls growth numbers released before midterms fake
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Netanyahu corruption trial, Israel politics, Benjamin Netanyahu, court case, legal battle, Middle East | hashtags: #Netanyahu #Israel #Politics #CourtCase #AlJazeera
-- Scheduled: Thu 26 Nov, 10:52 PM PKT
+- Keywords: GDP data, Trump, midterm elections, US economy, investigation, growth numbers | hashtags: #Trump #GDP #USElections #Economy #AlJazeera
+- Scheduled: Thu 26 Nov, 11:54 PM PKT
 - Caption:
 ```
-Recent court recommendations have put Israeli leader Benjamin Netanyahu's corruption trial and political future back into intense focus.
+US President Donald Trump has called economic growth numbers released before the midterm elections 'fake' and demanded a formal investigation.
 
-Recent court recommendations have thrust Israeli leader Benjamin Netanyahu's corruption trial back into the spotlight, reviving intense focus on his political future and ongoing efforts to evade prosecution.
+US President Donald Trump has claimed that growth numbers released ahead of the US midterm elections were 'fake' and the result of a deliberate decision. He has demanded an official investigation into the matter, raising fresh questions over official economic reporting.
 
-عدالت کی حالیہ تجاویز نے اسرائیلی رہنما بنیامین نیتنیاہو کے بدعنوانی کے مقدمے کو ایک بار پھر توجہ کا مرکز بنا دیا ہے، جس سے ان کے سیاسی مستقبل اور مقدمے سے بچنے کی کوششوں پر بحث تیز ہو گئی ہے۔
+امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ وسط مدتی انتخابات سے قبل جاری کیے گئے معاشی ترقی کے اعداد و شمار جعلی تھے اور یہ ایک سوچ سمجھ کر کیا گیا فیصلہ تھا۔ انہوں نے اس معاملے کی باضابطہ تحقیقات کا مطالبہ کیا ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Netanyahu #Israel #Politics #CourtCase #AlJazeera
+#Trump #GDP #USElections #Economy #AlJazeera
 ```
 
-### French actor Gerard Depardieu to stand trial for alleged 2018 rape  [NORMAL]
-- Poster: فرانسیسی اداکارگیرارڈ ڈپارڈیو پر 2018 کے مبینہ ریپ کے مقدمے کا حکم / Gerard Depardieu to stand trial | category crime
-- Alternative headline: Paris appeals court orders Gerard Depardieu to stand trial over rape allegations
+### Syrian children continue learning amid war ruins in Idlib  [NORMAL]
+- Poster: شام کے صوبہ ادلب میں جنگ کے کھنڈرات کے درمیان بچوں کی تعلیم جاری / Syrian children study amid war ruins in Idlib | category other
+- Alternative headline: Idlib reopens semi-destroyed school for children amid conflict
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, Al Jazeera
-- Keywords: Gerard Depardieu trial, rape allegations, France court, Charlotte Arnould, MeToo, Paris appeals court | hashtags: #GerardDepardieu #France #Court #MeToo #BBC
-- Scheduled: Thu 26 Nov, 11:02 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Idlib education, Syrian children, war ruins, school reopened, Idlib province, conflict | hashtags: #Syria #Idlib #Education #Children #AlJazeera
+- Scheduled: Fri 27 Nov, 12:04 AM PKT
 - Caption:
 ```
-A Paris appeals court has confirmed that French film actor Gérard Depardieu will stand trial for the alleged rape of an actress in 2018.
+Despite the devastating impact of war, a semi-destroyed school has been reopened in Syria's Idlib province so children can continue their education.
 
-A Paris appeals court has confirmed that veteran French film actor Gérard Depardieu must stand trial for the alleged rape of actress Charlotte Arnould in 2018. Depardieu, 77, has strongly denied the allegations, while the ruling has been hailed as historic by the complainant's legal team.
+Children in Syria's Idlib province are continuing their education under difficult circumstances as a semi-destroyed school has been reopened in the war-torn region, offering a glimmer of hope amidst ongoing conflict and displacement.
 
-پیرس کی اپیل کورٹ نے تصدیق کی ہے کہ فرانسیسی فلمی اداکار گیرارڈ ڈپارڈیو کو 2018 میں ایک اداکارہ کے مبینہ ریپ کے الزام میں مقدمے کا سامنا کرنا ہوگا۔ 77 سالہ ڈپارڈیو نے الزامات کی تردید کی ہے، جب کہ متاثرہ کے وکیل نے اس فیصلے کو تاریخی قرار دیا ہے۔
+شام کے صوبہ ادلب میں جنگ اور تباہی کے باوجود بچوں کی تعلیم کا سلسلہ جاری ہے۔ جنگ زدہ علاقے میں ایک نصف تباہ شدہ اسکول کو دوبارہ کھول دیا گیا ہے تاکہ بچے اپنی تعلیم جاری رکھ سکیں۔
 
-First reported by BBC World; also reported by Al Jazeera
+First reported by Al Jazeera.
 
-#GerardDepardieu #France #Court #MeToo #BBC
+#Syria #Idlib #Education #Children #AlJazeera
 ```
 
-### Rana Irfan clinches Snooker World Cup title after defeating Mohammad Asif  [NORMAL]
-- Poster: رانا عرفان نے محمد آصف کو شکست دے کر سنوکر ورلڈ کپ جیت لیا / Rana Irfan wins Snooker World Cup | category sports
-- Alternative headline: Rana Irfan whitewashes Asif to win IBSF Men's World Cup in Muscat
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFJZNXY2S0tydGVESWFoeHR0Wk5Rc2RsbGl2ZUZ2SUNXd3RKaW00cGh5WF81OEgtY2NoeWktSGFoNkFZVjFDTExpUjVjblZxZmJ3cGs3TW52ZGNFb3hIS092M0dwbzE2dHNtSVd3Mjk2alRyMFJDejdNZFRvTHZUOFdXNGNNZXJ3RFVVOFV2NU5Uc25OWGxCRnRxRzJ0VDNxYlJN?oc=5
-- Supporting coverage: samaa tv, ARY News, Dawn Latest
-- Keywords: Rana Irfan, Snooker World Cup, Mohammad Asif, IBSF, Muscat, Pakistan sports | hashtags: #RanaIrfan #SnookerWorldCup #PakistanSports #MohammadAsif #IBSF
-- Scheduled: Thu 26 Nov, 11:12 PM PKT
-- Caption:
-```
-Pakistan's Rana Irfan has won the Snooker World Cup title after defeating compatriot Mohammad Asif in Muscat.
-
-Rana Irfan clinched the IBSF Men's World Cup title in Muscat after defeating fellow compatriot Mohammad Asif in a dominant performance, marking a major triumph for Pakistani cue sports on the international stage.
-
-رانا عرفان نے مسقط میں آئی بی ایس ایف مینز سنوکر ورلڈ کپ کے فائنل میں ساتھی کھلاڑی محمد آصف کو شکست دے کر عالمی ٹائٹل اپنے نام کر لیا، جو پاکستان کے لیے ایک بڑا اعزاز ہے۔
-
-First reported by samaa tv; also reported by ARY News and Dawn
-
-#RanaIrfan #SnookerWorldCup #PakistanSports #MohammadAsif #IBSF
-```
-
-### 143 illegal under-construction buildings sealed in Karachi after tragedy  [NORMAL]
-- Poster: کراچی میں عمارت گرنے کے بعد بغیر اجازت زیر تعمیر 143 عمارتیں سیل / 143 illegal buildings sealed in Karachi | category disaster
-- Alternative headline: Karachi administration seals 143 unauthorized buildings following collapse incident
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1636965 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1636965
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: Karachi building seal, illegal buildings, building collapse, Karachi administration, CM House, Sindh | hashtags: #Karachi #BuildingCollapse #IllegalBuildings #SindhGovt #Jang
-- Scheduled: Thu 26 Nov, 11:22 PM PKT
-- Caption:
-```
-Following a building collapse incident in Karachi Administration Society, authorities have sealed 143 unauthorized under-construction buildings across the city.
-
-Following a fatal building collapse in Karachi Administration Society, local authorities have sealed 143 unauthorized under-construction buildings across various districts. A detailed report regarding the crackdown has been submitted to the Chief Minister's House.
-
-کراچی ایڈمنسٹریشن سوسائٹی میں عمارت گرنے کے واقعے کے بعد ضلعی انتظامیہ نے شہر بھر میں بغیر اجازت زیر تعمیر 143 عمارتوں کو سیل کر دیا ہے، اور اس کی رپورٹ وزیراعلیٰ ہاؤس کو ارسال کر دی گئی ہے۔
-
-First reported by Jang Urdu; also reported by UrduPoint
-
-#Karachi #BuildingCollapse #IllegalBuildings #SindhGovt #Jang
-```
-
-### UK drivers over 70 face mandatory eye tests every three years under new plans  [NORMAL]
-- Poster: برطانیہ میں 70 سال سے زائد عمر کے ڈرائیوروں کے لیے ہر تین سال بعد نظر کا ٹیسٹ تجویز / UK eye tests for drivers over 70 | category other
-- Alternative headline: UK proposes eye tests every three years for drivers over 70
+### Scotland's chief medical officer resigns amid controversy  [NORMAL]
+- Poster: اسکاٹ لینڈ کے چیف میڈیکل آفیسر تنازع کے بعد اپنے عہدے سے مستعفی / Scotland CMO resigns amid controversy | category other
+- Alternative headline: Did Scotland departing CMO do anything wrong over unreleased report?
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business, Geo News
-- Keywords: drivers over 70 eye tests, UK road safety, Department for Transport, driving licence, elderly drivers, eye test | hashtags: #UKDrivers #RoadSafety #ElderlyDrivers #BBC #GeoNews
-- Scheduled: Thu 26 Nov, 11:32 PM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: chief medical officer, Scotland, Sir Gregor Smith, resignation, controversy, NHS Grampian | hashtags: #Scotland #CMO #HealthNews #BBC #Resignation
+- Scheduled: Fri 27 Nov, 12:14 AM PKT
 - Caption:
 ```
-Under new UK road safety plans, drivers over 70 could face mandatory eye tests every three years to keep their licences.
+Scotland's chief medical officer Sir Gregor Smith has stepped down following a controversy surrounding an unreleased report into hospital deaths.
 
-Drivers over the age of 70 in the UK will be required to take eye tests every three years or risk losing their driving licences, under a new road safety strategy proposed by the Department for Transport.
+Sir Gregor Smith has resigned as Scotland's chief medical officer, citing personal mental health reasons, after becoming caught up in a controversy over a 2022 unpublished report regarding potentially avoidable deaths at Aberdeen Royal Infirmary.
 
-برطانیہ میں روڈ سیفٹی کی نئی تجاویز کے تحت 70 سال سے زائد عمر کے ڈرائیوروں کے لیے ہر تین سال بعد نظر کا ٹیسٹ دینا لازمی قرار دیے جانے کا امکان ہے، ورنہ ان کا لائسنس منسوخ ہو سکتا ہے۔
+سر گریگر اسمتھ نے اسکاٹ لینڈ کے چیف میڈیکل آفیسر کے عہدے سے استعفا دے دیا ہے۔ انہوں نے یہ فیصلہ ذاتی ذہنی صحت کی وجہ سے کیا، جب وہ ایبرڈین رائل انفارمری میں اموات سے متعلق ایک غیر مطبوعہ رپورٹ کے تنازع کی زد میں آ گئے تھے۔
 
-First reported by BBC Business; also reported by Geo News
+First reported by BBC Health.
 
-#UKDrivers #RoadSafety #ElderlyDrivers #BBC #GeoNews
+#Scotland #CMO #HealthNews #BBC #Resignation
 ```
 
-- Indian outlets blocked this run: 2 items
+### Could AI have solved mathematics' greatest mystery?  [NORMAL]
+- Poster: کیا مصنوعی ذہانت نے ریاضی کا سب سے بڑا معمہ حل کر لیا ہے؟ / Did AI solve mathematics greatest mystery? | category science
+- Alternative headline: Mathematician uses AI system Claude to tackle Riemann Hypothesis
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Science https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Science https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Science
+- Keywords: Riemann Hypothesis, AI system Claude, Levent Alpoge, mathematics, BBC Inside Science, proof | hashtags: #Mathematics #AI #RiemannHypothesis #ScienceNews #BBC
+- Scheduled: Fri 27 Nov, 12:24 AM PKT
+- Caption:
+```
+Mathematician Levent Alpoge believes he has found a proof for the Riemann Hypothesis using the AI system Claude.
+
+Mathematician Levent Alpoge, working with the AI system Claude, believes he has found a proof for the Riemann Hypothesis, which has baffled mathematicians for 165 years. BBC Inside Science explores what this breakthrough means for mathematics and researchers.
+
+ریاضی دان لیوینٹ الپوگ نے اے آئی سسٹم کلائوڈ کی مدد سے ریمن ہائپوتھیسس کا ثبوت تلاش کرنے کا دعویٰ کیا ہے، جو پچھلے 165 سالوں سے ریاضی دانوں کے لیے ایک معمہ بنا ہوا تھا۔
+
+First reported by BBC Science.
+
+#Mathematics #AI #RiemannHypothesis #ScienceNews #BBC
+```
+
+### Kushner sparks outrage over comments on Gaza destruction  [NORMAL]
+- Poster: جیرڈ کشنر کا غزہ کی تباہی میں 'اچھی بات' تلاش کرنے پر متنازع بیان / Kushner sparks outrage over Gaza remarks | category other
+- Alternative headline: Jared Kushner explains the 'good thing' about Gaza war ruins
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Jared Kushner, Gaza destruction, Israel war, rebuilding Gaza, controversial remarks | hashtags: #Gaza #JaredKushner #IsraelGazaWar #MiddleEast #AlJazeera
+- Scheduled: Fri 27 Nov, 12:34 AM PKT
+- Caption:
+```
+Jared Kushner claimed that a positive outcome of Israel's war on Gaza is the potential to rebuild the territory into 'something new'.
+
+Jared Kushner stated that the 'good thing' about Israel's military campaign in Gaza is that the devastated enclave can be redeveloped into 'something new', drawing significant attention and reaction amid the ongoing humanitarian crisis.
+
+جیرڈ کشنر کا کہنا ہے کہ غزہ پر اسرائیلی جنگ کا 'اچھا پہلو' یہ ہے کہ اسے کسی نئی چیز میں تبدیل کیا جا سکتا ہے۔ اس بیان نے جاری انسانی بحران کے دوران شدید ردعمل کو جنم دیا ہے۔
+
+First reported by Al Jazeera.
+
+#Gaza #JaredKushner #IsraelGazaWar #MiddleEast #AlJazeera
+```
+
+### Guinea-Bissau delays presidential election by two years  [NORMAL]
+- Poster: گنی بساؤ میں صدارتی انتخابات دو سال کے لیے مؤخر / Guinea-Bissau delays presidential vote | category us_politics
+- Alternative headline: Military leaders push Guinea-Bissau poll to November 2028
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Guinea-Bissau election, military leaders, presidential poll, election delayed, November 2028 | hashtags: #GuineaBissau #Elections #Africa #Politics #AlJazeera
+- Scheduled: Fri 27 Nov, 12:44 AM PKT
+- Caption:
+```
+Military leaders in Guinea-Bissau have announced that presidential and legislative elections originally set for December have been delayed to November 2028.
+
+Military leaders in Guinea-Bissau have announced a two-year delay for the country's presidential and legislative elections. Originally scheduled for December 6, the polls will now take place in November 2028, extending military oversight.
+
+گنی بساؤ کے فوجی حکمرانوں نے صدارتی اور پارلیمانی انتخابات میں دو سال کی تاخیر کا اعلان کیا ہے۔ 6 دسمبر کو ہونے والے انتخابات اب نومبر 2028 میں ہوں گے۔
+
+First reported by Al Jazeera.
+
+#GuineaBissau #Elections #Africa #Politics #AlJazeera
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 22 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | UN Urges Independent Probe After Drone Attacks on Ships Off Libya | Mon 23 Nov, 05:03 PM PKT
-- [needs_review] normal | Pakistan Ports Can Win Transshipment Business Amid Middle East Conflic | Mon 23 Nov, 05:13 PM PKT
 - [needs_review] normal | National CERT Flags Five Critical WhatsApp Security Vulnerabilities in | Mon 23 Nov, 06:01 PM PKT
 - [needs_review] normal | Rockstar Explains Why GTA 6 Left Out the Classic Darts Mini-Game | Mon 23 Nov, 06:11 PM PKT
 - [needs_review] normal | Pakistan Must Shift From Sick Care to Preventive Healthcare, Says Must | Mon 23 Nov, 06:21 PM PKT
@@ -321,14 +341,14 @@ First reported by BBC Business; also reported by Geo News
 - [needs_review] normal | Jannik Sinner ruled out of 2027 Australian Open after knee surgery | Thu 26 Nov, 04:37 PM PKT
 - [needs_review] normal | Explosion rocks oil facility in Thailand's Bangkok | Thu 26 Nov, 04:47 PM PKT
 - [published] promo | [YouTube] SHAHZAD IQBAL: THREATS IN THE NAME OF THE STATE? | Thu 26 Nov, 04:59 PM PKT
-- [queued] normal | Iraq denies media reports of troop movements towards Kurdish region | Thu 26 Nov, 04:59 PM PKT
-- [queued] normal | PIA UK operations disrupted after Norse Atlantic suspends aircraft lea | Thu 26 Nov, 05:09 PM PKT
-- [queued] normal | Karachi building collapse: Eight SBCA officials suspended over neglige | Thu 26 Nov, 05:19 PM PKT
-- [queued] normal | Elon Musk pledges two SpaceX shares for every American child | Thu 26 Nov, 05:29 PM PKT
-- [queued] normal | Highway explosion in Giza: 31 killed and dozens injured in Egypt | Thu 26 Nov, 05:39 PM PKT
-- [queued] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
+- [needs_review] normal | Iraq denies media reports of troop movements towards Kurdish region | Thu 26 Nov, 04:59 PM PKT
+- [needs_review] normal | PIA UK operations disrupted after Norse Atlantic suspends aircraft lea | Thu 26 Nov, 05:09 PM PKT
+- [needs_review] normal | Karachi building collapse: Eight SBCA officials suspended over neglige | Thu 26 Nov, 05:19 PM PKT
+- [needs_review] normal | Elon Musk pledges two SpaceX shares for every American child | Thu 26 Nov, 05:29 PM PKT
+- [needs_review] normal | Highway explosion in Giza: 31 killed and dozens injured in Egypt | Thu 26 Nov, 05:39 PM PKT
+- [needs_review] normal | Slain Palestinian journalist Mariam Dagga wins prestigious Rory Peck p | Thu 26 Nov, 05:49 PM PKT
 - [published] promo | [YouTube] 26 NOVEMBER ISLAMABAD PROTEST: WHAT I SAW THAT NIGHT | Thu 26 Nov, 06:22 PM PKT
-- [queued] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
+- [published] normal | Islamabad and Rawalpindi declare local public holiday on November 27 | Thu 26 Nov, 07:39 PM PKT
 - [queued] normal | Pakistan hosts Makkah defense pact meeting in Islamabad today | Thu 26 Nov, 07:49 PM PKT
 - [queued] normal | Gold prices fall in Pakistan as Federal Reserve rate-hike expectations | Thu 26 Nov, 07:59 PM PKT
 - [queued] normal | US budget bill creates funding pressure on Trump regarding Iran confli | Thu 26 Nov, 08:09 PM PKT
@@ -350,17 +370,20 @@ First reported by BBC Business; also reported by Geo News
 - [queued] normal | Rana Irfan clinches Snooker World Cup title after defeating Mohammad A | Thu 26 Nov, 11:12 PM PKT
 - [queued] normal | 143 illegal under-construction buildings sealed in Karachi after trage | Thu 26 Nov, 11:22 PM PKT
 - [queued] normal | UK drivers over 70 face mandatory eye tests every three years under ne | Thu 26 Nov, 11:32 PM PKT
+- [queued] normal | Trump demands investigation into pre-midterm GDP data releases | Thu 26 Nov, 11:54 PM PKT
+- [queued] normal | Syrian children continue learning amid war ruins in Idlib | Fri 27 Nov, 12:04 AM PKT
+- [queued] normal | Scotland's chief medical officer resigns amid controversy | Fri 27 Nov, 12:14 AM PKT
+- [queued] normal | Could AI have solved mathematics' greatest mystery? | Fri 27 Nov, 12:24 AM PKT
+- [queued] normal | Kushner sparks outrage over comments on Gaza destruction | Fri 27 Nov, 12:34 AM PKT
+- [queued] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NEW MOVE'.
+- Published 'Islamabad and Rawalpindi declare local public holiday on November 27'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 6504 | output tokens: 3354
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 4674 | output tokens: 2944
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

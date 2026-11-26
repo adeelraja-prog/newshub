@@ -171010,7 +171010,504 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e3989fe4510fc3a08128b6c6",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:30:36+00:00",
+      "last_update": "2026-11-26T18:30:36+00:00",
+      "event": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "built",
+        "can",
+        "destruction",
+        "explains",
+        "gaza",
+        "genocidal",
+        "good",
+        "into",
+        "israel",
+        "jared",
+        "kushner",
+        "new",
+        "says",
+        "something",
+        "that",
+        "the",
+        "thing",
+        "war"
+      ],
+      "source_excerpt": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+          "published_at": "2026-11-26T18:30:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ddd1e6ddf6c6793b30d94639",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:27:27+00:00",
+      "last_update": "2026-11-26T18:27:27+00:00",
+      "event": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "before",
+        "calls",
+        "data",
+        "decision",
+        "deliberate",
+        "demands",
+        "elections",
+        "fake",
+        "gdp",
+        "growth",
+        "investigation",
+        "midterm",
+        "midterms",
+        "numbers",
+        "president",
+        "release",
+        "released",
+        "says",
+        "trump",
+        "was"
+      ],
+      "source_excerpt": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+          "published_at": "2026-11-26T18:27:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a7d9d5fa39c3c91dd05952b6",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:07:18+00:00",
+      "last_update": "2026-11-26T18:07:18+00:00",
+      "event": "Guinea-Bissau presidential election delayed by two years",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2028",
+        "and",
+        "bissau",
+        "december",
+        "delayed",
+        "election",
+        "for",
+        "guinea",
+        "leaders",
+        "legislative",
+        "military",
+        "november",
+        "now",
+        "place",
+        "poll",
+        "presidential",
+        "say",
+        "scheduled",
+        "take",
+        "two",
+        "will",
+        "years"
+      ],
+      "source_excerpt": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+          "published_at": "2026-11-26T18:07:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f46d0b9150b6a83f9e391d6",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T17:53:44+00:00",
+      "last_update": "2026-11-26T17:53:44+00:00",
+      "event": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2028",
+        "2034",
+        "agree",
+        "bloc",
+        "brussels",
+        "budget",
+        "discuss",
+        "extraordinary",
+        "for",
+        "holding",
+        "its",
+        "leaders",
+        "long",
+        "money",
+        "more",
+        "proposal",
+        "struggle",
+        "summit",
+        "term",
+        "the",
+        "ukraine"
+      ],
+      "source_excerpt": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+          "published_at": "2026-11-26T17:53:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce1b1f1df58e6c7fcaa8bc72",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:44:26+00:00",
+      "last_update": "2026-11-26T18:44:26+00:00",
+      "event": "Chief medical officer Gregor Smith resigns on mental health grounds",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2020",
+        "avoidable",
+        "chief",
+        "deaths",
+        "december",
+        "faced",
+        "grampian",
+        "gregor",
+        "grounds",
+        "handling",
+        "has",
+        "health",
+        "his",
+        "medical",
+        "mental",
+        "nhs",
+        "officer",
+        "old",
+        "over",
+        "position",
+        "questions",
+        "recent",
+        "resigns",
+        "role",
+        "served",
+        "since",
+        "smith",
+        "the",
+        "weeks",
+        "who",
+        "year"
+      ],
+      "source_excerpt": "The 55-year-old, who has served in the position since December 2020, has faced questions over his role in the handling of avoidable deaths at NHS Grampian in recent weeks.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T18:44:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4610d3ba79c7c4709c872b81",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:22:28+00:00",
+      "last_update": "2026-11-26T18:22:28+00:00",
+      "event": "Second court defeat for Trump's deep-sea mining ambitions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "against",
+        "ambitions",
+        "and",
+        "areas",
+        "court",
+        "deep",
+        "defeat",
+        "floor",
+        "for",
+        "judge",
+        "lease",
+        "mining",
+        "ocean",
+        "plans",
+        "rules",
+        "sea",
+        "second",
+        "survey",
+        "trump"
+      ],
+      "source_excerpt": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-26T18:22:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "97580df3d7b32f20e7fc15b0",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:27:31+00:00",
+      "last_update": "2026-11-26T18:27:31+00:00",
+      "event": "PM Shehbaz calls for stronger Pakistan-Oman ties in key sectors",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "for",
+        "key",
+        "oman",
+        "pakistan",
+        "samaa",
+        "sectors",
+        "shehbaz",
+        "stronger",
+        "ties"
+      ],
+      "source_excerpt": "PM Shehbaz calls for stronger Pakistan-Oman ties in key sectors samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWY4a0NKdThGWThxYTUxWkVOVDhnVGJEV3pTN1RUMUJ4dTNCeXhYRDVfbXg4Z0RxRFZBRGpvR19hRFhQWmtOZDZFaUhGeXFDS3hsU2JJMFQtbTNqZl9jQkVaZ3JCSzFhSmhQa2JQVjRfSktwbE9TZURpbHY4bHNxaXA0UUdXVUFhZ0VtQVk4WjZna1VJdmVfUVRhSDlHSVBLVUZPMjBFdC1tOHBlYUE?oc=5",
+          "published_at": "2026-11-26T18:27:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWY4a0NKdThGWThxYTUxWkVOVDhnVGJEV3pTN1RUMUJ4dTNCeXhYRDVfbXg4Z0RxRFZBRGpvR19hRFhQWmtOZDZFaUhGeXFDS3hsU2JJMFQtbTNqZl9jQkVaZ3JCSzFhSmhQa2JQVjRfSktwbE9TZURpbHY4bHNxaXA0UUdXVUFhZ0VtQVk4WjZna1VJdmVfUVRhSDlHSVBLVUZPMjBFdC1tOHBlYUE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a3e0b0919a75dbd0c220e9ce",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:50:38+00:00",
+      "last_update": "2026-11-26T18:50:38+00:00",
+      "event": "Pakistan targets Moon landing by 2035: Ahsan Iqbal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2035",
+        "ahsan",
+        "iqbal",
+        "landing",
+        "moon",
+        "pakistan",
+        "samaa",
+        "targets"
+      ],
+      "source_excerpt": "Pakistan targets Moon landing by 2035: Ahsan Iqbal samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1B5MWp3NEtYdTZkcGg3LXcxVjVtNUhkZ2V3ckNUVVlrcTRrWUIzNjZ6RHdBOTlRRXVSVzhhekIwei00TVNMT1dxak83ZFBQVnEwMVV2R3Y5VGt6SVh5djV4RDNRdS1JNW5ZWG5nN2prR2NublRwZlQydG5tYTlNemQ3NDZKUFVtaC02aU1pRmxGSi1vTVZXcE00NA?oc=5",
+          "published_at": "2026-11-26T18:50:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1B5MWp3NEtYdTZkcGg3LXcxVjVtNUhkZ2V3ckNUVVlrcTRrWUIzNjZ6RHdBOTlRRXVSVzhhekIwei00TVNMT1dxak83ZFBQVnEwMVV2R3Y5VGt6SVh5djV4RDNRdS1JNW5ZWG5nN2prR2NublRwZlQydG5tYTlNemQ3NDZKUFVtaC02aU1pRmxGSi1vTVZXcE00NA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fa2ea908e7368030a05fd6b2",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T18:23:36+00:00",
+      "last_update": "2026-11-26T18:23:36+00:00",
+      "event": "Karachi Traffic: Police announce alternative routes after highway closure",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alternative",
+        "announce",
+        "closure",
+        "highway",
+        "karachi",
+        "police",
+        "routes",
+        "traffic"
+      ],
+      "source_excerpt": "Karachi Traffic: Police announce alternative routes after highway closure",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure",
+          "published_at": "2026-11-26T18:23:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure",
+        "publisher_url": "https://arynews.tv/karachi-traffic-police-announce-alternative-routes-after-highway-closure",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a5056900f3ed725a569f7b7",
+      "remembered_at": "2026-11-26T18:54:25.951296+00:00",
+      "event_date": "2026-11-26T17:55:57+00:00",
+      "last_update": "2026-11-26T17:55:57+00:00",
+      "event": "Brazil expresses interest in Pakistan’s indigenous goat breeds",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brazil",
+        "breeds",
+        "expresses",
+        "goat",
+        "indigenous",
+        "interest",
+        "pakistan"
+      ],
+      "source_excerpt": "Brazil expresses interest in Pakistan’s indigenous goat breeds",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/brazil-expresses-interest-in-pakistans-indigenous-goat-breeds",
+          "published_at": "2026-11-26T17:55:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/brazil-expresses-interest-in-pakistans-indigenous-goat-breeds",
+        "publisher_url": "https://arynews.tv/brazil-expresses-interest-in-pakistans-indigenous-goat-breeds",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T17:52:50.605129+00:00"
+  "updated_at": "2026-11-26T18:54:25.951296+00:00"
 }
