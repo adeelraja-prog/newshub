@@ -1,35 +1,35 @@
-# News Hub report - Thu 26 Nov, 01:46 PM PKT
+# News Hub report - Thu 26 Nov, 02:52 PM PKT
 
 ## Collection
-- New items this run: 173 | items in rolling pool: 539
-- Unique story clusters: 450 (duplicates merged: 89)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 7
-- Items per outlet: UrduPoint 97, ProPakistani 7, Geo News 6, Al Jazeera 6, TechJuice 5, samaa tv 4, Dawn Latest 4, ARY News 4, Profit by Pakistan Today 4, Dawn 3, Aaj English TV 3, BBC 2
+- New items this run: 150 | items in rolling pool: 678
+- Unique story clusters: 561 (duplicates merged: 117)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
+- Items per outlet: UrduPoint 86, Geo News 11, ProPakistani 10, ARY News 7, TechJuice 5, Al Jazeera 4, samaa tv 3, Dawn 3, Dawn Pakistan 2, Dawn Latest 2, BBC Business 2, The Current 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Unbelievable catch': Pakistan motorbike passenger becomes cricket sensation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - 31 dead in Egypt fire after fuel truck overturns | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan hosts Makkah defense pact meeting in Islamabad today | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Sindh makes 75% attendance mandatory for govt college students | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Musk pledges two SpaceX shares for every American child | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ireland to make historic first men's cricket tour of Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,18 +39,13 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-- Indian outlets blocked this run: 13 items
+- Indian outlets blocked this run: 6 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 16
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 14
 
 ## Queue status
 - [needs_review] promo | [YouTube] NAWAZ SHARIF ON NEW PROVINCES: WHAT IS THE REAL POLITICAL GA | Sun 22 Nov, 04:14 PM PKT
-- [needs_review] normal | Cameroon's Ex-Rebels Caught Between Hiding and Broken Promises | Mon 23 Nov, 07:29 AM PKT
-- [needs_review] normal | Pakistani among two injured in Iranian attack on Bahrain | Mon 23 Nov, 07:57 AM PKT
-- [needs_review] normal | Closing gateway to Central Asia amid regional challenges | Mon 23 Nov, 08:07 AM PKT
-- [needs_review] normal | Global food import bill projected to rise 1.9pc in 2026: FAO | Mon 23 Nov, 08:17 AM PKT
-- [needs_review] normal | World economy hinges on Iran peace deal, says Hakan Fidan | Mon 23 Nov, 08:27 AM PKT
 - [needs_review] normal | Missing Panjgur student returns home after two years | Mon 23 Nov, 09:13 AM PKT
 - [needs_review] normal | JI not against new provinces but urges provision of rights | Mon 23 Nov, 09:23 AM PKT
 - [needs_review] normal | Pakistan's offshore oil exploration with Turkiye merits cautious optim | Mon 23 Nov, 09:33 AM PKT
@@ -59,7 +54,6 @@
 - [needs_review] normal | NHS launches world's largest trial to test AI in breast cancer detecti | Mon 23 Nov, 11:50 AM PKT
 - [needs_review] normal | Portuguese FM Reaffirms Commitment to Strengthen Ties with Pakistan | Mon 23 Nov, 01:12 PM PKT
 - [needs_review] normal | ADB Invests in Pakistan-Based B2B Fintech Company Neem | Mon 23 Nov, 01:32 PM PKT
-- [published] normal | Naqvi and Shujaat Discuss New Provinces and Devolution in Lahore | Mon 23 Nov, 02:45 PM PKT
 - [needs_review] normal | Pakistani Fintech Neem Secures Early-Stage Investment from ADB Venture | Mon 23 Nov, 02:55 PM PKT
 - [needs_review] normal | Major Audit Reforms Introduced for Companies and Investors in Pakistan | Mon 23 Nov, 03:05 PM PKT
 - [needs_review] normal | Kenya and DR Congo Agree to Restore Diplomatic Ties After Tensions | Mon 23 Nov, 03:15 PM PKT
@@ -198,9 +192,9 @@
 - [needs_review] normal | Netflix Cancels Will Ferrell's Golf Comedy 'The Hawk' After One Season | Thu 26 Nov, 07:13 AM PKT
 - [needs_review] normal | UK Winters Getting Shorter and Summers Hotter, Says Met Office | Thu 26 Nov, 07:23 AM PKT
 - [published] normal | PTI Disowns Achakzai's Call for a National Government | Thu 26 Nov, 07:52 AM PKT
-- [queued] normal | Pakistan and China Set Sights on New Gas and Mining Projects | Thu 26 Nov, 08:02 AM PKT
+- [needs_review] normal | Pakistan and China Set Sights on New Gas and Mining Projects | Thu 26 Nov, 08:02 AM PKT
 - [published] promo | [YouTube] Maryam Nawaz’s Medical College Speech & Pindi Show Exposed | Thu 26 Nov, 08:55 AM PKT
-- [queued] normal | UK and EU set to release post-Brexit trade and emissions treaties | Thu 26 Nov, 08:55 AM PKT
+- [published] normal | UK and EU set to release post-Brexit trade and emissions treaties | Thu 26 Nov, 08:55 AM PKT
 - [queued] normal | Qatari firm expresses interest in agricultural investment in Pakistan | Thu 26 Nov, 09:05 AM PKT
 - [queued] normal | Lahore High Court seeks police report on Maulana Fazl's confinement | Thu 26 Nov, 09:15 AM PKT
 - [queued] normal | PPP expresses serious concern over the ongoing situation in Balochista | Thu 26 Nov, 11:05 AM PKT
@@ -217,12 +211,28 @@
 - [queued] normal | French Navy Intercepts Suspected Drug-Smuggling Semi-Submersible in At | Thu 26 Nov, 01:17 PM PKT
 
 ## Publishing this run
-- Published 'PTI Disowns Achakzai's Call for a National Government'.
+- Published 'UK and EU set to release post-Brexit trade and emissions treaties'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 0 | output tokens: 0
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=10.8642
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapi
+- Calls: 4 | prompt tokens: 0 | output tokens: 0
+- Errors: 5
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spi
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message"
