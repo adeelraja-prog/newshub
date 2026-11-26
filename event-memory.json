@@ -163318,7 +163318,540 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1dd33dbcb3dc6b2ba07b5c62",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T04:20:00+00:00",
+      "last_update": "2026-11-26T05:24:16+00:00",
+      "event": "Trump, NATO chief urge Russia not to 'expand' Ukraine war",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "chief",
+        "expand",
+        "nato",
+        "not",
+        "russia",
+        "trump",
+        "ukraine",
+        "urge",
+        "war"
+      ],
+      "source_excerpt": "Trump, NATO chief urge Russia not to 'expand' Ukraine war ARYnews.tv",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
+          "published_at": "2026-11-26T04:20:00+00:00"
+        },
+        {
+          "name": "Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGdvbnhYTXBIelBZWmxMZ3dCZGRFU0pFWGl2dmFsaUpiTUNZUUFhX3NfLW8xM1ZaUFdqTXE1c0Rsa3lrdXJsbEZ4VXRFeU5iTkNtUFdRbkxNc0hHRld4VWFnZ0FaeHhnNGdVbE54d3Vubk90b0xDVG90MlV4UV9lSTZJY3BRcUQ2YVMtN2lQQnVZdDNmekNTUmNJcTlPY2d3ZUxWd05pYTQxYTExWFE?oc=5",
+          "published_at": "2026-11-26T04:20:37+00:00"
+        },
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGhXUF9BOEdNRHJKRENyMThGRTJDekNudU9FN2ZoODA5bGhSWDNFd1Z5eHFrZ3lEQ1ppUmlWQlQ5U3FkRTRWamVkZXAyMkM1ek5lUThKci1tOGQ0SDY4d2JhLTZ6Sm9ETGlqclBsTEJXOUEyLURJNUxUXzBFT0gyNURJNHh2OWloNzFncHB6NnJ4Wld5MU1uZ0tKcGNJaS1rM19UZzFGck1NVnBDZHFTNHF5Rk5NX0VETkdTSzhadXoxanJ1bDBMekZSQVJ1a3YyQ0E?oc=5",
+          "published_at": "2026-11-26T04:20:37+00:00"
+        },
+        {
+          "name": "Daily Sun",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnVObkxRbXotSUVHQ2NreXp6OUV0UkZQZDRPSWVoaTE4M2tnTHdzRnpQQlltbFVmUlFkdkdacFZzU0FqQk5hdE1rTnYwQzdZQ1gxbFBoWkxzZjR1YlQ4b1BRV2xoaENDTW5CbVEyM1NWQjl3T3NqTGFLYVRZM3ZqN0RQNV8yMWw1LVZJcVowbkhhZEZ1RkhIWA?oc=5",
+          "published_at": "2026-11-26T04:30:26+00:00"
+        },
+        {
+          "name": "A News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2YwWTdMeGZBZjE0VE9oOHJQUXJXajJTQVNqSjN2OE9JcDB0NWxOaU1KVkJkaXc4T0RVVFhGZ2E5SWtvaGJZRTNHQ25CUGdTeDYwdjFfTHM3NVZHdFBZajhiSi1Rb3MzdUtWanh5eXpQbE01Z19kMWhPX0JSYTMzQkdFTDdES3dmZFZhaHFFd2VTTWVhS1ZUT1ZLQ0V5RUJZbkhIeUs5QkNKcjNGWllhUnl5M0TSAboBQVVfeXFMTl9sdWZWNGZXZXBrRnFqU3NUVFVJTW1FckhMbGxhODBuWW4wRFEwb2g5RHJsQ3RjVDd6eWtVbUV0bnpzUXlEU0dhY0RXZlBzOFVuVVpsV3RWbWtoRkJ4cEtjS1Z2YTRfcEIzdmljbjlYWUx1QUVXa0V4VXZJY0oxeUZsVlhlX0M4ZWhBU3N5UEliU3V2MlNzeTZRV1FPNDRxcjF2Q2lydjBNWGlERk1UVVhJR1N3d1Q4a25B?oc=5",
+          "published_at": "2026-11-26T05:19:39+00:00"
+        },
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5",
+          "published_at": "2026-11-26T05:24:16+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/trump-nato-chief-urge-russia-not-expand-ukraine-war",
+          "published_at": "2026-11-26T05:24:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8teW02RlN0NVlrSXc1SGRvdjFva2UtVWFQWkR5VC1GdnhUTTJrS0NuMkxUM2RoVWliaV83Ny1vQzk4QmhwRjVLVk1LRnFMMjNNR2cyQzh5ZnF0dlJlTDJpZ3ZrTFlkUjI1eGR0OGYzbFlZU2otdEZ4bUxB?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88b29eaf47576c35340359d0",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:47:52+00:00",
+      "last_update": "2026-11-26T05:51:45+00:00",
+      "event": "12 terrorists killed in security forces’ IBOs in Balochistan: ISPR",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arynews",
+        "balochistan",
+        "forces",
+        "ibos",
+        "ispr",
+        "killed",
+        "security",
+        "terrorists"
+      ],
+      "source_excerpt": "12 terrorists killed in security forces’ IBOs in Balochistan: ISPR ARYnews.tv",
+      "sources": [
+        {
+          "name": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFYyazNQMmY4VFd0WEhZVHZqeWdyNlV0TUNWVVVYT0FIdTBoc3ZsQ3VJd2VaVllXVkRmVnFna21GOXBEOGM2dDZSdVoyUkptd2E4ZTVZQkJPZmVlLUVtM0wtc01weWF0Z2cycHdaZDJKWmNQcktJV2daOENrZ053d0U0UnE5d0h1Sk1Z?oc=5",
+          "published_at": "2026-11-26T05:47:52+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/12-terrorists-killed-in-security-forces-ibos-in-balochistan-ispr",
+          "published_at": "2026-11-26T05:47:52+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDhUdmJ1ek96N0JFQy1aMW5ES19RX05lODlUcUFLVkkwaUo2eG50Skkwb0N0TVFTTjBlOUExWTNnRUtpVTNwNWdyS05wTVctblpzVHJ1eGN5bmJoYTRpekZtcF8xODVpdU9JWFo1SzliNTViTEpIdG8wMENqVWxqb2VJTVhlWTNoMUYwSmpIdTI0bUZQMHFZanFWV0huT1lvRzlaT0hOa0JkeE9HN2Z6dXFtNEpNTmJTQ2c?oc=5",
+          "published_at": "2026-11-26T05:51:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARYnews.tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFYyazNQMmY4VFd0WEhZVHZqeWdyNlV0TUNWVVVYT0FIdTBoc3ZsQ3VJd2VaVllXVkRmVnFna21GOXBEOGM2dDZSdVoyUkptd2E4ZTVZQkJPZmVlLUVtM0wtc01weWF0Z2cycHdaZDJKWmNQcktJV2daOENrZ053d0U0UnE5d0h1Sk1Z?oc=5",
+        "publisher_url": "https://arynews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "587edb32539dd540b53ce77e",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T01:57:49+00:00",
+      "last_update": "2026-11-26T05:14:08+00:00",
+      "event": "Two cousins killed in gas cylinder blast",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blast",
+        "cousins",
+        "cylinder",
+        "dawn",
+        "gas",
+        "killed",
+        "two"
+      ],
+      "source_excerpt": "Two cousins killed in gas cylinder blast Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ckFfYU9vNnV3Q0RuNjdXcUoxR1V3MkFpcU5YYzNVdGRTZXRDRERfMEMxWEZHSWg5M1ZYbk9OZlhHbkJFNnN0d05WV09ub0hWdG1Ta2l3S3daS1ptTHFQRFE1RDhvcE5fVzRDcXlCMzlzcm50VWR4SmlpX2tNRnM?oc=5",
+          "published_at": "2026-11-26T01:57:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047047/two-cousins-killed-in-gas-cylinder-blast-in-kps-dera-ismail-khan",
+          "published_at": "2026-11-26T05:14:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ckFfYU9vNnV3Q0RuNjdXcUoxR1V3MkFpcU5YYzNVdGRTZXRDRERfMEMxWEZHSWg5M1ZYbk9OZlhHbkJFNnN0d05WV09ub0hWdG1Ta2l3S3daS1ptTHFQRFE1RDhvcE5fVzRDcXlCMzlzcm50VWR4SmlpX2tNRnM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69ccfcc2947678a52e5bd9bf",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T01:57:49+00:00",
+      "last_update": "2026-11-26T05:21:20+00:00",
+      "event": "Dealers demand monthly fuel price revisions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "dealers",
+        "demand",
+        "fuel",
+        "monthly",
+        "price",
+        "revisions"
+      ],
+      "source_excerpt": "Dealers demand monthly fuel price revisions Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0RhUU1OMGNNRGZZZW5wbDlJT0xjdTFiSE53Mi1UNERzYTBYaHpCR2NWNFJFQnNOMWZKR3RjZWFGcmpRckFxZ3Nycmx5Q0xpUEQ3ckxwMERXTU0wOWZnWktTVVFYa3d4cmd5SEhBNmZOSWVoeGhhLVE3bFV3Tm5yTFZyUQ?oc=5",
+          "published_at": "2026-11-26T01:57:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047042/kp-dealers-demand-monthly-fuel-price-revisions",
+          "published_at": "2026-11-26T05:21:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0RhUU1OMGNNRGZZZW5wbDlJT0xjdTFiSE53Mi1UNERzYTBYaHpCR2NWNFJFQnNOMWZKR3RjZWFGcmpRckFxZ3Nycmx5Q0xpUEQ3ckxwMERXTU0wOWZnWktTVVFYa3d4cmd5SEhBNmZOSWVoeGhhLVE3bFV3Tm5yTFZyUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ec64e27ab11a0cf01f6f58bb",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T01:57:49+00:00",
+      "last_update": "2026-11-26T05:19:44+00:00",
+      "event": "25 Bajaur youth feared dead as boat capsizes near Libya",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bajaur",
+        "boat",
+        "capsizes",
+        "dawn",
+        "dead",
+        "feared",
+        "libya",
+        "near",
+        "youth"
+      ],
+      "source_excerpt": "25 Bajaur youth feared dead as boat capsizes near Libya Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0szWl8zSG4zMy1nN2pwMmVFYnQwQ2hKU2ZEdGpvRTQ3RWM5NWMtTThOeHdrWFY4bnJSSV9JRWJrNXl6cG5PZUlVOUxHSFFNQS1VMmRIM1lRdTc3bmc1bnhGbkxqaDFQcFZ4NDUxcmowUXRGUi1ldWJnOE1EYk1TQ2VDbzVxbTliYks2N1Z1eDdZaHc?oc=5",
+          "published_at": "2026-11-26T01:57:49+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047045/25-bajaur-youth-feared-dead-as-boat-capsizes-near-libya",
+          "published_at": "2026-11-26T05:19:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0szWl8zSG4zMy1nN2pwMmVFYnQwQ2hKU2ZEdGpvRTQ3RWM5NWMtTThOeHdrWFY4bnJSSV9JRWJrNXl6cG5PZUlVOUxHSFFNQS1VMmRIM1lRdTc3bmc1bnhGbkxqaDFQcFZ4NDUxcmowUXRGUi1ldWJnOE1EYk1TQ2VDbzVxbTliYks2N1Z1eDdZaHc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ecbc8e58be675370b8bfa3f0",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:49:40+00:00",
+      "last_update": "2026-11-26T05:49:40+00:00",
+      "event": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "bank",
+        "booming",
+        "central",
+        "chips",
+        "exports",
+        "forecast",
+        "gdp",
+        "growth",
+        "hikes",
+        "interest",
+        "key",
+        "korea",
+        "percent",
+        "raises",
+        "rate",
+        "rates",
+        "south"
+      ],
+      "source_excerpt": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+          "published_at": "2026-11-26T05:49:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a827582054929084e755594f",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:09:55+00:00",
+      "last_update": "2026-11-26T05:09:55+00:00",
+      "event": "Puerto Rico’s Supreme Court cancels major power contract",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "battle",
+        "cancels",
+        "contentious",
+        "contract",
+        "court",
+        "ends",
+        "energy",
+        "five",
+        "four",
+        "legal",
+        "luma",
+        "major",
+        "operations",
+        "power",
+        "puerto",
+        "rico",
+        "ruling",
+        "supreme",
+        "the"
+      ],
+      "source_excerpt": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+          "published_at": "2026-11-26T05:09:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b6c4795641c84c2f4ca10b06",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:47:13+00:00",
+      "last_update": "2026-11-26T05:47:13+00:00",
+      "event": "Nihari, korma, butter chicken: China prepares 100 halal dishes for Pakistani astronaut",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "astronaut",
+        "butter",
+        "chicken",
+        "china",
+        "dishes",
+        "for",
+        "halal",
+        "korma",
+        "nihari",
+        "pakistani",
+        "prepares",
+        "samaa"
+      ],
+      "source_excerpt": "Nihari, korma, butter chicken: China prepares 100 halal dishes for Pakistani astronaut samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1VIaVVXN2U1dzlVTF9MQjJlX21FTGhWS1RaRmYzVjloNHFrZnR6aE5RSWVOZmVDYTBYcHlHekZsRFJMNUVCWmhOWndwTEVEUmNjTER3TGM5c1c2RkZZZk9NN2Q2VGVwQUhBdGFORmdkRC1KQ0tMYjVwME5JWjY5SWpLNDE2RUd1bXg5LUVKZEkxMENCVjAyMUJFWjFaeVZxTWFzVGFmQWlXUVgtbjhrQ0pVVWhtUQ?oc=5",
+          "published_at": "2026-11-26T05:47:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1VIaVVXN2U1dzlVTF9MQjJlX21FTGhWS1RaRmYzVjloNHFrZnR6aE5RSWVOZmVDYTBYcHlHekZsRFJMNUVCWmhOWndwTEVEUmNjTER3TGM5c1c2RkZZZk9NN2Q2VGVwQUhBdGFORmdkRC1KQ0tMYjVwME5JWjY5SWpLNDE2RUd1bXg5LUVKZEkxMENCVjAyMUJFWjFaeVZxTWFzVGFmQWlXUVgtbjhrQ0pVVWhtUQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bdd984d76039f8b66c96aa48",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:58:56+00:00",
+      "last_update": "2026-11-26T05:58:56+00:00",
+      "event": "Pakistan’s mobile phone imports surge 25.21% in October 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "imports",
+        "mobile",
+        "october",
+        "pakistan",
+        "phone",
+        "surge"
+      ],
+      "source_excerpt": "Pakistan’s mobile phone imports surge 25.21% in October 2026",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistans-mobile-phone-imports-surge-25-21-in-october-2026",
+          "published_at": "2026-11-26T05:58:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistans-mobile-phone-imports-surge-25-21-in-october-2026",
+        "publisher_url": "https://arynews.tv/pakistans-mobile-phone-imports-surge-25-21-in-october-2026",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e13f1102b4856b277c5c1783",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T05:33:59+00:00",
+      "last_update": "2026-11-26T05:33:59+00:00",
+      "event": "Case registered over Admin Society building collapse in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admin",
+        "building",
+        "case",
+        "collapse",
+        "karachi",
+        "over",
+        "registered",
+        "society"
+      ],
+      "source_excerpt": "Case registered over Admin Society building collapse in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/case-registered-over-admin-society-building-collapse-in-karachi",
+          "published_at": "2026-11-26T05:33:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/case-registered-over-admin-society-building-collapse-in-karachi",
+        "publisher_url": "https://arynews.tv/case-registered-over-admin-society-building-collapse-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d4131df680c7fce949773b70",
+      "remembered_at": "2026-11-26T06:05:43.397079+00:00",
+      "event_date": "2026-11-26T04:57:06+00:00",
+      "last_update": "2026-11-26T04:57:06+00:00",
+      "event": "Latest News, Pakistan News, World News, Sports News and Videos",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "dunya",
+        "latest",
+        "news",
+        "pakistan",
+        "sports",
+        "videos",
+        "world"
+      ],
+      "source_excerpt": "Latest News, Pakistan News, World News, Sports News and Videos Dunya News",
+      "sources": [
+        {
+          "name": "Dunya News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80cDBHNk1xdHVoNnp1bWZ1ZXlwOVgtNlR4b1g3c2E1U05JclZrTlhPN1habU45SXlYbnNzQVhpV3RVeks4T2Frcy1IRFlpR05n?oc=5",
+          "published_at": "2026-11-26T04:57:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dunya News",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80cDBHNk1xdHVoNnp1bWZ1ZXlwOVgtNlR4b1g3c2E1U05JclZrTlhPN1habU45SXlYbnNzQVhpV3RVeks4T2Frcy1IRFlpR05n?oc=5",
+        "publisher_url": "https://dunyanews.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T05:02:27.084894+00:00"
+  "updated_at": "2026-11-26T06:05:43.397079+00:00"
 }
