@@ -185163,7 +185163,325 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2e281682007f6861cf94ff1",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T15:38:17+00:00",
+      "last_update": "2026-11-27T20:10:30+00:00",
+      "event": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acts",
+        "albanese",
+        "barred",
+        "citing",
+        "costa",
+        "denied",
+        "entry",
+        "francesca",
+        "gaza",
+        "has",
+        "into",
+        "links",
+        "rapporteur",
+        "rica",
+        "special",
+        "terrorist",
+        "unfounded"
+      ],
+      "source_excerpt": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+      "sources": [
+        {
+          "name": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY045ZXFSamYtMUgxZXE0VUt3cHpLZFo2MWU1cDdPZ2o0UVdLWVhUUllJWldsYzMyRHdVdVVwTDJtbjZhS0pYMnd1TUFHVGNuVGdrSzhILU9ockxscDBxblhtakktWnhCa2VHTlFoYWtqWUFiUWNmNjRycUhDS3NxZG5XNE9PRjZaZGVIQVc2Nl9remF1cExaZjdnOHgzY3E0S3JvTW1WeWQzQTE5X0d6djZhYXZla2xISzI0?oc=5",
+          "published_at": "2026-11-27T15:38:17+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+          "published_at": "2026-11-27T20:10:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7141cf7271ce23647594c8c1",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T13:24:53+00:00",
+      "last_update": "2026-11-27T18:40:41+00:00",
+      "event": "Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25bln",
+        "access",
+        "boost",
+        "chinese",
+        "exports",
+        "market",
+        "pakistan",
+        "seeks",
+        "tariff",
+        "zero"
+      ],
+      "source_excerpt": "Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln",
+      "sources": [
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHEtdC1oU1pKTnN1Z09zSm1Ba24wYmt1NGptYkdUU2JhekpQWlU0Z3pkMDNMYW45S1VfT2FJTkZsNzdkNjl0NnFrc01kRmxHSHZtRDFmUkRjSUVMazA2S1ItUmp1Q092YnM0R1M2OS1WVlBPMkZCY2FQUXd3VWtPRzU5cGl1clM1a3NQMmI3Yl9WRVdpVkI5ZnA2R3VPbVYwZndPVTRNRG9QNkFa?oc=5",
+          "published_at": "2026-11-27T13:24:53+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/pakistan-seeks-zero-tariff-access-to-china-to-boost-exports-to-25-billion/",
+          "published_at": "2026-11-27T16:29:08+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVpsQTR4dGkwUHo2N24tdVlzeWxwR2ZfSFQ4Z3NGaGQ0MGs4NFE3bms0Rzl5SFkxQU1lUlJ5UzcxOHU2STdTaFhkN3A4Mkc2Uno4Qkp5alpWNGdfZW8wdkpIX0p2VDRpRUdlcDlmSXVBQzBTX1hkUmFHMUxYMUFieVJVOEl0Q3dueEQ5TWFFb19oR2MyVGlKZXE4NkV1VUpNWmUxQlNVazZoT2otd2RkNDhIRUl3SEhP?oc=5",
+          "published_at": "2026-11-27T17:23:28+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln",
+          "published_at": "2026-11-27T18:40:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln",
+        "publisher_url": "https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88c8077d04c1a6143a6ec5c8",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T13:17:17+00:00",
+      "last_update": "2026-11-27T20:16:37+00:00",
+      "event": "NADRA mobile registration vans to visit four UK locations on November 28",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "four",
+        "locations",
+        "mobile",
+        "nadra",
+        "november",
+        "registration",
+        "vans",
+        "visit"
+      ],
+      "source_excerpt": "NADRA mobile registration vans to visit four UK locations on November 28",
+      "sources": [
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/nadra-to-offer-mobile-registration-services-at-four-uk-locations/",
+          "published_at": "2026-11-27T13:17:17+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28",
+          "published_at": "2026-11-27T20:16:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28",
+        "publisher_url": "https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a089d7bb5083fbea89554eef",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T19:56:35+00:00",
+      "last_update": "2026-11-27T19:56:35+00:00",
+      "event": "Is Iraq facing renewed instability?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asserts",
+        "autonomous",
+        "control",
+        "facing",
+        "instability",
+        "iraq",
+        "kurdish",
+        "over",
+        "region",
+        "renewed",
+        "resources",
+        "semi",
+        "state"
+      ],
+      "source_excerpt": "PM asserts state control over resources in semi-autonomous Kurdish region",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+          "published_at": "2026-11-27T19:56:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "533bef759ac38496f60e51be",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T19:53:25+00:00",
+      "last_update": "2026-11-27T19:53:25+00:00",
+      "event": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "chief",
+        "forces",
+        "four",
+        "gaza",
+        "group",
+        "hamas",
+        "hayya",
+        "israel",
+        "israeli",
+        "khalil",
+        "killed",
+        "kills",
+        "other",
+        "palestinian",
+        "previously",
+        "son",
+        "sons",
+        "strike",
+        "survives",
+        "the",
+        "were"
+      ],
+      "source_excerpt": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+          "published_at": "2026-11-27T19:53:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df43af33a4285becb05fd134",
+      "remembered_at": "2026-11-27T20:26:04.792001+00:00",
+      "event_date": "2026-11-27T20:09:09+00:00",
+      "last_update": "2026-11-27T20:09:09+00:00",
+      "event": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuse",
+        "and",
+        "betrayal",
+        "defy",
+        "final",
+        "for",
+        "him",
+        "his",
+        "main",
+        "minister",
+        "nchez",
+        "not",
+        "pedro",
+        "pitch",
+        "polls",
+        "prime",
+        "rally",
+        "rivals",
+        "spanish",
+        "supporters",
+        "telling",
+        "the",
+        "truth",
+        "votes",
+        "wants"
+      ],
+      "source_excerpt": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T20:09:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T19:24:31.795876+00:00"
+  "updated_at": "2026-11-27T20:26:04.792001+00:00"
 }

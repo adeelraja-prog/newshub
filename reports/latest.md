@@ -1,196 +1,173 @@
-# News Hub report - Sat 28 Nov, 12:24 AM PKT
+# News Hub report - Sat 28 Nov, 01:26 AM PKT
 
 ## Collection
-- New items this run: 38 | items in rolling pool: 725
-- Unique story clusters: 595 (duplicates merged: 130)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 13
-- Items per outlet: Geo News 8, ARY News 5, samaa tv 4, UrduPoint 3, Dawn 2, The News International 2, Dawn Pakistan 1, Dawn Latest 1, The Verge 1, Wired 1, BBC Health 1, BBC Science 1
+- New items this run: 21 | items in rolling pool: 567
+- Unique story clusters: 475 (duplicates merged: 92)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 11
+- Items per outlet: Geo News 3, Al Jazeera 3, Engadget 3, Pakistan Today 3, ARY News 2, The Verge 2, Wired 2, GSMArena 1, BBC World 1, Al-Monitor 1, Aaj News 0, Reuters 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION | https://www.youtube.com/watch?v=TDIhfi6sCqo
 
 ## Top 5 most important
-- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 113/120 | empty: 4 | failed: 2 | malformed/partial: 4
+- Overall feeds with entries: 113/120 | empty: 3 | failed: 3 | malformed/partial: 4
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: GSMArena | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Electricity | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### President Zardari and PML-Q Chief Chaudhry Shujaat Discuss Key Political Affairs  [NORMAL]
-- Poster: صدر زرداری اور چوہدری شجاعت کی ملکی سیاسی صورتحال پر اہم مشاورت / President Zardari and Shujaat Discuss National Political Situation | category politics
-- Alternative headline: Zardari Meets Shujaat to Consult on Pakistan's Current Political Landscape
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, samaa tv, samaa tv
-- Keywords: Asif Ali Zardari, Chaudhry Shujaat, PML-Q, Pakistan politics, political situation | hashtags: #PakistanPolitics #AsifZardari #PMLQ #ChaudhryShujaat
-- Scheduled: Sat 28 Nov, 12:24 AM PKT
-- Caption:
-```
-President Asif Ali Zardari held a meeting with PML-Q chief Chaudhry Shujaat Hussain to review Pakistan's political landscape.
-
-President Asif Ali Zardari met Pakistan Muslim League-Quaid chief Chaudhry Shujaat Hussain to discuss the prevailing political situation in the country. The leaders exchanged views on national affairs and ongoing developments across Pakistan's political environment during their consultation.
-
-صدر مملکت آصف علی زرداری اور مسلم لیگ (ق) کے سربراہ چوہدری شجاعت حسین کے درمیان ملاقات ہوئی جس میں ملک کی مجموعی سیاسی صورتحال پر تبادلہ خیال کیا گیا۔ رہنماؤں نے ملکی امور اور سیاسی معاملات پر باہمی مشاورت کی۔
-
-First reported by Dawn.
-
-#PakistanPolitics #AsifZardari #PMLQ #ChaudhryShujaat
-```
-
-### Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence Coordination  [NORMAL]
-- Poster: پاکستان، سعودی عرب اور ترکیہ کا مشترکہ دفاعی تعاون مزید مضبوط بنانے کا عزم / Pakistan, Saudi Arabia, Türkiye Pledge Stronger Collective Defence | category security
-- Alternative headline: Trilateral Defence Alignment: Pakistan, Saudi Arabia, and Türkiye Reaffirm Cooperation
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5
-- Supporting coverage: Pakistan Today, samaa tv
-- Keywords: trilateral defence, Pakistan defence, Saudi Arabia, Turkiye, collective defence | hashtags: #DefenceCooperation #Pakistan #SaudiArabia #Turkiye #Security
-- Scheduled: Sat 28 Nov, 12:34 AM PKT
-- Caption:
-```
-Pakistan, Saudi Arabia, and Türkiye have agreed to enhance trilateral collective defence coordination.
-
-Pakistan, Saudi Arabia, and Türkiye have reaffirmed their commitment to deepen collective defence coordination. The three partner nations pledged closer collaboration on mutual defence interests and strategic initiatives to support regional security and strengthen multilateral partnerships.
-
-پاکستان، سعودی عرب اور ترکیہ نے باہمی دفاعی تعاون کو مزید مضبوط اور فعال بنانے کے عزم کا اعادہ کیا ہے۔ تینوں دوست ممالک نے علاقائی سلامتی اور باہمی اسٹریٹجک مفادات کے فروغ کے لیے مشترکہ کوششیں جاری رکھنے پر اتفاق کیا۔
-
-First reported by samaa tv.
-
-#DefenceCooperation #Pakistan #SaudiArabia #Turkiye #Security
-```
-
-### Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statistics Reports  [NORMAL]
-- Poster: ادارہ شماریات: ہفتہ وار مہنگائی کی شرح میں 0.11 فیصد کمی ریکارڈ / Pakistan Weekly Inflation Drops 0.11%: PBS | category economy
-- Alternative headline: Weekly Inflation in Pakistan Eases Slightly by 0.11% According to PBS
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMidEFVX3lxTE5jdTBUSXFBOThSOWkxRndncTdkOGxKNzd2cHRfQUxWNGstMGtmZTlfOHNpQkhQb0VpNlB6ckhqNzRybGllTHE2dEtEQzlmcUliTXR4a3RfdXpYSmVKNkt3Y1VDSG8talY0Y2NKRVZEbHFTMjhk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMidEFVX3lxTE5jdTBUSXFBOThSOWkxRndncTdkOGxKNzd2cHRfQUxWNGstMGtmZTlfOHNpQkhQb0VpNlB6ckhqNzRybGllTHE2dEtEQzlmcUliTXR4a3RfdXpYSmVKNkt3Y1VDSG8talY0Y2NKRVZEbHFTMjhk?oc=5
-- Supporting coverage: samaa tv, TechJuice
-- Keywords: weekly inflation, PBS, Pakistan inflation, SPI, consumer prices | hashtags: #PakistanEconomy #Inflation #PBS #EconomyUpdate
-- Scheduled: Sat 28 Nov, 12:44 AM PKT
-- Caption:
-```
-Pakistan's weekly inflation dropped by 0.11 percent, according to the latest figures released by the PBS.
-
-Pakistan's weekly inflation decreased by 0.11 percent, according to data from the Pakistan Bureau of Statistics. The slight drop provides short-term easing in consumer price trends across essential commodities as monitored by official statistical trackers.
-
-پاکستان ادارہ شماریات کے مطابق ملک میں ہفتہ وار بنیادوں پر مہنگائی کی شرح میں 0.11 فیصد کی کمی ریکارڈ کی گئی ہے۔ اعداد و شمار کے مطابق ضروری اشیاء کی قیمتوں میں وقتی طور پر کچھ استحکام دیکھا گیا ہے۔
-
-First reported by samaa tv; also reported by TechJuice.
-
-#PakistanEconomy #Inflation #PBS #EconomyUpdate
-```
-
-### Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Line  [NORMAL]
-- Poster: میکسیکو کا ڈرگ ٹریفکنگ ٹپ لائن پر امریکا کے خلاف باقاعدہ احتجاج / Mexico Lodges Complaint With US Over Drug Tip Line | category world
-- Alternative headline: Mexico Protests US Tip Line Targeting Suspected Drug Cartel Operatives
+### Spanish PM Pedro Sánchez Defies Polls in Final Election Rally  [NORMAL]
+- Poster: ہسپنوں میں انتخابات سے قبل سیاسی سرگرمیاں عروج پر، اہم رہنماؤں کے جلسے / Spanish Leaders Hold Final Rallies Ahead of Sunday Election | category politics
+- Alternative headline: Spain's Party Leaders Make Final Push Ahead of Sunday Vote
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Mexico US relations, DEA tip line, drug traffickers, Mexico complaint, sovereignty | hashtags: #Mexico #USNews #DEA #Diplomacy
-- Scheduled: Sat 28 Nov, 12:54 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Spain election, Pedro Sánchez, Alberto Núñez Feijóo, Spanish politics, election rally, Socialist Party | hashtags: #SpainElection #PedroSanchez #WorldNews #Politics #Europe
+- Scheduled: Sat 28 Nov, 01:26 AM PKT
 - Caption:
 ```
-Mexico has lodged a formal complaint against the US over a DEA tip line, raising cross-border sovereignty concerns.
+Spain's main political leaders have wrapped up their campaigns with final rallies ahead of Sunday's crucial national election.
 
-Mexico has lodged a formal diplomatic complaint with the United States regarding a DEA tip line targeting alleged drug traffickers. Mexican authorities cited concerns over national sovereignty and cross-border jurisdiction, intensifying bilateral friction surrounding joint anti-narcotics efforts.
+Spain's main party leaders held their final rallies ahead of Sunday's election. Socialist Prime Minister Pedro Sánchez expressed confidence in defying polls, while his conservative rival Alberto Núñez Feijóo promised a new political era, with polls indicating a close finish among nearly 39 million eligible voters.
 
-میکسیکو نے منشیات اسمگلروں سے متعلق امریکی ادارے ڈی ای اے کی ٹپ لائن پر امریکا سے باضابطہ شکایت درج کرائی ہے۔ میکسیکن حکومت نے خود مختاری کے احترام پر زور دیتے ہوئے دوطرفہ تعاون کے اصولوں کو ملحوظ خاطر رکھنے کا مطالبہ کیا ہے۔
+سپین کے اہم سیاسی رہنماؤں نے اتوار کو ہونے والے انتخابات سے قبل آخری انتخابی جلسے منعقد کیے۔ سوشلسٹ وزیراعظم پینڈرو سانچیز نے پولز کے نتائج کو غلط ثابت کرنے کا عزم ظاہر کیا، جبکہ ان کے قدامت پسند حریف البرٹو نونیز فیجو نے ایک نئے سیاسی دور کا وعدہ کیا۔
 
-First reported by Al Jazeera.
+According to BBC World
 
-#Mexico #USNews #DEA #Diplomacy
+#SpainElection #PedroSanchez #WorldNews #Politics #Europe
 ```
 
-### Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Canary Islands  [NORMAL]
-- Poster: کینری جزائر پر سینکڑوں تارکین وطن کی آمد، ہسپانوی ریسکیو ٹیمیں متحرک / Spanish Rescuers Assist Migrants in Canary Islands | category world
-- Alternative headline: Spain Deploys Emergency Unit as Migrant Boats Reach Canary Islands
+### Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Claim  [NORMAL]
+- Poster: کوسٹا ریکا نے اقوام متحدہ کی نمائندہ فرانچسکا البانیز کے داخلے پر پابندی لگا دی / Costa Rica Denies Entry to UN Rapporteur Francesca Albanese | category world
+- Alternative headline: UN Urges Costa Rica to Allow Entry to Rights Rapporteur Albanese
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Canary Islands migrants, Spain rescue, El Hierro, Military Emergencies Unit, migration | hashtags: #CanaryIslands #Spain #MigrantCrisis #Humanitarian
-- Scheduled: Sat 28 Nov, 01:04 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss
+- Supporting coverage: Ahram Online, Al Jazeera
+- Keywords: Francesca Albanese, Costa Rica, UN special rapporteur, Gaza, entry ban, United Nations | hashtags: #FrancescaAlbanese #CostaRica #UnitedNations #Gaza #WorldNews
+- Scheduled: Sat 28 Nov, 01:36 AM PKT
 - Caption:
 ```
-Spain's Military Emergencies Unit was deployed to provide medical care to hundreds of migrants arriving at El Hierro.
+Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded allegations regarding links to terrorist acts.
 
-Spanish emergency workers and the Military Emergencies Unit were deployed to provide medical treatment and humanitarian assistance to hundreds of migrants arriving at the Canary Islands. The arrivals were brought ashore on the island of El Hierro following perilous sea journeys.
+Costa Rica has barred UN special rapporteur Francesca Albanese from entering the country, citing what it termed unfounded links to terrorist acts. The decision has drawn international attention and reactions from various entities monitoring human rights and diplomatic relations.
 
-ہسپانوی امدادی اہلکاروں اور فوجی ایمرجنسی یونٹ نے کینری جزائر کے جزیرے ال ہیرو پر پہنچنے والے سینکڑوں تارکین وطن کو طبی امداد فراہم کی ہے۔ سمندری راستے سے پہنچنے والے ان افراد کی بحالی کے لیے فوری اقدامات کیے گئے۔
+کوسٹا ریکا نے دہشت گردانہ کارروائیوں سے مبینہ تعلقات کا حوالہ دیتے ہوئے اقوام متحدہ کی خصوصی نمائندہ فرانچسکا البانیز کے ملک میں داخلے پر پابندی عائد کر دی ہے۔ اس فیصلے پر عالمی سطح پر مختلف ردعمل سامنے آئے ہیں۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#CanaryIslands #Spain #MigrantCrisis #Humanitarian
+#FrancescaAlbanese #CostaRica #UnitedNations #Gaza #WorldNews
 ```
 
-### Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces  [NORMAL]
-- Poster: یوکرین کی بحیرہ اسود میں جنگ بندی کی تجویز، روس کی بحری توسیع جاری / Kyiv Offers Black Sea Ceasefire as Putin Expands Navy | category war
-- Alternative headline: Ukraine Proposes Maritime Ceasefire While Russia Expands Navy Fleet
+### Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B  [NORMAL]
+- Poster: پاکستان کی چین سے زیرو ٹیرف رسائی کی درخواست، برآمدات 25 ارب ڈالر تک لے جانے کا ہدف / Pakistan Seeks Zero-Tariff Access to China for $25B Exports | category economy
+- Alternative headline: Ahsan Iqbal Pursues Preferential Trade Deal to Target $25bn Chinese Market
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln
+- Supporting coverage: Investify, TechJuice, Pakistan Today, ARY News
+- Keywords: Pakistan China exports, zero-tariff access, Ahsan Iqbal, export target, bilateral trade, China trade | hashtags: #PakistanChina #Exports #Economy #AhsanIqbal #Trade
+- Scheduled: Sat 28 Nov, 01:46 AM PKT
+- Caption:
+```
+Pakistan has urged China to grant preferential zero-tariff market access to help lift annual bilateral exports up to $25 billion.
+
+Pakistan has sought China's support for zero-tariff access for domestic goods to increase annual exports from around $3 billion to $20-25 billion. Federal Minister Ahsan Iqbal discussed the proposal with CPC officials, pointing to China's tariff concessions to African nations as a potential model.
+
+پاکستان نے چین سے مطالبہ کیا ہے کہ وہ پاکستانی مصنوعات کو ترجیحی بنیادوں پر زیرو ٹیرف رسائی فراہم کرے تاکہ سالانہ برآمدات کو 3 ارب ڈالر سے بڑھا کر 20 سے 25 ارب ڈالر تک پہنچایا جا سکے۔ وفاقی وزیر احسن اقبال نے چینی حکام سے اس تجاویز پر تبادلہ خیال کیا۔
+
+First reported by ARY News; also reported by The Express Tribune
+
+#PakistanChina #Exports #Economy #AhsanIqbal #Trade
+```
+
+### NADRA Mobile Vans to Provide ID Services at Four UK Locations  [NORMAL]
+- Poster: نادرا کی موبائل وینز آج برطانیہ کے چار مختلف مقامات پر شناختی خدمات فراہم کریں گی / NADRA Mobile Vans to Visit Four UK Locations for ID Services | category other
+- Alternative headline: Overseas Pakistanis in UK Can Access NADRA Mobile Registration on Nov 28
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28
+- Supporting coverage: TechJuice, ARY News
+- Keywords: NADRA UK mobile vans, overseas Pakistanis, NADRA registration, UK ID services, NICOP renewal, Gravesend Blackburn Peterborough | hashtags: #NADRA #OverseasPakistanis #UK #Pakistan #Community
+- Scheduled: Sat 28 Nov, 01:56 AM PKT
+- Caption:
+```
+NADRA is deploying mobile registration vans across four UK locations today to facilitate identity documentation services for overseas Pakistanis.
+
+The National Database and Registration Authority (NADRA) is deploying mobile registration vans across four locations in the United Kingdom on November 28. The initiative aims to assist overseas Pakistanis with SNICOP, SPOC, FRC issuance, and card renewals without lengthy travel.
+
+نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا) 28 نومبر کو برطانیہ کے چار مختلف مقامات پر موبائل رجسٹریشن وینز تعینات کر رہی ہے۔ اس اقدام کا مقصد سمندر پار پاکستانیوں کو شناختی کارڈز اور دیگر دستاویزات کی سہولت فراہم کرنا ہے۔
+
+First reported by ARY News
+
+#NADRA #OverseasPakistanis #UK #Pakistan #Community
+```
+
+### Is Snooker the Most Mentally Challenging Sport? Experts Discuss  [NORMAL]
+- Poster: کیا سنوکر دنیا کا سب سے زیادہ ذہنی مشقت والا کھیل ہے؟ ماہرین کی گفتگو / Is Snooker the Most Mentally Challenging Sport? Experts Weigh In | category sports
+- Alternative headline: Gary Wilson and Ken Doherty Discuss Mental Demands of Professional Snooker
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Black Sea ceasefire, Russia Ukraine war, Kyiv, Vladimir Putin, Volodymyr Zelenskyy | hashtags: #UkraineWar #BlackSea #Russia #Kyiv
-- Scheduled: Sat 28 Nov, 01:14 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: mental challenge in snooker, Gary Wilson, Ken Doherty, Jason Ferguson, snooker psychology, sports mental health | hashtags: #Snooker #SportsMentalHealth #BBC #Sports #Focus
+- Scheduled: Sat 28 Nov, 02:06 AM PKT
 - Caption:
 ```
-Ukraine is awaiting Moscow's response to a Black Sea ceasefire proposal while Russian President Vladimir Putin expands naval capabilities.
+Professional snooker players Gary Wilson, Ken Doherty, and Jason Ferguson explore the intense psychological pressures of the sport.
 
-Kyiv has proposed a ceasefire in the Black Sea and is awaiting Moscow's response. Meanwhile, Russian President Vladimir Putin is expanding Russia's navy, even as Ukrainian President Volodymyr Zelenskyy publicly criticized US political dynamics concerning Moscow.
+Professional snooker players Gary Wilson, Ken Doherty, and Jason Ferguson discuss the profound mental and psychological effects experienced by competitors in professional snooker, raising questions about whether it is the most mentally demanding sport.
 
-یوکرین نے بحیرہ اسود میں جنگ بندی کی باقاعدہ تجویز پیش کی ہے اور ماسکو کے جواب کا منتظر ہے۔ دوسری جانب روسی صدر ولادیمیر پیوٹن نے اپنی بحریہ کو وسعت دینے کا اعلان کیا ہے، جس سے خطے میں کشیدگی برقرار ہے۔
+پیشہ ورانہ سنوکر کھلاڑیوں گِری ولسن، کین ڈوہرٹی اور جیسن فرگوسن نے سنوکر کے کھیل میں کھلاڑیوں کو درپیش ذہنی دباؤ اور نفسیاتی اثرات پر تفصیلی گفتگو کی ہے۔
 
-First reported by Al Jazeera.
+First reported by BBC Health
 
-#UkraineWar #BlackSea #Russia #Kyiv
+#Snooker #SportsMentalHealth #BBC #Sports #Focus
 ```
 
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
 
 ## Queue status
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
@@ -396,10 +373,10 @@ First reported by Al Jazeera.
 - [needs_review] normal | Saudi strike kills 11 in Yemen: Houthi media | Fri 27 Nov, 06:05 PM PKT
 - [needs_review] normal | Marc Marquez announces surprise retirement after eighth MotoGP title | Fri 27 Nov, 06:15 PM PKT
 - [published] normal | Binance completes withdrawal recovery work after $6.3bn heist | Fri 27 Nov, 06:25 PM PKT
-- [queued] normal | ADB approves $468m in loans for KP and Punjab water projects | Fri 27 Nov, 06:35 PM PKT
-- [queued] normal | Eisenkot tests power-sharing with Netanyahu despite election promise | Fri 27 Nov, 07:05 PM PKT
-- [queued] normal | Erdogan completes Turkey's ratification of Makkah defence pact | Fri 27 Nov, 07:15 PM PKT
-- [queued] normal | Pakistan seeks zero-tariff access to China with $25b export target | Fri 27 Nov, 07:25 PM PKT
+- [needs_review] normal | ADB approves $468m in loans for KP and Punjab water projects | Fri 27 Nov, 06:35 PM PKT
+- [needs_review] normal | Eisenkot tests power-sharing with Netanyahu despite election promise | Fri 27 Nov, 07:05 PM PKT
+- [needs_review] normal | Erdogan completes Turkey's ratification of Makkah defence pact | Fri 27 Nov, 07:15 PM PKT
+- [needs_review] normal | Pakistan seeks zero-tariff access to China with $25b export target | Fri 27 Nov, 07:25 PM PKT
 - [queued] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
 - [queued] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
 - [queued] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
@@ -423,14 +400,25 @@ First reported by Al Jazeera.
 - [queued] normal | Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Lin | Sat 28 Nov, 12:54 AM PKT
 - [queued] normal | Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Cana | Sat 28 Nov, 01:04 AM PKT
 - [queued] normal | Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces | Sat 28 Nov, 01:14 AM PKT
+- [published] promo | [YouTube] NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION | Sat 28 Nov, 01:26 AM PKT
+- [queued] normal | Spanish PM Pedro Sánchez Defies Polls in Final Election Rally | Sat 28 Nov, 01:26 AM PKT
+- [queued] normal | Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Cla | Sat 28 Nov, 01:36 AM PKT
+- [queued] normal | Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B | Sat 28 Nov, 01:46 AM PKT
+- [queued] normal | NADRA Mobile Vans to Provide ID Services at Four UK Locations | Sat 28 Nov, 01:56 AM PKT
+- [queued] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
 
 ## Publishing this run
-- Published 'Binance completes withdrawal recovery work after $6.3bn heist'.
+- Published '[YouTube] NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 7430 | output tokens: 3656
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 5 | prompt tokens: 11743 | output tokens: 4556
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 144 column 9 (char 6379)
