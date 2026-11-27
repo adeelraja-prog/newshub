@@ -175318,7 +175318,548 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e826577fc97db75c7f413b0a",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-26T22:01:16+00:00",
+      "last_update": "2026-11-27T03:30:00+00:00",
+      "event": "2 Italians killed in Iranian drone strike in Kuwait",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "drone",
+        "iranian",
+        "italians",
+        "killed",
+        "kuwait",
+        "strike"
+      ],
+      "source_excerpt": "2 Italians killed in Iranian drone strike in Kuwait Dawn",
+      "sources": [
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW5Ia1VtUFl4b1FmMmh3dS1HQ1ktQ29sNHVrVG9uQnlEcGpMcVB0NUNyMmM3c1B5Q0N6czFFd1hYMFV3bU1FT0liUF9aSEZRWXdiTXVKaG9ZM0NWMXB5M3dxQTBwVEdlVTF1YURsZmxBTmprTU9BbkhmWVZGSWJmTEE4YUt5Tm1JNHphVWFWdF80cVQ4R2dBUXYxeEtSUTkwZFIxa2ZIdkxEazU4ZllpVmNoWHJfQQ?oc=5",
+          "published_at": "2026-11-26T22:01:16+00:00"
+        },
+        {
+          "name": "The New Arab",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGZEdThLMFlTOFVwcGd2Y2ZQbjFiN1pOYzNQZ2JKWlUyaUE1VDlsMmJBTmMyUlNPdFVQS2pXSUNnMTM4a0xzeV9xWkYxUGozMFJQZXpxVGM1blA0SEtfSG1VWnVkRExmVmEzdEI1bWFuTkl2alBwa3N2ZHhYc2lVYmtSSdIBiAFBVV95cUxOZU1LVnM4V0VQZFNRbUZRUWFndWx0bVBXaV9LdVdkMURZYXozdUdsd3Z1N1NnVU1qSlIwZGVfdHRkY1VpeWlOaUNzbGt2SU5hcTZPQUgwVG5WX21HUnRFZi11WkpZb2NjT3BCR2M5MjBidXVVWXdpVXlFNE5fTGNOU0JCMFlPQ0pZ?oc=5",
+          "published_at": "2026-11-27T00:39:29+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5",
+          "published_at": "2026-11-27T00:48:23+00:00"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYndFMTFFMlRhOElWM09BSS1fQ0FQb3kyVWhpYVZ5ZEJlM2t2UTlKRjlFQTlrekVxaVpQa3JucEcwdVFONnB3aUJMMzdCUUpNcG1VcXpOQm1ZTThuME1WdlB2UlhCamI5b2ZVcGI2a1VfajhCeTNqZ2xMRW04Z0tUZS0xNjVESXFLVmx6SERaUdIBlAFBVV95cUxNUFRSSTRfUWdXdWtSWWlrX2pHUm95MHFmSUEzYzAwRkd4dDVyRkxwajJGRTNDb0JyUjNPN2RuRzdfVjlKQ0F0LURjd2x5NmdodkNzVnI3anpZTURQZXhfUXlwdWxTZG84VEdweWFqX0trWVhSTm1nQ0pNaVEweWRmU3g3Nnd2bE82RThqSC1TNUxXN3Zz?oc=5",
+          "published_at": "2026-11-27T01:41:00+00:00"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+          "published_at": "2026-11-27T03:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b92b57c8996ad4cc66eff83d",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-26T23:46:00+00:00",
+      "last_update": "2026-11-27T03:07:09+00:00",
+      "event": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abbas",
+        "and",
+        "araghchi",
+        "attack",
+        "calls",
+        "cooked",
+        "deadly",
+        "for",
+        "incident",
+        "iran",
+        "kuwait",
+        "like",
+        "live",
+        "looks",
+        "pre",
+        "recipe",
+        "says",
+        "suspicious",
+        "the",
+        "war"
+      ],
+      "source_excerpt": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "sources": [
+        {
+          "name": "The American Conservative",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1B0eFZZNWVtcFh0d1NmdjQ0ZnpRMHQyZjBPSmVMSmdnLUcwS3hCNmlSRnVGYVpTOTNOMk0zRUl1dzM5WERnbklRWXZVS1NkVF9DaEtkb0lRVFBqaEYwcHFXd3lCWmZhTVQxeVc2aDJ0a0VPXzNxdDFyMFVzUGtpclZfblVRem1OeXFxczlDOXZ6RTJjQ1N0b3NUcEtsZTJWOXpyV1pB?oc=5",
+          "published_at": "2026-11-26T23:46:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+          "published_at": "2026-11-27T00:00:00+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2RxcE5iYnBZYlRaUVlCWlItc3RheVVQaUxibTBva203bG9lVVhCbTFEOFI1bHhrUzBTalBNX1R1QW01ai1IWFBTQkdKa0dGVTgwaTVaRDR5ZWVHOWlKWkdxN21qa3JzclhuTlJUUjA3NnhwN1pDQXVOLUh4Q203dmhVaFR1VzVHTGNmaVFUSDN1UUNrem5ITzFlbTg5ekpsTjlBYk1kckFOSkJQdS00YllVTnNPbWU20gG-AUFVX3lxTE5EdzdTTDR0WkNDT0hEeDZHenktRk9fWjIzVl91WFo1RUxCWFZHUHVtS3F4SkVRWU8tTE9EeHFlZ3VLdHg3MnlNSlVrVktUV0FwTy1WOV9TY1JWaDUwRF9aQThHbTZZS0o0RlljdTJuV05DOHhSSkZaTDNJZEl1WEpvMWVDdFlnSnBPb2JTOXFpb2lvR0hfMFV0M1VmeFFmZl80UEotdWhzSHh6TWtwU2FxeE1BZENfRndsdlFhQ2c?oc=5",
+          "published_at": "2026-11-27T03:07:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5e4ef4bed4c3d4bd9629638",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T03:34:51+00:00",
+      "event": "26th, 27th Amendments sparked judicial conflict: ex-IHC judge",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "26th",
+        "27th",
+        "amendments",
+        "conflict",
+        "dawn",
+        "ihc",
+        "judge",
+        "judicial",
+        "sparked"
+      ],
+      "source_excerpt": "26th, 27th Amendments sparked judicial conflict: ex-IHC judge Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEgzWVB5ejE5Mjk4YWtoU2J2Ty1lLVhQZzdHN2ZDV3lCdlp2Y2hBcGROZmU5al9LeDhlODR2R3JjUjkwLUZqR2lUSEpVb19KNjhVM0Y4cDdFNVRkZ19iMVgwVUR5RE9QQnFLX2ExQW50WE9xdXA1U1oxM1JZb1gzNGZrZ1R3NHlZajJvbXZyWkJRQ0JNQlpEcA?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047423/26th-27th-amendments-sparked-judicial-conflict-ex-ihc-justice-mohsin-akhtar-kayani",
+          "published_at": "2026-11-27T03:34:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEgzWVB5ejE5Mjk4YWtoU2J2Ty1lLVhQZzdHN2ZDV3lCdlp2Y2hBcGROZmU5al9LeDhlODR2R3JjUjkwLUZqR2lUSEpVb19KNjhVM0Y4cDdFNVRkZ19iMVgwVUR5RE9QQnFLX2ExQW50WE9xdXA1U1oxM1JZb1gzNGZrZ1R3NHlZajJvbXZyWkJRQ0JNQlpEcA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8aae7bd0439bbdc1dd3d87e6",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T00:47:44+00:00",
+      "last_update": "2026-11-27T02:52:05+00:00",
+      "event": "AJK rolls out Rs15bn 100-day action plan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "100",
+        "action",
+        "ajk",
+        "dawn",
+        "day",
+        "out",
+        "plan",
+        "rolls",
+        "rs15bn"
+      ],
+      "source_excerpt": "AJK rolls out Rs15bn 100-day action plan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYm9wVExERGM1QjNsWjhfVlZFZ2pZV0ZMZ3NaWFpMM0l1Yk9YLTFmTXAtSEpTeGotcXpGQWRWRms1MDVxbnhfbzh4Mm9oNGd3T2ZDOFdfMHVKZDJMVjNZZEttYlV3V1N4djJNaTFOak5YZFppeURpcV9lZHp4ams?oc=5",
+          "published_at": "2026-11-27T00:47:44+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047414/ajk-rolls-out-rs15bn-100-day-action-plan-for-health-education-transport-tourism",
+          "published_at": "2026-11-27T02:52:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYm9wVExERGM1QjNsWjhfVlZFZ2pZV0ZMZ3NaWFpMM0l1Yk9YLTFmTXAtSEpTeGotcXpGQWRWRms1MDVxbnhfbzh4Mm9oNGd3T2ZDOFdfMHVKZDJMVjNZZEttYlV3V1N4djJNaTFOak5YZFppeURpcV9lZHp4ams?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5eda868ad642048ce89102e9",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T02:58:48+00:00",
+      "last_update": "2026-11-27T02:58:48+00:00",
+      "event": "Spain and Morocco under-17 stars target World Cup 2030",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2030",
+        "and",
+        "are",
+        "cup",
+        "faced",
+        "hosts",
+        "morocco",
+        "next",
+        "off",
+        "spain",
+        "stars",
+        "target",
+        "the",
+        "they",
+        "two",
+        "under",
+        "world"
+      ],
+      "source_excerpt": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+          "published_at": "2026-11-27T02:58:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc20b0980369b3e2e7a5646e",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T02:20:43+00:00",
+      "last_update": "2026-11-27T02:20:43+00:00",
+      "event": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "back",
+        "jazeera",
+        "major",
+        "pull",
+        "putin",
+        "russian",
+        "trump",
+        "urges",
+        "warns",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’ Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
+          "published_at": "2026-11-27T02:20:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "bbdadf43737e2386e2d28fe8",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T02:30:49+00:00",
+      "last_update": "2026-11-27T02:30:49+00:00",
+      "event": "Billions flow in, but Sindh varsities slip in global rankings",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "billions",
+        "but",
+        "express",
+        "flow",
+        "global",
+        "rankings",
+        "sindh",
+        "slip",
+        "the",
+        "tribune",
+        "varsities"
+      ],
+      "source_excerpt": "Billions flow in, but Sindh varsities slip in global rankings The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWdSUHh5Nm1zUGgzQXFoSFpoeU5oUVB0NXhEVjlYTGRqeldOMzhEY0FJT0xINTE5MXVoUTJlcXBFam9YendnWkVSeTJDYjJCWUN6eGNINGcxZmxCd3hUTWU4SGVFaDkwZzlMemFpTmtfc3JrTl9ja3ZQQjFkTEx0cDNEWUhXYTV4S1V3VHE1Q2hwYzd1NV9ha183eklGUdIBpgFBVV95cUxOMW5Ibk10ak9SVkhpbEt0SU5ITEhtRmpwbE9RUV9yb1NmZjBuZEk1YzR0VWtiZnVndkdoV281bERiUVVORVlEVmJ0YmZGTkNhT01TbG9FV092cWJlRmswN3BjcUhONThsLUlfdnRpdXpES3d3UlJDX1hBb2I1NktKYVRJd2s1UjRhWFd1MkxVUjMtemFEa25Obklfb3hVa2dDcERTSHZB?oc=5",
+          "published_at": "2026-11-27T02:30:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWdSUHh5Nm1zUGgzQXFoSFpoeU5oUVB0NXhEVjlYTGRqeldOMzhEY0FJT0xINTE5MXVoUTJlcXBFam9YendnWkVSeTJDYjJCWUN6eGNINGcxZmxCd3hUTWU4SGVFaDkwZzlMemFpTmtfc3JrTl9ja3ZQQjFkTEx0cDNEWUhXYTV4S1V3VHE1Q2hwYzd1NV9ha183eklGUdIBpgFBVV95cUxOMW5Ibk10ak9SVkhpbEt0SU5ITEhtRmpwbE9RUV9yb1NmZjBuZEk1YzR0VWtiZnVndkdoV281bERiUVVORVlEVmJ0YmZGTkNhT01TbG9FV092cWJlRmswN3BjcUhONThsLUlfdnRpdXpES3d3UlJDX1hBb2I1NktKYVRJd2s1UjRhWFd1MkxVUjMtemFEa25Obklfb3hVa2dDcERTSHZB?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3a2ffe63ecbd61ae3be5f4f9",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T03:08:55+00:00",
+      "last_update": "2026-11-27T03:08:55+00:00",
+      "event": "Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agenda",
+        "alliance",
+        "also",
+        "and",
+        "arabia",
+        "between",
+        "body",
+        "committee",
+        "conflict",
+        "day",
+        "decision",
+        "defence",
+        "discussions",
+        "expected",
+        "feature",
+        "fighters",
+        "from",
+        "host",
+        "houthi",
+        "islamabad",
+        "making",
+        "makkah",
+        "meeting",
+        "pakistan",
+        "political",
+        "saudi",
+        "session",
+        "set",
+        "spd",
+        "strategic",
+        "the",
+        "third",
+        "today",
+        "top",
+        "tripartite",
+        "two",
+        "with",
+        "yemen"
+      ],
+      "source_excerpt": "Pakistan is set to host a two-day meeting of the tripartite Makkah Defence Alliance’s top decision-making body from today, with discussions also expected to feature the conflict between Saudi Arabia and Houthi fighters in Yemen. The third session of the Strategic Political and Defence Committee (SPD",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda",
+          "published_at": "2026-11-27T03:08:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda",
+        "publisher_url": "https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c9bf58bb0137bd4d232925c2",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T02:01:52+00:00",
+      "last_update": "2026-11-27T02:01:52+00:00",
+      "event": "Kate Middleton under pressure to do ‘monarchy right’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "international",
+        "kate",
+        "middleton",
+        "monarchy",
+        "news",
+        "pressure",
+        "right",
+        "the",
+        "under"
+      ],
+      "source_excerpt": "Kate Middleton under pressure to do ‘monarchy right’ The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHE2RHgxTjRoZEFDS3lLWHVMOFBZZkNUU2RZdDNUeXk2RE5RaFZRYWthX3Qxd3pCeEJfQk95RjJqbHZ1Wkx0M041d2NIVXdHODhVWUZReVoxeVZFN2J6SHJzdVUxZHYwak5PRDRVTDVFbjB6NzMyUU14ZGwzTDFoNU44ZUFDMklPZDlpdTNCSnhSalHSAZMBQVVfeXFMTmxxNkR4MU40aGRBQ0t5S1h1TDhQWWZDVFNkWXQzVHl5NkROUWhWUWFrYV90MXd6QnhCX0JPeUYyamx2dVpMdDNONXdjSFV3Rzg4VVlGUXlaMXlWRTdiekhyc3VVMWR2MGpOT0Q0VUw1RW4wejczMlFNeGRsM0wxaDVOOGVBQzJJT2Q5aXUzQkp4UmpR?oc=5",
+          "published_at": "2026-11-27T02:01:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHE2RHgxTjRoZEFDS3lLWHVMOFBZZkNUU2RZdDNUeXk2RE5RaFZRYWthX3Qxd3pCeEJfQk95RjJqbHZ1Wkx0M041d2NIVXdHODhVWUZReVoxeVZFN2J6SHJzdVUxZHYwak5PRDRVTDVFbjB6NzMyUU14ZGwzTDFoNU44ZUFDMklPZDlpdTNCSnhSalHSAZMBQVVfeXFMTmxxNkR4MU40aGRBQ0t5S1h1TDhQWWZDVFNkWXQzVHl5NkROUWhWUWFrYV90MXd6QnhCX0JPeUYyamx2dVpMdDNONXdjSFV3Rzg4VVlGUXlaMXlWRTdiekhyc3VVMWR2MGpOT0Q0VUw1RW4wejczMlFNeGRsM0wxaDVOOGVBQzJJT2Q5aXUzQkp4UmpR?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e1005d06a82774faf519f48f",
+      "remembered_at": "2026-11-27T03:35:58.335504+00:00",
+      "event_date": "2026-11-27T02:17:00+00:00",
+      "last_update": "2026-11-27T02:17:00+00:00",
+      "event": "Kensington Palace shares intimate look at Princess Kate's creative side after ‘Heal'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "art",
+        "borders",
+        "burge",
+        "can",
+        "catherine",
+        "comfort",
+        "connection",
+        "creative",
+        "following",
+        "foundation",
+        "getting",
+        "heal",
+        "highlights",
+        "how",
+        "hugo",
+        "images",
+        "intimate",
+        "kate",
+        "kensington",
+        "look",
+        "new",
+        "offer",
+        "palace",
+        "princess",
+        "purpose",
+        "renewed",
+        "royal",
+        "scottish",
+        "sense",
+        "series",
+        "shared",
+        "shares",
+        "showing",
+        "side",
+        "the",
+        "video",
+        "videos",
+        "visit"
+      ],
+      "source_excerpt": "Princess Kate’s new video highlights how art can offer comfort, connection and a renewed sense of purpose. Following Catherine’s visit to the Hugo Burge Foundation in the Scottish Borders, the palace shared a series of images and videos showing the royal getting...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692804-kensington-palace-shares-intimate-look-at-princess-kates-creative-side-after-heal",
+          "published_at": "2026-11-27T02:17:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692804-kensington-palace-shares-intimate-look-at-princess-kates-creative-side-after-heal",
+        "publisher_url": "https://www.geo.tv/latest/692804-kensington-palace-shares-intimate-look-at-princess-kates-creative-side-after-heal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T02:27:52.983851+00:00"
+  "updated_at": "2026-11-27T03:35:58.335504+00:00"
 }

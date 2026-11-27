@@ -1,35 +1,35 @@
-# News Hub report - Fri 27 Nov, 07:27 AM PKT
+# News Hub report - Fri 27 Nov, 08:35 AM PKT
 
 ## Collection
-- New items this run: 30 | items in rolling pool: 223
-- Unique story clusters: 204 (duplicates merged: 19)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
-- Items per outlet: Geo News 4, The Express Tribune 4, Al Jazeera 3, The News International 2, Jang Urdu 2, BBC 2, Dawn Pakistan 1, Business Recorder 1, News4JAX 1, GSMArena 1, ProPakistani 1, Profit by Pakistan Today 1
+- New items this run: 21 | items in rolling pool: 210
+- Unique story clusters: 189 (duplicates merged: 21)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 6
+- Items per outlet: Dawn 4, Dawn Pakistan 4, Al Jazeera 3, Investify 2, The Express Tribune 1, Babushahi.com 1, GSMArena 1, CNBC 1, The Guardian 1, The Kyiv Independent 1, Gulf News 1, CNN 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,158 +39,85 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### New Zealand ruling coalition loses its majority in parliament by one seat  [NORMAL]
-- Poster: نیوزی لینڈ میں حکمران اتحاد پارلیمنٹ میں اکثریت کھو بیٹھا / New Zealand ruling coalition loses majority | category politics
-- Alternative headline: New Zealand's ruling coalition falls short of parliamentary majority by one seat
+### Sindh CM Announces Consultations on Local Government Empowerment Amid New Province Debate  [NORMAL]
+- Poster: سندھ حکومت کا نیا بلدیاتی نظام لانے اور مشاورت کا اعلان / Sindh Announces Consultations on Local Government Reforms | category politics
+- Alternative headline: Sindh Forms Committee for Local Body Reforms Amid Growing Administrative Debates
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment
+- Supporting coverage: Dawn Pakistan
+- Keywords: Sindh local government, Murad Ali Shah, local bodies, new provinces, Sindh government, PPP | hashtags: #Sindh #LocalGovernment #MuradAliShah #PakistanPolitics #Karachi
+- Scheduled: Fri 27 Nov, 08:35 AM PKT
+- Caption:
+```
+Amid ongoing debates over creating new administrative units, Sindh Chief Minister Murad Ali Shah has announced a major consultation process for a new local government law.
+
+Sindh Chief Minister Syed Murad Ali Shah has announced a comprehensive consultation process for a new local government law. A two-minister committee was formed to meet stakeholders and submit a report within three months. The move comes amid national debates on creating new provinces, which the PPP opposes.
+
+سندھ کے وزیر اعلیٰ مراد علی شاہ نے نئے بلدیاتی قانون کے لیے ایک جامع مشاورت کا اعلان کیا ہے۔ تمام فریقین سے بات چیت کے لیے دو رکنی کمیٹی تشکیل دے دی گئی ہے جو تین ماہ میں رپورٹ پیش کرے گی۔ یہ اعلان ایسے وقت میں سامنے آیا ہے جب نئے صوبوں کے قیام پر بحث جاری ہے۔
+
+First reported by Dawn
+
+#Sindh #LocalGovernment #MuradAliShah #PakistanPolitics #Karachi
+```
+
+### Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involvement  [NORMAL]
+- Poster: کویت میں ڈرون حملے کے دوران دو اطالوی شہری ہلاک / Two Italians Killed in Kuwait Drone Attack | category world
+- Alternative headline: Italian Nationals Killed in Kuwait Attack Sparking Regional Tensions
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5
+- Supporting coverage: NBC News, The New Arab, Dawn, The Hill, CNBC
+- Keywords: Kuwait drone strike, Italians killed, Iran, Kuwait attack, drone strike, Middle East conflict | hashtags: #Kuwait #Iran #Italy #DroneStrike #WorldNews
+- Scheduled: Fri 27 Nov, 08:45 AM PKT
+- Caption:
+```
+Two Italian nationals have been killed following a drone strike in Kuwait, amid escalating regional tensions and denials from Iran.
+
+Two Italian nationals were killed in a drone strike in Kuwait. While reports linked the incident to Iranian actions, regional developments continue to draw international attention and statements from global leaders regarding the ongoing conflict.
+
+کویت میں ایک ڈرون حملے کے دوران دو اطالوی شہری ہلاک ہو گئے۔ اگرچہ رپورٹس میں اس واقعے کو ایرانی کارروائی سے جوڑا گیا ہے، لیکن علاقائی کشیدگی اور جاری تنازعے پر عالمی سطح پر ردعمل کا اظہار کیا جا رہا ہے۔
+
+First reported by Dawn
+
+#Kuwait #Iran #Italy #DroneStrike #WorldNews
+```
+
+### Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Cooked  [NORMAL]
+- Poster: کویت حملہ مشکوک اور جنگ کی سازش ہے، ایرانی وزیر خارجہ / Kuwait Attack is Suspicious: Iran FM | category war
+- Alternative headline: Tehran Denies Involvement in Kuwait Strike Calling It a Pre-Cooked Recipe
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5
-- Supporting coverage: BBC, BBC
-- Keywords: New Zealand coalition, parliamentary majority, New Zealand politics, ruling coalition, BBC news | hashtags: #NewZealand #Politics #Parliament #BBC
-- Scheduled: Fri 27 Nov, 07:27 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss
+- Supporting coverage: The American Conservative, Al Jazeera, Al Jazeera
+- Keywords: Abbas Araghchi, Iran war, Kuwait attack, Tehran, foreign minister, Middle East | hashtags: #Iran #Kuwait #AbbasAraghchi #MiddleEastWar #BreakingNews
+- Scheduled: Fri 27 Nov, 08:55 AM PKT
 - Caption:
 ```
-New Zealand's political landscape shifts as the ruling coalition officially loses its parliamentary majority.
+Iranian Foreign Minister Abbas Araghchi has dismissed allegations linking Tehran to the deadly Kuwait incident, calling it suspicious.
 
-New Zealand's ruling coalition has lost its parliamentary majority, falling short by a single seat according to recent reports by the BBC. This political shift could impact upcoming legislative decisions and governance in the country.
+Iranian Foreign Minister Abbas Araghchi stated that the deadly incident in Kuwait is suspicious and resembles a pre-cooked recipe designed to fuel war. Tehran has rejected direct responsibility amid rising military escalations in the region.
 
-بی بی سی کی رپورٹ کے مطابق نیوزی لینڈ کا حکمران اتحاد پارلیمنٹ میں اپنی اکثریت کھو بیٹھا ہے اور ایک نشست کی کمی کا سامنا ہے۔ اس سیاسی تبدیلی سے ملک میں قانون سازی اور حکومت چلانے کے فیصلوں پر اثر پڑ سکتا ہے۔
+ایرانی وزیر خارجہ عباس عراقچی نے کہا ہے کہ کویت میں پیش آنے والا ہلاکت خیز واقعہ مشکوک ہے اور یہ جنگ کے لیے ایک پہلے سے تیار کردہ نسخے کی طرح لگتا ہے۔ تہران نے اس حملے میں ملوث ہونے کی تردید کی ہے۔
 
-According to BBC
+First reported by Al Jazeera
 
-#NewZealand #Politics #Parliament #BBC
+#Iran #Kuwait #AbbasAraghchi #MiddleEastWar #BreakingNews
 ```
 
-### Young hikers in the UK are ditching screens to find friendship and fresh air  [NORMAL]
-- Poster: برطانیہ میں نوجوان ڈیجیٹل اسکرینز چھوڑ کر پیدل سفر کی طرف مائل / Young UK hikers ditch screens | category lifestyle
-- Alternative headline: The young hikers finding friendship and fresh air offline
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: young hikers UK, hiking trend, outdoor activities, Sport England, offline life | hashtags: #Hiking #UK #MentalHealth #Nature
-- Scheduled: Fri 27 Nov, 07:37 AM PKT
-- Caption:
-```
-More young people in the UK are turning away from their screens and heading outdoors for hiking and fresh air.
-
-A growing number of young people in the UK are swapping digital screens for outdoor adventures. According to Sport England, nearly 9% of 16-34 year-olds are now regular hikers, up from 2.3% eight years ago, as walking groups experience rising memberships.
-
-برطانیہ میں نوجوانوں کی ایک بڑی تعداد ڈیجیٹل اسکرینز چھوڑ کر بیرونی سرگرمیوں کا رخ کر رہی ہے۔ سپورٹ انگلینڈ کے مطابق 16 سے 34 سال کی عمر کے تقریباً 9 فیصد افراد اب باقاعدگی سے ہائیکنگ کرتے ہیں، جو آٹھ سال قبل صرف 2.3 فیصد تھے۔
-
-According to BBC Health
-
-#Hiking #UK #MentalHealth #Nature
-```
-
-### Why a growing number of food lovers are embracing the trend of solo dining  [NORMAL]
-- Poster: اکیلے کھانا کھانے کا رجحان تیزی سے کیوں مقبول ہو رہا ہے؟ / The growing trend of solo dining | category lifestyle
-- Alternative headline: I spend £200 a month on fancy meals by myself - would you dine solo?
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Business
-- Keywords: solo dining, restaurant trends, food lovers, dining alone, BBC Business | hashtags: #SoloDining #Foodie #Lifestyle #BBC
-- Scheduled: Fri 27 Nov, 07:47 AM PKT
-- Caption:
-```
-Dining alone at high-end restaurants is becoming an intentional act of self-care for many food enthusiasts.
-
-Solo dining is transforming from a necessity for business travelers into a deliberate choice for food enthusiasts seeking independence and self-care. Analysts note that more people are booking tables for one at high-end restaurants as a monthly treat.
-
-اکیلے کھانا کھانا اب کاروباری مسافروں کی مجبوری نہیں بلکہ خوراک کے شوقین افراد کے لیے خود کی دیکھ بھال اور آزادی کا ارادی انتخاب بن چکا ہے۔ تجزیہ کاروں کا کہنا ہے کہ زیادہ لوگ مہنگے ریسٹورنٹس میں اکیلے میزیں بک کرا رہے ہیں۔
-
-According to BBC Business
-
-#SoloDining #Foodie #Lifestyle #BBC
-```
-
-### Kenyan man wrongly sentenced to death says Met Police ruined his life  [NORMAL]
-- Poster: غلط سزائے موت پانے والے کینیا کے شہری کا کہنا ہے کہ برطانوی پولیس نے اس کی زندگی تباہ کر دی / Wrongly sentenced Kenyan man blames Met Police | category courts
-- Alternative headline: Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Ali Kololo Met Police, wrongful conviction, Metropolitan Police, Kenya attack, BBC World | hashtags: #MetPolice #Justice #Kenya #BBC
-- Scheduled: Fri 27 Nov, 07:57 AM PKT
-- Caption:
-```
-A Kenyan woodcutter who spent over a decade in prison for a crime he didn't commit speaks out against the Met Police.
-
-Ali Kololo, a Kenyan woodcutter wrongly sentenced to death over an attack on a British couple in 2011, says actions by London's Metropolitan Police destroyed his life. After spending more than a decade in prison, Kololo is now suing the Met for compensation.
-
-علی کولولو، جو 2011 میں ایک برطانوی جوڑے پر حملے کے الزام میں غلط طور پر سزائے موت پانے کے بعد ایک دہائی سے زائد قید میں رہے، کا کہنا ہے کہ لندن کی میٹروپولیٹن پولیس کے اقدامات نے ان کی زندگی تباہ کر دی۔ وہ اب ہرجانے کے لیے پولیس کے خلاف مقدمہ لڑ رہے ہیں۔
-
-According to BBC World
-
-#MetPolice #Justice #Kenya #BBC
-```
-
-### Donald Trump claims the United States holds close to 50% of the world's oil  [NORMAL]
-- Poster: ڈونلڈ ٹرمپ کا دعویٰ ہے کہ امریکہ کے پاس دنیا کا تقریباً نصف تیل موجود ہے / Trump claims US has half of world's oil | category world
-- Alternative headline: Trump says the US has ‘close to 50%’ of world’s oil
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Donald Trump oil reserves, US oil, Middle East oil, Al Jazeera, oil production | hashtags: #DonaldTrump #Oil #US #AlJazeera
-- Scheduled: Fri 27 Nov, 08:07 AM PKT
-- Caption:
-```
-During a call to troops in the Gulf, Donald Trump made a bold claim regarding US oil reserves.
-
-During a call to soldiers deployed in the Gulf region, Donald Trump claimed that the United States possesses close to 50 percent of the world's oil and asserted that the nation does not need Middle East oil.
-
-خلیج میں تعینات فوجیوں سے گفتگو کرتے ہوئے ڈونلڈ ٹرمپ نے دعویٰ کیا کہ امریکہ کے پاس دنیا کا تقریباً 50 فیصد تیل موجود ہے اور ملک کو مشرق وسطیٰ کے تیل کی کوئی ضرورت نہیں۔
-
-According to Al Jazeera
-
-#DonaldTrump #Oil #US #AlJazeera
-```
-
-### Clashes halt football match after Besiktas fans display Palestinian flags  [NORMAL]
-- Poster: ترکی کے شائقین کی طرف سے فلسطینی پرچم لہرانے پر فٹ بال میچ میں جھگڑا اور تعطل / Clashes halt match over Palestinian flags | category sports
-- Alternative headline: Clashes halt match as Turkiye football fans raise Palestinian flags
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Besiktas fans clashes, Palestinian flags, UEFA match, Georgian police, Al Jazeera | hashtags: #Besiktas #Football #Palestine #AlJazeera
-- Scheduled: Fri 27 Nov, 08:17 AM PKT
-- Caption:
-```
-A UEFA football match was brought to a halt following clashes between police and Turkish club supporters.
-
-Clashes erupted between Georgian police and supporters of Turkish football club Besiktas during a UEFA match, halting the game after fans raised Palestinian flags.
-
-یوفا میچ کے دوران جارجیائی پولیس اور ترک فٹ بال کلب بشکتاش کے حامیوں کے درمیان جھگڑے پھوٹ پڑے، جس کے بعد شائقین کی جانب سے فلسطینی پرچم لہرانے پر میچ روک دیا گیا۔
-
-According to Al Jazeera
-
-#Besiktas #Football #Palestine #AlJazeera
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
-- [published] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
 - [needs_review] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
 - [needs_review] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
 - [needs_review] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
@@ -368,7 +295,7 @@ According to Al Jazeera
 - [needs_review] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
 - [needs_review] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
 - [published] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
-- [queued] normal | Why Donald Trump's new global tariffs are a lesser threat | Fri 27 Nov, 02:55 AM PKT
+- [published] normal | Why Donald Trump's new global tariffs are a lesser threat | Fri 27 Nov, 02:55 AM PKT
 - [queued] normal | Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts o | Fri 27 Nov, 03:05 AM PKT
 - [queued] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
 - [queued] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
@@ -393,15 +320,18 @@ According to Al Jazeera
 - [queued] normal | Kenyan man wrongly sentenced to death says Met Police ruined his life | Fri 27 Nov, 07:57 AM PKT
 - [queued] normal | Donald Trump claims the United States holds close to 50% of the world' | Fri 27 Nov, 08:07 AM PKT
 - [queued] normal | Clashes halt football match after Besiktas fans display Palestinian fl | Fri 27 Nov, 08:17 AM PKT
+- [queued] normal | Sindh CM Announces Consultations on Local Government Empowerment Amid  | Fri 27 Nov, 08:35 AM PKT
+- [queued] normal | Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involveme | Fri 27 Nov, 08:45 AM PKT
+- [queued] normal | Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Co | Fri 27 Nov, 08:55 AM PKT
 
 ## Publishing this run
-- Published 'Iran Confirms Qatar and Pakistan Still Relaying US Messages'.
+- Published 'Why Donald Trump's new global tariffs are a lesser threat'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5535 | output tokens: 3160
+- Calls: 3 | prompt tokens: 6812 | output tokens: 1818
 - Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
