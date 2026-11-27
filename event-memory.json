@@ -178817,7 +178817,885 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "401dd9014fc90a0619194f98",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:54:09+00:00",
+      "last_update": "2026-11-27T08:54:09+00:00",
+      "event": "Nathan Lyon named in fresh ball-tampering controversy over 2018 Pakistan Test",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2018",
+        "ball",
+        "controversy",
+        "express",
+        "fresh",
+        "lyon",
+        "named",
+        "nathan",
+        "over",
+        "pakistan",
+        "tampering",
+        "test",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Nathan Lyon named in fresh ball-tampering controversy over 2018 Pakistan Test The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMU93dXlsejFsY3pKVVFsQ0hZMnpabzZLYXpia2NFQlA4Ukpnd0VOTEp2QU1mYjRqV0dHVHI3VGxvVkJTUVlXM3Btdkw4alhvWW93ODF6NW9xR3JESC0za3hkYW0xZGJsUExtWHdud1NLMUR3a0J0UXZFV29QUE5WXzFQbzRuTk5kQUpnWnQwc2p0S09UWlFrU0hYZFk3RjJZUXZhOU93bEVkQ3ZIZUtNRUhGYnjSAbwBQVVfeXFMUC1jdFY3d3lhSUxsV01sRUtoUVBPYzhTZF9ubjJHeDBXQ2ZRSUxITjc5ZmFPcUtBTHBCYVJIUll5NjJwNlBoY05UNk1rYzExcHdLUWR5UjdOSmRUUTMwOVdvWXJMV1VzNWV0YnQxMmJKZm85QnFfMmNUXzk0Yzk5T3BuWkg3MktURnpkakp6a21PN0VCR2ZWRURfbnFlYnZIRFJ1NGh5VHNxa0dOUHgySmJic19RTWlEREJoZ20?oc=5",
+          "published_at": "2026-11-27T08:54:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMU93dXlsejFsY3pKVVFsQ0hZMnpabzZLYXpia2NFQlA4Ukpnd0VOTEp2QU1mYjRqV0dHVHI3VGxvVkJTUVlXM3Btdkw4alhvWW93ODF6NW9xR3JESC0za3hkYW0xZGJsUExtWHdud1NLMUR3a0J0UXZFV29QUE5WXzFQbzRuTk5kQUpnWnQwc2p0S09UWlFrU0hYZFk3RjJZUXZhOU93bEVkQ3ZIZUtNRUhGYnjSAbwBQVVfeXFMUC1jdFY3d3lhSUxsV01sRUtoUVBPYzhTZF9ubjJHeDBXQ2ZRSUxITjc5ZmFPcUtBTHBCYVJIUll5NjJwNlBoY05UNk1rYzExcHdLUWR5UjdOSmRUUTMwOVdvWXJMV1VzNWV0YnQxMmJKZm85QnFfMmNUXzk0Yzk5T3BuWkg3MktURnpkakp6a21PN0VCR2ZWRURfbnFlYnZIRFJ1NGh5VHNxa0dOUHgySmJic19RTWlEREJoZ20?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cec2c88f714382e0bdc21788",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T05:22:00+00:00",
+      "last_update": "2026-11-27T09:02:09+00:00",
+      "event": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "and",
+        "ashes",
+        "australia",
+        "bancroft",
+        "barrister",
+        "cameron",
+        "consider",
+        "cover",
+        "cricket",
+        "david",
+        "during",
+        "entire",
+        "fiona",
+        "forum",
+        "from",
+        "including",
+        "into",
+        "made",
+        "match",
+        "mcleod",
+        "overseen",
+        "participation",
+        "public",
+        "report",
+        "reutersforum",
+        "sandpapergate",
+        "scope",
+        "season",
+        "smith",
+        "steve",
+        "the",
+        "voluntary",
+        "warner",
+        "will"
+      ],
+      "source_excerpt": "Australia's David Warner, Cameron Bancroft and Steve Smith during the match. — ReutersForum to be overseen by barrister Fiona McLeod.McLeod's report from forum to be made public.Participation in the forum will be voluntary. Cricket Australia's forum into Sandpapergate will consider...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692825-sandpapergate-forum-scope-to-cover-entire-2017-18-season-including-ashes",
+          "published_at": "2026-11-27T05:22:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0tYQS1XY2xmVi1tSWNRS3VpUndtVjlpbWFZa3BKTS1GRVBpQWJYNjdXeGhwMFhxd0E4NVRrZ0ZRc2o5WDVoVXJJcVNGRTl5Q2Q0bUVwZ1ZPNGctRThFQVVBa29kelIxLUNwN0NGbGFmbFRUSlhVVXNPRW5iQkdVam9PbUZ2Y3EzSnRhak1rcVB3VTRqOUVGS0tpLXZSSXZXREdCUVhBd20?oc=5",
+          "published_at": "2026-11-27T05:22:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHpuQ0x5QUpYRml1NkVsaEI2OTFfdGtCemZyQXVyMklHVnFvVlIydkVfNWRvbmRYaEdVdjRoV3FYTjZfM3ZKX1lzeVd6UmUtSGNETzV1X1U2YUxpbURlYzJlbHpwamxRUGV1cXdCUjFNbjdQMlhVWVNPdDNuUXZKV3ZVajkzbFBvLUJLUC1VVGpjRVFtcG1Kc3RyNkQ?oc=5",
+          "published_at": "2026-11-27T09:02:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692825-sandpapergate-forum-scope-to-cover-entire-2017-18-season-including-ashes",
+        "publisher_url": "https://www.geo.tv/latest/692825-sandpapergate-forum-scope-to-cover-entire-2017-18-season-including-ashes",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "96ed6c9c9aaa0d9a811500ff",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:48:00+00:00",
+      "last_update": "2026-11-27T09:39:39+00:00",
+      "event": "FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "being",
+        "boat",
+        "capsizing",
+        "dawn",
+        "matter",
+        "migrants",
+        "pakistani",
+        "pursued",
+        "reported",
+        "says",
+        "verified",
+        "with",
+        "yet"
+      ],
+      "source_excerpt": "FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5",
+          "published_at": "2026-11-27T08:48:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued",
+          "published_at": "2026-11-27T09:39:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1131c703a16c6073eb31a64d",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T09:02:20+00:00",
+      "last_update": "2026-11-27T09:02:20+00:00",
+      "event": "South Korea sends rescued fishermen back to North",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "back",
+        "chose",
+        "commented",
+        "fisherman",
+        "fishermen",
+        "has",
+        "korea",
+        "north",
+        "not",
+        "pyongyang",
+        "remain",
+        "rescued",
+        "sends",
+        "seventh",
+        "south",
+        "the",
+        "who"
+      ],
+      "source_excerpt": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+          "published_at": "2026-11-27T09:02:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1a9a9fad090024239204d677",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:57:37+00:00",
+      "last_update": "2026-11-27T08:57:37+00:00",
+      "event": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2036",
+        "about",
+        "africa",
+        "after",
+        "ahmedabad",
+        "and",
+        "bids",
+        "but",
+        "first",
+        "for",
+        "games",
+        "good",
+        "host",
+        "india",
+        "makes",
+        "olympics",
+        "pitch",
+        "presentation",
+        "qatar",
+        "rivals",
+        "south",
+        "strong",
+        "upbeat",
+        "very"
+      ],
+      "source_excerpt": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+          "published_at": "2026-11-27T08:57:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3bffeaf168df01ae059872a8",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:39:50+00:00",
+      "last_update": "2026-11-27T08:39:50+00:00",
+      "event": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acts",
+        "albanese",
+        "authorities",
+        "blocked",
+        "costa",
+        "country",
+        "denies",
+        "due",
+        "entering",
+        "entry",
+        "from",
+        "links",
+        "national",
+        "over",
+        "rapporteur",
+        "rica",
+        "risks",
+        "said",
+        "security",
+        "special",
+        "terrorist",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+          "published_at": "2026-11-27T08:39:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "55cee13b855e5848feee512b",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:37:52+00:00",
+      "last_update": "2026-11-27T08:41:17+00:00",
+      "event": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "blockade",
+        "bones",
+        "children",
+        "eight",
+        "elusive",
+        "gaza",
+        "get",
+        "have",
+        "many",
+        "matured",
+        "not",
+        "one",
+        "should",
+        "stunted",
+        "stunting",
+        "suffer",
+        "taller",
+        "that",
+        "the",
+        "they",
+        "treatment",
+        "war",
+        "way",
+        "will"
+      ],
+      "source_excerpt": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+          "published_at": "2026-11-27T08:37:52+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1J3RVVPbXR2WExMV0lLVjdsVy1jUnZ5S3l1RzhuUzQ0dmxhMTI0T2VVSm5vSF9JblBocmJYekVySVdvQmFqb21VOC1QOVNfR0FSS2w3RjFNQ1IyUW0yYk01U0llOW9JMDlFSHZiVEMyNUo2bDhOSW5oZDZpSkxtT3pWay1RMnd6ZEZKR29QckNiWExpdUJoTkFrXzFPQWZsWVcySVBFNG14OTU4bXhVWS1B0gG3AUFVX3lxTE93QXdoQ2I5YnpuYUhzcGJ3b0NNeUMtaUZrLVNBNldURFZZelB2eWJ1djVsWGM3ODhFTHVzeEpaeG9QNFpyTVhSdFNKZkNkNU5ITUFZc3RBMGNkZnFjeFI0ZWZ2LWJ5d3ZUR2M3VVhMNVVSVDU1UDFUT1ozZFQ4Q3BPMG1zQ3dpRVhLN0dwYjJmcU9uQi04NFFrZm45Ymh1VlFPaURLVTVfRXZOSEkzNXRBaEZqRTJDaw?oc=5",
+          "published_at": "2026-11-27T08:41:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05c5929b5a1bdb6d2491145c",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:24:59+00:00",
+      "last_update": "2026-11-27T08:24:59+00:00",
+      "event": "Police bodycam shows rescue of man from burning car in US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bodycam",
+        "burning",
+        "car",
+        "dramatic",
+        "from",
+        "inside",
+        "man",
+        "moment",
+        "motorist",
+        "officer",
+        "passing",
+        "police",
+        "rescue",
+        "rescued",
+        "shows",
+        "the",
+        "video"
+      ],
+      "source_excerpt": "Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+          "published_at": "2026-11-27T08:24:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d4d8e1fbc46d9e07c22d192",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:24:18+00:00",
+      "last_update": "2026-11-27T08:24:18+00:00",
+      "event": "Deadly floods leave parts of Ecuador under water",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "businesses",
+        "deadly",
+        "ecuador",
+        "floods",
+        "have",
+        "homes",
+        "leave",
+        "parts",
+        "roads",
+        "submerged",
+        "under",
+        "water"
+      ],
+      "source_excerpt": "Deadly floods have submerged homes, businesses and roads across Ecuador.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+          "published_at": "2026-11-27T08:24:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0860590cd2f1dd23df98b026",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:47:00+00:00",
+      "last_update": "2026-11-27T08:47:00+00:00",
+      "event": "'We're scared to turn our heating on'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bills",
+        "energy",
+        "for",
+        "gas",
+        "heating",
+        "households",
+        "iran",
+        "january",
+        "millions",
+        "our",
+        "prices",
+        "scared",
+        "soar",
+        "sparked",
+        "surge",
+        "the",
+        "turn",
+        "war",
+        "will"
+      ],
+      "source_excerpt": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T08:47:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "203358bb1892954fd2f5a2b8",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:58:08+00:00",
+      "last_update": "2026-11-27T08:58:08+00:00",
+      "event": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2028",
+        "after",
+        "announcement",
+        "bissau",
+        "civilian",
+        "comes",
+        "coup",
+        "delay",
+        "guinea",
+        "its",
+        "leaders",
+        "military",
+        "months",
+        "promising",
+        "return",
+        "rule",
+        "the",
+        "until",
+        "with",
+        "within",
+        "year"
+      ],
+      "source_excerpt": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T08:58:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24791a60450b7edf35abc236",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T09:30:03+00:00",
+      "last_update": "2026-11-27T09:30:03+00:00",
+      "event": "ECP says it cannot force parties to field women on winnable seats",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "allocation",
+        "and",
+        "assembly",
+        "authority",
+        "cannot",
+        "clear",
+        "commission",
+        "day",
+        "directed",
+        "ecp",
+        "election",
+        "ensure",
+        "explained",
+        "field",
+        "for",
+        "force",
+        "friday",
+        "had",
+        "internal",
+        "intervene",
+        "islamabad",
+        "its",
+        "legal",
+        "made",
+        "matter",
+        "national",
+        "pakistan",
+        "panel",
+        "parties",
+        "party",
+        "political",
+        "position",
+        "says",
+        "seats",
+        "that",
+        "the",
+        "tickets",
+        "was",
+        "winnable",
+        "women"
+      ],
+      "source_excerpt": "ISLAMABAD: The Election Commission of Pakistan (ECP) on Friday made it clear that the allocation of party tickets was an internal matter for political parties and that it had no legal authority to intervene. The ECP explained its position a day after a National Assembly panel directed it to ensure t",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+          "published_at": "2026-11-27T09:30:03+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUdPQy1rMjRySm9LYXVMTnNVSXVtTmo4bEhNSUdBRndvYVl5eHlnWXluV3d4ZWNEWXpHNHJXeGtkN29JRG5WeXY0LUNQZXRLS0lQNm9aNG9Oa20wX1U0RURTVFMtU3pwaUdhcTZfeDNrTF9GbGRoN2JaRlBvTmVCaEliRTRETEtNN1A0bGFhUF9IM1Y5MmZGanZnNUVVTjN0?oc=5",
+          "published_at": "2026-11-27T09:30:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+        "publisher_url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2a070d785799641c039a3fb",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T08:20:49+00:00",
+      "last_update": "2026-11-27T08:20:49+00:00",
+      "event": "Pakistan plans national committee to boost anti-corruption efforts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "boost",
+        "committee",
+        "corruption",
+        "efforts",
+        "national",
+        "pakistan",
+        "plans",
+        "samaa"
+      ],
+      "source_excerpt": "Pakistan plans national committee to boost anti-corruption efforts samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVZVmhDeHhTLVEteTQtZ05zN2s0cVFLUlNhaXFlZVI5c2NTZEU0MGc5ckhoamRRaUx1cFluV00taGFCYjdRM0lRVkIxRy11YVRadHpUaGlteXQwRUZ0Vnlhb3VkQ3QzTXViTWJXMElJSEM4YWdEYjZRX0t3VFRkOTBsYS1KNVBYOWMyVVhHT1hNUy1QaWFFUFVwa25QSnM?oc=5",
+          "published_at": "2026-11-27T08:20:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVZVmhDeHhTLVEteTQtZ05zN2s0cVFLUlNhaXFlZVI5c2NTZEU0MGc5ckhoamRRaUx1cFluV00taGFCYjdRM0lRVkIxRy11YVRadHpUaGlteXQwRUZ0Vnlhb3VkQ3QzTXViTWJXMElJSEM4YWdEYjZRX0t3VFRkOTBsYS1KNVBYOWMyVVhHT1hNUy1QaWFFUFVwa25QSnM?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "147920ac258495daf09d9a71",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T09:13:12+00:00",
+      "last_update": "2026-11-27T09:13:12+00:00",
+      "event": "Islamabad police announce road closures, traffic diversions ahead of foreign delegations' arrival",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "advisories",
+        "ahead",
+        "also",
+        "alternative",
+        "and",
+        "announce",
+        "arrival",
+        "capital",
+        "cities",
+        "closures",
+        "commuters",
+        "declared",
+        "delegations",
+        "district",
+        "diversions",
+        "federal",
+        "for",
+        "foreign",
+        "friday",
+        "holiday",
+        "islamabad",
+        "issued",
+        "local",
+        "outlining",
+        "police",
+        "previously",
+        "road",
+        "routes",
+        "said",
+        "the",
+        "traffic",
+        "twin"
+      ],
+      "source_excerpt": "Ahead of the arrival of foreign delegations in the federal capital on Friday, Islamabad police issued traffic advisories outlining road closures and alternative routes for commuters. The district administration also previously declared Friday a local holiday in the twin cities. Police said on Friday",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047461/islamabad-police-announce-road-closures-traffic-diversions-ahead-of-foreign-delegations-arrival",
+          "published_at": "2026-11-27T09:13:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047461/islamabad-police-announce-road-closures-traffic-diversions-ahead-of-foreign-delegations-arrival",
+        "publisher_url": "https://www.dawn.com/news/2047461/islamabad-police-announce-road-closures-traffic-diversions-ahead-of-foreign-delegations-arrival",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9ca0c763afbab1398aab5a22",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T07:33:58+00:00",
+      "last_update": "2026-11-27T07:33:58+00:00",
+      "event": "Proposal to make Imran Khan prime minister?",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "geo",
+        "imran",
+        "khan",
+        "make",
+        "minister",
+        "news",
+        "prime",
+        "proposal"
+      ],
+      "source_excerpt": "Proposal to make Imran Khan prime minister? Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0E1YjBLZVZrWnN3eG5Uemo0aGxVbTFRYktDMkxYUkY4RzRBNkJyOW1zZU11SHJyU1dFVUNFXzRpejhtWk8tQVBxME5sdHlxT0luQ3hsVmZKVjF5Mlp3T2dvYi1fak5neHVUY2VSTnhZUUtGSmRKVXZ1MUNKT01ZTGZtLWd6Sml0Y2VXaE9BRQ?oc=5",
+          "published_at": "2026-11-27T07:33:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0E1YjBLZVZrWnN3eG5Uemo0aGxVbTFRYktDMkxYUkY4RzRBNkJyOW1zZU11SHJyU1dFVUNFXzRpejhtWk8tQVBxME5sdHlxT0luQ3hsVmZKVjF5Mlp3T2dvYi1fak5neHVUY2VSTnhZUUtGSmRKVXZ1MUNKT01ZTGZtLWd6Sml0Y2VXaE9BRQ?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e7863cea57ecac324a4a70c5",
+      "remembered_at": "2026-11-27T09:43:35.612570+00:00",
+      "event_date": "2026-11-27T07:27:20+00:00",
+      "last_update": "2026-11-27T07:27:20+00:00",
+      "event": "Pakistan plans new LPG quality checks, 40,000-tonne terminal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "checks",
+        "lpg",
+        "new",
+        "pakistan",
+        "plans",
+        "quality",
+        "samaa",
+        "terminal",
+        "tonne"
+      ],
+      "source_excerpt": "Pakistan plans new LPG quality checks, 40,000-tonne terminal samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODFDUk1SOGNrdnV3TzJ3cGt4WUlyTllsVzZFcnM0TU8yZmZtUkRHdjNSMlBhaUViZFlnS3k3UTNmd25SUktSbDNXZXJ1NlNpbEhDYjRzb3hFaVpYMUpjcDhkT1RFUlp4WjZaNDZ6ckhkNWRwcWdXdkdDWVczYUtqRkE0MVU0X0htQy1abXdVN0pHbDA4Z2c?oc=5",
+          "published_at": "2026-11-27T07:27:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODFDUk1SOGNrdnV3TzJ3cGt4WUlyTllsVzZFcnM0TU8yZmZtUkRHdjNSMlBhaUViZFlnS3k3UTNmd25SUktSbDNXZXJ1NlNpbEhDYjRzb3hFaVpYMUpjcDhkT1RFUlp4WjZaNDZ6ckhkNWRwcWdXdkdDWVczYUtqRkE0MVU0X0htQy1abXdVN0pHbDA4Z2c?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T08:29:04.104946+00:00"
+  "updated_at": "2026-11-27T09:43:35.612570+00:00"
 }
