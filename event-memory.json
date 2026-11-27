@@ -178081,7 +178081,743 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "65384330cb2cfc555ab7059e",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:24:45+00:00",
+      "last_update": "2026-11-27T07:24:45+00:00",
+      "event": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2017",
+        "africa",
+        "allegations",
+        "ashes",
+        "australia",
+        "cover",
+        "england",
+        "entire",
+        "follow",
+        "forum",
+        "including",
+        "investigate",
+        "sandpapergate",
+        "scope",
+        "season",
+        "series",
+        "south",
+        "tests"
+      ],
+      "source_excerpt": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+          "published_at": "2026-11-27T07:24:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fc27d0e781d0f67ea3421400",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T03:50:03+00:00",
+      "event": "SBP reserves up $8m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "reserves",
+        "sbp"
+      ],
+      "source_excerpt": "SBP reserves up $8m Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdXFPaE9QY3NEaUlOaE02NTdaVGpsdEN1YXVEYnZydTBTbkxYYWNMLWg3Z3R3bEo4N3QxaDM2NkNMLUEtT2ZXNm8zSzE2MkhoaEFtUXdpT0xmWktfNmlWUV9R?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047345/state-bank-of-pakistans-reserves-up-8m",
+          "published_at": "2026-11-27T03:50:03+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1pscW9keC1ESFZQTGtCQ004OEpHWGRJZEgwOFhJMTNsbUE3dUc1Q01Na19xS0ZkRy02S1NGQVlDWTZ2NHNOMmtHdkZQbG1STFdseXU4cVdWSVphZUtuQjNRV09OVGtZMjROcTVaaGZwVUdQb3dIcjhqSENGeFNJNEgtaXRrTUNrOVE?oc=5",
+          "published_at": "2026-11-27T03:50:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdXFPaE9QY3NEaUlOaE02NTdaVGpsdEN1YXVEYnZydTBTbkxYYWNMLWg3Z3R3bEo4N3QxaDM2NkNMLUEtT2ZXNm8zSzE2MkhoaEFtUXdpT0xmWktfNmlWUV9R?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9b7017506e1ae9b0f9f76f85",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T06:02:13+00:00",
+      "last_update": "2026-11-27T08:03:48+00:00",
+      "event": "PCB awards central contracts to eight women cricketers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "awards",
+        "central",
+        "contracts",
+        "cricketers",
+        "eight",
+        "pcb",
+        "samaa",
+        "women"
+      ],
+      "source_excerpt": "PCB awards central contracts to eight women cricketers samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5",
+          "published_at": "2026-11-27T06:02:13+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/pcb-awards-central-contracts-to-just-eight-women-cricketers-down-from-20-last-year/",
+          "published_at": "2026-11-27T08:03:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "854eb8e234e2877b9dfab05d",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:53:03+00:00",
+      "last_update": "2026-11-27T07:53:03+00:00",
+      "event": "Lahore police chief denies Fazl’s arrest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrest",
+        "chief",
+        "dawn",
+        "denies",
+        "fazl",
+        "lahore",
+        "police"
+      ],
+      "source_excerpt": "Lahore police chief denies Fazl’s arrest Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5",
+          "published_at": "2026-11-27T07:53:03+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047452/lahore-police-chief-denies-fazls-arrest",
+          "published_at": "2026-11-27T07:53:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6331848bc6bace0adaee3a76",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:55:32+00:00",
+      "last_update": "2026-11-27T07:55:32+00:00",
+      "event": "New Zealand election results set up tricky talks for conservative incumbent",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "centrist",
+        "coalition",
+        "conservative",
+        "election",
+        "face",
+        "for",
+        "incumbent",
+        "kingmaker",
+        "luxon",
+        "negotiations",
+        "new",
+        "partners",
+        "populist",
+        "results",
+        "set",
+        "talks",
+        "tricky",
+        "with",
+        "zealand"
+      ],
+      "source_excerpt": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+          "published_at": "2026-11-27T07:55:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02d691403377b5d384d86fb8",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:53:59+00:00",
+      "last_update": "2026-11-27T07:53:59+00:00",
+      "event": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "again",
+        "are",
+        "borrowing",
+        "climbing",
+        "cost",
+        "costs",
+        "ends",
+        "energy",
+        "europe",
+        "living",
+        "make",
+        "meet",
+        "prices",
+        "rising",
+        "surge",
+        "the"
+      ],
+      "source_excerpt": "Prices are climbing again across Europe as energy costs surge.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+          "published_at": "2026-11-27T07:53:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5044ff1dbae92279bf1b12c9",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:32:12+00:00",
+      "last_update": "2026-11-27T07:32:12+00:00",
+      "event": "Brazilian footballer arrested in drug trafficking investigation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "brazilian",
+        "correa",
+        "david",
+        "drug",
+        "during",
+        "fonseca",
+        "footballer",
+        "gama",
+        "investigation",
+        "janeiro",
+        "rio",
+        "session",
+        "trafficking",
+        "training",
+        "vasco",
+        "was"
+      ],
+      "source_excerpt": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama training session in Rio de Janeiro.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+          "published_at": "2026-11-27T07:32:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8a59d3ba1d1fc602df2d2f83",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:11:19+00:00",
+      "last_update": "2026-11-27T07:11:19+00:00",
+      "event": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "but",
+        "can",
+        "deliver",
+        "disarmed",
+        "divisions",
+        "hakeem",
+        "has",
+        "healthcare",
+        "house",
+        "iran",
+        "israel",
+        "jeffries",
+        "over",
+        "political",
+        "pragmatism",
+        "presumptive",
+        "progressive",
+        "revolt",
+        "speaker",
+        "tested",
+        "the",
+        "will"
+      ],
+      "source_excerpt": "The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+          "published_at": "2026-11-27T07:11:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b47ca9cedcc35452fa80f17",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:09:53+00:00",
+      "last_update": "2026-11-27T07:09:53+00:00",
+      "event": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "exposes",
+        "inadequacy",
+        "israeli",
+        "jericho",
+        "only",
+        "organisations",
+        "sanctions",
+        "serve",
+        "settler",
+        "settlers",
+        "shield",
+        "state",
+        "takeover",
+        "targeting",
+        "the",
+        "their",
+        "western"
+      ],
+      "source_excerpt": "The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+          "published_at": "2026-11-27T07:09:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c37e4ff02209edab811daa48",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T06:54:12+00:00",
+      "last_update": "2026-11-27T06:54:12+00:00",
+      "event": "Messi confirms Tevez testimonial as Ronaldo showdown in offing",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "also",
+        "argentina",
+        "carlos",
+        "confirms",
+        "cristiano",
+        "footballer",
+        "for",
+        "game",
+        "lionel",
+        "messi",
+        "offing",
+        "role",
+        "ronaldo",
+        "showdown",
+        "sought",
+        "testimonial",
+        "tevez",
+        "with"
+      ],
+      "source_excerpt": "Argentina footballer Lionel Messi confirms testimonial game for Carlos Tevez, with Cristiano Ronaldo role also sought.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
+          "published_at": "2026-11-27T06:54:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4e43dbac6127e51c7c32087",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T06:59:28+00:00",
+      "last_update": "2026-11-27T06:59:28+00:00",
+      "event": "Health board chief executive drops new NHS job after critical report",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "after",
+        "been",
+        "board",
+        "carol",
+        "chief",
+        "critical",
+        "drops",
+        "due",
+        "england",
+        "executive",
+        "had",
+        "health",
+        "job",
+        "new",
+        "nhs",
+        "north",
+        "post",
+        "report",
+        "shillabeer",
+        "take",
+        "west"
+      ],
+      "source_excerpt": "Carol Shillabeer had been due to take up a new post at a health board in north west England in 2027.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5681k382o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:59:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5681k382o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c9zr5681k382o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c81e283d6befcd805c2333f1",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:27:55+00:00",
+      "last_update": "2026-11-27T07:27:55+00:00",
+      "event": "Can the Mecca pact turn its collective defence promise into real support?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "collective",
+        "defence",
+        "into",
+        "its",
+        "jazeera",
+        "mecca",
+        "pact",
+        "promise",
+        "real",
+        "support",
+        "the",
+        "turn"
+      ],
+      "source_excerpt": "Can the Mecca pact turn its collective defence promise into real support? Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkZDZkZudnVZY1pudllWNWQwN3RDbjlKWEFKOC1tV3ltUlpkV21RMmZKMjkyRlNEUTdEbElUU0s3OWFnZWxwSTZsYTFnZWE4WVc0dnNkSjdIS2VFc1ZMOEhrMEhrSzlUSF9BMngxOFFpeVRDN25OamJVbGtLWC1oTXRmSUZNb1Ztcm9CZE5tM0N4WV9TVDdfdjc4cTYwbnNRT29ybEo0QXpqNC0zZXNydFBGb281Y1dtMWRCYWx3elDSAcYBQVVfeXFMTjl4VmFaUTlKRHRqeXZNQmlSd1lGMWR4ejJZWVRmSHg4ZEZNd3RGRnktSF9MNlZ6MW1HNFBWZENVU0h5NG43MVhVWHhVTnVmd0dPVkVDbGJNRmhERHU4S2FSWjhYWUR3a2puRzBkaHhRR3ptdjM0Vm8zalpoT3lJbko2SEtCelppRTBORWpfNDNuX3gybXhvc19QWTJkZ01jb01YbGVORHZkLUVwU3hyVWNveGhZbDFMc2ZTdXduangwSFJaV1RB?oc=5",
+          "published_at": "2026-11-27T07:27:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkZDZkZudnVZY1pudllWNWQwN3RDbjlKWEFKOC1tV3ltUlpkV21RMmZKMjkyRlNEUTdEbElUU0s3OWFnZWxwSTZsYTFnZWE4WVc0dnNkSjdIS2VFc1ZMOEhrMEhrSzlUSF9BMngxOFFpeVRDN25OamJVbGtLWC1oTXRmSUZNb1Ztcm9CZE5tM0N4WV9TVDdfdjc4cTYwbnNRT29ybEo0QXpqNC0zZXNydFBGb281Y1dtMWRCYWx3elDSAcYBQVVfeXFMTjl4VmFaUTlKRHRqeXZNQmlSd1lGMWR4ejJZWVRmSHg4ZEZNd3RGRnktSF9MNlZ6MW1HNFBWZENVU0h5NG43MVhVWHhVTnVmd0dPVkVDbGJNRmhERHU4S2FSWjhYWUR3a2puRzBkaHhRR3ptdjM0Vm8zalpoT3lJbko2SEtCelppRTBORWpfNDNuX3gybXhvc19QWTJkZ01jb01YbGVORHZkLUVwU3hyVWNveGhZbDFMc2ZTdXduangwSFJaV1RB?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f85cfc2d1051363a1027a868",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T08:21:29+00:00",
+      "last_update": "2026-11-27T08:21:29+00:00",
+      "event": "Major storm batters US on Thanksgiving holiday",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "batters",
+        "dawn",
+        "holiday",
+        "major",
+        "storm",
+        "thanksgiving"
+      ],
+      "source_excerpt": "Major storm batters US on Thanksgiving holiday Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMF9rbl95bHFJUmlCZVkzbTNNQ3psUFJRY2NrdDdIWU9FaWYtdnRTek16eHdzOFc1RzZwRVNDb2dqcEhKY1ZMYzhfMTB2aEJtOUl2aWFYbXA4UkxOU0tKOExIbHV4MnpUUXVrX3pWQWtJbkRIamZVUGluT2xXaWN4YzI0VVlZVWc?oc=5",
+          "published_at": "2026-11-27T08:21:29+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047460/major-storm-batters-us-on-thanksgiving-holiday",
+          "published_at": "2026-11-27T08:21:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMF9rbl95bHFJUmlCZVkzbTNNQ3psUFJRY2NrdDdIWU9FaWYtdnRTek16eHdzOFc1RzZwRVNDb2dqcEhKY1ZMYzhfMTB2aEJtOUl2aWFYbXA4UkxOU0tKOExIbHV4MnpUUXVrX3pWQWtJbkRIamZVUGluT2xXaWN4YzI0VVlZVWc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8d77a31e7f4672e1a64f62aa",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:31:39+00:00",
+      "last_update": "2026-11-27T07:50:55+00:00",
+      "event": "Erdogan completes Turkiye's ratification of Makkah defence pact",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "completes",
+        "dawn",
+        "defence",
+        "erdogan",
+        "makkah",
+        "pact",
+        "ratification",
+        "turkiye"
+      ],
+      "source_excerpt": "Erdogan completes Turkiye's ratification of Makkah defence pact Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5",
+          "published_at": "2026-11-27T07:31:39+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047450/erdogan-completes-turkiyes-ratification-of-makkah-defence-pact",
+          "published_at": "2026-11-27T07:50:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fd9cf51fc5983a04d618cf34",
+      "remembered_at": "2026-11-27T08:29:04.104946+00:00",
+      "event_date": "2026-11-27T07:17:38+00:00",
+      "last_update": "2026-11-27T08:04:40+00:00",
+      "event": "Is Pakhtunkhwa stuck between a rock and a hard place?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "between",
+        "dawn",
+        "hard",
+        "pakhtunkhwa",
+        "place",
+        "rock",
+        "stuck"
+      ],
+      "source_excerpt": "Is Pakhtunkhwa stuck between a rock and a hard place? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemVQNS1aU2o2XzZuNTRMRkdPenUxa3hJSGkwM3hocFJNQ1NiRE1XY3hKcVI2NnJibjR6SjRud0RPQzM3UnFIbFdzbmpMdXk3Z0RWTDByVHNBNTVRekFNNG4yajc2Z3NkbTIzZTJRMVpDWUd1QUJTcDgxZmJDbVl2aDdFbk5CbkxyQXJTMXdJVQ?oc=5",
+          "published_at": "2026-11-27T07:17:38+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047448/is-pakhtunkhwa-stuck-between-a-rock-and-a-hard-place",
+          "published_at": "2026-11-27T08:04:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemVQNS1aU2o2XzZuNTRMRkdPenUxa3hJSGkwM3hocFJNQ1NiRE1XY3hKcVI2NnJibjR6SjRud0RPQzM3UnFIbFdzbmpMdXk3Z0RWTDByVHNBNTVRekFNNG4yajc2Z3NkbTIzZTJRMVpDWUd1QUJTcDgxZmJDbVl2aDdFbk5CbkxyQXJTMXdJVQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T06:50:44.187530+00:00"
+  "updated_at": "2026-11-27T08:29:04.104946+00:00"
 }

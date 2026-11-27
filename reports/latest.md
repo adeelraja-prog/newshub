@@ -1,172 +1,170 @@
-# News Hub report - Fri 27 Nov, 11:50 AM PKT
+# News Hub report - Fri 27 Nov, 01:29 PM PKT
 
 ## Collection
-- New items this run: 84 | items in rolling pool: 307
-- Unique story clusters: 240 (duplicates merged: 67)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 15, Wired 10, samaa tv 7, TechJuice 7, Geo News 6, Dawn Pakistan 5, ProPakistani 3, Dawn 2, Jang 2, Dawn Latest 2, Al Jazeera 2, AP News 2
+- New items this run: 136 | items in rolling pool: 418
+- Unique story clusters: 337 (duplicates merged: 81)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 54, Geo News 15, ProPakistani 10, Al Jazeera 8, Dawn 6, Dawn Pakistan 6, Dawn Latest 5, samaa tv 4, Profit by Pakistan Today 4, AP News 3, TechJuice 3, The Express Tribune 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 0 | new uploads queued: 0 | first-run seeded: 0
-- Feed warning: Adeel Raja: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCS5Lljc_YNJU4aLXGMCYAOQ
-- Feed warning: Adeel Raja Shorts: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrCIWah6oQYS-safc4vkaeg
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sandpapergate forum to investigate Australia-England Ashes Tests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP reserves up $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Greed, official negligence and the collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German airline USC prepares to launch flights to Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sandpapergate forum to investigate Australia-England Ashes Tests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP reserves up $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Greed, official negligence and the collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German airline USC prepares to launch flights to Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sandpapergate forum to investigate Australia-England Ashes Tests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP reserves up $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Greed, official negligence and the collapse | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- German airline USC prepares to launch flights to Pakistan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 4 | failed: 1 | malformed/partial: 2
+- Overall feeds with entries: 115/120 | empty: 3 | failed: 2 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on agenda  [NORMAL]
-- Poster: اسلام آباد میں مکح دفاعی اتحاد کا اجلاس، یمن تنازع ایجنڈے میں شامل / Islamabad hosts Makkah Defence Alliance meeting | category politics
-- Alternative headline: Yemen conflict on agenda as Makkah Defence Alliance meeting begins in Islamabad
+### New Zealand Election Results Force Tough Coalition Talks for Conservative Incumbent  [NORMAL]
+- Poster: نیوزی لینڈ کے انتخابات، قدامت پسند رہنما کو مشکل اتحادی مذاکرات کا سامنا / NZ Election Forces Tough Coalition Talks | category politics
+- Alternative headline: New Zealand Polls Leave Conservative PM Luxon Facing Tricky Coalition Talks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: New Zealand election, Christopher Luxon, conservative incumbent, coalition talks, centrist kingmaker, populist partners | hashtags: #NewZealand #Election2026 #WorldNews #Politics #AlJazeera
+- Scheduled: Fri 27 Nov, 01:29 PM PKT
+- Caption:
+```
+Conservative Prime Minister Christopher Luxon and his populist partners must navigate tricky negotiations with a centrist kingmaker following New Zealand's election results.
+
+New Zealand's election results have created a complex political landscape, forcing conservative Prime Minister Christopher Luxon and his populist coalition partners into challenging negotiations with a centrist kingmaker to form a government.
+
+نیوزی لینڈ کے انتخابی نتائج نے ایک پیچیدہ سیاسی منظرنامہ پیدا کر دیا ہے، جس کے بعد قدامت پسند وزیراعظم کرسٹوفر لکسن اور ان کے اتحادیوں کو حکومت سازی کے لیے ایک سینٹرسٹ کنگ میکر کے ساتھ مشکل مذاکرات کا سامنا ہے۔
+
+According to a published report by Al Jazeera
+
+#NewZealand #Election2026 #WorldNews #Politics #AlJazeera
+```
+
+### Sandpapergate Forum Widens Scope to Cover 2017-18 Australia-England Ashes Series  [NORMAL]
+- Poster: سینڈ پیپر گیٹ فورم کا دائرہ کار 2017-18 کی ایشز سیریز تک وسعت / Sandpapergate Forum Covers 2017-18 Ashes | category other
+- Alternative headline: Cricket Australia's Sandpapergate Forum Extends Investigation to 2017-18 Ashes Tests
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Sandpapergate, Cricket Australia, Ashes series, South Africa allegations, cricket forum, test cricket | hashtags: #Sandpapergate #Cricket #Ashes #CricketAustralia #SportsNews
+- Scheduled: Fri 27 Nov, 01:39 PM PKT
+- Caption:
+```
+The Sandpapergate forum's scope will now cover the entire 2017-18 season, including the Ashes series, following South Africa allegations.
+
+The Sandpapergate review forum has expanded its scope to encompass the entire 2017-18 cricket season, including the Ashes series between Australia and England, following a follow-up on previous allegations in South Africa.
+
+سینڈ پیپر گیٹ فورم نے جنوبی افریقہ کے الزامات کے بعد اپنے دائرہ کار کو وسعت دیتے ہوئے 2017-18 کے پورے کرکٹ سیزن، بشمول آسٹریلیا اور انگلینڈ کی ایشز سیریز کو بھی اس میں شامل کر لیا ہے۔
+
+According to a published report by Al Jazeera
+
+#Sandpapergate #Cricket #Ashes #CricketAustralia #SportsNews
+```
+
+### State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Million  [NORMAL]
+- Poster: اسٹேட் بینک آف پاکستان کے زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ / SBP Reserves Up by $8 Million | category economy
+- Alternative headline: SBP Reserves Go Up by $8 Million According to Latest Data
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda
-- Supporting coverage: Dawn Pakistan, Geo News, Geo News, The Current
-- Keywords: Makkah Defence Alliance, Islamabad, Yemen conflict, Khawaja Asif, Saudi Arabia, SPDC | hashtags: #Islamabad #MakkahDefenceAlliance #Pakistan #SaudiArabia #Yemen
-- Scheduled: Fri 27 Nov, 11:50 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdXFPaE9QY3NEaUlOaE02NTdaVGpsdEN1YXVEYnZydTBTbkxYYWNMLWg3Z3R3bEo4N3QxaDM2NkNMLUEtT2ZXNm8zSzE2MkhoaEFtUXdpT0xmWktfNmlWUV9R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdXFPaE9QY3NEaUlOaE02NTdaVGpsdEN1YXVEYnZydTBTbkxYYWNMLWg3Z3R3bEo4N3QxaDM2NkNMLUEtT2ZXNm8zSzE2MkhoaEFtUXdpT0xmWktfNmlWUV9R?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Investify
+- Keywords: SBP reserves, State Bank of Pakistan, foreign exchange, Pakistan economy, reserves up, Dawn | hashtags: #SBP #PakistanEconomy #ForeignReserves #StateBank #DawnNews
+- Scheduled: Fri 27 Nov, 01:49 PM PKT
 - Caption:
 ```
-Pakistan is hosting a two-day meeting of the Makkah Defence Alliance in Islamabad, with regional security and the Yemen conflict on the agenda.
+Foreign exchange reserves held by the State Bank of Pakistan have recorded an increase of $8 million.
 
-Pakistan is hosting a two-day meeting of the tripartite Makkah Defence Alliance's Strategic Political and Defence Committee in Islamabad. Defence ministers and officials from Saudi Arabia, Turkiye, and Pakistan are participating, with discussions expected to cover standard operating procedures and the ongoing conflict in Yemen.
+The foreign exchange reserves held by the State Bank of Pakistan (SBP) have increased by $8 million, according to the latest financial reports released by Dawn.
 
-پاکستان اسلام آباد میں سہ فریقی مکح دفاعی اتحاد کی اسٹریٹجک پولیٹیکل اینڈ ڈیفنس کمیٹی کے دو روزہ اجلاس کی میزبانی کر رہا ہے۔ سعودی عرب، ترکی اور پاکستان کے وزرائے دفاع اور حکام اجلاس میں شریک ہیں، جس میں معیاری آپریٹنگ طریقہ کار اور یمن کے تنازع پر بات چیت متوقع ہے۔
+ڈان کی شائع کردہ رپورٹ کے مطابق اسٹیڈ بینک آف پاکستان (SBP) کے پاس موجود زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ ریکارڈ کیا گیا ہے۔
 
-First reported by Dawn Pakistan
+First reported by Dawn; also reported by Investify
 
-#Islamabad #MakkahDefenceAlliance #Pakistan #SaudiArabia #Yemen
+#SBP #PakistanEconomy #ForeignReserves #StateBank #DawnNews
 ```
 
-### Iran warns South Korea against Gulf military expansion  [NORMAL]
-- Poster: ایران نے جنوبی کوریا کو خلیج میں فوجی توسیع کے خلاف خبردار کر دیا / Iran warns South Korea on Gulf military expansion | category world
-- Alternative headline: Iran warns on Gulf military presence as South Korea readies naval role
+### Greed and Official Negligence Fuel Deadly Karachi Building Collapse, Residents Say  [NORMAL]
+- Poster: لالچ اور سرکاری غفلت کراچی کی عمارت گرنے کے حادثے کی وجہ بنی: مکین / Greed and Negligence Fueled Karachi Collapse | category disaster
+- Alternative headline: Baloch Colony Building Collapse Exposes Systemic Flaws and Official Negligence in Karachi
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5
-- Supporting coverage: Internazionale, Reuters, samaa tv, Awani International, The Times of Israel
-- Keywords: Iran, South Korea, Gulf military expansion, naval role | hashtags: #Iran #SouthKorea #Gulf #MilitaryExpansion
-- Scheduled: Fri 27 Nov, 12:00 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047339/greed-official-negligence-and-the-collapse | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047339/greed-official-negligence-and-the-collapse
+- Supporting coverage: Dawn Pakistan, Dawn, Dawn Pakistan, Dawn Pakistan
+- Keywords: Karachi building collapse, Baloch Colony, official negligence, builder mafia, Dawn Pakistan, building regulations | hashtags: #Karachi #BuildingCollapse #BalochColony #DawnNews #Safety
+- Scheduled: Fri 27 Nov, 01:59 PM PKT
 - Caption:
 ```
-Iran has issued a warning to South Korea regarding any military expansion in the Gulf region.
+Residents of Karachi's Baloch Colony say greed and official negligence led to the tragic collapse of a six-storey building.
 
-Iran has issued a formal warning to South Korea against expanding its military presence in the Gulf region, amid heightened regional tensions and discussions surrounding naval deployments.
+Residents of the Karachi Administration Cooperative Housing Society state that the six-storey building collapse was driven by builder greed, official negligence, and institutional failure. They allege that construction continued in broad daylight for months despite the building only being approved for ground-plus-one.
 
-ایران نے خلیج کے خطے میں اپنی فوجی موجودگی کو بڑھانے کے خلاف جنوبی کوریا کو باضابطہ خبردار کر دیا ہے، جب کہ خطے میں کشیدگی اور بحری تعیناتیوں پر بات چیت جاری ہے۔
+کراچی ایڈمنسٹریشن کوآپریٹو ہاؤسنگ سوسائٹی کے رہائشیوں کا کہنا ہے کہ چھ منزلہ عمارت کا گرنا بلڈر مافیا کی ہوس، سرکاری غفلت اور ادارہ جاتی ناکامی کا نتیجہ ہے۔ ان کا الزام ہے کہ عمارت کی اجازت صرف گراؤنڈ پلس ون کی تھی، مگر طویل عرصے تک تعمیرات دن کی روشنی میں جاری رہیں۔
 
-First reported by samaa tv
+According to a published report by Dawn Pakistan
 
-#Iran #SouthKorea #Gulf #MilitaryExpansion
+#Karachi #BuildingCollapse #BalochColony #DawnNews #Safety
 ```
 
-### Making waves: Pakistani woman breaking jet ski barriers  [NORMAL]
-- Poster: پاکستانی خاتون نے جیٹ سکی کی دنیا میں نئی تاریخ رقم کر دی / Pakistani woman breaking jet ski barriers | category sports
-- Alternative headline: Pakistani woman makes waves by breaking jet ski barriers
+### German Airline USC Moves Closer to Launching Flights to Pakistan After CAA Nod  [NORMAL]
+- Poster: جرمن ایئر لائن یو ایس سی کی پاکستان کے لیے پروازیں شروع کرنے کی تیاریاں / German Airline USC to Launch Pakistan Flights | category other
+- Alternative headline: German Airline USC Prepares to Start Flights to Pakistan Following CAA Approval
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5
-- Supporting coverage: Yahoo News Singapore, Dawn, Dawn Latest
-- Keywords: jet ski, Pakistani woman, breaking barriers, sports | hashtags: #JetSki #PakistaniWomen #Sports #Inspiring
-- Scheduled: Fri 27 Nov, 12:10 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG10bENlNTJtSC0yVWNKaFVuQW5UTV94bWU5cnlreEEwc2FPTlhsOWh2V2NOZGxHS1lJMkRvcjF6QlJ4T0Rab0poTXdqd1V6MF9vNGdDZzI4ZWxWX0hZZTJYZXBWWWxDM2dZY202bGx3ZmFSMHh0cEJFdmw0T2Jwcm5xbmFxMzAtU21hTkgwU3VOc00?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG10bENlNTJtSC0yVWNKaFVuQW5UTV94bWU5cnlreEEwc2FPTlhsOWh2V2NOZGxHS1lJMkRvcjF6QlJ4T0Rab0poTXdqd1V6MF9vNGdDZzI4ZWxWX0hZZTJYZXBWWWxDM2dZY202bGx3ZmFSMHh0cEJFdmw0T2Jwcm5xbmFxMzAtU21hTkgwU3VOc00?oc=5
+- Supporting coverage: samaa tv, TechJuice
+- Keywords: German airline USC, Pakistan flights, Civil Aviation Authority, CAA nod, TechJuice, aviation | hashtags: #Aviation #Germany #Pakistan #CAA #Airline
+- Scheduled: Fri 27 Nov, 02:09 PM PKT
 - Caption:
 ```
-A trailblazing Pakistani woman is making waves and breaking barriers in the world of jet skiing.
+German airline USC is preparing to launch flights to Pakistan after receiving a nod from the Civil Aviation Authority.
 
-A Pakistani woman is making headlines by shattering barriers in jet skiing, showcasing remarkable skill and determination in a male-dominated sport and inspiring others across the country.
+German airline USC is moving closer to initiating flight operations to Pakistan following clearance and nod from the Civil Aviation Authority (CAA), according to reports by Samaa TV and TechJuice.
 
-ایک پاکستانی خاتون جیٹ سکی میں رکاوٹیں توڑ کر سرخیوں میں آ گئی ہیں، جو ایک ایسے کھیل میں اپنی صلاحیتوں کا مظاہرہ کر رہی ہیں جہاں عام طور پر مردوں کا غلبہ ہے اور وہ ملک بھر میں دوسروں کے لیے مثال بن رہی ہیں۔
+سما نیوز اور ٹیک جوس کی رپورٹس کے مطابق سول ایوی ایشن اتھارٹی (CAA) کی منظوری کے بعد جرمن ایئر لائن یو ایس سی نے پاکستان کے لیے پروازیں شروع کرنے کی تیاریاں تیز کر دی ہیں۔
 
-First reported by Dawn
+First reported by samaa tv; also reported by TechJuice
 
-#JetSki #PakistaniWomen #Sports #Inspiring
+#Aviation #Germany #Pakistan #CAA #Airline
 ```
 
-### Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes  [NORMAL]
-- Poster: کرکٹ آسٹریلیا نے سینڈ پیپر گیٹ فورم کو 2017-2018 کی ایشز تک بڑھا دیا / Cricket Australia widens Sandpapergate forum | category sports
-- Alternative headline: Cricket Australia expands 'Sandpapergate' discussion to preceding Ashes series
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNYU9VcEl4TmtYUlROeUFsamlFZ0JRV1QwYS0tQ2RyNEZ3SThETks2UEtyTWpGZ3NMVWJlSGEyTDBta0FUUU1MNjJVV2ZOa0lkUGdadXlDdmRUbnlEeHF2Rlk2VmJfQ0lKblVjVDc2RG9SSkR5UTNDa2pGTHpPd0VNNDIxQ3lVR3RZSHUyMVBMdDVUQUhYYjVXaG96RUtUdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNYU9VcEl4TmtYUlROeUFsamlFZ0JRV1QwYS0tQ2RyNEZ3SThETks2UEtyTWpGZ3NMVWJlSGEyTDBta0FUUU1MNjJVV2ZOa0lkUGdadXlDdmRUbnlEeHF2Rlk2VmJfQ0lKblVjVDc2RG9SSkR5UTNDa2pGTHpPd0VNNDIxQ3lVR3RZSHUyMVBMdDVUQUhYYjVXaG96RUtUdw?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
-- Keywords: Sandpapergate, Cricket Australia, 2017-2018 Ashes, cricket | hashtags: #CricketAustralia #Sandpapergate #Ashes #Cricket
-- Scheduled: Fri 27 Nov, 12:20 PM PKT
-- Caption:
-```
-Cricket Australia has broadened its 'Sandpapergate' forum to include the 2017-2018 Ashes series.
-
-Cricket Australia has decided to widen its 'Sandpapergate' forum to encompass the 2017-2018 Ashes series, drawing fresh attention to past controversies surrounding the Australian cricket team.
-
-کرکٹ آسٹریلیا نے اپنے 'سینڈ پیپر گیٹ' فورم کو 2017-2018 کی ایشز سیریز تک وسعت دینے کا فیصلہ کیا ہے، جس سے آسٹریلوی کرکٹ ٹیم کے گرد گھومنے والے پچھلے تنازعات پر ایک بار پھر توجہ مرکوز ہو گئی ہے۔
-
-First reported by Dawn
-
-#CricketAustralia #Sandpapergate #Ashes #Cricket
-```
-
-### PPRA points out procedural flaw in CDA's sewage treatment plants  [NORMAL]
-- Poster: پی پی آر اے نے سی ڈی اے کے سیوریج ٹریٹمنٹ پلانٹس میں طریقہ کار کی خامی کی نشاندہی کر دی / PPRA points out procedural flaw in CDA sewage plants | category other
-- Alternative headline: CDA sewage treatment plants face procedural flaws flagged by PPRA
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: PPRA, CDA, sewage treatment plants, procedural flaw | hashtags: #PPRA #CDA #Islamabad #News
-- Scheduled: Fri 27 Nov, 12:30 PM PKT
-- Caption:
-```
-The Public Procurement Regulatory Authority has identified procedural flaws in the Capital Development Authority's sewage treatment plants.
-
-The Public Procurement Regulatory Authority (PPRA) has pointed out procedural flaws regarding the Capital Development Authority's (CDA) sewage treatment plants, raising questions over project execution.
-
-پبلک پروکیورمنٹ ریگولیٹری اتھارٹی (پی پی آر اے) نے کیپیٹل ڈویلپمنٹ اتھارٹی (سی ڈی اے) کے سیوریج ٹریٹمنٹ پلانٹس میں طریقہ کار کی خامیوں کی نشاندہی کی ہے، جس سے پروجیکٹ کے نفاذ پر سوالات اٹھ کھڑے ہوئے ہیں۔
-
-First reported by Dawn
-
-#PPRA #CDA #Islamabad #News
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 20 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
@@ -182,8 +180,6 @@ First reported by Dawn
 - [needs_review] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
 - [needs_review] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
 - [needs_review] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
-- [published] normal | Why Eisenkot is negotiating with Netanyahu amid political shifts | Tue 24 Nov, 12:26 PM PKT
-- [failed] normal | Ousted PM Sheikh Hasina plans December 16 return to Bangladesh | Tue 24 Nov, 12:36 PM PKT
 - [needs_review] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
 - [needs_review] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
 - [published] normal | Wars Choke Global Food Routes, Threatening Aid for 7.3 Million | Tue 24 Nov, 01:43 PM PKT
@@ -358,13 +354,13 @@ First reported by Dawn
 - [needs_review] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
 - [needs_review] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
 - [published] normal | Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge | Fri 27 Nov, 06:09 AM PKT
-- [queued] normal | Hamas weighs response after Israeli strikes kill 10 people in Gaza | Fri 27 Nov, 06:19 AM PKT
-- [queued] normal | State Bank of Pakistan's foreign exchange reserves rise by $8 million | Fri 27 Nov, 06:29 AM PKT
-- [queued] normal | Inside Ukraine's severe power crisis amid ongoing war with Russia | Fri 27 Nov, 06:39 AM PKT
-- [queued] normal | America's Thanksgiving holiday viewed through different cultural persp | Fri 27 Nov, 06:49 AM PKT
-- [queued] normal | Argentina bars Central Bank from printing money for government spendin | Fri 27 Nov, 06:59 AM PKT
-- [queued] normal | New Zealand ruling coalition loses its majority in parliament by one s | Fri 27 Nov, 07:27 AM PKT
-- [queued] normal | Young hikers in the UK are ditching screens to find friendship and fre | Fri 27 Nov, 07:37 AM PKT
+- [needs_review] normal | Hamas weighs response after Israeli strikes kill 10 people in Gaza | Fri 27 Nov, 06:19 AM PKT
+- [needs_review] normal | State Bank of Pakistan's foreign exchange reserves rise by $8 million | Fri 27 Nov, 06:29 AM PKT
+- [needs_review] normal | Inside Ukraine's severe power crisis amid ongoing war with Russia | Fri 27 Nov, 06:39 AM PKT
+- [needs_review] normal | America's Thanksgiving holiday viewed through different cultural persp | Fri 27 Nov, 06:49 AM PKT
+- [needs_review] normal | Argentina bars Central Bank from printing money for government spendin | Fri 27 Nov, 06:59 AM PKT
+- [needs_review] normal | New Zealand ruling coalition loses its majority in parliament by one s | Fri 27 Nov, 07:27 AM PKT
+- [published] normal | Young hikers in the UK are ditching screens to find friendship and fre | Fri 27 Nov, 07:37 AM PKT
 - [queued] normal | Why a growing number of food lovers are embracing the trend of solo di | Fri 27 Nov, 07:47 AM PKT
 - [queued] normal | Kenyan man wrongly sentenced to death says Met Police ruined his life | Fri 27 Nov, 07:57 AM PKT
 - [queued] normal | Donald Trump claims the United States holds close to 50% of the world' | Fri 27 Nov, 08:07 AM PKT
@@ -385,14 +381,24 @@ First reported by Dawn
 - [queued] normal | Making waves: Pakistani woman breaking jet ski barriers | Fri 27 Nov, 12:10 PM PKT
 - [queued] normal | Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | Fri 27 Nov, 12:20 PM PKT
 - [queued] normal | PPRA points out procedural flaw in CDA's sewage treatment plants | Fri 27 Nov, 12:30 PM PKT
+- [queued] normal | New Zealand Election Results Force Tough Coalition Talks for Conservat | Fri 27 Nov, 01:29 PM PKT
+- [queued] normal | Sandpapergate Forum Widens Scope to Cover 2017-18 Australia-England As | Fri 27 Nov, 01:39 PM PKT
+- [queued] normal | State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Mill | Fri 27 Nov, 01:49 PM PKT
+- [queued] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
+- [queued] normal | German Airline USC Moves Closer to Launching Flights to Pakistan After | Fri 27 Nov, 02:09 PM PKT
 
 ## Publishing this run
-- Published 'Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge'.
+- Published 'Young hikers in the UK are ditching screens to find friendship and fresh air'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 7736 | output tokens: 2792
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 4 | prompt tokens: 12764 | output tokens: 6566
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 63 column 7 (char 2773)
