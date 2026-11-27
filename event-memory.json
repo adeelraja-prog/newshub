@@ -180728,7 +180728,708 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "991b6b121ccae4dc9c079c9e",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:08:01+00:00",
+      "last_update": "2026-11-27T12:00:22+00:00",
+      "event": "Saudi strike kills 11 in Yemen: Houthi media",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "houthi",
+        "kills",
+        "media",
+        "saudi",
+        "strike",
+        "yemen"
+      ],
+      "source_excerpt": "Saudi strike kills 11 in Yemen: Houthi media Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlp4M0xPQ25EdENHYXZ0cUFUSFg2bzJ0Z3RuclNCcjBWWl9CTWlzSndDMDR2SklyRG5KNUtlVjhUZnRWMFU3dmhNWUp3UmVERkNuemE4bURldzFsNk15eWVoamktOVJHQTE4cUo4RHVkV0tCR0FsWnNRVHhVbG1mWlZHSQ?oc=5",
+          "published_at": "2026-11-27T11:08:01+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+          "published_at": "2026-11-27T12:00:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlp4M0xPQ25EdENHYXZ0cUFUSFg2bzJ0Z3RuclNCcjBWWl9CTWlzSndDMDR2SklyRG5KNUtlVjhUZnRWMFU3dmhNWUp3UmVERkNuemE4bURldzFsNk15eWVoamktOVJHQTE4cUo4RHVkV0tCR0FsWnNRVHhVbG1mWlZHSQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0b128060a1c507446c642bd8",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T10:40:00+00:00",
+      "last_update": "2026-11-27T12:30:00+00:00",
+      "event": "Marc Marquez announces surprise retirement after clinching eighth MotoGP title",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "announces",
+        "clinching",
+        "eighth",
+        "geo",
+        "marc",
+        "marquez",
+        "motogp",
+        "news",
+        "retirement",
+        "surprise",
+        "title"
+      ],
+      "source_excerpt": "Marc Marquez announces surprise retirement after clinching eighth MotoGP title Geo News",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUVwTEVLZDBvVVVVVFR3TFZCY3duTW90RDY0N1pIMzYyd1E1MDZyNFo5VFFYcVBfcXRCZ0pFZzdBZEVwN3hnTGVmSUtlZy1JaDZ4M3l1ZExuM1FLT1FqWFVCNlZPODdtQy1CLWRidG90Q0dfdUVjeDBuOWJpdElSdmc3QUl2T0RPQUNCUmdtUUpyNnE3?oc=5",
+          "published_at": "2026-11-27T10:40:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjF0TVM2QXVGOERTUDQ5LXdyclFRdVpFNHYtcjVWVnJUcUlGWXViLS1kNHdzRFF1VFdwblFJLUZRSHVtQ0hKenY5eHZRbVR3Z0c5UXNkZzNaMm11OVlnRUUweTZlcW5pajdRRzMwcmJvMzI4c2ZiR3hVQzhIVkpSZXJncXBXZldmOTJ4UHV5WGlxNUVXRnRyTEVsZTFCN0FwaFZHN2RiajhSVHF6bWdxWg?oc=5",
+          "published_at": "2026-11-27T12:30:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692880-marc-marquez-announces-surprise-retirement-after-clinching-eighth-motogp-title",
+          "published_at": "2026-11-27T12:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjF0TVM2QXVGOERTUDQ5LXdyclFRdVpFNHYtcjVWVnJUcUlGWXViLS1kNHdzRFF1VFdwblFJLUZRSHVtQ0hKenY5eHZRbVR3Z0c5UXNkZzNaMm11OVlnRUUweTZlcW5pajdRRzMwcmJvMzI4c2ZiR3hVQzhIVkpSZXJncXBXZldmOTJ4UHV5WGlxNUVXRnRyTEVsZTFCN0FwaFZHN2RiajhSVHF6bWdxWg?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d08a86d2bb9bed2f71998030",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:16:39+00:00",
+      "last_update": "2026-11-27T11:47:53+00:00",
+      "event": "Binance says 'withdrawal recovery work' complete after $6.3bn crypto heist",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "3bn",
+        "about",
+        "after",
+        "all",
+        "and",
+        "biggest",
+        "billion",
+        "binance",
+        "closed",
+        "complete",
+        "crypto",
+        "cryptocurrency",
+        "cyberattack",
+        "exchange",
+        "finished",
+        "for",
+        "from",
+        "has",
+        "heist",
+        "its",
+        "last",
+        "lost",
+        "making",
+        "month",
+        "networks",
+        "reasons",
+        "recover",
+        "recovery",
+        "said",
+        "says",
+        "some",
+        "stopped",
+        "systems",
+        "the",
+        "though",
+        "thursday",
+        "tokens",
+        "unrelated",
+        "users",
+        "were",
+        "withd",
+        "withdrawal",
+        "work",
+        "world"
+      ],
+      "source_excerpt": "Binance has finished work to recover its withdrawal systems after last month’s cyberattack , though some networks were closed for unrelated reasons, it said on Thursday. The world’s biggest cryptocurrency exchange lost about $6.3 billion of tokens in the heist and stopped all users from making withd",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047475/binance-says-withdrawal-recovery-work-complete-after-63bn-crypto-heist",
+          "published_at": "2026-11-27T11:16:39+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1c2SGZrY2N4Zl8wZ1VfQkpCeTJ4eHRwWThRWkUzRm1pVDlUWnFvYlhjelpkQTlacjFxbkZCN1NId1ZNdU1DSzhqaGFNem10UjVkRG5HRVYwaFVoRjl4bFMxVTgzRzVhRXJtZ1NoRkFNM1ZRZ1JYX09tbW5iVzJTalVFMG90RzZPQXFHQ1ZYVGlSejdnWU40RW5IcGpHSlNuSlBpUkdRTFZ1am9laDdBRnd2VQ?oc=5",
+          "published_at": "2026-11-27T11:47:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047475/binance-says-withdrawal-recovery-work-complete-after-63bn-crypto-heist",
+        "publisher_url": "https://www.dawn.com/news/2047475/binance-says-withdrawal-recovery-work-complete-after-63bn-crypto-heist",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0c622c1e4a20cc789187f43e",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T12:25:14+00:00",
+      "last_update": "2026-11-27T12:33:31+00:00",
+      "event": "ADB approves $468m in loans to boost water, agriculture management in KP and Punjab",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "468",
+        "468m",
+        "according",
+        "adb",
+        "agriculture",
+        "and",
+        "approved",
+        "approves",
+        "asian",
+        "bank",
+        "boost",
+        "changing",
+        "climate",
+        "community",
+        "development",
+        "financing",
+        "friday",
+        "improve",
+        "islamabad",
+        "khyber",
+        "loans",
+        "management",
+        "million",
+        "pakhtunkhwa",
+        "punjab",
+        "related",
+        "resilience",
+        "rur",
+        "shocks",
+        "strengthen",
+        "the",
+        "totalling",
+        "two",
+        "water",
+        "will"
+      ],
+      "source_excerpt": "ISLAMABAD: The Asian Development Bank (ADB) on Friday approved two loans totalling $468 million to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab. According to the bank, the financing will strengthen community resilience to shocks related to the changing climate, boost rur",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+          "published_at": "2026-11-27T12:25:14+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2tMNUkxMFV5dXJwbG5lS29CYzBQc1RibUNMZEkwaU9uWC11cWx1Y2tuZVNyZjAtcDZNZVExVDBMRVZPRm9HMjZiTlZOekxBTGh1blMtdmNkdi1abEZDWHBGSUxSWDBjRU1VVk96SjRpMGhYeWhRbVV5aWpKQzBoY1dvVzBJRVdRQTdFNnBwekwzQllhem5yc1FXc1V0a0t6ckJpV3VHYzFzSk1oX2F3Uk9mSEY?oc=5",
+          "published_at": "2026-11-27T12:33:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+        "publisher_url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7ef993fa342002c4875ba178",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T12:12:56+00:00",
+      "last_update": "2026-11-27T12:12:56+00:00",
+      "event": "European football violence causes concern with far-right claim in UEFA game",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "causes",
+        "claim",
+        "claims",
+        "concern",
+        "europa",
+        "european",
+        "far",
+        "football",
+        "further",
+        "game",
+        "headline",
+        "league",
+        "marseille",
+        "nazi",
+        "night",
+        "right",
+        "salutes",
+        "uefa",
+        "violence",
+        "with"
+      ],
+      "source_excerpt": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+          "published_at": "2026-11-27T12:12:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "560f4849a8a1839e49de4415",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:51:26+00:00",
+      "last_update": "2026-11-27T11:55:06+00:00",
+      "event": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "claimed",
+        "denying",
+        "gulf",
+        "has",
+        "iran",
+        "italians",
+        "its",
+        "killed",
+        "kuwait",
+        "openly",
+        "responsibility",
+        "states",
+        "strikes",
+        "the",
+        "throughout",
+        "war",
+        "why"
+      ],
+      "source_excerpt": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+          "published_at": "2026-11-27T11:51:26+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5",
+          "published_at": "2026-11-27T11:55:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83d4935da14075496054b305",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:44:46+00:00",
+      "last_update": "2026-11-27T11:48:45+00:00",
+      "event": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "analysis",
+        "attacks",
+        "but",
+        "damaged",
+        "europe",
+        "european",
+        "evolving",
+        "failing",
+        "for",
+        "growing",
+        "have",
+        "hybrid",
+        "iiss",
+        "infrastructure",
+        "not",
+        "reduced",
+        "russia",
+        "says",
+        "support",
+        "ukraine",
+        "war"
+      ],
+      "source_excerpt": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+          "published_at": "2026-11-27T11:44:46+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
+          "published_at": "2026-11-27T11:48:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8afe3999b774802c445a1657",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:35:34+00:00",
+      "last_update": "2026-11-27T11:35:34+00:00",
+      "event": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "appears",
+        "are",
+        "but",
+        "city",
+        "cultural",
+        "displaced",
+        "embraces",
+        "heritage",
+        "kyrgyzstan",
+        "new",
+        "old",
+        "osh",
+        "project",
+        "redevelopment",
+        "reopen",
+        "reshapes",
+        "residents",
+        "risk",
+        "some",
+        "the",
+        "urban",
+        "worry",
+        "wounds"
+      ],
+      "source_excerpt": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+          "published_at": "2026-11-27T11:35:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f6001f794c21f05ffa82c2e3",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:33:17+00:00",
+      "last_update": "2026-11-27T11:33:17+00:00",
+      "event": "What Spain’s election means for Morocco",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bind",
+        "but",
+        "continue",
+        "could",
+        "countries",
+        "diplomatic",
+        "election",
+        "for",
+        "interests",
+        "means",
+        "morocco",
+        "relations",
+        "reshape",
+        "shared",
+        "spain",
+        "strategic",
+        "the",
+        "two",
+        "vote",
+        "what",
+        "will"
+      ],
+      "source_excerpt": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+          "published_at": "2026-11-27T11:33:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1ee45c74def5e548fb5832ca",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:59:05+00:00",
+      "last_update": "2026-11-27T12:04:05+00:00",
+      "event": "PM calls for effective guidance, simplified procedures for SMEs seeking financial support",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "and",
+        "banks",
+        "better",
+        "called",
+        "calls",
+        "credit",
+        "effective",
+        "enabling",
+        "enterprises",
+        "facilitating",
+        "financial",
+        "financing",
+        "for",
+        "friday",
+        "from",
+        "guidance",
+        "islamabad",
+        "loans",
+        "medium",
+        "meeting",
+        "minister",
+        "over",
+        "premier",
+        "presiding",
+        "prime",
+        "procedures",
+        "seeking",
+        "sharif",
+        "shehbaz",
+        "simplified",
+        "sized",
+        "small",
+        "smes",
+        "support",
+        "termed",
+        "the",
+        "through"
+      ],
+      "source_excerpt": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday called for better guidance for small and medium-sized enterprises (SMEs) seeking financing from banks, enabling access to loans through simplified procedures. Presiding over a meeting on facilitating access to credit for SMEs, the premier termed the",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047481/pm-calls-for-effective-guidance-simplified-procedures-for-smes-seeking-financial-support",
+          "published_at": "2026-11-27T11:59:05+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSV9udGhBTFpOYWxSTDQ0cjRXVmpLUE1CRWl3S2R4QmJHWXg2S29GbW1Yc0Rna0VURzlUbGxSXzJuQmRUOVR5SEhjcUR6X1RmTEFEclJMeGRGeTl4OXNDM2VXZVJULVdDT2VNWDhlbFBWWTNHblNOaFVsYWNRX2VWak9Qc0EtMFJsdWoybXNKTUd2cTZuUlB4X1VXTElDaV94OXYzakpUUlBiYmRVNUE?oc=5",
+          "published_at": "2026-11-27T12:04:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047481/pm-calls-for-effective-guidance-simplified-procedures-for-smes-seeking-financial-support",
+        "publisher_url": "https://www.dawn.com/news/2047481/pm-calls-for-effective-guidance-simplified-procedures-for-smes-seeking-financial-support",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e2e3cf982089d0c9957d7c7",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T11:32:59+00:00",
+      "last_update": "2026-11-27T11:32:59+00:00",
+      "event": "Pakistan seeks zero-tariff access to China, eyes $25b export target",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25b",
+        "access",
+        "china",
+        "export",
+        "express",
+        "eyes",
+        "pakistan",
+        "seeks",
+        "target",
+        "tariff",
+        "the",
+        "tribune",
+        "zero"
+      ],
+      "source_excerpt": "Pakistan seeks zero-tariff access to China, eyes $25b export target The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5",
+          "published_at": "2026-11-27T11:32:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "abf04dbe86b2ac8217dc6ce0",
+      "remembered_at": "2026-11-27T12:45:53.648743+00:00",
+      "event_date": "2026-11-27T12:16:56+00:00",
+      "last_update": "2026-11-27T12:16:56+00:00",
+      "event": "Ahsan Iqbal seeks duty-free access for Pakistani goods in Chinese market",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "ahsan",
+        "chinese",
+        "duty",
+        "for",
+        "free",
+        "goods",
+        "iqbal",
+        "market",
+        "pakistani",
+        "samaa",
+        "seeks"
+      ],
+      "source_excerpt": "Ahsan Iqbal seeks duty-free access for Pakistani goods in Chinese market samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1EzVlEyVDVSS0lucFRhZ3VmdDNmcHFwNEJCUG1RYUFiWTU4VVBKc090QzhzOERoRnFHbTd6cUt3bjEza2k5c2g2cC1NTDBKUTR6Y1E3LTMzTVpBNzh3QnJtTHlKcV9NVmhOaVJCNmVQUXNoWG1lNlg2Q2xIa1VXV20tVnpESnlzT3VZRjJaM1g4NzJFZzRRb2lUajBER1JkdzlRaXZMLWg4Q3lvRjNjX21tTFFQVG9ORXc?oc=5",
+          "published_at": "2026-11-27T12:16:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1EzVlEyVDVSS0lucFRhZ3VmdDNmcHFwNEJCUG1RYUFiWTU4VVBKc090QzhzOERoRnFHbTd6cUt3bjEza2k5c2g2cC1NTDBKUTR6Y1E3LTMzTVpBNzh3QnJtTHlKcV9NVmhOaVJCNmVQUXNoWG1lNlg2Q2xIa1VXV20tVnpESnlzT3VZRjJaM1g4NzJFZzRRb2lUajBER1JkdzlRaXZMLWg4Q3lvRjNjX21tTFFQVG9ORXc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T11:38:56.891363+00:00"
+  "updated_at": "2026-11-27T12:45:53.648743+00:00"
 }
