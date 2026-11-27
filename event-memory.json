@@ -181429,7 +181429,913 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "86b3c07dacbaa2a6bb732d60",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T08:54:03+00:00",
+      "last_update": "2026-11-27T13:17:00+00:00",
+      "event": "Norse Atlantic lessors demand jets back as airline seeks urgent funding",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adding",
+        "aircraft",
+        "airline",
+        "and",
+        "atlantic",
+        "back",
+        "carrier",
+        "companies",
+        "contracts",
+        "cost",
+        "critical",
+        "demand",
+        "financial",
+        "fleet",
+        "fresh",
+        "friday",
+        "funding",
+        "haul",
+        "have",
+        "its",
+        "jets",
+        "leasing",
+        "lessors",
+        "long",
+        "low",
+        "norse",
+        "own",
+        "pressure",
+        "said",
+        "seeks",
+        "situation",
+        "terminated",
+        "that",
+        "the",
+        "their",
+        "urgent",
+        "was",
+        "wednesday"
+      ],
+      "source_excerpt": "The companies that own Norse Atlantic’s fleet of 12 aircraft have terminated their leasing contracts, the airline said on Friday, adding to pressure on the long-haul low-cost carrier as it seeks urgent fresh funding. Norse Atlantic said on Wednesday that its financial situation was “critical” , and",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding",
+          "published_at": "2026-11-27T08:54:03+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692867-norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding",
+          "published_at": "2026-11-27T13:17:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW84RlRULXdVazVJZzhUbi1CY1JPRVlxbXcxX0JmVE1sV1EtOWNqNnZfSkZna1Q2VWl2YXZfTUJxSGRXYlhnX0dvS1NHdGlRakNCcWs2eXRjRlFERHFyZEJUb1VodklidnRVOXUwU1JidTR4WElBSHp0UzdjYV9YLVBUSDFKelh5a1V3M0tjTUYtb2FpVXlVUlB6MDBNazB2LTlPZC13QQ?oc=5",
+          "published_at": "2026-11-27T13:17:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding",
+        "publisher_url": "https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89456458a59380b000995816",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:26:27+00:00",
+      "last_update": "2026-11-27T13:47:28+00:00",
+      "event": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airline",
+        "and",
+        "are",
+        "asa",
+        "atlantic",
+        "bankruptcy",
+        "bourse",
+        "budget",
+        "carrier",
+        "companies",
+        "costs",
+        "declared",
+        "declares",
+        "euronext",
+        "expand",
+        "friday",
+        "fuel",
+        "group",
+        "has",
+        "haul",
+        "iran",
+        "listed",
+        "long",
+        "norse",
+        "norwegian",
+        "not",
+        "operating",
+        "oslo",
+        "other",
+        "part",
+        "said",
+        "soaring",
+        "succumbing",
+        "the",
+        "unit",
+        "war",
+        "which",
+        "wrought"
+      ],
+      "source_excerpt": "Airline Norse Atlantic’s Norwegian operating unit has declared bankruptcy, the long-haul budget carrier said on Friday, succumbing to soaring fuel costs wrought by the war on Iran. Norse Atlantic ASA, which is listed on the Oslo Euronext Expand bourse, and other group companies are not part of the f",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy",
+          "published_at": "2026-11-27T13:26:27+00:00"
+        },
+        {
+          "name": "Euronext Markets: Real-time Stock Market Data | live",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa18tQVlGQVNXT1c5MTZWOUU0ZGJXazNQNjJDb0hWSDU1TkM4UjNTNjFQNmpGaTRTMVEtbG9JclJzaF9GdFdkcE1KVEw3WnpFWDFqR1VPRGhRYzlHOWVTcnlrSTJYUlpaSUVTR3B0SENvaGZpTktPS3R6aUpNQlBEVnhpYXVNV2hxU2xlakZDTnAwVy1jaG9YUnJ1aVA2anVvRzdvT2QtVVpocGUxYnlkeUp0OWFndw?oc=5",
+          "published_at": "2026-11-27T13:47:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy",
+        "publisher_url": "https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ba7abdb327d6d0c727774fe",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:32:55+00:00",
+      "last_update": "2026-11-27T13:32:55+00:00",
+      "event": "Why did Georgian police clash with Turkish football fans over Palestine?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "clash",
+        "clashes",
+        "detained",
+        "did",
+        "during",
+        "employees",
+        "fans",
+        "football",
+        "georgia",
+        "georgian",
+        "injured",
+        "interior",
+        "ministry",
+        "over",
+        "palestine",
+        "people",
+        "police",
+        "says",
+        "three",
+        "turkish",
+        "were",
+        "why",
+        "with"
+      ],
+      "source_excerpt": "Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+          "published_at": "2026-11-27T13:32:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "618e87446600c6e06e562f78",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:28:55+00:00",
+      "last_update": "2026-11-27T13:28:55+00:00",
+      "event": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allies",
+        "are",
+        "arrangement",
+        "betrayal",
+        "but",
+        "calling",
+        "eisenkot",
+        "election",
+        "for",
+        "his",
+        "navigates",
+        "netanyahu",
+        "power",
+        "pre",
+        "promise",
+        "represent",
+        "sharing",
+        "some",
+        "such",
+        "tests",
+        "tricky",
+        "waters",
+        "with",
+        "would"
+      ],
+      "source_excerpt": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+          "published_at": "2026-11-27T13:28:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f12cceb368b363f4a15fe7c9",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:16:28+00:00",
+      "last_update": "2026-11-27T13:16:28+00:00",
+      "event": "Famine expect to rise due to global conflict, El Nino, warns UN",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "behind",
+        "conflict",
+        "different",
+        "driver",
+        "due",
+        "expect",
+        "famine",
+        "four",
+        "global",
+        "hotspots",
+        "identified",
+        "mainly",
+        "major",
+        "newly",
+        "nino",
+        "parts",
+        "rise",
+        "the",
+        "three",
+        "warns"
+      ],
+      "source_excerpt": "El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+          "published_at": "2026-11-27T13:16:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d02f5d69a6603920e56a23cf",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:14:52+00:00",
+      "last_update": "2026-11-27T13:14:52+00:00",
+      "event": "Sentence served, still detained: Palestinian families waiting for reunions",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "completed",
+        "despite",
+        "detained",
+        "families",
+        "for",
+        "having",
+        "israeli",
+        "loved",
+        "ones",
+        "palestinian",
+        "prisons",
+        "remain",
+        "reunions",
+        "say",
+        "sentence",
+        "sentences",
+        "served",
+        "still",
+        "their",
+        "waiting"
+      ],
+      "source_excerpt": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+          "published_at": "2026-11-27T13:14:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d68994099cf6fd1368433494",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:06:54+00:00",
+      "last_update": "2026-11-27T13:06:54+00:00",
+      "event": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "108",
+        "are",
+        "australia",
+        "best",
+        "bowled",
+        "brisbane",
+        "career",
+        "claims",
+        "england",
+        "figures",
+        "for",
+        "jamie",
+        "low",
+        "out",
+        "overton",
+        "record",
+        "seven",
+        "t20",
+        "takes",
+        "wicket",
+        "win"
+      ],
+      "source_excerpt": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+          "published_at": "2026-11-27T13:06:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ac07a878e2ed2da2c868f48",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T12:48:44+00:00",
+      "last_update": "2026-11-27T12:48:44+00:00",
+      "event": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "again",
+        "and",
+        "before",
+        "china",
+        "embraced",
+        "game",
+        "hardest",
+        "his",
+        "just",
+        "meet",
+        "miami",
+        "new",
+        "plan",
+        "president",
+        "regime",
+        "slapped",
+        "targets",
+        "tariff",
+        "tariffs",
+        "then",
+        "trump",
+        "weeks",
+        "what"
+      ],
+      "source_excerpt": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+          "published_at": "2026-11-27T12:48:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "68d5e7ef30a0a3cc9197aa15",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:23:13+00:00",
+      "last_update": "2026-11-27T13:23:13+00:00",
+      "event": "What's behind the surge in severe flu cases?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "behind",
+        "cases",
+        "england",
+        "flu",
+        "get",
+        "has",
+        "health",
+        "most",
+        "officials",
+        "possible",
+        "prompted",
+        "risk",
+        "severe",
+        "soon",
+        "surge",
+        "the",
+        "those",
+        "urge",
+        "vaccinated",
+        "what"
+      ],
+      "source_excerpt": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T13:23:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1613a3c6f008e97bf0e2153e",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:53:16+00:00",
+      "last_update": "2026-11-27T13:53:16+00:00",
+      "event": "Concern over maternity unit move prompts extra paramedic funding",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "already",
+        "ambulance",
+        "area",
+        "chief",
+        "concern",
+        "concerned",
+        "extra",
+        "funding",
+        "has",
+        "maternity",
+        "move",
+        "over",
+        "paramedic",
+        "performance",
+        "poor",
+        "pressure",
+        "prompts",
+        "that",
+        "unit"
+      ],
+      "source_excerpt": "Ambulance chief concerned by extra pressure on area that already has \"poor ambulance performance\"'.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T13:53:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5363bd2ddd1a517aaf2d1e66",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:38:07+00:00",
+      "last_update": "2026-11-27T13:38:07+00:00",
+      "event": "Rare turtles found inside baggage at Amsterdam airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "amsterdam",
+        "baggage",
+        "bound",
+        "duct",
+        "endangered",
+        "found",
+        "inside",
+        "moving",
+        "officials",
+        "prevent",
+        "rare",
+        "reptiles",
+        "say",
+        "tape",
+        "the",
+        "them",
+        "turtles",
+        "were",
+        "with"
+      ],
+      "source_excerpt": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T13:38:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "10be8c8e86d51d82d042a097",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:11:03+00:00",
+      "last_update": "2026-11-27T13:11:03+00:00",
+      "event": "Spanish election: What you need to know and what's at stake",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "election",
+        "know",
+        "need",
+        "spanish",
+        "stake",
+        "what",
+        "you"
+      ],
+      "source_excerpt": "Spanish election: What you need to know and what's at stake BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fUm5USzNSeWVIcDVLVXI0YXM2Z2Z4MlZWZlMzLUN2MG9YRXRDZDRIMWFyWVBBdXFYMHYxMjhNRWNIOXU0TXg5Q0hjaENraEVDUy1XS3oydVgwQzg?oc=5",
+          "published_at": "2026-11-27T13:11:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fUm5USzNSeWVIcDVLVXI0YXM2Z2Z4MlZWZlMzLUN2MG9YRXRDZDRIMWFyWVBBdXFYMHYxMjhNRWNIOXU0TXg5Q0hjaENraEVDUy1XS3oydVgwQzg?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e172e92727ab9a6a1e0f53d9",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:29:07+00:00",
+      "last_update": "2026-11-27T13:31:10+00:00",
+      "event": "Short-term inflation clocks in at 9.49pc driven by wheat flour prices",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "49pc",
+        "clocks",
+        "dawn",
+        "driven",
+        "flour",
+        "inflation",
+        "prices",
+        "short",
+        "term",
+        "wheat"
+      ],
+      "source_excerpt": "Short-term inflation clocks in at 9.49pc driven by wheat flour prices Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5",
+          "published_at": "2026-11-27T13:29:07+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047490/short-term-inflation-clocks-in-at-949pc-driven-by-wheat-flour-prices",
+          "published_at": "2026-11-27T13:31:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ccc13a3d50db09718a96fb4",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:25:53+00:00",
+      "last_update": "2026-11-27T13:25:53+00:00",
+      "event": "Bilawal backs south Punjab province, says won't allow controversy",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allow",
+        "backs",
+        "bilawal",
+        "controversy",
+        "province",
+        "punjab",
+        "samaa",
+        "says",
+        "south",
+        "won"
+      ],
+      "source_excerpt": "Bilawal backs south Punjab province, says won't allow controversy samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanRWQWwyaFlHY2gzTmp3eTdRRjJXWUhaSllBY2VpNTFuejJMZGVfem9YZlFrTGo5VWxuOXNlTEhjR3IxSjhCbC1mS19NX0duMWJ1YkZoR1VkazN2REJBclA4RHk3dnZjRFNuWnRLV0d1TE9YTjdLQ2k0R1lZUElKSlZhV3U5SXQzVHhMdnI3RzdHRGxrVGFDaVZQUXhlQzR0bUlj?oc=5",
+          "published_at": "2026-11-27T13:25:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanRWQWwyaFlHY2gzTmp3eTdRRjJXWUhaSllBY2VpNTFuejJMZGVfem9YZlFrTGo5VWxuOXNlTEhjR3IxSjhCbC1mS19NX0duMWJ1YkZoR1VkazN2REJBclA4RHk3dnZjRFNuWnRLV0d1TE9YTjdLQ2k0R1lZUElKSlZhV3U5SXQzVHhMdnI3RzdHRGxrVGFDaVZQUXhlQzR0bUlj?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8003349837595f7a305193c",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T12:40:56+00:00",
+      "last_update": "2026-11-27T12:40:56+00:00",
+      "event": "Karachi Admin Society tragedy: Suspended officers were already without postings",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "admin",
+        "already",
+        "karachi",
+        "officers",
+        "postings",
+        "society",
+        "suspended",
+        "tragedy",
+        "were",
+        "without"
+      ],
+      "source_excerpt": "Karachi Admin Society tragedy: Suspended officers were already without postings",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-admin-society-tragedy-suspended-officers-were-already-without-postings",
+          "published_at": "2026-11-27T12:40:56+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-admin-society-tragedy-suspended-officers-were-already-without-postings",
+        "publisher_url": "https://arynews.tv/karachi-admin-society-tragedy-suspended-officers-were-already-without-postings",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1ad76eccac72b960a0fe84e",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T12:54:57+00:00",
+      "last_update": "2026-11-27T12:54:57+00:00",
+      "event": "Pakistan U19 coach says emerging players got potential to play Test cricket",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "coach",
+        "cricket",
+        "emerging",
+        "got",
+        "pakistan",
+        "play",
+        "players",
+        "potential",
+        "samaa",
+        "says",
+        "test",
+        "u19"
+      ],
+      "source_excerpt": "Pakistan U19 coach says emerging players got potential to play Test cricket samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcldwS1dhWjQ3MlJJMTluSWZwbzlWb1FBeTU2Y3pMT0FneG5mVEhOMXJ2alIzNURiaU1WN1NseWNzT0dDSmJVbURwMHkzZlZncnl6bm1IVHJHRmw2UWRIazlmSm50ZEJDUGp5ZWYtRnVZREtpRGJrOFRlUzI5NjZLZzM3TVFHcnUyQ1N0WWJ4ZFo0RmtLVVNzNnZfelF3VUgzcEljMktxNVg4b3YxaHdHZlk3bnNIM2lMUHhwa2dR?oc=5",
+          "published_at": "2026-11-27T12:54:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcldwS1dhWjQ3MlJJMTluSWZwbzlWb1FBeTU2Y3pMT0FneG5mVEhOMXJ2alIzNURiaU1WN1NseWNzT0dDSmJVbURwMHkzZlZncnl6bm1IVHJHRmw2UWRIazlmSm50ZEJDUGp5ZWYtRnVZREtpRGJrOFRlUzI5NjZLZzM3TVFHcnUyQ1N0WWJ4ZFo0RmtLVVNzNnZfelF3VUgzcEljMktxNVg4b3YxaHdHZlk3bnNIM2lMUHhwa2dR?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c25f3a1ac43cd555e59881a5",
+      "remembered_at": "2026-11-27T14:05:43.099617+00:00",
+      "event_date": "2026-11-27T13:57:07+00:00",
+      "last_update": "2026-11-27T13:57:07+00:00",
+      "event": "SAMAA TV – Breaking News from Pakistan & World",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breaking",
+        "from",
+        "news",
+        "pakistan",
+        "samaa",
+        "world"
+      ],
+      "source_excerpt": "SAMAA TV – Breaking News from Pakistan & World samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBFX3ExbzJLclZZYXJ1VURMbGIyN09GR3pzOGdfLVBHUWZtSzdaa1ZFLUpYOS12dkYy?oc=5",
+          "published_at": "2026-11-27T13:57:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBFX3ExbzJLclZZYXJ1VURMbGIyN09GR3pzOGdfLVBHUWZtSzdaa1ZFLUpYOS12dkYy?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T12:45:53.648743+00:00"
+  "updated_at": "2026-11-27T14:05:43.099617+00:00"
 }

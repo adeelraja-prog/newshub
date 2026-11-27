@@ -1,207 +1,171 @@
-# News Hub report - Fri 27 Nov, 05:45 PM PKT
+# News Hub report - Fri 27 Nov, 07:05 PM PKT
 
 ## Collection
-- New items this run: 187 | items in rolling pool: 778
-- Unique story clusters: 640 (duplicates merged: 138)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 100, Geo News 15, ProPakistani 10, Al Jazeera 8, samaa tv 7, TechJuice 6, AP News 5, Wired 5, The Express Tribune 3, Dawn 2, The News International 2, Dawn Pakistan 2
+- New items this run: 113 | items in rolling pool: 796
+- Unique story clusters: 670 (duplicates merged: 126)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 40, Geo News 17, samaa tv 10, ProPakistani 7, TechJuice 7, Al Jazeera 6, Dawn 3, Dawn Pakistan 2, Dawn Latest 2, The Express Tribune 2, The Verge 2, Wired 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: MARYAM NAWAZ AIRCRAFT CONTROVERSY | NOBEL PRIZE CLAIM EXPOSED | PTI & MAULANA FAZL | https://www.youtube.com/watch?v=DXYGoYJxRhQ
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Hackers breach US Air Force flagship Cloud One computing platform | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi strike kills 11 in Yemen: Houthi media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Marc Marquez announces surprise retirement after clinching eighth MotoGP title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Binance says 'withdrawal recovery work' complete after $6.3bn crypto heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m in loans to boost water, agriculture management in KP and Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Hackers breach US Air Force flagship Cloud One computing platform | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi strike kills 11 in Yemen: Houthi media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Marc Marquez announces surprise retirement after clinching eighth MotoGP title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Binance says 'withdrawal recovery work' complete after $6.3bn crypto heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m in loans to boost water, agriculture management in KP and Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Hackers breach US Air Force flagship Cloud One computing platform | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi strike kills 11 in Yemen: Houthi media | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Marc Marquez announces surprise retirement after clinching eighth MotoGP title | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Binance says 'withdrawal recovery work' complete after $6.3bn crypto heist | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m in loans to boost water, agriculture management in KP and Punjab | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 109/120 | empty: 4 | failed: 7 | malformed/partial: 8
-- Trusted publisher desks with at least one healthy source: 8/10
-- ATTENTION: ARY News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Samaa TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dunya News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Sindh Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The Guardian | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- Trusted publisher desks with no healthy source: ARY News, Dunya News TV
 
 ## Selected for the queue
-### What Spain’s election means for Morocco  [NORMAL]
-- Poster: سپین کے انتخابات کا مراکش کے ساتھ تعلقات پر اثر / What Spain's election means for Morocco | category politics
-- Alternative headline: Spain’s vote could reshape diplomatic ties with Morocco
+### Eisenkot tests power-sharing with Netanyahu despite election promise  [NORMAL]
+- Poster: آئزن کوٹ کا نیتن یاہو کے ساتھ اقتدار میں شراکت داری کا امتحان / Eisenkot tests power-sharing with Netanyahu | category politics
+- Alternative headline: Netanyahu power-sharing arrangement weighed by Israel's Eisenkot
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Spain election, Morocco relations, diplomacy, strategic interests, election impact | hashtags: #SpainElection #Morocco #Diplomacy #WorldNews
-- Scheduled: Fri 27 Nov, 05:45 PM PKT
+- Keywords: Eisenkot, Netanyahu, Israel politics, power-sharing, Al Jazeera | hashtags: #Eisenkot #Netanyahu #IsraelPolitics #AlJazeera
+- Scheduled: Fri 27 Nov, 07:05 PM PKT
 - Caption:
 ```
-Spain's recent election could reshape diplomatic relations with Morocco, though shared strategic interests will continue to bind the two nations.
+Some allies are urging a power-sharing deal, but it would contradict a key pre-election promise.
 
-The recent vote in Spain could potentially reshape diplomatic relations between the two neighbouring nations. However, shared strategic interests will continue to bind Spain and Morocco together despite political shifts.
+Israeli politician Eisenkot is navigating a difficult political path as some of his allies push for a power-sharing arrangement with Prime Minister Benjamin Netanyahu. Such a move would directly contradict Eisenkot's pre-election commitments, raising questions about his political stance.
 
-سپین میں ہونے والا حالیہ ووٹ دونوں ممالک کے درمیان سفارتی تعلقات کو نئی شکل دے سکتا ہے، تاہم مشترکہ تزویراتی مفادات دونوں ممالک کو آپس میں جوڑے رکھیں گے۔
+اسرائیلی سیاستدان آئزن کوٹ ایک مشکل سیاسی دور سے گزر رہے ہیں کیونکہ ان کے کچھ اتحادی وزیراعظم بنجمن نیتن یاہو کے ساتھ اقتدار میں شراکت داری پر زور دے رہے ہیں۔ اس طرح کا قدم آئزن کوٹ کے انتخابات سے پہلے کے وعدوں کے بالکل برعکس ہوگا۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#SpainElection #Morocco #Diplomacy #WorldNews
+#Eisenkot #Netanyahu #IsraelPolitics #AlJazeera
 ```
 
-### Hackers breach US Air Force flagship Cloud One platform  [NORMAL]
-- Poster: ہیکرز نے امریکی فضائیہ کے کلاؤڈ ون پلیٹ فارم کو نشانہ بنا لیا / Hackers breach US Air Force Cloud One platform | category other
-- Alternative headline: US Air Force Cloud One computing platform hit by hackers
+### Erdogan completes Turkey's ratification of Makkah defence pact  [NORMAL]
+- Poster: صدر اردوان نے مکہ دفاعی معاہدے کی توسیع مکمل کر لی / Erdogan completes Makkah defence pact ratification | category other
+- Alternative headline: Turkey finalizes Makkah defence pact ratification under Erdogan
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFwcDlqNTNJSnZ0Z2s2X1gxZ25tdkY0Sl9USGFLRzVaMmFGSHA4OFNfbDVfRGZMWTN4ZzFCUEdpZWRiRV9vWHAzM0pfT1FFVHliaUNzMzd1SnZ5QlJOeVNBSXlhWnBqam9WWkxTNXFHWE10TVZ6ZVVCcG12NjZPZndMa2wzSmJQV1dpQmhjSWdXTnBlUUhZbmpKX01adkl4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFwcDlqNTNJSnZ0Z2s2X1gxZ25tdkY0Sl9USGFLRzVaMmFGSHA4OFNfbDVfRGZMWTN4ZzFCUEdpZWRiRV9vWHAzM0pfT1FFVHliaUNzMzd1SnZ5QlJOeVNBSXlhWnBqam9WWkxTNXFHWE10TVZ6ZVVCcG12NjZPZndMa2wzSmJQV1dpQmhjSWdXTnBlUUhZbmpKX01adkl4?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The News International, ProPakistani, Geo News
-- Keywords: Cloud One breach, US Air Force, hackers, cyber attack, computing platform | hashtags: #USAirForce #CyberSecurity #CloudOne #Hacked
-- Scheduled: Fri 27 Nov, 05:55 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5
+- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
+- Keywords: Erdogan, Makkah defence pact, Turkey, ratification, Dawn | hashtags: #Erdogan #Turkey #MakkahPact #Dawn
+- Scheduled: Fri 27 Nov, 07:15 PM PKT
 - Caption:
 ```
-Hackers have successfully breached the US Air Force's flagship Cloud One computing platform, according to reports.
+Turkish President Erdogan has officially completed the ratification process for the Makkah defence pact.
 
-Hackers have breached the US Air Force's flagship Cloud One computing platform. News of the security breach emerged through reports from Dawn and other media outlets.
+Turkish President Recep Tayyip Erdogan has completed the ratification of the Makkah defence pact, as reported by Dawn. The agreement marks a significant step in regional defense cooperation, though further details on its implementation are awaited.
 
-ہیکرز نے امریکی فضائیہ کے اہم کلاؤڈ ون کمپیوٹنگ پلیٹ فارم کو ہیک کر لیا ہے۔ اس سیکیورٹی خلاف ورزی کی خبریں مختلف میڈیا آؤٹ لیٹس کے ذریعے سامنے آئیں۔
+ڈان کی رپورٹ کے مطابق ترک صدر رجب طیب اردوان نے مکہ دفاعی معاہدے کی توثیق مکمل کر لی ہے۔ یہ معاہدہ علاقائی دفاعی تعاون میں ایک اہم قدم کی نشاناندہی کرتا ہے۔
 
-First reported by Dawn; also reported by ProPakistani and Geo News.
+First reported by Dawn
 
-#USAirForce #CyberSecurity #CloudOne #Hacked
+#Erdogan #Turkey #MakkahPact #Dawn
 ```
 
-### Saudi strike kills 11 in Yemen: Houthi media  [NORMAL]
-- Poster: یمن میں سعودی حملے کے نتیجے میں 11 افراد جاں بحق / Saudi strike kills 11 in Yemen | category war
-- Alternative headline: Saudi strike kills 11 civilians in Yemen's Taiz
+### Pakistan seeks zero-tariff access to China with $25b export target  [NORMAL]
+- Poster: پاکستان نے چین تک زیرو ٹیرف رسائی اور 25 ارب ڈالر کا ہدف مقرر کر لیا / Pakistan seeks zero-tariff access to China | category economy
+- Alternative headline: Export target set at $25b as Pakistan pushes for zero-tariff China access
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlp4M0xPQ25EdENHYXZ0cUFUSFg2bzJ0Z3RuclNCcjBWWl9CTWlzSndDMDR2SklyRG5KNUtlVjhUZnRWMFU3dmhNWUp3UmVERkNuemE4bURldzFsNk15eWVoamktOVJHQTE4cUo4RHVkV0tCR0FsWnNRVHhVbG1mWlZHSQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlp4M0xPQ25EdENHYXZ0cUFUSFg2bzJ0Z3RuclNCcjBWWl9CTWlzSndDMDR2SklyRG5KNUtlVjhUZnRWMFU3dmhNWUp3UmVERkNuemE4bURldzFsNk15eWVoamktOVJHQTE4cUo4RHVkV0tCR0FsWnNRVHhVbG1mWlZHSQ?oc=5
-- Supporting coverage: Dawn, Al Jazeera
-- Keywords: Saudi strike Yemen, Houthi media, Taiz, casualties, Yemen conflict | hashtags: #Yemen #SaudiStrike #Taiz #Houthi
-- Scheduled: Fri 27 Nov, 06:05 PM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5
+- Supporting coverage: The Express Tribune, Investify
+- Keywords: Pakistan exports, China, zero-tariff, $25b export target, The Express Tribune | hashtags: #PakistanExports #China #Economy #ExpressTribune
+- Scheduled: Fri 27 Nov, 07:25 PM PKT
 - Caption:
 ```
-A reported Saudi-led coalition strike has killed 11 people in Yemen's Taiz province, according to Houthi media.
+Pakistan is aggressively pursuing zero-tariff market access in China to achieve an ambitious $25 billion export target.
 
-A Saudi strike has killed 11 people in Yemen, according to Houthi media reports. The incident occurred in Taiz, marking another escalation in the ongoing regional conflict.
+Pakistan is seeking zero-tariff access to Chinese markets as part of a broader strategy to boost its trade volume and reach an ambitious export target of $25 billion. The move aims to strengthen bilateral trade ties and enhance economic growth.
 
-حوثی میڈیا کے مطابق یمن میں ہونے والے ایک سعودی حملے میں 11 افراد جاں بحق ہو گئے۔ یہ واقعہ تعز میں پیش آیا جو کہ خطے میں جاری تنازعے میں ایک اور شدت کی عکاسی کرتا ہے۔
+پاکستان اپنے تجارتی حجم کو بڑھانے اور 25 ارب ڈالر برآمدات کے ہدف تک پہنچنے کی حکمت عملی کے تحت چینی مارکیٹوں تک زیرو ٹیرف رسائی حاصل کرنے کی کوشش کر رہا ہے۔
 
-First reported by Dawn; also reported by Al Jazeera.
+First reported by The Express Tribune
 
-#Yemen #SaudiStrike #Taiz #Houthi
+#PakistanExports #China #Economy #ExpressTribune
 ```
 
-### Marc Marquez announces surprise retirement after eighth MotoGP title  [NORMAL]
-- Poster: آٹھواں موٹو جی پی ٹائٹل جیتنے کے بعد مارک مارکیز کی ریٹائرمنٹ / Marc Marquez announces surprise retirement | category sports
-- Alternative headline: MotoGP champion Marc Marquez retires days after eighth title
+### Norse Atlantic lessors demand jets back amid urgent funding crisis  [NORMAL]
+- Poster: نورس اٹلانٹک کے طیارے واپس مانگ لیے گئے، فنڈز کی تلاش جاری / Norse Atlantic lessors demand jets back | category economy
+- Alternative headline: Lessors demand 12 aircraft back as Norse Atlantic fights for survival
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjF0TVM2QXVGOERTUDQ5LXdyclFRdVpFNHYtcjVWVnJUcUlGWXViLS1kNHdzRFF1VFdwblFJLUZRSHVtQ0hKenY5eHZRbVR3Z0c5UXNkZzNaMm11OVlnRUUweTZlcW5pajdRRzMwcmJvMzI4c2ZiR3hVQzhIVkpSZXJncXBXZldmOTJ4UHV5WGlxNUVXRnRyTEVsZTFCN0FwaFZHN2RiajhSVHF6bWdxWg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjF0TVM2QXVGOERTUDQ5LXdyclFRdVpFNHYtcjVWVnJUcUlGWXViLS1kNHdzRFF1VFdwblFJLUZRSHVtQ0hKenY5eHZRbVR3Z0c5UXNkZzNaMm11OVlnRUUweTZlcW5pajdRRzMwcmJvMzI4c2ZiR3hVQzhIVkpSZXJncXBXZldmOTJ4UHV5WGlxNUVXRnRyTEVsZTFCN0FwaFZHN2RiajhSVHF6bWdxWg?oc=5
-- Supporting coverage: AP News, Geo News, Geo News
-- Keywords: Marc Marquez retirement, MotoGP, world title, motorcycling, sports news | hashtags: #MarcMarquez #MotoGP #Retirement #Sports
-- Scheduled: Fri 27 Nov, 06:15 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding
+- Supporting coverage: Dawn Latest, Geo News, Geo News
+- Keywords: Norse Atlantic, lessors, bankruptcy, airline crisis, Dawn | hashtags: #NorseAtlantic #Aviation #Economy #Dawn
+- Scheduled: Fri 27 Nov, 07:35 PM PKT
 - Caption:
 ```
-MotoGP champion Marc Marquez has announced a surprise retirement just days after clinching his eighth world title.
+Lessors have terminated leases for all 12 aircraft as the budget carrier scrambles for emergency funding.
 
-Marc Marquez has announced a surprise retirement from MotoGP shortly after securing his eighth premier-class world championship title, catching fans and the racing world by surprise.
+Budget carrier Norse Atlantic is facing severe financial turmoil as lessors terminated leasing contracts for all 12 aircraft in its fleet, demanding their return. The airline is urgently seeking funding after suspending all flights due to soaring fuel costs from the war on Iran.
 
-مارک مارکیز نے اپنا آٹھواں موٹو جی پی ورلڈ ٹائٹل جیتنے کے چند دن بعد ہی حیرت انگیز طور پر ریٹائرمنٹ کا اعلان کر دیا ہے، جس نے شائقین کو دنگ کر دیا ہے۔
+بجٹ ایئر لائن نورس اٹلانٹک کو شدید مالی بحران کا سامنا ہے کیونکہ لیزرز نے اس کے تمام 12 طیاروں کے معاہدے ختم کر دیے ہیں اور ان کی واپسی کا مطالبہ کیا ہے۔
 
-First reported by Geo News; also reported by AP News.
+First reported by Dawn Latest
 
-#MarcMarquez #MotoGP #Retirement #Sports
+#NorseAtlantic #Aviation #Economy #Dawn
 ```
 
-### Binance completes withdrawal recovery work after $6.3bn heist  [NORMAL]
-- Poster: اربوں ڈالر کی ہیکنگ کے بعد بائنانس نے واپسی کے نظام کو بحال کر دیا / Binance completes withdrawal recovery work | category economy
-- Alternative headline: Binance says withdrawal recovery work complete after crypto heist
+### Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel costs  [NORMAL]
+- Poster: ایران جنگ کے باعث نورس اٹلانٹک کی نارویجن یونٹ دیوالیہ / Norse Atlantic Norwegian unit declares bankruptcy | category economy
+- Alternative headline: Norwegian unit of Norse Atlantic files for bankruptcy amid soaring fuel costs
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047475/binance-says-withdrawal-recovery-work-complete-after-63bn-crypto-heist | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047475/binance-says-withdrawal-recovery-work-complete-after-63bn-crypto-heist
-- Supporting coverage: Dawn Latest, The Express Tribune
-- Keywords: Binance withdrawal recovery, crypto heist, Binance, cryptocurrency, security incident | hashtags: #Binance #CryptoHeist #Cryptocurrency #BusinessNews
-- Scheduled: Fri 27 Nov, 06:25 PM PKT
+- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Latest https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy
+- Supporting coverage: Dawn Latest, Euronext Markets: Real-time Stock Market Data | live
+- Keywords: Norse Atlantic bankruptcy, Iran war, fuel costs, airline, Dawn | hashtags: #NorseAtlantic #Bankruptcy #AviationNews #Dawn
+- Scheduled: Fri 27 Nov, 07:45 PM PKT
 - Caption:
 ```
-Binance says its withdrawal recovery work is complete following last month's massive $6.3 billion cryptocurrency heist.
+Surging fuel costs driven by the war on Iran have forced Norse Atlantic's Norwegian operating unit into bankruptcy.
 
-Binance has finished fixing its withdrawal systems following a cyberattack last month that resulted in a $6.3 billion loss. The exchange stated that withdrawals are now open across nearly all networks.
+Norse Atlantic's Norwegian operating unit has filed for bankruptcy after succumbing to soaring fuel costs driven by the war on Iran. While the main listed entity and other group companies are not part of the filing, the airline previously suspended all flights.
 
-بائنانس نے گزشتہ ماہ 6.3 ارب ڈالر کی ہیکنگ کے بعد اپنے فنڈز کے نکلوانے کے نظام کی مرمت کا کام مکمل کر لیا ہے۔ صرافہ کا کہنا ہے کہ اب تقریباً تمام نیٹ ورکس پر رقوم کی نکاسی بحال ہو چکی ہے۔
+ایران جنگ کی وجہ سے بڑھتے ہوئے ایندھن کے اخراجات کے باعث نورس اٹلانٹک کی نارویجن آپریٹنگ یونٹ نے دیوالیہ ہونے کا اعلان کر دیا ہے۔
 
-First reported by Dawn Latest; also reported by The Express Tribune.
+First reported by Dawn Latest
 
-#Binance #CryptoHeist #Cryptocurrency #BusinessNews
+#NorseAtlantic #Bankruptcy #AviationNews #Dawn
 ```
 
-### ADB approves $468m in loans for KP and Punjab water projects  [NORMAL]
-- Poster: اے ڈی بی نے پنجاب اور خیبر پختونخوا کے لیے 46.8 کروڑ ڈالر کے قرض کی منظوری دیدی / ADB approves $468m loans for KP and Punjab | category economy
-- Alternative headline: ADB approves $468m loans to boost water and agriculture in Pakistan
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab
-- Supporting coverage: Dawn Latest, samaa tv
-- Keywords: ADB loans Pakistan, water management, agriculture, Khyber Pakhtunkhwa, Punjab | hashtags: #ADB #Pakistan #Agriculture #WaterManagement
-- Scheduled: Fri 27 Nov, 06:35 PM PKT
-- Caption:
-```
-The Asian Development Bank has approved $468 million in loans to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab.
-
-The Asian Development Bank has approved two loans totaling $468 million to enhance water resource and agriculture management in Khyber Pakhtunkhwa and Punjab, aiming to boost climate resilience and food security for hundreds of thousands of people.
-
-ایشین ڈویلپمنٹ بینک نے خیبر پختونخوا اور پنجاب میں پانی اور زراعت کے انتظام کو بہتر بنانے کے لیے 46کروڑ 80 لاکھ ڈالر کے دو قرضوں کی منظوری دے دی ہے، جس کا مقصد موسمیاتی تبدیلیوں سے نمٹنے کی صلاحیت کو بڑھانا ہے۔
-
-First reported by Dawn Latest; also reported by Samaa TV.
-
-#ADB #Pakistan #Agriculture #WaterManagement
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
-- [needs_review] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
-- [needs_review] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
 - [needs_review] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
 - [needs_review] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
 - [needs_review] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
@@ -391,12 +355,12 @@ First reported by Dawn Latest; also reported by Samaa TV.
 - [published] normal | New Zealand’s Opportunity Party poised to become election kingmaker | Fri 27 Nov, 10:46 AM PKT
 - [needs_review] normal | 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | Fri 27 Nov, 10:56 AM PKT
 - [needs_review] normal | Female social worker hurt in acid attack in North Karachi | Fri 27 Nov, 11:06 AM PKT
-- [queued] normal | Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on | Fri 27 Nov, 11:50 AM PKT
-- [queued] normal | Iran warns South Korea against Gulf military expansion | Fri 27 Nov, 12:00 PM PKT
-- [queued] normal | Making waves: Pakistani woman breaking jet ski barriers | Fri 27 Nov, 12:10 PM PKT
-- [queued] normal | Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | Fri 27 Nov, 12:20 PM PKT
-- [queued] normal | PPRA points out procedural flaw in CDA's sewage treatment plants | Fri 27 Nov, 12:30 PM PKT
-- [queued] normal | New Zealand Election Results Force Tough Coalition Talks for Conservat | Fri 27 Nov, 01:29 PM PKT
+- [needs_review] normal | Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on | Fri 27 Nov, 11:50 AM PKT
+- [needs_review] normal | Iran warns South Korea against Gulf military expansion | Fri 27 Nov, 12:00 PM PKT
+- [needs_review] normal | Making waves: Pakistani woman breaking jet ski barriers | Fri 27 Nov, 12:10 PM PKT
+- [needs_review] normal | Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | Fri 27 Nov, 12:20 PM PKT
+- [needs_review] normal | PPRA points out procedural flaw in CDA's sewage treatment plants | Fri 27 Nov, 12:30 PM PKT
+- [published] normal | New Zealand Election Results Force Tough Coalition Talks for Conservat | Fri 27 Nov, 01:29 PM PKT
 - [queued] normal | Sandpapergate Forum Widens Scope to Cover 2017-18 Australia-England As | Fri 27 Nov, 01:39 PM PKT
 - [queued] normal | State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Mill | Fri 27 Nov, 01:49 PM PKT
 - [queued] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
@@ -420,16 +384,22 @@ First reported by Dawn Latest; also reported by Samaa TV.
 - [queued] normal | Marc Marquez announces surprise retirement after eighth MotoGP title | Fri 27 Nov, 06:15 PM PKT
 - [queued] normal | Binance completes withdrawal recovery work after $6.3bn heist | Fri 27 Nov, 06:25 PM PKT
 - [queued] normal | ADB approves $468m in loans for KP and Punjab water projects | Fri 27 Nov, 06:35 PM PKT
+- [queued] normal | Eisenkot tests power-sharing with Netanyahu despite election promise | Fri 27 Nov, 07:05 PM PKT
+- [queued] normal | Erdogan completes Turkey's ratification of Makkah defence pact | Fri 27 Nov, 07:15 PM PKT
+- [queued] normal | Pakistan seeks zero-tariff access to China with $25b export target | Fri 27 Nov, 07:25 PM PKT
+- [queued] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
+- [queued] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
 
 ## Publishing this run
-- Published '[YouTube] MARYAM NAWAZ AIRCRAFT CONTROVERSY | NOBEL PRIZE CLAIM EXPOSED | PTI & MAULANA FAZL'.
+- Published 'New Zealand Election Results Force Tough Coalition Talks for Conservative Incumbent'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 6657 | output tokens: 3400
-- Errors: 4
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 6281 | output tokens: 2740
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
