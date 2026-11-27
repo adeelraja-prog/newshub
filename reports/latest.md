@@ -1,127 +1,175 @@
-# News Hub report - Fri 27 Nov, 08:35 AM PKT
+# News Hub report - Fri 27 Nov, 09:43 AM PKT
 
 ## Collection
-- New items this run: 21 | items in rolling pool: 210
-- Unique story clusters: 189 (duplicates merged: 21)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 6
-- Items per outlet: Dawn 4, Dawn Pakistan 4, Al Jazeera 3, Investify 2, The Express Tribune 1, Babushahi.com 1, GSMArena 1, CNBC 1, The Guardian 1, The Kyiv Independent 1, Gulf News 1, CNN 1
+- New items this run: 27 | items in rolling pool: 212
+- Unique story clusters: 178 (duplicates merged: 34)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 6
+- Items per outlet: Al Jazeera 6, Dawn Pakistan 5, Dawn Latest 5, Investify 3, Geo News 2, The Express Tribune 1, Dawn 1, X 1, AP News 1, Benzinga 1, Middle East Eye 1, ARY News 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 2 Italians killed in Iranian drone strike in Kuwait | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 26th, 27th Amendments sparked judicial conflict: ex-IHC judge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK rolls out Rs15bn 100-day action plan | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain and Morocco under-17 stars target World Cup 2030 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Sindh CM Announces Consultations on Local Government Empowerment Amid New Province Debate  [NORMAL]
-- Poster: سندھ حکومت کا نیا بلدیاتی نظام لانے اور مشاورت کا اعلان / Sindh Announces Consultations on Local Government Reforms | category politics
-- Alternative headline: Sindh Forms Committee for Local Body Reforms Amid Growing Administrative Debates
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment
-- Supporting coverage: Dawn Pakistan
-- Keywords: Sindh local government, Murad Ali Shah, local bodies, new provinces, Sindh government, PPP | hashtags: #Sindh #LocalGovernment #MuradAliShah #PakistanPolitics #Karachi
-- Scheduled: Fri 27 Nov, 08:35 AM PKT
-- Caption:
-```
-Amid ongoing debates over creating new administrative units, Sindh Chief Minister Murad Ali Shah has announced a major consultation process for a new local government law.
-
-Sindh Chief Minister Syed Murad Ali Shah has announced a comprehensive consultation process for a new local government law. A two-minister committee was formed to meet stakeholders and submit a report within three months. The move comes amid national debates on creating new provinces, which the PPP opposes.
-
-سندھ کے وزیر اعلیٰ مراد علی شاہ نے نئے بلدیاتی قانون کے لیے ایک جامع مشاورت کا اعلان کیا ہے۔ تمام فریقین سے بات چیت کے لیے دو رکنی کمیٹی تشکیل دے دی گئی ہے جو تین ماہ میں رپورٹ پیش کرے گی۔ یہ اعلان ایسے وقت میں سامنے آیا ہے جب نئے صوبوں کے قیام پر بحث جاری ہے۔
-
-First reported by Dawn
-
-#Sindh #LocalGovernment #MuradAliShah #PakistanPolitics #Karachi
-```
-
-### Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involvement  [NORMAL]
-- Poster: کویت میں ڈرون حملے کے دوران دو اطالوی شہری ہلاک / Two Italians Killed in Kuwait Drone Attack | category world
-- Alternative headline: Italian Nationals Killed in Kuwait Attack Sparking Regional Tensions
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGRoQ19YZzM4eFdoUDFFMEhsT0dBYmNXR252ZmR2UTN3cVdvMDJWUU00RmVDQ2E2RDFJYlZCRXI3elI3d2h4czhSc2xxb2xqdGJMVm5nb2c3WUtva1h3QTZldkxaQjItSm10NXFLMGV3TFNXclFNX01ZTTdkeE0wRkhuSU9ZMXIxOVZFMjVR?oc=5
-- Supporting coverage: NBC News, The New Arab, Dawn, The Hill, CNBC
-- Keywords: Kuwait drone strike, Italians killed, Iran, Kuwait attack, drone strike, Middle East conflict | hashtags: #Kuwait #Iran #Italy #DroneStrike #WorldNews
-- Scheduled: Fri 27 Nov, 08:45 AM PKT
-- Caption:
-```
-Two Italian nationals have been killed following a drone strike in Kuwait, amid escalating regional tensions and denials from Iran.
-
-Two Italian nationals were killed in a drone strike in Kuwait. While reports linked the incident to Iranian actions, regional developments continue to draw international attention and statements from global leaders regarding the ongoing conflict.
-
-کویت میں ایک ڈرون حملے کے دوران دو اطالوی شہری ہلاک ہو گئے۔ اگرچہ رپورٹس میں اس واقعے کو ایرانی کارروائی سے جوڑا گیا ہے، لیکن علاقائی کشیدگی اور جاری تنازعے پر عالمی سطح پر ردعمل کا اظہار کیا جا رہا ہے۔
-
-First reported by Dawn
-
-#Kuwait #Iran #Italy #DroneStrike #WorldNews
-```
-
-### Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Cooked  [NORMAL]
-- Poster: کویت حملہ مشکوک اور جنگ کی سازش ہے، ایرانی وزیر خارجہ / Kuwait Attack is Suspicious: Iran FM | category war
-- Alternative headline: Tehran Denies Involvement in Kuwait Strike Calling It a Pre-Cooked Recipe
+### Asian stock markets rebound following earlier tech rout  [NORMAL]
+- Poster: ایشیائی اسٹاک مارکیٹس میں مثبت رجحان، شیئرز کی قیمتیں سنبھل گئیں / Asian stock markets rebound after tech rout | category economy
+- Alternative headline: Indices rise across Japan, South Korea, Australia and Hong Kong
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss
-- Supporting coverage: The American Conservative, Al Jazeera, Al Jazeera
-- Keywords: Abbas Araghchi, Iran war, Kuwait attack, Tehran, foreign minister, Middle East | hashtags: #Iran #Kuwait #AbbasAraghchi #MiddleEastWar #BreakingNews
-- Scheduled: Fri 27 Nov, 08:55 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Asian stock markets, tech rout, Japan stocks, Hong Kong indices, New Zealand election | hashtags: #StockMarket #AsiaEconomy #TechRout #MarketUpdate
+- Scheduled: Fri 27 Nov, 09:43 AM PKT
 - Caption:
 ```
-Iranian Foreign Minister Abbas Araghchi has dismissed allegations linking Tehran to the deadly Kuwait incident, calling it suspicious.
+Stock markets across major Asian economies have bounced back after an earlier tech-driven downturn.
 
-Iranian Foreign Minister Abbas Araghchi stated that the deadly incident in Kuwait is suspicious and resembles a pre-cooked recipe designed to fuel war. Tehran has rejected direct responsibility amid rising military escalations in the region.
+Indices in Japan, South Korea, Australia, and Hong Kong experienced a rebound following an earlier tech rout, while New Zealand stocks dipped due to ongoing election uncertainty, according to Al Jazeera.
 
-ایرانی وزیر خارجہ عباس عراقچی نے کہا ہے کہ کویت میں پیش آنے والا ہلاکت خیز واقعہ مشکوک ہے اور یہ جنگ کے لیے ایک پہلے سے تیار کردہ نسخے کی طرح لگتا ہے۔ تہران نے اس حملے میں ملوث ہونے کی تردید کی ہے۔
+الجزیرہ کے مطابق جاپان، جنوبی کوریا، آسٹریلیا اور ہانگ کانگ کے انڈیکس میں ٹیکنالوجی کے شعبے میں گراوٹ کے بعد بہتری دیکھی گئی، جبکہ نیوزی لینڈ کے اسٹاکس انتخابی غیر یقینی صورتحال کی وجہ سے نیچے آگئے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Iran #Kuwait #AbbasAraghchi #MiddleEastWar #BreakingNews
+#StockMarket #AsiaEconomy #TechRout #MarketUpdate
 ```
 
-- Indian outlets blocked this run: 0 items
+### Daily news cartoon highlights political developments  [NORMAL]
+- Poster: روزنامہ ڈان کا تازہ کارٹون جاری / Latest daily editorial cartoon released | category other
+- Alternative headline: Epaper features latest editorial cartoon for November 27
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5
+- Supporting coverage: Pakistan Today, Pakistan Today, Pakistan Today, Dawn, The Express Tribune, Geo News
+- Keywords: editorial cartoon, Dawn cartoon, daily cartoon, political satire | hashtags: #EditorialCartoon #Dawn #PoliticalSatire
+- Scheduled: Fri 27 Nov, 09:53 AM PKT
+- Caption:
+```
+The daily editorial cartoon offers a satirical take on current events.
+
+Dawn published its daily editorial cartoon for November 27, 2026, capturing contemporary political and social themes through visual satire.
+
+ڈان نے 27 نومبر 2026 کے لیے اپنا روزانہ کا ادارتی کارٹون شائع کیا ہے، جو بصری طنز کے ذریعے موجودہ سیاسی اور سماجی موضوعات کو اجاگر کرتا ہے۔
+
+First reported by Dawn.
+
+#EditorialCartoon #Dawn #PoliticalSatire
+```
+
+### Quetta court grants bail to journalist Shahid Maitla  [NORMAL]
+- Poster: صحافی شاہد مایتلا کو عدالت سے ضمانت مل گئی / Journalist Shahid Maitla granted bail | category courts
+- Alternative headline: Journalist Shahid Maitla released on bail in NCCIA case
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Shahid Maitla bail, Quetta court, NCCIA case, journalist bail | hashtags: #ShahidMaitla #Journalist #QuettaCourt #NCCIA
+- Scheduled: Fri 27 Nov, 10:03 AM PKT
+- Caption:
+```
+A court in Quetta has approved the bail plea of journalist Shahid Maitla in an NCCIA case.
+
+Journalist Shahid Maitla has been granted bail by a Quetta court in a case registered under the NCCIA, following legal proceedings regarding his detention.
+
+کوئٹہ کی عدالت نے این سی سی آئی اے کے مقدمے میں گرفتار صحافی شاہد مایتلا کی ضمانت منظور کر لی ہے۔
+
+First reported by Dawn.
+
+#ShahidMaitla #Journalist #QuettaCourt #NCCIA
+```
+
+### 16 new laws enacted to strengthen law and order: Bugti  [NORMAL]
+- Poster: امن و امان کو بہتر بنانے کے لیے 16 نئے قوانین بنائے گئے: وزیر اعلیٰ بگٹی / 16 laws enacted to strengthen security: CM Bugti | category politics
+- Alternative headline: Balochistan CM highlights enactment of 16 security laws
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: CM Bugti, Balochistan laws, law and order, security legislation | hashtags: #Balochistan #CMBugti #LawAndOrder #Security
+- Scheduled: Fri 27 Nov, 10:13 AM PKT
+- Caption:
+```
+Balochistan Chief Minister Bugti stated that 16 new laws have been enacted to improve the province's security framework.
+
+Balochistan Chief Minister Bugti announced that 16 laws have been successfully enacted to strengthen law and order across the province, aiming to improve governance and stability, as reported by Dawn.
+
+بلوچستان کے وزیر اعلیٰ بگٹی نے بتایا ہے کہ صوبے میں امن و امان کو بہتر بنانے اور حکمرانی کو مضبوط کرنے کے لیے 16 نئے قوانین نافذ کیے گئے ہیں۔
+
+First reported by Dawn.
+
+#Balochistan #CMBugti #LawAndOrder #Security
+```
+
+### Maritime Affairs minister urges seafood exporters to boost value addition  [NORMAL]
+- Poster: سمندری غذا کے برآمد کنندگان پر ویلیو ایڈیشن پر توجہ دینے پر زور / Seafood exporters urged to improve value-added products | category economy
+- Alternative headline: Seafood exporters encouraged to focus on value-added product sales
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: seafood exporters, Maritime Affairs minister, value addition, Pakistan exports | hashtags: #SeafoodExporters #MaritimeAffairs #ValueAddition #PakistanEconomy
+- Scheduled: Fri 27 Nov, 10:23 AM PKT
+- Caption:
+```
+The Maritime Affairs minister has called upon seafood exporters to enhance the quality and value of their products.
+
+Pakistan's Maritime Affairs minister has urged seafood exporters to improve value-added product sales in international markets to enhance revenue and competitiveness, according to Dawn.
+
+امور بحری کے وزیر نے سمندری غذا کے برآمد کنندگان پر زور دیا ہے کہ وہ بین الاقوامی منڈیوں میں آمدنی اور مسابقت بڑھانے کے لیے ویلیو ایڈڈ مصنوعات کی فروخت کو بہتر بنائیں۔
+
+First reported by Dawn.
+
+#SeafoodExporters #MaritimeAffairs #ValueAddition #PakistanEconomy
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 - [needs_review] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
 - [needs_review] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
 - [needs_review] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
-- [published] normal | Bangladesh Parliament Speaker Begins Six-Day Official Visit to Pakista | Tue 24 Nov, 08:56 AM PKT
 - [needs_review] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
 - [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
@@ -296,11 +344,11 @@ First reported by Al Jazeera
 - [needs_review] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
 - [published] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
 - [published] normal | Why Donald Trump's new global tariffs are a lesser threat | Fri 27 Nov, 02:55 AM PKT
-- [queued] normal | Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts o | Fri 27 Nov, 03:05 AM PKT
-- [queued] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
-- [queued] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
-- [queued] normal | Baby's fight for life gives UK Christmas tractor run special meaning | Fri 27 Nov, 03:35 AM PKT
-- [queued] normal | Tarar criticises Fazl and Bilawal over protests and referendum debate | Fri 27 Nov, 03:53 AM PKT
+- [needs_review] normal | Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts o | Fri 27 Nov, 03:05 AM PKT
+- [needs_review] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
+- [needs_review] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
+- [needs_review] normal | Baby's fight for life gives UK Christmas tractor run special meaning | Fri 27 Nov, 03:35 AM PKT
+- [published] normal | Tarar criticises Fazl and Bilawal over protests and referendum debate | Fri 27 Nov, 03:53 AM PKT
 - [queued] normal | Bournemouth and Milan secure stunning comeback victories in Europa Lea | Fri 27 Nov, 04:03 AM PKT
 - [queued] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
 - [queued] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
@@ -323,15 +371,23 @@ First reported by Al Jazeera
 - [queued] normal | Sindh CM Announces Consultations on Local Government Empowerment Amid  | Fri 27 Nov, 08:35 AM PKT
 - [queued] normal | Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involveme | Fri 27 Nov, 08:45 AM PKT
 - [queued] normal | Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Co | Fri 27 Nov, 08:55 AM PKT
+- [queued] normal | Asian stock markets rebound following earlier tech rout | Fri 27 Nov, 09:43 AM PKT
+- [queued] normal | Daily news cartoon highlights political developments | Fri 27 Nov, 09:53 AM PKT
+- [queued] normal | Quetta court grants bail to journalist Shahid Maitla | Fri 27 Nov, 10:03 AM PKT
+- [queued] normal | 16 new laws enacted to strengthen law and order: Bugti | Fri 27 Nov, 10:13 AM PKT
+- [queued] normal | Maritime Affairs minister urges seafood exporters to boost value addit | Fri 27 Nov, 10:23 AM PKT
 
 ## Publishing this run
-- Published 'Why Donald Trump's new global tariffs are a lesser threat'.
+- Published 'Tarar criticises Fazl and Bilawal over protests and referendum debate'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6812 | output tokens: 1818
+- Calls: 3 | prompt tokens: 5095 | output tokens: 2311
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an

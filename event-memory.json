@@ -175859,7 +175859,620 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2445b91d98fef81b9746171d",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-26T20:58:02+00:00",
+      "last_update": "2026-11-27T04:28:41+00:00",
+      "event": "Cartoon: 27 November, 2026",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "cartoon",
+        "dawn",
+        "november"
+      ],
+      "source_excerpt": "Cartoon: 27 November, 2026 Dawn",
+      "sources": [
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5td2w0RUZnV2l3WEZYdUF2cVMzelpUb3FDWTg1RWItcllXVzFLR0FDNWpsQUtzNHBsSm1WS29wd0NPUk84SDBTTUwxXzh4enRCR2k5Y2dwX0RPeFRmbDNDUU9LU1ZsQjB1RWlFVXRvOA?oc=5",
+          "published_at": "2026-11-26T20:58:02+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91dXFjdTV2LUNaVEhyTlV6WUFFYjJNTUZubWZuTGRUM2RQOWtSUXNGakg1V2pkUjMzZ0lFMU9SZVMxSDZWanNzTm5oSDU0ZXlSS0JvanJhZGtHcnUteExJb1RFNTliTm5XdFhfRVU4OA?oc=5",
+          "published_at": "2026-11-26T21:08:41+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yOE5RbzdTb2dmYnpRRHhvT3BnUFU1UEJkMngwWUx4LUlIRFZ6eVZ1N3dfZGxxc3BCVUtaV0E4cmNyU2N0VlotZUl2RDM3aWJwZ1pXcG5EVWxxLUtCUWh0cmJISmw0cDhmN3ZTamotaw?oc=5",
+          "published_at": "2026-11-26T21:13:42+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5",
+          "published_at": "2026-11-27T00:46:27+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LcVpjRk9HMW9Xc25JaVNNR0NiVUVRQlA5QWhqdXc4RnZkWXBjS3ptNGNyNUl4MDAxQXJkWXZucUY0Q1RscWdmQWlwZXJ1RXFQcTAxcE1kTm0wVGM1NC1DSQ?oc=5",
+          "published_at": "2026-11-27T04:11:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3JnVWN1b0lkNHF4T2JLUTAwUTBkRm9NQTUxa0dOSDZZdG1zeVBsVXNvYXJ5cV85QllwaWxpRGk5M2h6Y2c5Y195VDlpU2N1QkVCU2gxMHdzTGVTRVZpS2dJaXh4cF9NRWZvMWFxTFEtYTRrV01CU0Znamp4bWtHZWhab2FtOVE?oc=5",
+          "published_at": "2026-11-27T04:25:45+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWE0UnNzWS1rQUpwOVV3Q0ZVUnNvUnI1V1lwZ3dCcloxczBiY0xPVFR2aWFNRnJsUTE5ZEZQNFA3djdnNTRlQlpGMDdzSzVkandhRkZKaEp1bWVteWZPOGZzYlEtZzJNWG9mc1FaeHpKZVdXTXhkSlh4ZkY4VUJQNTFFMU8tNmNMUUZSd3JETlM5TTZKVFZV?oc=5",
+          "published_at": "2026-11-27T04:28:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "979d90ae37b8b407f91be73f",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T03:57:24+00:00",
+      "event": "Journalist Shahid Maitla granted bail",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bail",
+        "dawn",
+        "granted",
+        "journalist",
+        "maitla",
+        "shahid"
+      ],
+      "source_excerpt": "Journalist Shahid Maitla granted bail Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047429/quetta-court-grants-bail-to-journalist-shahid-maitla-in-nccia-case",
+          "published_at": "2026-11-27T03:57:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b499942295fbb429a180e08",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T03:36:14+00:00",
+      "event": "16 laws enacted to strengthen law & order: CM Bugti",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bugti",
+        "dawn",
+        "enacted",
+        "law",
+        "laws",
+        "order",
+        "strengthen"
+      ],
+      "source_excerpt": "16 laws enacted to strengthen law & order: CM Bugti Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047366/16-laws-enacted-to-strengthen-law-and-order-balochistan-cm-bugti",
+          "published_at": "2026-11-27T03:36:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "675ff6c9bcf1417ecba4a622",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T03:47:06+00:00",
+      "event": "Seafood exporters urged to add value",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "add",
+        "dawn",
+        "exporters",
+        "seafood",
+        "urged",
+        "value"
+      ],
+      "source_excerpt": "Seafood exporters urged to add value Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047427/maritime-affairs-minister-urges-seafood-exporters-to-improve-value-added-product-sales",
+          "published_at": "2026-11-27T03:47:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e98a93de34d280cc7e394c5c",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T03:41:09+00:00",
+      "event": "Maritime trade set for zero growth: UN",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "for",
+        "growth",
+        "maritime",
+        "set",
+        "trade",
+        "zero"
+      ],
+      "source_excerpt": "Maritime trade set for zero growth: UN Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1naE5QRlBjRWRSMU5BLThQMXg1bGk2LTlxbEdqOEZGWXVRcmZQMnBwNV9rczlReW51UGZMTW9pczY1QkRPeHBVSXlPbzFJS0NxdVp1U2NEQy1faG1WNmpkTHRrcHNNTldGNGpLR0hWQ0dVYmRadzl1YWtXUQ?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047351/maritime-trade-set-for-zero-growth-un",
+          "published_at": "2026-11-27T03:41:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1naE5QRlBjRWRSMU5BLThQMXg1bGk2LTlxbEdqOEZGWXVRcmZQMnBwNV9rczlReW51UGZMTW9pczY1QkRPeHBVSXlPbzFJS0NxdVp1U2NEQy1faG1WNmpkTHRrcHNNTldGNGpLR0hWQ0dVYmRadzl1YWtXUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3552685622fa13b1bbc1f969",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:49:32+00:00",
+      "last_update": "2026-11-27T04:37:46+00:00",
+      "event": "Woman’s marriage dissolved on ground of physical, mental cruelty",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cruelty",
+        "dawn",
+        "dissolved",
+        "ground",
+        "marriage",
+        "mental",
+        "physical",
+        "woman"
+      ],
+      "source_excerpt": "Woman’s marriage dissolved on ground of physical, mental cruelty Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjhNSmtpVEhoM3lrakViaWc3ZXVnbjc2M2t1d2x2QUlNWG1DcWVoSklYV2xwMFpXbXNjTkVmU0xJOU1TSEZ2RWhaOXpCSTl0WU9ESklPTkhIa0tjbmxPaDNxOURwSEE3YkFvU2ZiekFzbzVGUmF5OWRGeWYxcWViQkpuZnhYR0ZTTklkS21xLTNBSVR3QWxKcXFoMUc?oc=5",
+          "published_at": "2026-11-27T00:49:32+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047437/lhc-dissolves-womans-marriage-on-ground-of-physical-mental-cruelty",
+          "published_at": "2026-11-27T04:37:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjhNSmtpVEhoM3lrakViaWc3ZXVnbjc2M2t1d2x2QUlNWG1DcWVoSklYV2xwMFpXbXNjTkVmU0xJOU1TSEZ2RWhaOXpCSTl0WU9ESklPTkhIa0tjbmxPaDNxOURwSEE3YkFvU2ZiekFzbzVGUmF5OWRGeWYxcWViQkpuZnhYR0ZTTklkS21xLTNBSVR3QWxKcXFoMUc?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "37187c81f930fb05269158d4",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T03:35:37+00:00",
+      "event": "Makers step up rollout of electric bikes",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bikes",
+        "dawn",
+        "electric",
+        "makers",
+        "rollout",
+        "step"
+      ],
+      "source_excerpt": "Makers step up rollout of electric bikes Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50emtuU3h5OHFhc2tyTnNKNUFwMkg0aW5lN3lKUnYtbFhIM0RKQVpXUlRUZDAtX0RxcDBMTmJEbGJDd24yNHkwWktzbW9xRC1kWFozSExaWFQ1cXAzeXdyOUxHOWlaaGlfNmpVR2ZJYzdTanNDQkV5WlhuaDE0X3M?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047353/makers-step-up-rollout-of-electric-bikes",
+          "published_at": "2026-11-27T03:35:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50emtuU3h5OHFhc2tyTnNKNUFwMkg0aW5lN3lKUnYtbFhIM0RKQVpXUlRUZDAtX0RxcDBMTmJEbGJDd24yNHkwWktzbW9xRC1kWFozSExaWFQ1cXAzeXdyOUxHOWlaaGlfNmpVR2ZJYzdTanNDQkV5WlhuaDE0X3M?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cab04fee75bba3fd029795d6",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T04:34:43+00:00",
+      "last_update": "2026-11-27T04:38:19+00:00",
+      "event": "Thanksgiving storms leave nearly a million without power across the US",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "annual",
+        "causes",
+        "delays",
+        "families",
+        "flight",
+        "for",
+        "friends",
+        "gather",
+        "holiday",
+        "leave",
+        "million",
+        "nearly",
+        "outages",
+        "power",
+        "severe",
+        "storms",
+        "thanksgiving",
+        "the",
+        "weather",
+        "without"
+      ],
+      "source_excerpt": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+          "published_at": "2026-11-27T04:34:43+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
+          "published_at": "2026-11-27T04:38:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "15e92354589faa5d7d6fcbff",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T04:06:52+00:00",
+      "last_update": "2026-11-27T04:06:52+00:00",
+      "event": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "armed",
+        "attack",
+        "border",
+        "carried",
+        "guard",
+        "killed",
+        "least",
+        "mali",
+        "national",
+        "near",
+        "niger",
+        "out",
+        "remains",
+        "sanam",
+        "soldiers",
+        "the",
+        "tillaberi",
+        "unclear",
+        "who"
+      ],
+      "source_excerpt": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+          "published_at": "2026-11-27T04:06:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5a954c378a904006f78aba30",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T03:49:08+00:00",
+      "last_update": "2026-11-27T03:52:18+00:00",
+      "event": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "china",
+        "days",
+        "downplays",
+        "during",
+        "for",
+        "has",
+        "iran",
+        "netanyahu",
+        "praises",
+        "recent",
+        "role",
+        "russia",
+        "says",
+        "spoken",
+        "support",
+        "talks",
+        "the",
+        "their",
+        "troops",
+        "trump",
+        "war",
+        "with"
+      ],
+      "source_excerpt": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+          "published_at": "2026-11-27T03:49:08+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd256NGN4WEpKSTFrZzlVR21VZl81clNOdVdhUzkzQTktcHhIV1VzaUppUEdxUUZISXFlRmFMaEdCWGlMcmZDMVlfSVZjbTNnMGIyS3NJUlZGZEIxYldYcThUaERlU2xvN09fRE1ta2drMWtuSXRLdGhfdFZqZG9ob2daNmFDV295dENhUlNuR2M3ZDF6UnlMMWRCcXY4MTdkQ2NnSExkUHBLSEV5bWhsd2xZOW8xZw?oc=5",
+          "published_at": "2026-11-27T03:52:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "215c738bb7105d5027b2588b",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T03:42:16+00:00",
+      "last_update": "2026-11-27T03:42:16+00:00",
+      "event": "Asian stock markets rise after earlier tech rout",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "asian",
+        "australia",
+        "dip",
+        "earlier",
+        "election",
+        "hong",
+        "indices",
+        "japan",
+        "kong",
+        "korea",
+        "markets",
+        "new",
+        "rise",
+        "rout",
+        "south",
+        "stock",
+        "stocks",
+        "tech",
+        "uncertainty",
+        "zealand"
+      ],
+      "source_excerpt": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+          "published_at": "2026-11-27T03:42:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7eb471ad0dce2008277283c3",
+      "remembered_at": "2026-11-27T04:43:40.528619+00:00",
+      "event_date": "2026-11-27T04:17:05+00:00",
+      "last_update": "2026-11-27T04:21:24+00:00",
+      "event": "Over 25m out-of-school children: a failure to turn a constitutional pledge into reality",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "25m",
+        "children",
+        "constitutional",
+        "dawn",
+        "failure",
+        "into",
+        "out",
+        "over",
+        "pledge",
+        "reality",
+        "school",
+        "turn"
+      ],
+      "source_excerpt": "Over 25m out-of-school children: a failure to turn a constitutional pledge into reality Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzRfSTJLeTZueXVnNE9STEw0S25wRmFHS0oyWGlkOGZWZDVFb19MSkpOSDhKZG92ZzJaNElsMnN4Z0dpV1RmdGNhTmhLVDM0anRfSDFxWU9vNkFHRXk0ZTkzYkxUUWRFTGFOM21Xc2JMamZRS0U3UzdLTTdBd2FDVUFFSTZIQXljMFdqM2s0TkVBcGlyLUVjOWhKYkRnTUFvdU01ci1lelNmQTlxeXF5Zm5yTlNVbEVJZ3lDMw?oc=5",
+          "published_at": "2026-11-27T04:17:05+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047434/over-25m-out-of-school-children-a-failure-to-turn-a-constitutional-pledge-into-reality",
+          "published_at": "2026-11-27T04:21:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzRfSTJLeTZueXVnNE9STEw0S25wRmFHS0oyWGlkOGZWZDVFb19MSkpOSDhKZG92ZzJaNElsMnN4Z0dpV1RmdGNhTmhLVDM0anRfSDFxWU9vNkFHRXk0ZTkzYkxUUWRFTGFOM21Xc2JMamZRS0U3UzdLTTdBd2FDVUFFSTZIQXljMFdqM2s0TkVBcGlyLUVjOWhKYkRnTUFvdU01ci1lelNmQTlxeXF5Zm5yTlNVbEVJZ3lDMw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T03:35:58.335504+00:00"
+  "updated_at": "2026-11-27T04:43:40.528619+00:00"
 }
