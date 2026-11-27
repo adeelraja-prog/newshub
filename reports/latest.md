@@ -1,54 +1,196 @@
-# News Hub report - Fri 27 Nov, 02:43 PM PKT
+# News Hub report - Fri 27 Nov, 03:40 PM PKT
 
 ## Collection
-- New items this run: 80 | items in rolling pool: 416
-- Unique story clusters: 343 (duplicates merged: 73)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 24, Geo News 9, Al Jazeera 7, Profit by Pakistan Today 6, ProPakistani 4, samaa tv 3, The Express Tribune 3, Dawn Pakistan 3, Dawn 3, PhoneWorld 3, Investify 3, Dawn Latest 2
+- New items this run: 115 | items in rolling pool: 509
+- Unique story clusters: 420 (duplicates merged: 89)
+- Clusters dropped as already published/queued: 23; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 57, ProPakistani 10, Wired 7, Geo News 4, Dawn 3, The Express Tribune 3, TechJuice 3, Anadolu Ajansı 3, samaa tv 2, Dawn Latest 2, Al Jazeera 2, TodayPress.tv 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Nathan Lyon named in fresh ball-tampering controversy over 2018 Pakistan Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sandpapergate forum scope to cover entire 2017-18 season, including Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Borrowing to make ends meet’: The rising cost of living in Europe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Nathan Lyon named in fresh ball-tampering controversy over 2018 Pakistan Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sandpapergate forum scope to cover entire 2017-18 season, including Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Borrowing to make ends meet’: The rising cost of living in Europe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Nathan Lyon named in fresh ball-tampering controversy over 2018 Pakistan Test | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sandpapergate forum scope to cover entire 2017-18 season, including Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Borrowing to make ends meet’: The rising cost of living in Europe | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 115/120 | empty: 4 | failed: 1 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
+### ECP says it cannot force parties to field women on winnable seats  [NORMAL]
+- Poster: خواتین کو نشستیں دینے کا معاملہ سیاسی جماعتوں کا اندرونی معاملہ ہے: الیکشن کمیشن / ECP Cannot Force Parties to Field Women on Winnable Seats | category politics
+- Alternative headline: Allocation of party tickets is an internal affair, ECP clarifies
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: ECP, women quota, election commission, political parties, National Assembly, winnable seats | hashtags: #ECP #PakistanElections #WomenEmpowerment #NationalAssembly #News
+- Scheduled: Fri 27 Nov, 03:40 PM PKT
+- Caption:
+```
+The Election Commission of Pakistan has clarified that it has no legal authority to force political parties to field women on winnable seats.
+
+The Election Commission of Pakistan has stated that awarding party tickets is an internal matter for political parties and it lacks the legal authority to intervene. Responding to a parliamentary panel's directive regarding the five per cent quota for women, the ECP noted that ensuring women are fielded on winnable seats would require explicit legislation by Parliament.
+
+الیکشن کمیشن آف پاکستان نے واضح کیا ہے کہ پارٹی ٹکٹوں کی تقسیم سیاسی جماعتوں کا اندرونی معاملہ ہے اور اسے مداخلت کا کوئی قانونی اختیار حاصل نہیں۔ خواتین کے کوٹے سے متعلق پارلیمانی کمیٹی کی ہدایت پر ای سی پی نے کہا کہ خواتین کو یقینی کامیابی والی نشستوں پر لڑانے کے لیے پارلیمنٹ کو قانون سازی کرنا ہوگی۔
+
+According to Dawn Pakistan
+
+#ECP #PakistanElections #WomenEmpowerment #NationalAssembly #News
+```
+
+### PCB awards central contracts to just eight women cricketers  [NORMAL]
+- Poster: پی سی بی نے آٹھ خواتین کرکٹرز کو سینٹرل کنٹریکٹ دے دیے / PCB Awards Central Contracts to Eight Women Cricketers | category sports
+- Alternative headline: PCB unveils central contracts for women cricketers for 2026-27
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5
+- Supporting coverage: samaa tv, Geo News, The Current, ProPakistani
+- Keywords: PCB, women cricketers, central contracts, Pakistan cricket, sports news | hashtags: #PCB #WomenCricket #PakistanCricket #SportsNews
+- Scheduled: Fri 27 Nov, 03:50 PM PKT
+- Caption:
+```
+The Pakistan Cricket Board has announced central contracts for only eight women cricketers for the upcoming season.
+
+The Pakistan Cricket Board has awarded central contracts to just eight women cricketers. This decision marks a significant reduction compared to previous years, drawing attention to the restructuring of women's cricket contracts by the board.
+
+پاکستان کرکٹ بورڈ نے صرف آٹھ خواتین کرکٹرز کو سینٹرل کنٹریکٹ دیے ہیں۔ گزشتہ سالوں کے مقابلے میں یہ ایک نمایاں کمی ہے، جس پر کرکٹ حلقوں میں بحث شروع ہو گئی ہے۔
+
+First reported by samaa tv; also reported by ProPakistani
+
+#PCB #WomenCricket #PakistanCricket #SportsNews
+```
+
+### FO says reported capsizing of boat with Pakistani migrants yet to be verified  [NORMAL]
+- Poster: پاکستانی تارکین وطن کی کشتی ڈوبنے کی خبر کی تصدیق نہیں ہو سکی: دفتر خارجہ / FO: Reported Boat Capsizing Involving Pakistanis Yet to be Verified | category world
+- Alternative headline: Boat capsizing off Libya involving Pakistani migrants yet to be verified, says FO
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, Geo News, Geo News
+- Keywords: Foreign Office, migrants, boat capsizing, Libya, FO Pakistan | hashtags: #ForeignOffice #Pakistan #Libya #Migrants
+- Scheduled: Fri 27 Nov, 04:00 PM PKT
+- Caption:
+```
+The Foreign Office has stated that reports regarding the capsizing of a boat carrying Pakistani migrants are currently unverified.
+
+The Foreign Office has stated that reports concerning the capsizing of a boat carrying Pakistani migrants near Libya have not yet been verified. Authorities are actively pursuing the matter to ascertain the facts and determine if any Pakistani nationals were involved.
+
+دفتر خارجہ نے کہا ہے کہ لیبیا کے قریب پاکستانی تارکین وطن کو لے جانے والی کشتی کے ڈوبنے سے متعلق اطلاعات کی تاحال تصدیق نہیں ہو سکی۔ حکام حقائق جاننے کے لیے اس معاملے کی چھان بین کر رہے ہیں۔
+
+First reported by Dawn
+
+#ForeignOffice #Pakistan #Libya #Migrants
+```
+
+### Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL  [NORMAL]
+- Poster: کوئٹہ گلیڈی ایٹرز نے فرنچائز کی فروخت کی افواہوں کی تردید کر دی / Quetta Gladiators Deny Sale Rumours, Reaffirm PSL Commitment | category sports
+- Alternative headline: Quetta Gladiators deny franchise sale rumours, reaffirm commitment to PSL
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5
+- Supporting coverage: The Current, Dawn, Dawn Latest
+- Keywords: Quetta Gladiators, PSL, Pakistan Super League, franchise sale, cricket | hashtags: #QuettaGladiators #PSL #PakistanSuperLeague #CricketNews
+- Scheduled: Fri 27 Nov, 04:10 PM PKT
+- Caption:
+```
+Quetta Gladiators have strongly dismissed rumours regarding the sale of their franchise and reaffirmed their commitment to the Pakistan Super League.
+
+Quetta Gladiators have officially dismissed ongoing rumours about the sale of the franchise, reaffirming their steadfast commitment to the Pakistan Super League (PSL). Management clarified that the franchise is not for sale and is fully focused on upcoming tournaments.
+
+کوئٹہ گلیڈی ایٹرز نے فرنچائز کی فروخت سے متعلق گردش کرنے والی افواہوں کی سختی سے تردید کرتے ہوئے پاکستان سپر لیگ (پی ایس ایل) کے ساتھ اپنی وابستگی کا اعادہ کیا ہے۔
+
+First reported by Dawn
+
+#QuettaGladiators #PSL #PakistanSuperLeague #CricketNews
+```
+
+### Lahore police chief denies Fazl’s arrest  [NORMAL]
+- Poster: لاہور پولیس کے سربراہ نے مولانا فضل الرحمان کی گرفتاری کی تردید کر دی / Lahore Police Chief Denies Maulana Fazl's Arrest | category politics
+- Alternative headline: Lahore police chief rejects reports of Maulana Fazlur Rehman's arrest
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: Lahore police, Maulana Fazlur Rehman, JUI-F, arrest denial, Lahore | hashtags: #LahorePolice #MaulanaFazlurRehman #JUIF #PakistanPolitics
+- Scheduled: Fri 27 Nov, 04:20 PM PKT
+- Caption:
+```
+The Lahore police chief has formally denied reports regarding the arrest of JUI-F chief Maulana Fazlur Rehman.
+
+The Capital City Police Officer (CCPO) or Lahore police chief has denied circulating reports claiming that JUI-F chief Maulana Fazlur Rehman has been arrested. The clarification comes amid heightened political tensions and claims of state restrictions in Lahore.
+
+لاہور پولیس کے سربراہ نے جمعیت علمائے اسلام (ف) کے سربراہ مولانا فضل الرحمان کی گرفتاری سے متعلق گردش کرنے والی خبروں کی تردید کر دی ہے۔
+
+First reported by Dawn
+
+#LahorePolice #MaulanaFazlurRehman #JUIF #PakistanPolitics
+```
+
+### Fatima Sana, Sadia Iqbal secure top-category PCB contracts  [NORMAL]
+- Poster: فاطمہ ثناء اور سعدیہ اقبال کو پی سی بی کے ٹاپ کیٹیگری کنٹریکٹس مل گئے / Fatima Sana and Sadia Iqbal Secure Top PCB Contracts | category sports
+- Alternative headline: Fatima Sana and Sadia Iqbal awarded top category in PCB contracts
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHM3alpGOFZlYXc2U09sZW1QWE03OEREYXFwSDRVcFZFRVZYaXlXUzlkSHlSMFpTRURPOW9iZUV2ZFlpTndLWEFBcDdOYWsyQllmc01QM0xhV2FpRE51YnFNaURMVHpiOFdGOW1kTEJZNENFZ3BwYlVtVm0wM0trdXU2c1NoZ1ItaHU1WFVlTkxMaHk0RFE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHM3alpGOFZlYXc2U09sZW1QWE03OEREYXFwSDRVcFZFRVZYaXlXUzlkSHlSMFpTRURPOW9iZUV2ZFlpTndLWEFBcDdOYWsyQllmc01QM0xhV2FpRE51YnFNaURMVHpiOFdGOW1kTEJZNENFZ3BwYlVtVm0wM0trdXU2c1NoZ1ItaHU1WFVlTkxMaHk0RFE?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Fatima Sana, Sadia Iqbal, PCB contracts, women cricket, Pakistan cricket | hashtags: #FatimaSana #SadiaIqbal #PCB #WomenCricket
+- Scheduled: Fri 27 Nov, 04:30 PM PKT
+- Caption:
+```
+Star women cricketers Fatima Sana and Sadia Iqbal have secured top-category central contracts from the Pakistan Cricket Board.
+
+National women cricketers Fatima Sana and Sadia Iqbal have successfully secured top-category central contracts in the Pakistan Cricket Board's latest announcement, recognizing their stellar performances for the country.
+
+قومی خواتین کرکٹرز فاطمہ ثناء اور سعدیہ اقبال نے پاکستان کرکٹ بورڈ کے نئے سینٹرل کنٹریکٹس میں ٹاپ کیٹیگری حاصل کر لی ہے۔
+
+First reported by Dawn
+
+#FatimaSana #SadiaIqbal #PCB #WomenCricket
+```
+
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 19
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
 
 ## Queue status
-- [needs_review] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
-- [needs_review] normal | Appeals Court Revives Trump Bid for Federal Jurisdiction in Hush-Money | Tue 24 Nov, 08:12 AM PKT
-- [needs_review] normal | Israeli Minister Approves Return of Flydubai Flights | Tue 24 Nov, 08:22 AM PKT
 - [needs_review] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
 - [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
@@ -63,8 +205,6 @@
 - [needs_review] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
 - [needs_review] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
 - [needs_review] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
-- [published] normal | Imran Khan directs PTI to expand political alliance and reach out to F | Tue 24 Nov, 02:52 PM PKT
-- [failed] normal | Ousted Bangladesh PM Sheikh Hasina plans to return on December 16 | Tue 24 Nov, 03:02 PM PKT
 - [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
 - [published] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
@@ -244,8 +384,8 @@
 - [needs_review] normal | Clashes halt football match after Besiktas fans display Palestinian fl | Fri 27 Nov, 08:17 AM PKT
 - [needs_review] normal | Sindh CM Announces Consultations on Local Government Empowerment Amid  | Fri 27 Nov, 08:35 AM PKT
 - [published] normal | Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involveme | Fri 27 Nov, 08:45 AM PKT
-- [queued] normal | Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Co | Fri 27 Nov, 08:55 AM PKT
-- [queued] normal | Asian stock markets rebound following earlier tech rout | Fri 27 Nov, 09:43 AM PKT
+- [needs_review] normal | Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Co | Fri 27 Nov, 08:55 AM PKT
+- [published] normal | Asian stock markets rebound following earlier tech rout | Fri 27 Nov, 09:43 AM PKT
 - [queued] normal | Daily news cartoon highlights political developments | Fri 27 Nov, 09:53 AM PKT
 - [queued] normal | Quetta court grants bail to journalist Shahid Maitla | Fri 27 Nov, 10:03 AM PKT
 - [queued] normal | 16 new laws enacted to strengthen law and order: Bugti | Fri 27 Nov, 10:13 AM PKT
@@ -263,13 +403,19 @@
 - [queued] normal | State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Mill | Fri 27 Nov, 01:49 PM PKT
 - [queued] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
 - [queued] normal | German Airline USC Moves Closer to Launching Flights to Pakistan After | Fri 27 Nov, 02:09 PM PKT
+- [queued] normal | ECP says it cannot force parties to field women on winnable seats | Fri 27 Nov, 03:40 PM PKT
+- [queued] normal | PCB awards central contracts to just eight women cricketers | Fri 27 Nov, 03:50 PM PKT
+- [queued] normal | FO says reported capsizing of boat with Pakistani migrants yet to be v | Fri 27 Nov, 04:00 PM PKT
+- [queued] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
+- [queued] normal | Lahore police chief denies Fazl’s arrest | Fri 27 Nov, 04:20 PM PKT
+- [queued] normal | Fatima Sana, Sadia Iqbal secure top-category PCB contracts | Fri 27 Nov, 04:30 PM PKT
 
 ## Publishing this run
-- Published 'Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involvement'.
+- Published 'Asian stock markets rebound following earlier tech rout'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 0 | output tokens: 0
-- Errors: 5
+- Calls: 4 | prompt tokens: 6972 | output tokens: 3342
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -282,11 +428,3 @@
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spi
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message"

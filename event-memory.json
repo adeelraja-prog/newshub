@@ -179695,7 +179695,481 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a96b84e89cbf590b286a5bc9",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T09:23:03+00:00",
+      "last_update": "2026-11-27T10:38:08+00:00",
+      "event": "Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "commitment",
+        "dawn",
+        "dismiss",
+        "gladiators",
+        "psl",
+        "quetta",
+        "reaffirm",
+        "rumours",
+        "sale"
+      ],
+      "source_excerpt": "Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL Dawn",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/quetta-gladiators-deny-franchise-sale-rumours-reaffirm-commitment-to-psl/",
+          "published_at": "2026-11-27T09:23:03+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5",
+          "published_at": "2026-11-27T10:38:08+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047470/quetta-gladiators-dismiss-sale-rumours-reaffirm-commitment-to-psl",
+          "published_at": "2026-11-27T10:38:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d396731c82f2a12afe65f7bf",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:28:35+00:00",
+      "last_update": "2026-11-27T10:28:35+00:00",
+      "event": "Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abuse",
+        "admits",
+        "again",
+        "australian",
+        "child",
+        "dressed",
+        "event",
+        "executive",
+        "former",
+        "grace",
+        "looking",
+        "media",
+        "mogul",
+        "murdoch",
+        "overheard",
+        "raped",
+        "referring",
+        "saying",
+        "sex",
+        "survivor",
+        "tame",
+        "the",
+        "was",
+        "way"
+      ],
+      "source_excerpt": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T10:28:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5d934867735a1e1518c3aa8",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T09:43:01+00:00",
+      "last_update": "2026-11-27T09:43:01+00:00",
+      "event": "Democrats want to end Trump’s Iran war. But how different are they?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "are",
+        "bipartisan",
+        "but",
+        "change",
+        "decades",
+        "democrats",
+        "different",
+        "end",
+        "far",
+        "how",
+        "iran",
+        "policy",
+        "pressure",
+        "questions",
+        "raises",
+        "tehran",
+        "they",
+        "trump",
+        "want",
+        "war",
+        "willing"
+      ],
+      "source_excerpt": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+          "published_at": "2026-11-27T09:43:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cca54c60d7e3fb71294cb63e",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:26:28+00:00",
+      "last_update": "2026-11-27T10:26:28+00:00",
+      "event": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "affected",
+        "after",
+        "and",
+        "badly",
+        "both",
+        "coasts",
+        "friday",
+        "hit",
+        "hundreds",
+        "lashed",
+        "neighbouring",
+        "pennsylvania",
+        "power",
+        "rain",
+        "remain",
+        "states",
+        "still",
+        "storms",
+        "thanksgiving",
+        "thousands",
+        "were",
+        "wind",
+        "with",
+        "without"
+      ],
+      "source_excerpt": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T10:26:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6214f59b7da88410c0f67474",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:18:45+00:00",
+      "last_update": "2026-11-27T10:18:45+00:00",
+      "event": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cannot",
+        "contend",
+        "iranians",
+        "jazeera",
+        "pollution",
+        "war",
+        "well",
+        "with",
+        "work"
+      ],
+      "source_excerpt": "‘I cannot go to work’: Iranians contend with pollution as well as US war Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3h2TnRjTVdZODN1MXMwMVNPLWlUVnJySjI0LTNoQmxzUS1OdE5EQU9hS0hRYkQ1SkhCRjVlT2dnNWRfX3VRVHhpQTJ4OG5xOXlOT2lFLXA3VmxJVE53YkItbjAtTkZLcWNxOWN0bTFnb1RWdWhBaGllOGNXS0lFWG9LbXc0T2Rrc0RYM3lFZEkzcE5PWUJfNVlDVFE2ZzVIamFtaC1XSURHc3RfYzM1bHJld27SAboBQVVfeXFMTjNZOUI1MHJ5M3BJdldGSTQ2Q0RnSVEzdmRVdThiYVJYVk1LX1BGTThRR2wtcE9qc1o1bG9mVndFOE5xQS10M1VoOXoxLW9aR09Hd3UtY1NPYXNHWDB1c3g0OTk0VGZFTEU4Z3laY3d3ZVFGLTZzOWxxYkxDalM1NEoyRFh4T24wcjh6WkliSEJ5QUFuX09ZeWFVOG4wdjQ2SlJGTHltbXdQZkNhb3E3SlkzVElxZ040NUJn?oc=5",
+          "published_at": "2026-11-27T10:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3h2TnRjTVdZODN1MXMwMVNPLWlUVnJySjI0LTNoQmxzUS1OdE5EQU9hS0hRYkQ1SkhCRjVlT2dnNWRfX3VRVHhpQTJ4OG5xOXlOT2lFLXA3VmxJVE53YkItbjAtTkZLcWNxOWN0bTFnb1RWdWhBaGllOGNXS0lFWG9LbXc0T2Rrc0RYM3lFZEkzcE5PWUJfNVlDVFE2ZzVIamFtaC1XSURHc3RfYzM1bHJld27SAboBQVVfeXFMTjNZOUI1MHJ5M3BJdldGSTQ2Q0RnSVEzdmRVdThiYVJYVk1LX1BGTThRR2wtcE9qc1o1bG9mVndFOE5xQS10M1VoOXoxLW9aR09Hd3UtY1NPYXNHWDB1c3g0OTk0VGZFTEU4Z3laY3d3ZVFGLTZzOWxxYkxDalM1NEoyRFh4T24wcjh6WkliSEJ5QUFuX09ZeWFVOG4wdjQ2SlJGTHltbXdQZkNhb3E3SlkzVElxZ040NUJn?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c958ed90e19c99679a28f3df",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T09:59:44+00:00",
+      "last_update": "2026-11-27T10:29:39+00:00",
+      "event": "Iran says it recovers two oil tankers ‘stolen’ by US military",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "iran",
+        "military",
+        "oil",
+        "recovers",
+        "says",
+        "stolen",
+        "tankers",
+        "two"
+      ],
+      "source_excerpt": "Iran says it recovers two oil tankers ‘stolen’ by US military Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXEwZHdzOWE3S01DMWg1ZjVwY0dPQ0Y0WVJaX3FIU1hCMDdhYXgtUWZNTDNrMktVRlZobTluMFEwalAwcXJwcEE2Z0cxM0RZSTV0bEFfR0xrVXA2STVqSXZBd1hjM2ltd0NjWDVQNTh2Ql9BUlpMMnJUVlNXVWlURm9rVC1xZ3g0S1M0OVdqOUpHSlJzT19Hcg?oc=5",
+          "published_at": "2026-11-27T09:59:44+00:00"
+        },
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzdfRTdZcUN2UDZyZTFPVTgwWmZSa2lQb0NKbGE2MTRGZzBqbzE2b252WDlDSVFwX2lxOVRHeElXSXMtZEhBN0dSSDZQZ1k2SkJJTWh5Sm0zTnhjWE1jcWZOWWsyNlY3S2dMRXAzRVdkSmlhZ05fWnEtTFpCNGxhRHJsZnZxNVpjVlR2bWxLT0RwX1J1aVRlS2lOWUw3b3NzQk5EZlFPQ0g?oc=5",
+          "published_at": "2026-11-27T10:29:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXEwZHdzOWE3S01DMWg1ZjVwY0dPQ0Y0WVJaX3FIU1hCMDdhYXgtUWZNTDNrMktVRlZobTluMFEwalAwcXJwcEE2Z0cxM0RZSTV0bEFfR0xrVXA2STVqSXZBd1hjM2ltd0NjWDVQNTh2Ql9BUlpMMnJUVlNXVWlURm9rVC1xZ3g0S1M0OVdqOUpHSlJzT19Hcg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed3c8679654dc04906839b94",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:17:10+00:00",
+      "last_update": "2026-11-27T10:17:10+00:00",
+      "event": "Fleeing murder suspect crashes into elephant in Sri Lanka",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "crashes",
+        "dawn",
+        "elephant",
+        "fleeing",
+        "into",
+        "lanka",
+        "murder",
+        "sri",
+        "suspect"
+      ],
+      "source_excerpt": "Fleeing murder suspect crashes into elephant in Sri Lanka Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2UtM0Izd21uQXVaMlQ0ZjhoaVJHb1NWUkVUa3ZmMk9OZTMzdHBhS2kxQmstTFZkLWFVVHVhLUFrYl8xNFVrQXdscldwQnMwLXJxZFhVQ0NyU2ZDaEVaeGota05MSF9YMGd1NFZoMVpOR2FyaFdJUk9fMXZJMDdSazVFYTBGaGlCeUdITVNwTUIySmRrb1E?oc=5",
+          "published_at": "2026-11-27T10:17:10+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047469/fleeing-murder-suspect-crashes-into-elephant-in-sri-lanka",
+          "published_at": "2026-11-27T10:17:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2UtM0Izd21uQXVaMlQ0ZjhoaVJHb1NWUkVUa3ZmMk9OZTMzdHBhS2kxQmstTFZkLWFVVHVhLUFrYl8xNFVrQXdscldwQnMwLXJxZFhVQ0NyU2ZDaEVaeGota05MSF9YMGd1NFZoMVpOR2FyaFdJUk9fMXZJMDdSazVFYTBGaGlCeUdITVNwTUIySmRrb1E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f1745d65d156cae71adf68ce",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:04:00+00:00",
+      "last_update": "2026-11-27T10:05:45+00:00",
+      "event": "Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'?",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "account",
+        "allegedly",
+        "audio",
+        "been",
+        "call",
+        "calling",
+        "check",
+        "circulating",
+        "claim",
+        "clip",
+        "did",
+        "donald",
+        "eight",
+        "fact",
+        "false",
+        "has",
+        "man",
+        "manipulated",
+        "media",
+        "minister",
+        "november",
+        "posted",
+        "president",
+        "prime",
+        "second",
+        "selfish",
+        "sharif",
+        "shehbaz",
+        "shows",
+        "social",
+        "states",
+        "the",
+        "trump",
+        "united",
+        "video"
+      ],
+      "source_excerpt": "A video circulating on social media allegedly shows United States President Donald J Trump calling Prime Minister Shehbaz Sharif a “selfish man”. The claim is false. The audio has been manipulated. Claim On November 24, an account on X posted an eight-second clip of a...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692854-fact-check-did-trump-call-shehbaz-sharif-a-selfish-man",
+          "published_at": "2026-11-27T10:04:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0pSbHc3UHVfVklPaEVaVkxycko3NlAteDJUUHhESG9Na0tOeXVGWUU1M044V1BfVmhsckdoZ2UtcjRkSnJoLTUybWoyWXFkRExBUlNzdWZHdGdsY1JneThidWY5U1BNVWs5MDlKM0hoRG9tcV96Rjh6OGI5UFVURm5VeWZLbklENDQtVW5yT04?oc=5",
+          "published_at": "2026-11-27T10:05:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692854-fact-check-did-trump-call-shehbaz-sharif-a-selfish-man",
+        "publisher_url": "https://www.geo.tv/latest/692854-fact-check-did-trump-call-shehbaz-sharif-a-selfish-man",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4f7c62b04ba3ac9d8e1802c8",
+      "remembered_at": "2026-11-27T10:40:23.540046+00:00",
+      "event_date": "2026-11-27T10:21:49+00:00",
+      "last_update": "2026-11-27T10:21:49+00:00",
+      "event": "Aamer Jamal credits domestic cricket for Pakistan comeback",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aamer",
+        "comeback",
+        "credits",
+        "cricket",
+        "domestic",
+        "express",
+        "for",
+        "jamal",
+        "pakistan",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Aamer Jamal credits domestic cricket for Pakistan comeback The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzRMY0ZHT3JYNjVSdU9uQnY3VXhGQ2xQZzRCV2JtTHhGUWhPRkpuWmFCUHI1Wi15MTBSSDFHay1kS1NyS21JTmNtZFNVbGZ5NVFIX3k0YnpTdHpkQ2g5M2NMemR2Qm8tSTJiN2U0cGZuVFFPdnBSamxhYzNqRGRPZ3p2NHI2eGt4TDVVdk5GUEI4RnF3dTQ5ak9Wd9IBowFBVV95cUxOd2Rvd2h6bWJmbGVCYS1wRi1ZV1VrWmFHdHUwQlBVOFFHNXhUazlwc0hWUG13M1JHT2o0Y3VRbmJZUjNlalZ4R0kwZ1BmaDV5SkkwU0w4ZlZvVlU4NGtnTG1HM2oxM0VQNnREa21peXJaMnJOWmQ0cGFvT0xFSFY0NkZReEc3NmhvUmxsUFFhbGZIdkxiNGZCdjQwWlBvVHp0UVo4?oc=5",
+          "published_at": "2026-11-27T10:21:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzRMY0ZHT3JYNjVSdU9uQnY3VXhGQ2xQZzRCV2JtTHhGUWhPRkpuWmFCUHI1Wi15MTBSSDFHay1kS1NyS21JTmNtZFNVbGZ5NVFIX3k0YnpTdHpkQ2g5M2NMemR2Qm8tSTJiN2U0cGZuVFFPdnBSamxhYzNqRGRPZ3p2NHI2eGt4TDVVdk5GUEI4RnF3dTQ5ak9Wd9IBowFBVV95cUxOd2Rvd2h6bWJmbGVCYS1wRi1ZV1VrWmFHdHUwQlBVOFFHNXhUazlwc0hWUG13M1JHT2o0Y3VRbmJZUjNlalZ4R0kwZ1BmaDV5SkkwU0w4ZlZvVlU4NGtnTG1HM2oxM0VQNnREa21peXJaMnJOWmQ0cGFvT0xFSFY0NkZReEc3NmhvUmxsUFFhbGZIdkxiNGZCdjQwWlBvVHp0UVo4?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T09:43:35.612570+00:00"
+  "updated_at": "2026-11-27T10:40:23.540046+00:00"
 }
