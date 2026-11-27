@@ -185981,7 +185981,362 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a4d6d0f64fcff7a57224b6e0",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T17:12:05+00:00",
+      "last_update": "2026-11-27T22:23:02+00:00",
+      "event": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "blockade",
+        "breach",
+        "disabled",
+        "iran",
+        "jazeera",
+        "merchant",
+        "military",
+        "says",
+        "ship",
+        "trying"
+      ],
+      "source_excerpt": "US military says it disabled merchant ship trying to breach Iran blockade Al Jazeera",
+      "sources": [
+        {
+          "name": "Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZX2RoYUZiNTk4djZ3R1V6NFpMMUhXVHVYN3lIUnlTNFN2cnBBQnVpejBnMnpDSUNURTM5Wm1aVlVhLWplRTQxaDRqREZUUWxQUVNuRHN3?oc=5",
+          "published_at": "2026-11-27T17:12:05+00:00"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVA1VjhOM2lTQXgyMlNWNzVWRXRKOVV5RHdsZHc1b3lQZFpac0pqal9GZFF0U2hpUkVJSFZ2YVFlMUZ6TWxGZ3dDWGdQTGRlbU1zMDczbDFDeWRPd2VIaXVtTmoxSThGUDZSU19QcmtLdTg5OWNIRG4tM0pZOVptU0tBYWk4QmFzdFJEYkx0OWVtc2JwWkpwQmMtRkJSVkJidm55a3U3VHN6dVVXUF90aXVwRFF5YzBmLU5Nb21YTWJYUlJXOEtPNHAyM0d1UlZJNTJRY19WRFprbk5F?oc=5",
+          "published_at": "2026-11-27T18:13:40+00:00"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDNxUmhfQTJHSHlfSlBjMjljTFEtaUJvdXpHQVROM08zYkMzRUluRHBlSnRkMzVMY3M1WmdYZXpCZjFxYUpteVRTczMzNHlxVm5ReTdTZTAtUkpLQnAxbjlOaDNVVlZYQUxkTVRrVVJORVdHSGhSZEJQUm9vRXE4Tm5fU19CcENJd0ZzVTRQVGhsVTZTQVVCU095Qm9DSDgzTWo1OFF1emNjLTlIUEdjNGRrcW5rSUxn0gG-AUFVX3lxTE9WanJuUmVjc3NDUUJtX1NOZXJVSm9GbXdKd3phb1RyZkppbnVERGczMEVwNW5NT3Y1WGd1bWlQRDdVMElxRjhCb1NGT1BHQXNmQ0tnbU1JRWdBeGhZNEY0MndWMzdVX0FvY2h2UXVOZkVHak1IRnY5R2ZFRWFMUEZYQ2Jyam9OZ01iaGc2cFNIT0IxZEdqVDVrdXFCX2MwRVhRZllwVXg3WVJxRU5rR3pxQlhKanpNTTJsY21keFE?oc=5",
+          "published_at": "2026-11-27T18:48:07+00:00"
+        },
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmNXQUZHN0dRMktFcDcxb1NNbnJOSVVnTG9Hc0duVnRKTjROUkNuMGFqTkxVclBTMEJpRXI1VE5NdW5Eb3k1VGtaY0NuSUU5TTVNQUduc1FsZE5BS0dfYWxQNEx5dU1IbWNrQXBCYm5KRXp6S2xmU3Vqa3dCNUs2LWlSTlNzUQ?oc=5",
+          "published_at": "2026-11-27T19:08:41+00:00"
+        },
+        {
+          "name": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUJ6WTBiQm1fVFVTendCUUJqdUNES3lpajFsQ0ZNTGlGaDcyb0pnVlFYQXpnNjZ6OGNCSUJTZFlkNzJNa2ZVS0Y5R010SVc0YzEwcGQyVGFjZjllR2V4eHJ6ZWRIb2E5Zk4tUW82aTFIbFRGNmFLeUpJVkl6UlBfZTRxUFZCUDE0a1RpazQ3dGJlaG1vdXZaYzlGYnJoTmZTaWhueGpkaTJkSnBPWVB0djdzd3oyTnE3ZDlUUUpYajRGRmpi?oc=5",
+          "published_at": "2026-11-27T21:02:19+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5",
+          "published_at": "2026-11-27T22:23:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "883bd50bdd16773488e2ae50",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T21:59:11+00:00",
+      "last_update": "2026-11-27T22:07:30+00:00",
+      "event": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activists",
+        "afro",
+        "and",
+        "are",
+        "art",
+        "arts",
+        "boost",
+        "centres",
+        "cultural",
+        "espacio",
+        "far",
+        "fight",
+        "fighting",
+        "madrid",
+        "migrant",
+        "parceria",
+        "racism",
+        "rhythm",
+        "right",
+        "spain",
+        "the",
+        "through",
+        "using",
+        "voices"
+      ],
+      "source_excerpt": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+          "published_at": "2026-11-27T21:59:11+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzQ4N2U2SlI3ZUFURDhLUlVLa2czOWdHUGhEWElKNURXdHF6ZTItYU8zbGcycmhMWnYyYkllb2I4N1FOM1Zuc0FGWnh1cndaZnNFZ0dQd3V0Z1UwVTFWUlgzRmIzSjVieUNKVkZkYzV0OHJRVEo2LVpWeG9PSlB5T0t0Rk9QTWl1OUszZHo0WFBBY19hdE02QVhIbUVGV1h4ZmsyOE15SHlTY3Y2ZHfSAbMBQVVfeXFMT2JWaVd2R1JPeUtYTzhDcGthckJGZDBra0hmU1hQaFBiMUhQcllXeV9tM3J3X1hTMDItSjFTaGVwRTlVOHNVV1RCUldQcDJsMldJbDRYaWc5S1ptdjVHU3FIbjJtMnhWTkh2RFUyb0xUemRPRmh4T2J1Z3ZENS1QODBZQ211d0Q2RUpDUnQtVWNmSGp6ZWkzMzEwa29zNDJBdk9UNE41cmpUelJpcldiSUl4eFE?oc=5",
+          "published_at": "2026-11-27T22:07:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a69923de41c77a1cf2d87efb",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T22:03:46+00:00",
+      "last_update": "2026-11-27T22:03:46+00:00",
+      "event": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abetting",
+        "aiding",
+        "and",
+        "canadian",
+        "counts",
+        "date",
+        "earlier",
+        "for",
+        "guilty",
+        "kenneth",
+        "later",
+        "law",
+        "man",
+        "pleaded",
+        "poison",
+        "prison",
+        "prosecutors",
+        "seek",
+        "seller",
+        "sentenced",
+        "suicide",
+        "term",
+        "the",
+        "this",
+        "who",
+        "will",
+        "year"
+      ],
+      "source_excerpt": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T22:03:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c331785baff71ce1fb94d843",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T22:02:00+00:00",
+      "last_update": "2026-11-27T22:02:00+00:00",
+      "event": "'It is 14 years since our super fit teenager died suddenly - and we still don't know why'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "died",
+        "don",
+        "fit",
+        "know",
+        "our",
+        "since",
+        "still",
+        "suddenly",
+        "super",
+        "teenager",
+        "why",
+        "years"
+      ],
+      "source_excerpt": "'It is 14 years since our super fit teenager died suddenly - and we still don't know why' BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5",
+          "published_at": "2026-11-27T22:02:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3af42558fb2aac6190af89c7",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T22:26:20+00:00",
+      "last_update": "2026-11-27T22:26:20+00:00",
+      "event": "Chelsea rocked by Forest in Premier League as pressure on Alonso mounts",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "alonso",
+        "another",
+        "beleaguered",
+        "blues",
+        "boss",
+        "chelsea",
+        "city",
+        "crashed",
+        "defeat",
+        "double",
+        "embarrassing",
+        "five",
+        "forest",
+        "fourth",
+        "friday",
+        "gibbs",
+        "ground",
+        "laboured",
+        "last",
+        "league",
+        "matches",
+        "morgan",
+        "mounts",
+        "nottingham",
+        "performance",
+        "piled",
+        "premier",
+        "pressure",
+        "rocked",
+        "side",
+        "suffered",
+        "the",
+        "their",
+        "white",
+        "xabi"
+      ],
+      "source_excerpt": "Chelsea suffered an embarrassing 3-2 defeat at Nottingham Forest on Friday as Morgan Gibbs-White’s double piled pressure on beleaguered Blues boss Xabi Alonso. Alonso’s side crashed to a fourth defeat in their last five Premier League matches after another laboured performance at the City Ground. Ig",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047571/chelsea-rocked-by-forest-in-premier-league-as-pressure-on-alonso-mounts",
+          "published_at": "2026-11-27T22:26:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047571/chelsea-rocked-by-forest-in-premier-league-as-pressure-on-alonso-mounts",
+        "publisher_url": "https://www.dawn.com/news/2047571/chelsea-rocked-by-forest-in-premier-league-as-pressure-on-alonso-mounts",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d8669939260b34f844f1c04b",
+      "remembered_at": "2026-11-27T22:29:18.777030+00:00",
+      "event_date": "2026-11-27T20:29:00+00:00",
+      "last_update": "2026-11-27T20:29:00+00:00",
+      "event": "JoJo Siwa and Chris Hughes split after a year together",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "chris",
+        "geo",
+        "hughes",
+        "jojo",
+        "news",
+        "siwa",
+        "split",
+        "together",
+        "year"
+      ],
+      "source_excerpt": "JoJo Siwa and Chris Hughes split after a year together Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjV1aUljXy1ZcWNmeG1yRXhRUmpfZ3RTWktpTFZVMmRLc3BsR0JtUjN3eUtQODZIekJOUEUtT1VreXVocFZ6MHJub2dMY1U3OHB2Vjc4eHhuVy1VU3pnNkVNTG1VMWplNXlBdVFLMXpJUmtPbU9yaXp5d1dPajFUZTItc0dQRXBnelF0WE1DTno?oc=5",
+          "published_at": "2026-11-27T20:29:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692946-jojo-siwa-and-chris-hughes-split-after-a-year-together",
+          "published_at": "2026-11-27T20:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjV1aUljXy1ZcWNmeG1yRXhRUmpfZ3RTWktpTFZVMmRLc3BsR0JtUjN3eUtQODZIekJOUEUtT1VreXVocFZ6MHJub2dMY1U3OHB2Vjc4eHhuVy1VU3pnNkVNTG1VMWplNXlBdVFLMXpJUmtPbU9yaXp5d1dPajFUZTItc0dQRXBnelF0WE1DTno?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T21:28:02.127300+00:00"
+  "updated_at": "2026-11-27T22:29:18.777030+00:00"
 }

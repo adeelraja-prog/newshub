@@ -1,35 +1,35 @@
-# News Hub report - Sat 28 Nov, 02:28 AM PKT
+# News Hub report - Sat 28 Nov, 03:29 AM PKT
 
 ## Collection
-- New items this run: 25 | items in rolling pool: 485
-- Unique story clusters: 409 (duplicates merged: 76)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
-- Items per outlet: Pakistan Today 7, Al Jazeera 5, Geo News 4, The Verge 3, Iran International 1, Qazinform 1, Wired 1, BBC Science 1, Envanter Medya 1, Scripps News 1
+- New items this run: 14 | items in rolling pool: 438
+- Unique story clusters: 373 (duplicates merged: 65)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
+- Items per outlet: Al Jazeera 3, The Verge 2, Dawn Latest 1, X 1, AP News 1, Engadget 1, Wired 1, BBC World 1, Around Prague 1, The New York Times 1, BBC 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
@@ -41,58 +41,58 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Venezuela to repeal law banning opposition figures from holding office  [NORMAL]
-- Poster: وینزویلا کا اپوزیشن پر پابندی کا قانون ختم کرنے کا اعلان / Venezuela to repeal opposition ban law | category politics
-- Alternative headline: Venezuela moves to scrap controversial law blocking opposition politicians
+### Spain's PM Sanchez makes final push to defy election polls  [NORMAL]
+- Poster: ہسپتال کے وزیراعظم پیڈرو سانچیز کا الیکشن سے قبل آخری وار / Spain's PM Sanchez makes final push to defy polls | category politics
+- Alternative headline: Pedro Sanchez bets on left-wing surge in Spanish vote
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Venezuela law, Maria Corina Machado, opposition ban, politics, Venezuela repeal | hashtags: #Venezuela #Politics #News
-- Scheduled: Sat 28 Nov, 02:28 AM PKT
+- Keywords: Pedro Sanchez, Spain election, left-wing surge, right-wing parties, Prime Minister | hashtags: #Spain #PedroSanchez #Elections #Politics
+- Scheduled: Sat 28 Nov, 03:29 AM PKT
 - Caption:
 ```
-Venezuela is set to repeal a law that bans opposition figures from holding public office, following recent political developments.
+Spanish Prime Minister Pedro Sanchez is making a final bid to beat right-wing parties ahead of Sunday's crucial vote.
 
-Venezuela is moving to repeal a law that previously banned opposition figures from holding office. This development comes a month after opposition leader Maria Corina Machado returned to the country, marking a notable shift in the political landscape.
+Spanish Prime Minister Pedro Sanchez is making his final push to defeat right-wing parties and defy election polls in the upcoming national vote on Sunday, banking on a left-wing voting surge.
 
-وینزویلا ایک ایسے قانون کو منسوخ کرنے جا رہا ہے جو اپوزیشن شخصیات کے عہدے سنبھالنے پر پابندی لگاتا تھا۔ یہ پیش رفت اپوزیشن رہنما ماریا کورینا ماچاڈو کی ملک واپسی کے ایک ماہ بعد سامنے آئی ہے۔
+ہسپانیہ کے وزیراعظم پیڈرو سانچیز اتوار کو ہونے والے انتخابات سے قبل دائیں بازو کی جماعتوں کو شکست دینے کے لیے آخری کوشش کر رہے ہیں، اور انہیں بائیں بازو کی حمایت میں اضافے کی توقع ہے۔
 
 First reported by Al Jazeera.
 
-#Venezuela #Politics #News
+#Spain #PedroSanchez #Elections #Politics
 ```
 
-### OpenAI countersues Apple, accusing tech giant of stealing trade secrets  [NORMAL]
-- Poster: اوپن اے آئی کا ایپل پر تجارتی راز چرانے کا دعویٰ / OpenAI countersues Apple over trade secrets | category tech_ai
-- Alternative headline: OpenAI escalates tech war by filing countersuit against Apple over trade secrets
+### US military disables ship attempting to breach Iran blockade  [NORMAL]
+- Poster: امریکی فوج نے ایران کی ناکہ بندی توڑنے والی کشتی کو ناکارہ بنا دیا / US military disables ship attempting to breach Iran blockade | category security
+- Alternative headline: US disables merchant vessel trying to evade Iran blockade
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss
-- Supporting coverage: Engadget, Al Jazeera
-- Keywords: OpenAI Apple lawsuit, OpenAI, Apple, trade secrets, AI race, countersuit | hashtags: #OpenAI #Apple #TechNews #ArtificialIntelligence
-- Scheduled: Sat 28 Nov, 02:38 AM PKT
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5
+- Supporting coverage: Ynetnews, The Washington Post, Fox News, Mezha.net, Scripps News, Al Jazeera
+- Keywords: Iran blockade, US military, merchant ship, Iranian ports, naval blockade | hashtags: #USmilitary #Iran #Blockade #Security
+- Scheduled: Sat 28 Nov, 03:39 AM PKT
 - Caption:
 ```
-OpenAI has countersued Apple amid an intensifying race to develop artificial intelligence products and escalating tech tensions.
+The US military announced it has disabled a merchant ship that attempted to breach the naval blockade on Iranian ports.
 
-OpenAI has filed a countersuit against Apple, accusing the tech giant of stealing trade secrets as competition in the artificial intelligence sector intensifies. The legal escalation highlights growing tensions between the major technology companies.
+The United States military stated that it disabled a merchant ship attempting to breach the naval blockade on Iranian ports. The incident highlights ongoing tensions and enforcement actions in the region.
 
-اوپن اے آئی نے ایپل کے خلاف جوابی مقدمہ دائر کرتے ہوئے تکنیکی جنات پر تجارتی راز چرانے کا الزام عائد کیا ہے۔ مصنوعی ذہانت کی مصنوعات کی تیاری کی دوڑ تیز ہونے کے ساتھ ہی دونوں کمپنیوں کے درمیان کشیدگی بڑھ گئی ہے۔
+امریکی فوج کا کہنا ہے کہ اس نے ایرانی بندرگاہوں کی ناکہ بندی توڑنے کی کوشش کرنے والے ایک تجارتی جہاز کو ناکارہ بنا دیا۔ اس واقعے سے خطے میں جاری کشیدگی کا پتہ چلتا ہے۔
 
-First reported by Al Jazeera and Engadget.
+First reported by Al Jazeera.
 
-#OpenAI #Apple #TechNews #ArtificialIntelligence
+#USmilitary #Iran #Blockade #Security
 ```
 
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
@@ -305,8 +305,8 @@ First reported by Al Jazeera and Engadget.
 - [needs_review] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
 - [needs_review] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
 - [published] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
-- [queued] normal | Canada's top court upholds controversial Quebec religious symbols ban | Fri 27 Nov, 09:20 PM PKT
-- [queued] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
+- [needs_review] normal | Canada's top court upholds controversial Quebec religious symbols ban | Fri 27 Nov, 09:20 PM PKT
+- [published] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
 - [queued] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
 - [queued] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
 - [queued] normal | Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talk | Fri 27 Nov, 10:22 PM PKT
@@ -333,18 +333,18 @@ First reported by Al Jazeera and Engadget.
 - [queued] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
 - [queued] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
 - [queued] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
+- [queued] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
+- [queued] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
 
 ## Publishing this run
-- Published 'Brazil condemns French President Macron's 'doped' meat remarks'.
+- Published 'Pakistan's short-term inflation hits 9.49pc amid rising flour costs'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 2437 | output tokens: 1066
-- Errors: 2
+- Calls: 4 | prompt tokens: 9388 | output tokens: 1033
+- Errors: 3
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Unterminated string starting at: line 9 column 29 (char 309)
