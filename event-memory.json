@@ -184164,7 +184164,602 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05fd1fb60b23a252ea4c872b",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T15:59:06+00:00",
+      "last_update": "2026-11-27T17:16:10+00:00",
+      "event": "Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agreement",
+        "and",
+        "arabia",
+        "attacks",
+        "body",
+        "committee",
+        "condemn",
+        "condemned",
+        "decision",
+        "defence",
+        "expressing",
+        "fed",
+        "friday",
+        "gulf",
+        "held",
+        "houthi",
+        "joint",
+        "kingdom",
+        "making",
+        "makkah",
+        "meeting",
+        "member",
+        "nations",
+        "pact",
+        "political",
+        "reaffirm",
+        "resolve",
+        "saudi",
+        "security",
+        "session",
+        "spdc",
+        "state",
+        "states",
+        "strategic",
+        "support",
+        "supporting",
+        "the",
+        "third",
+        "top",
+        "was",
+        "with"
+      ],
+      "source_excerpt": "A meeting of the Makkah Joint Defence Agreement’s top decision-making body on Friday condemned Houthi attacks on Saudi Arabia, with the member states expressing resolve to support the Gulf state’s security. The third session of the Strategic Political and Defence Committee (SPDC) was held in the fed",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security",
+          "published_at": "2026-11-27T15:59:06+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
+          "published_at": "2026-11-27T17:04:46+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmllZDFfZ01MSkpyVUJFX3ZHdXQxN3Fjbk1Bb09aWHkyaFJUcmtCdS00NmpqNjQ0OTN5LVNpazNoVTluNmtUWFdIOVBFQWxrMzF0NWtYQlpLZ3pQWHNLcWlnV0VvNHhzeW9Yam1xRzU5RG85b3JfRGlSdzR0aHM2cG45d3lkRFg4d0w1RnVGa3BfaVdCR19aZkc2T19VMmtMMFEwMlhXVnE5V0xPVnNfSlRGU3paWHFPZm04TVFpbldSM25vZmFQLVpLb0U3M21z?oc=5",
+          "published_at": "2026-11-27T17:16:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security",
+        "publisher_url": "https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0fcc675cc4d2a9daac5bc6a",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:44:53+00:00",
+      "last_update": "2026-11-27T18:03:23+00:00",
+      "event": "Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "asia",
+        "cup",
+        "final",
+        "guide",
+        "hasan",
+        "into",
+        "pakistan",
+        "rising",
+        "samaa",
+        "shaheens",
+        "shazaib",
+        "stars"
+      ],
+      "source_excerpt": "Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5",
+          "published_at": "2026-11-27T17:44:53+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/hasan-nawaz-leads-pakistan-shaheens-into-asia-cup-rising-stars-final",
+          "published_at": "2026-11-27T18:03:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f108cbaf27ff77166f75314d",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:58:36+00:00",
+      "last_update": "2026-11-27T17:58:36+00:00",
+      "event": "Mexico files complaint with US over tip line on alleged drug traffickers",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "amidst",
+        "bilateral",
+        "complaint",
+        "dea",
+        "discord",
+        "drug",
+        "emphasizing",
+        "files",
+        "for",
+        "growing",
+        "its",
+        "line",
+        "mexico",
+        "over",
+        "respect",
+        "rise",
+        "sovereignty",
+        "tensions",
+        "tip",
+        "traffickers",
+        "with"
+      ],
+      "source_excerpt": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+          "published_at": "2026-11-27T17:58:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b7a952143a830682cb315999",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:44:50+00:00",
+      "last_update": "2026-11-27T17:44:50+00:00",
+      "event": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrive",
+        "ashore",
+        "been",
+        "brought",
+        "canary",
+        "emergencies",
+        "has",
+        "hierro",
+        "hundreds",
+        "island",
+        "islands",
+        "migrants",
+        "military",
+        "rescuers",
+        "sent",
+        "spain",
+        "spanish",
+        "the",
+        "treat",
+        "unit"
+      ],
+      "source_excerpt": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+          "published_at": "2026-11-27T17:44:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9637e0650dc4d67edde36e78",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:44:33+00:00",
+      "last_update": "2026-11-27T17:49:44+00:00",
+      "event": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "awaits",
+        "black",
+        "ceasefire",
+        "criticises",
+        "expands",
+        "friendship",
+        "kyiv",
+        "moscow",
+        "navy",
+        "offers",
+        "proposal",
+        "putin",
+        "response",
+        "russia",
+        "sea",
+        "trump",
+        "ukraine",
+        "zelenskyy"
+      ],
+      "source_excerpt": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+          "published_at": "2026-11-27T17:44:33+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
+          "published_at": "2026-11-27T17:49:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3421f4dfed7795eb6c0caa19",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:39:57+00:00",
+      "last_update": "2026-11-27T17:39:57+00:00",
+      "event": "Why India’s captain wants saliva back in cricket",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "back",
+        "ban",
+        "captain",
+        "covid",
+        "cricket",
+        "day",
+        "era",
+        "five",
+        "gill",
+        "india",
+        "relaxed",
+        "saliva",
+        "shubman",
+        "test",
+        "wants",
+        "wellington",
+        "why"
+      ],
+      "source_excerpt": "India captain Shubman Gill wants cricket’s Covid-era saliva ban relaxed after a five-day Test in Wellington.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+          "published_at": "2026-11-27T17:39:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d08a94563773d545b5c3979",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:15:35+00:00",
+      "last_update": "2026-11-27T17:15:35+00:00",
+      "event": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beat",
+        "before",
+        "bets",
+        "bid",
+        "defy",
+        "election",
+        "last",
+        "left",
+        "makes",
+        "minister",
+        "parties",
+        "pedro",
+        "polls",
+        "prime",
+        "right",
+        "sanchez",
+        "spain",
+        "spanish",
+        "sunday",
+        "surge",
+        "vote",
+        "voting",
+        "wing"
+      ],
+      "source_excerpt": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+          "published_at": "2026-11-27T17:15:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c5dad43026616793ce50fd6f",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:13:46+00:00",
+      "last_update": "2026-11-27T17:13:46+00:00",
+      "event": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "along",
+        "assaults",
+        "bear",
+        "casualties",
+        "ceasefire",
+        "defence",
+        "discuss",
+        "front",
+        "hails",
+        "met",
+        "mount",
+        "new",
+        "operation",
+        "powers",
+        "proposals",
+        "russian",
+        "stout",
+        "the",
+        "trap",
+        "ukraine",
+        "western",
+        "with"
+      ],
+      "source_excerpt": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+          "published_at": "2026-11-27T17:13:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2375eefcb692340161ab993d",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T18:00:40+00:00",
+      "last_update": "2026-11-27T18:00:40+00:00",
+      "event": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bbc",
+        "east",
+        "enough",
+        "focused",
+        "hard",
+        "middle",
+        "not",
+        "pushing",
+        "russia",
+        "tells",
+        "too",
+        "zelensky"
+      ],
+      "source_excerpt": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+          "published_at": "2026-11-27T18:00:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5eade320c3c05061a267875e",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:20:18+00:00",
+      "last_update": "2026-11-27T17:20:18+00:00",
+      "event": "Ukraine rejects ‘unfavourable compromises’ as it frees more territory",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "compromises",
+        "frees",
+        "jazeera",
+        "more",
+        "rejects",
+        "territory",
+        "ukraine",
+        "unfavourable"
+      ],
+      "source_excerpt": "Ukraine rejects ‘unfavourable compromises’ as it frees more territory Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1lNRXR3Sk9oRGw0NG1QVG43emhlcWZzZUU3dl91LS1vMEZ6dHdEVUV3QzdoM0NaaXhYQk9EeU9PLXpBWFVicXl0NEhXbE5JUE43V0hlLTJhZXQtQTBIVlF0MlZvd2NMQWlVejA2c3M5ODhhRjZ3cFoxMHFibE8zQ1NwUVJWU2FSaDVmUXNobDByaS1fbDA1aFJDNVdNLUdndkg0dlE5UEZxdHpnUXfSAbMBQVVfeXFMTXpXTnBMeWJmMV9xS3dnbjBJRVZMQ05Pemo3SVJibTNUWVZTcFpheGE2M2dfbTd6dHpURGFndVhrLUYtWW9lVHVVaE1kNW9GN2F1RUZWRmZONmNvMGFZRWhQQUdjT3Eyd3JPQ0Vqa1Y5Qm82czZGb3NXT1BzVjVKcWZEY0RzUk9kc1NzMTN1X1c0X1c1TTVwQnhsbkdMOHMzUE55T09DS2lqMTlrWUJ3QUpobVU?oc=5",
+          "published_at": "2026-11-27T17:20:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1lNRXR3Sk9oRGw0NG1QVG43emhlcWZzZUU3dl91LS1vMEZ6dHdEVUV3QzdoM0NaaXhYQk9EeU9PLXpBWFVicXl0NEhXbE5JUE43V0hlLTJhZXQtQTBIVlF0MlZvd2NMQWlVejA2c3M5ODhhRjZ3cFoxMHFibE8zQ1NwUVJWU2FSaDVmUXNobDByaS1fbDA1aFJDNVdNLUdndkg0dlE5UEZxdHpnUXfSAbMBQVVfeXFMTXpXTnBMeWJmMV9xS3dnbjBJRVZMQ05Pemo3SVJibTNUWVZTcFpheGE2M2dfbTd6dHpURGFndVhrLUYtWW9lVHVVaE1kNW9GN2F1RUZWRmZONmNvMGFZRWhQQUdjT3Eyd3JPQ0Vqa1Y5Qm82czZGb3NXT1BzVjVKcWZEY0RzUk9kc1NzMTN1X1c0X1c1TTVwQnhsbkdMOHMzUE55T09DS2lqMTlrWUJ3QUpobVU?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fce6478fbc00909048ea659",
+      "remembered_at": "2026-11-27T18:17:32.618828+00:00",
+      "event_date": "2026-11-27T17:32:39+00:00",
+      "last_update": "2026-11-27T17:35:51+00:00",
+      "event": "President Zardari, PML-Q chief Shujaat discuss country's political situation",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "chief",
+        "country",
+        "dawn",
+        "discuss",
+        "pml",
+        "political",
+        "president",
+        "shujaat",
+        "situation",
+        "zardari"
+      ],
+      "source_excerpt": "President Zardari, PML-Q chief Shujaat discuss country's political situation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5",
+          "published_at": "2026-11-27T17:32:39+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047504/president-zardari-pml-q-chief-shujaat-discuss-countrys-political-situation",
+          "published_at": "2026-11-27T17:35:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T17:22:40.700986+00:00"
+  "updated_at": "2026-11-27T18:17:32.618828+00:00"
 }

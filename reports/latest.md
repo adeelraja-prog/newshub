@@ -1,176 +1,171 @@
-# News Hub report - Fri 27 Nov, 10:22 PM PKT
+# News Hub report - Fri 27 Nov, 11:17 PM PKT
 
 ## Collection
-- New items this run: 100 | items in rolling pool: 853
-- Unique story clusters: 698 (duplicates merged: 155)
-- Clusters dropped as already published/queued: 34; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 36, Pakistan Today 11, Geo News 8, ARY News 6, Al Jazeera 6, samaa tv 3, AP News 3, Engadget 3, TechJuice 3, Dawn 2, Dawn Pakistan 2, Wired 2
+- New items this run: 77 | items in rolling pool: 842
+- Unique story clusters: 691 (duplicates merged: 151)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 11
+- Items per outlet: UrduPoint 26, Al Jazeera 8, ARY News 6, Pakistan Today 6, Profit by Pakistan Today 5, Geo News 4, samaa tv 4, Dawn 3, ProPakistani 2, TechJuice 2, Ynetnews 2, Dawn Pakistan 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: BBC India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talks  [NORMAL]
-- Poster: اسرائیل: آئزن کوٹ کا نیتن ہیاہو کی پارٹی پر مذاکراتی عمل سست کرنے کا الزام / Eisenkot accuses Netanyahu's party of stalling talks | category politics
-- Alternative headline: Netanyahu's Likud Dragging Israel to New Elections, Alleges Eisenkot
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: coalition talks, Eisenkot, Netanyahu, Likud, Israel politics, Yashar party | hashtags: #Israel #Netanyahu #Eisenkot #MiddleEastPolitics #WorldNews
-- Scheduled: Fri 27 Nov, 10:22 PM PKT
-- Caption:
-```
-Political tensions rise in Israel as opposition figures accuse the ruling party of pushing the country toward snap elections.
-
-Yashar party chief Eisenkot has accused Benjamin Netanyahu’s Likud party of intentionally stalling coalition talks. He claims the ruling party aims to drag Israel into another election under the outgoing government.
-
-یشار پارٹی کے سربراہ آئزن کوٹ نے بنجمن نیتن ہیاہو کی لیکুদ پارٹی پر اتحادی مذاکرات جان بوجھ کر سست کرنے کا الزام لگایا ہے۔ انہوں نے دعویٰ کیا کہ حکمران جماعت کا مقصد اسرائیل کو سبکدوش ہونے والی حکومت کے تحت ایک اور انتخاب میں دھکیلنا ہے۔
-
-According to Al Jazeera
-
-#Israel #Netanyahu #Eisenkot #MiddleEastPolitics #WorldNews
-```
-
-### Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Continue  [NORMAL]
-- Poster: کراچی: بلوچ کالونی عمارت انہدام کا واقعہ، جاں بحق افراد کی تعداد آٹھ ہو گئی / Karachi building collapse death toll climbs to eight | category disaster
-- Alternative headline: Death Toll Reaches 8 in Karachi’s Baloch Colony Building Collapse
+### Makkah pact nations condemn Houthi attacks on Saudi Arabia  [NORMAL]
+- Poster: مکہ معاہدے کے رکن ممالک کی سعودی عرب پر حوثی حملوں کی شدید مذمت / Makkah pact nations condemn Houthi attacks on Saudi Arabia | category politics
+- Alternative headline: Makkah pact nations review regional security and condemn Houthi attacks
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5
-- Supporting coverage: samaa tv, Dawn Pakistan, TribLIVE.com, Dawn, Dawn Pakistan, ARY News
-- Keywords: building collapse, Karachi, Baloch Colony, death toll, rescue operations, SBCA | hashtags: #Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
-- Scheduled: Fri 27 Nov, 10:32 PM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security
+- Supporting coverage: Dawn Pakistan, Dawn Pakistan, Dawn
+- Keywords: Makkah pact, Saudi Arabia, Houthi attacks, Ishaq Dar, regional security | hashtags: #MakkahPact #SaudiArabia #Pakistan #RegionalSecurity #HouthiAttacks
+- Scheduled: Fri 27 Nov, 11:17 PM PKT
 - Caption:
 ```
-Tragedy deepens in Karachi as the death toll from the Baloch Colony building collapse climbs to eight amidst ongoing rescue operations.
+Top decision-making body of the Makkah Joint Defence Agreement met in Islamabad to review regional security and condemn attacks on Saudi Arabia.
 
-The death toll from the residential building collapse in Karachi's Baloch Colony has risen to eight. While rescue efforts continue, authorities report several people remain missing following the tragic incident.
+A meeting of the Strategic Political and Defence Committee of the Makkah Joint Defence Agreement was held in Islamabad. The top decision-making body reviewed regional security and strongly condemned persistent Houthi attacks on Saudi Arabia, reaffirming commitment to the kingdom's security.
 
-کراچی کی بلوچ کالونی میں رہائشی عمارت گرنے کے واقعے میں جاں بحق افراد کی تعداد بڑھ کر آٹھ ہو گئی ہے۔ ریسکیو آپریشن جاری ہے جبکہ حکام کے مطابق اس افسوسناک واقعے کے بعد کئی افراد تاحال لاپتہ ہیں۔
+مکہ جوائنٹ ڈیفنس ایگریمنٹ کی اسٹریٹجک پولیٹیکل اینڈ ڈیفنس کمیٹی کا اجلاس اسلام آباد میں ہوا۔ اعلیٰ فیصلہ ساز ادارے نے علاقائی سلامتی کا جائزہ لیا اور سعودی عرب پر حوثی حملوں کی شدید مذمت کرتے ہوئے مملکت کی سلامتی کے عزم کا اعادہ کیا۔
 
-First reported by samaa tv; also reported by Dawn Pakistan
+First reported by Dawn Pakistan
 
-#Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+#MakkahPact #SaudiArabia #Pakistan #RegionalSecurity #HouthiAttacks
 ```
 
-### Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya  [NORMAL]
-- Poster: لیبیا کے قریب پاکستانی تارکین وطن کی کشتی ڈوبنے کی خبروں کی تصدیق باقی: دفتر خارجہ / FO says migrant boat capsizing off Libya unverified | category disaster
-- Alternative headline: FO Investigating Reports of Boat Carrying Pakistani Migrants Capsizing Near Libya
+### SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi  [NORMAL]
+- Poster: اسٹٹ بینک نے ماتا صاحب حسی دیوی کی سالگرہ پر یادگار سکہ جاری کر دیا / SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | category other
+- Alternative headline: State Bank issues Rs200 coin to mark Mata Sahib Hasi Devi's 200th birth anniversary
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued
-- Supporting coverage: Dawn Pakistan, The Express Tribune, Geo News, Geo News, Dawn Pakistan, samaa tv
-- Keywords: migrant boat, Foreign Office, Libya, Pakistan migrants, Mediterranean Sea, Bajaur | hashtags: #ForeignOffice #Libya #Migrants #Pakistan #BreakingNews
-- Scheduled: Fri 27 Nov, 10:42 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEJhVDgxUWthejg3akhWa21fWmpUR0dRYy1RNjVTMnhEcjZJTDh5VE02N016azRsV0tmMWp3MzdJTmhXVDQ0aU1WVmZhbkdzakd5emhwelJuUkRoNWt2S2RBUEtSMHJfcFZ4VmdqazdRN1lGc1Nuakt4VGkwbnlOQ1VQNEpIV2lRQks1QzdiNW9DYTVKU19ucThUdkRQY0R1dUxSUlZ5bDFBaVlraG1rQXhuemFFVldrelhINWhqdTI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEJhVDgxUWthejg3akhWa21fWmpUR0dRYy1RNjVTMnhEcjZJTDh5VE02N016azRsV0tmMWp3MzdJTmhXVDQ0aU1WVmZhbkdzakd5emhwelJuUkRoNWt2S2RBUEtSMHJfcFZ4VmdqazdRN1lGc1Nuakt4VGkwbnlOQ1VQNEpIV2lRQks1QzdiNW9DYTVKU19ucThUdkRQY0R1dUxSUlZ5bDFBaVlraG1rQXhuemFFVldrelhINWhqdTI?oc=5
+- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today
+- Keywords: commemorative coin, SBP, Mata Sahib Hasi Devi, State Bank of Pakistan, Rs200 coin | hashtags: #SBP #CommemorativeCoin #Pakistan #MataSahibHasiDevi
+- Scheduled: Fri 27 Nov, 11:27 PM PKT
 - Caption:
 ```
-Pakistan's Foreign Office addresses reports concerning a capsized migrant boat near Libya, stating no independent verification exists yet.
+The State Bank of Pakistan has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Mata Sahib Hasi Devi.
 
-The Foreign Office stated there is no independent verification regarding reports of a boat carrying Pakistani migrants capsizing off Libya. Pakistan's embassy in Tripoli is actively working with local authorities and international organizations to ascertain the facts.
+The State Bank of Pakistan (SBP) has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Mata Sahib Hasi Devi, honoring her legacy and historical significance.
 
-دفتر خارجہ نے کہا ہے کہ لیبیا کے قریب پاکستانی تارکین وطن کو لے جانے والی کشتی کے ڈوبنے کی اطلاعات کی تاحال کوئی آزادانہ تصدیق نہیں ہو سکی۔ طرابلس میں پاکستانی سفارت خانہ حقائق جاننے کے لیے مقامی حکام اور عالمی اداروں سے رابطے میں ہے۔
+اسٹٹ بینک آف پاکستان (ایس بی پی) نے ماتا صاحب حسی دیوی کی دو سو ویں جنم دن کی تقریب کے موقع پر دو سو روپے کا یادگار سکہ جاری کر دیا ہے۔
 
-First reported by Dawn Pakistan; also reported by Geo News
+First reported by Dawn
 
-#ForeignOffice #Libya #Migrants #Pakistan #BreakingNews
+#SBP #CommemorativeCoin #Pakistan #MataSahibHasiDevi
 ```
 
-### Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz  [NORMAL]
-- Poster: تہران: آبنائے ہرمز کے قریب سمندری بارودی سرنگ سے ٹکرا کر آئل ٹینکر دھماکے سے تباہ / Iran guards say tanker hits mine near Hormuz | category security
-- Alternative headline: Tanker Hits Naval Mine Near Strait of Hormuz, According to Iran Guards
+### Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final  [NORMAL]
+- Poster: حسن اور شعیب کی شاندار کارکردگی، پاکستان شاہینز ایشیا کپ رائزنگ اسٹارز کے فائنل میں / Pakistan Shaheens reach Asia Cup Rising Stars final | category sports
+- Alternative headline: Pakistan Shaheens advance to Asia Cup Rising Stars final led by Hasan and Shazaib
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDhuZzhBZ0RqRGd6WGtrQlVDMzZKRU91SjY0Um9NMUphTkxKdVNiVmVsLW1XSnZjMkZhOXoyR3NLVDlDQ1Q2d2huQXpiSTF5M0dydnltWXh4R3A1aVNsdFpFenRScXBUNW9fODhXb25iZ1lEWkFFekw1RUl1VkpWQUpUaXpFNVhXeUItaWoydnZDZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDhuZzhBZ0RqRGd6WGtrQlVDMzZKRU91SjY0Um9NMUphTkxKdVNiVmVsLW1XSnZjMkZhOXoyR3NLVDlDQ1Q2d2huQXpiSTF5M0dydnltWXh4R3A1aVNsdFpFenRScXBUNW9fODhXb25iZ1lEWkFFekw1RUl1VkpWQUpUaXpFNVhXeUItaWoydnZDZw?oc=5
-- Supporting coverage: Anadolu Ajansı, Dawn, https://houseofsaud.com/
-- Keywords: Strait of Hormuz, Iran Guards, oil tanker, naval mine, explosion, maritime security | hashtags: #Iran #StraitOfHormuz #OilTanker #Security #WorldNews
-- Scheduled: Fri 27 Nov, 10:52 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5
+- Supporting coverage: samaa tv, ARY News
+- Keywords: Pakistan Shaheens, Asia Cup Rising Stars, Hasan, Shazaib, cricket final | hashtags: #PakistanShaheens #AsiaCupRisingStars #Cricket #Pakistan
+- Scheduled: Fri 27 Nov, 11:37 PM PKT
 - Caption:
 ```
-Regional maritime security concerns escalate as Iranian authorities report an oil tanker explosion following a naval mine strike.
+Hasan and Shazaib played stellar roles to guide Pakistan Shaheens into the final of the Asia Cup Rising Stars tournament.
 
-Iran's Revolutionary Guard reports that an oil tanker has exploded after striking a naval mine near the strategic Strait of Hormuz. The incident adds to ongoing maritime tensions in the vital shipping lane.
+Pakistan Shaheens have successfully qualified for the final of the Asia Cup Rising Stars tournament, powered by notable performances from Hasan and Shazaib.
 
-ایران کے پاسداران انقلاب کا کہنا ہے کہ آبنائے ہرمز کے قریب ایک آئل ٹینکر سمندری بارودی سرنگ سے ٹکرا کر دھماکے سے تباہ ہو گیا ہے۔ اس واقعے سے اہم تجارتی راستے پر بحری سیکیورٹی کے خدشات بڑھ گئے ہیں۔
+حسن اور شعیب کی شاندار کارکردگی کی بدولت پاکستان شاہینز نے ایشیا کپ رائزنگ اسٹارز ٹورنامنٹ کے فائنل کے لیے کوالیفائی کر لیا ہے۔
 
-First reported by Dawn; also reported by Anadolu Ajansı
+First reported by samaa tv
 
-#Iran #StraitOfHormuz #OilTanker #Security #WorldNews
+#PakistanShaheens #AsiaCupRisingStars #Cricket #Pakistan
 ```
 
-### Kuwait Summons Iran Ambassador Over Continued Attacks  [NORMAL]
-- Poster: کویت نے مسلسل حملوں کے خلاف ایرانی سفیر کو طلب کر کے احتجاجی نوٹ تھما دیا / Kuwait summons Iran ambassador over attacks | category politics
-- Alternative headline: Kuwait Hands Protest Note to Iranian Envoy Amid Ongoing Attacks
+### Three convicted in UK for forcing woman into marriage in Pakistan  [NORMAL]
+- Poster: برطانیہ میں خاتون کو زبردستی پاکستان لے جا کر شادی پر مجبور کرنے والے تین افراد کو سزا / Three convicted in UK for forced marriage plot to Pakistan | category crime
+- Alternative headline: UK court convicts three individuals for taking woman to Pakistan for forced marriage
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUEzbEhrbGRMejBpRV92S0czLUFjRkpWQUNOWk9nRmIteXF3SGtfbTNHbG9mU3hsSWtNRUFfT3dkZjdJUlFXOUdreC1sV0xZVExpck84b0pXNWMxSTk1MGs0R1BnU2dUU2t4TDJNcEtzRm5YTUl5RHN4VEVqaEtONENSNG9JNzBYczFxdTA2d1V6djYxV2RDQVFDbmd1cEg3NkNN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUEzbEhrbGRMejBpRV92S0czLUFjRkpWQUNOWk9nRmIteXF3SGtfbTNHbG9mU3hsSWtNRUFfT3dkZjdJUlFXOUdreC1sV0xZVExpck84b0pXNWMxSTk1MGs0R1BnU2dUU2t4TDJNcEtzRm5YTUl5RHN4VEVqaEtONENSNG9JNzBYczFxdTA2d1V6djYxV2RDQVFDbmd1cEg3NkNN?oc=5
-- Supporting coverage: Dawn, Khaleej Times, samaa tv
-- Keywords: Kuwait, Iran ambassador, protest note, diplomatic tensions, Gulf security, Dawn | hashtags: #Kuwait #Iran #Diplomacy #GulfNews #MiddleEast
-- Scheduled: Fri 27 Nov, 11:02 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: forced marriage, UK police, Pakistan, court conviction, crime | hashtags: #ForcedMarriage #UKPolice #Pakistan #CourtConviction
+- Scheduled: Fri 27 Nov, 11:47 PM PKT
 - Caption:
 ```
-Diplomatic tensions flare in the Gulf as Kuwait summons the Iranian ambassador to deliver a formal protest note.
+Police in the UK have secured the conviction of three individuals involved in taking a woman to Pakistan and forcing her into marriage.
 
-The Kuwaiti government has summoned the Iranian ambassador to deliver an official protest note regarding continued Iranian attacks. The diplomatic move underscores growing regional anxieties over recent security incidents.
+Police authorities have announced the conviction of three individuals who transported a woman from the UK to Pakistan and forced her into marriage against her will.
 
-کویت کی حکومت نے مسلسل ایرانی حملوں کے سلسلے میں ایرانی سفیر کو طلب کر کے باضابطہ احتجاجی نوٹ جمع کرا دیا ہے۔ اس سفارتی اقدام سے خطے میں حالیہ سیکیورٹی واقعات پر بڑھتے ہوئے خدشات ظاہر ہوتے ہیں۔
+برطانوی پولیس نے تین افراد کو مجرم قرار دے دیا ہے جنہوں نے ایک خاتون کو برطانیہ سے زبردستی پاکستان لا کر اس کی مرضی کے خلاف شادی پر مجبور کیا تھا۔
 
-First reported by Dawn; also reported by Khaleej Times
+First reported by Dawn
 
-#Kuwait #Iran #Diplomacy #GulfNews #MiddleEast
+#ForcedMarriage #UKPolice #Pakistan #CourtConviction
 ```
 
-- Indian outlets blocked this run: 3 items
+### President Asif Ali Zardari meets Chaudhry Shujaat Hussain  [NORMAL]
+- Poster: صدر مملکت آصف علی زرداری کی چوہدری شجاعت حسین سے ملاقات، سیاسی صورتحال پر تبادلہ خیال / President Zardari meets Chaudhry Shujaat to discuss political situation | category politics
+- Alternative headline: President Zardari discusses political situation with PML-Q chief Chaudhry Shujaat
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1637249 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1637249
+- Supporting coverage: UrduPoint, Jang Urdu, UrduPoint
+- Keywords: Asif Ali Zardari, Chaudhry Shujaat Hussain, political situation, PML-Q, President of Pakistan | hashtags: #AsifAliZardari #ChaudhryShujaat #PMLQ #PakistanPolitics
+- Scheduled: Fri 27 Nov, 11:57 PM PKT
+- Caption:
+```
+President Asif Ali Zardari visited PML-Q chief Chaudhry Shujaat Hussain to inquire about his health and discuss the current political landscape.
+
+President Asif Ali Zardari held a meeting with PML-Q head Chaudhry Shujaat Hussain at his residence. The leaders discussed the country's political situation, with federal and provincial ministers also in attendance.
+
+صدر مملکت آصف علی زرداری نے مسلم لیگ (ق) کے سربراہ چوہدری شجاعت حسین سے ان کی رہائش گاہ پر ملاقات کی۔ رہنماؤں نے ملکی سیاسی صورتحال پر تبادلہ خیال کیا، اس موقع پر دیگر وزراء بھی موجود تھے۔
+
+First reported by Jang Urdu
+
+#AsifAliZardari #ChaudhryShujaat #PMLQ #PakistanPolitics
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
-- [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
-- [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
 - [needs_review] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
 - [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
 - [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
@@ -366,11 +361,11 @@ First reported by Dawn; also reported by Khaleej Times
 - [needs_review] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
 - [needs_review] normal | Lahore police chief denies Fazl’s arrest | Fri 27 Nov, 04:20 PM PKT
 - [published] normal | Fatima Sana, Sadia Iqbal secure top-category PCB contracts | Fri 27 Nov, 04:30 PM PKT
-- [queued] normal | Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'? | Fri 27 Nov, 04:40 PM PKT
-- [queued] normal | Iran says it recovers two oil tankers ‘stolen’ by US military | Fri 27 Nov, 04:50 PM PKT
-- [queued] normal | Pakistan seeks deeper cooperation with IAEA on nuclear security | Fri 27 Nov, 05:00 PM PKT
-- [queued] normal | Karachi traffic police announce diversions near Press Club ahead of pr | Fri 27 Nov, 05:10 PM PKT
-- [queued] normal | Media mogul admits saying Australian child sex abuse survivor 'looking | Fri 27 Nov, 05:20 PM PKT
+- [needs_review] normal | Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'? | Fri 27 Nov, 04:40 PM PKT
+- [needs_review] normal | Iran says it recovers two oil tankers ‘stolen’ by US military | Fri 27 Nov, 04:50 PM PKT
+- [needs_review] normal | Pakistan seeks deeper cooperation with IAEA on nuclear security | Fri 27 Nov, 05:00 PM PKT
+- [needs_review] normal | Karachi traffic police announce diversions near Press Club ahead of pr | Fri 27 Nov, 05:10 PM PKT
+- [published] normal | Media mogul admits saying Australian child sex abuse survivor 'looking | Fri 27 Nov, 05:20 PM PKT
 - [queued] normal | Democrats want to end Trump’s Iran war. But how different are they? | Fri 27 Nov, 05:30 PM PKT
 - [published] promo | [YouTube] MARYAM NAWAZ AIRCRAFT CONTROVERSY | NOBEL PRIZE CLAIM EXPOSE | Fri 27 Nov, 05:45 PM PKT
 - [queued] normal | What Spain’s election means for Morocco | Fri 27 Nov, 05:45 PM PKT
@@ -394,15 +389,23 @@ First reported by Dawn; also reported by Khaleej Times
 - [queued] normal | Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya | Fri 27 Nov, 10:42 PM PKT
 - [queued] normal | Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz | Fri 27 Nov, 10:52 PM PKT
 - [queued] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
+- [queued] normal | Makkah pact nations condemn Houthi attacks on Saudi Arabia | Fri 27 Nov, 11:17 PM PKT
+- [queued] normal | SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | Fri 27 Nov, 11:27 PM PKT
+- [queued] normal | Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars f | Fri 27 Nov, 11:37 PM PKT
+- [queued] normal | Three convicted in UK for forcing woman into marriage in Pakistan | Fri 27 Nov, 11:47 PM PKT
+- [queued] normal | President Asif Ali Zardari meets Chaudhry Shujaat Hussain | Fri 27 Nov, 11:57 PM PKT
 
 ## Publishing this run
-- Published 'Fatima Sana, Sadia Iqbal secure top-category PCB contracts'.
+- Published 'Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again''.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 8736 | output tokens: 2697
+- Calls: 3 | prompt tokens: 6637 | output tokens: 2746
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
