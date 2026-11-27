@@ -1,199 +1,196 @@
-# News Hub report - Fri 27 Nov, 03:40 PM PKT
+# News Hub report - Fri 27 Nov, 04:38 PM PKT
 
 ## Collection
-- New items this run: 115 | items in rolling pool: 509
-- Unique story clusters: 420 (duplicates merged: 89)
-- Clusters dropped as already published/queued: 23; unchanged since last analysis: 4
-- Items per outlet: UrduPoint 57, ProPakistani 10, Wired 7, Geo News 4, Dawn 3, The Express Tribune 3, TechJuice 3, Anadolu Ajansı 3, samaa tv 2, Dawn Latest 2, Al Jazeera 2, TodayPress.tv 2
+- New items this run: 128 | items in rolling pool: 621
+- Unique story clusters: 512 (duplicates merged: 109)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 4
+- Items per outlet: UrduPoint 57, Geo News 11, ProPakistani 10, Wired 8, Al Jazeera 7, Dawn 5, samaa tv 4, Dawn Pakistan 3, AP News 3, TechJuice 3, Dawn Latest 2, The Current 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it recovers two oil tankers ‘stolen’ by US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks deeper cooperation with IAEA on nuclear security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi traffic police announce diversions near Press Club ahead of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats want to end Trump’s Iran war. But how different are they? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it recovers two oil tankers ‘stolen’ by US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks deeper cooperation with IAEA on nuclear security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi traffic police announce diversions near Press Club ahead of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats want to end Trump’s Iran war. But how different are they? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PCB awards central contracts to eight women cricketers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- FO says reported capsizing of boat with Pakistani migrants yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore police chief denies Fazl’s arrest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Fatima Sana, Sadia Iqbal secure top-category PCB contracts | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says it recovers two oil tankers ‘stolen’ by US military | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan seeks deeper cooperation with IAEA on nuclear security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi traffic police announce diversions near Press Club ahead of protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Democrats want to end Trump’s Iran war. But how different are they? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 4 | failed: 1 | malformed/partial: 2
+- Overall feeds with entries: 115/120 | empty: 3 | failed: 2 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### ECP says it cannot force parties to field women on winnable seats  [NORMAL]
-- Poster: خواتین کو نشستیں دینے کا معاملہ سیاسی جماعتوں کا اندرونی معاملہ ہے: الیکشن کمیشن / ECP Cannot Force Parties to Field Women on Winnable Seats | category politics
-- Alternative headline: Allocation of party tickets is an internal affair, ECP clarifies
+### Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'?  [NORMAL]
+- Poster: ڈونلڈ ٹرمپ کے بیان سے متعلق وائرل ویڈیو جعلی نکلی / Viral video of Trump criticizing PM Shehbaz is fake | category us_politics
+- Alternative headline: Fake viral video falsely shows Donald Trump criticizing PM Shehbaz Sharif
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: ECP, women quota, election commission, political parties, National Assembly, winnable seats | hashtags: #ECP #PakistanElections #WomenEmpowerment #NationalAssembly #News
-- Scheduled: Fri 27 Nov, 03:40 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692854-fact-check-did-trump-call-shehbaz-sharif-a-selfish-man | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692854-fact-check-did-trump-call-shehbaz-sharif-a-selfish-man
+- Supporting coverage: Geo News, Geo News
+- Keywords: fact-check, Shehbaz Sharif, Donald Trump, fake video, Geo News, viral clip | hashtags: #FactCheck #ShehbazSharif #DonaldTrump #GeoNews #Pakistan
+- Scheduled: Fri 27 Nov, 04:40 PM PKT
 - Caption:
 ```
-The Election Commission of Pakistan has clarified that it has no legal authority to force political parties to field women on winnable seats.
+A viral video claiming US President Donald Trump called Prime Minister Shehbaz Sharif a selfish man has been proven entirely false.
 
-The Election Commission of Pakistan has stated that awarding party tickets is an internal matter for political parties and it lacks the legal authority to intervene. Responding to a parliamentary panel's directive regarding the five per cent quota for women, the ECP noted that ensuring women are fielded on winnable seats would require explicit legislation by Parliament.
+A viral video circulating on social media and WhatsApp falsely claims that US President Donald J. Trump called Prime Minister Shehbaz Sharif a selfish man. Geo Fact Check confirmed that the audio was manipulated, tracing the actual footage to a March 27 speech in Miami.
 
-الیکشن کمیشن آف پاکستان نے واضح کیا ہے کہ پارٹی ٹکٹوں کی تقسیم سیاسی جماعتوں کا اندرونی معاملہ ہے اور اسے مداخلت کا کوئی قانونی اختیار حاصل نہیں۔ خواتین کے کوٹے سے متعلق پارلیمانی کمیٹی کی ہدایت پر ای سی پی نے کہا کہ خواتین کو یقینی کامیابی والی نشستوں پر لڑانے کے لیے پارلیمنٹ کو قانون سازی کرنا ہوگی۔
+سوشل میڈیا اور واٹس ایپ پر وائرل ہونے والی ایک ویڈیو میں یہ دعویٰ کیا گیا کہ امریکی صدر ڈونلڈ ٹرمپ نے وزیراعظم شہباز شریف کو خود غرض شخص کہا ہے۔ جیو فیکٹ چیک نے تصدیق کی ہے کہ ویڈیو کا آڈیو جعلی ہے اور اصل فوٹیج 27 مارچ کو میامی میں دی گئی تقریر کی ہے۔
 
-According to Dawn Pakistan
+First reported by Geo News
 
-#ECP #PakistanElections #WomenEmpowerment #NationalAssembly #News
+#FactCheck #ShehbazSharif #DonaldTrump #GeoNews #Pakistan
 ```
 
-### PCB awards central contracts to just eight women cricketers  [NORMAL]
-- Poster: پی سی بی نے آٹھ خواتین کرکٹرز کو سینٹرل کنٹریکٹ دے دیے / PCB Awards Central Contracts to Eight Women Cricketers | category sports
-- Alternative headline: PCB unveils central contracts for women cricketers for 2026-27
+### Iran says it recovers two oil tankers ‘stolen’ by US military  [NORMAL]
+- Poster: ایران کا امریکی فوج کے قبضے سے دو تیل کے ٹینکرز چھڑانے کا دعویٰ / Iran claims recovery of oil tankers seized by US | category world
+- Alternative headline: Tehran claims its navy successfully recovered two oil tankers seized by US forces
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzZFMF91a1VSMTY0QkFmNzRVNTVjVkp0WGZVTjhxSW5ucnZnOGNfSGg2RnN5amo2S1dzN0d2WHJDTWZIekN0S0tVWHlWXy1fQVZwTnFkbndNUGNzcTVxc2hnVzUwN3lLanBMMWp3ZG1aZ2R6SU9lNFlSZDg0eGNjZmEyaXRtWm83aF9VQUpSSQ?oc=5
-- Supporting coverage: samaa tv, Geo News, The Current, ProPakistani
-- Keywords: PCB, women cricketers, central contracts, Pakistan cricket, sports news | hashtags: #PCB #WomenCricket #PakistanCricket #SportsNews
-- Scheduled: Fri 27 Nov, 03:50 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXEwZHdzOWE3S01DMWg1ZjVwY0dPQ0Y0WVJaX3FIU1hCMDdhYXgtUWZNTDNrMktVRlZobTluMFEwalAwcXJwcEE2Z0cxM0RZSTV0bEFfR0xrVXA2STVqSXZBd1hjM2ltd0NjWDVQNTh2Ql9BUlpMMnJUVlNXVWlURm9rVC1xZ3g0S1M0OVdqOUpHSlJzT19Hcg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXEwZHdzOWE3S01DMWg1ZjVwY0dPQ0Y0WVJaX3FIU1hCMDdhYXgtUWZNTDNrMktVRlZobTluMFEwalAwcXJwcEE2Z0cxM0RZSTV0bEFfR0xrVXA2STVqSXZBd1hjM2ltd0NjWDVQNTh2Ql9BUlpMMnJUVlNXVWlURm9rVC1xZ3g0S1M0OVdqOUpHSlJzT19Hcg?oc=5
+- Supporting coverage: Dawn, Anadolu Ajansı, Yeni Safak English
+- Keywords: oil tankers, Iran, US military, navy, seizure, Dawn | hashtags: #Iran #USTankers #DawnNews #WorldNews
+- Scheduled: Fri 27 Nov, 04:50 PM PKT
 - Caption:
 ```
-The Pakistan Cricket Board has announced central contracts for only eight women cricketers for the upcoming season.
+Iranian authorities announced the recovery of two oil tankers that they claim were previously seized by the United States military.
 
-The Pakistan Cricket Board has awarded central contracts to just eight women cricketers. This decision marks a significant reduction compared to previous years, drawing attention to the restructuring of women's cricket contracts by the board.
+Iran has announced that it successfully recovered two oil tankers that were allegedly stolen and seized by the United States military, according to reports by Dawn and international news agencies.
 
-پاکستان کرکٹ بورڈ نے صرف آٹھ خواتین کرکٹرز کو سینٹرل کنٹریکٹ دیے ہیں۔ گزشتہ سالوں کے مقابلے میں یہ ایک نمایاں کمی ہے، جس پر کرکٹ حلقوں میں بحث شروع ہو گئی ہے۔
-
-First reported by samaa tv; also reported by ProPakistani
-
-#PCB #WomenCricket #PakistanCricket #SportsNews
-```
-
-### FO says reported capsizing of boat with Pakistani migrants yet to be verified  [NORMAL]
-- Poster: پاکستانی تارکین وطن کی کشتی ڈوبنے کی خبر کی تصدیق نہیں ہو سکی: دفتر خارجہ / FO: Reported Boat Capsizing Involving Pakistanis Yet to be Verified | category world
-- Alternative headline: Boat capsizing off Libya involving Pakistani migrants yet to be verified, says FO
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMizAFBVV95cUxNekNiTS1ZYldWLUZmMkJVMWJCQmhYXzBNZGpVNFlkSmdBMVNid3BFMkZuc0MyUTM2R0xLTGhGMDAtOW0zVFV5U2N1dkR6M2pVT3BGNDZoVFc2QTAzSjZpMnVQZlAzSkRkRDZsOFBCeXVPb1ZvMWNWVndvblZ6cEY0WGpURTVXMGdYaTNPUFpLRFBIclBPamZCc0FnNFhxOXBqaFowc29FUlJKNzd5MFpKU0UzbG5IdlhEQ2NlYV9yUDNzQkJHR2ppWmdTdHk?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan, Geo News, Geo News
-- Keywords: Foreign Office, migrants, boat capsizing, Libya, FO Pakistan | hashtags: #ForeignOffice #Pakistan #Libya #Migrants
-- Scheduled: Fri 27 Nov, 04:00 PM PKT
-- Caption:
-```
-The Foreign Office has stated that reports regarding the capsizing of a boat carrying Pakistani migrants are currently unverified.
-
-The Foreign Office has stated that reports concerning the capsizing of a boat carrying Pakistani migrants near Libya have not yet been verified. Authorities are actively pursuing the matter to ascertain the facts and determine if any Pakistani nationals were involved.
-
-دفتر خارجہ نے کہا ہے کہ لیبیا کے قریب پاکستانی تارکین وطن کو لے جانے والی کشتی کے ڈوبنے سے متعلق اطلاعات کی تاحال تصدیق نہیں ہو سکی۔ حکام حقائق جاننے کے لیے اس معاملے کی چھان بین کر رہے ہیں۔
+ایران نے اعلان کیا ہے کہ اس نے دو ایسے تیل کے ٹینکرز کو بازیاب کرا لیا ہے جنہیں مبینہ طور پر امریکی فوج نے قبضے میں لے لیا تھا، ڈان اور بین الاقوامی خبر رساں اداروں کے مطابق۔
 
 First reported by Dawn
 
-#ForeignOffice #Pakistan #Libya #Migrants
+#Iran #USTankers #DawnNews #WorldNews
 ```
 
-### Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL  [NORMAL]
-- Poster: کوئٹہ گلیڈی ایٹرز نے فرنچائز کی فروخت کی افواہوں کی تردید کر دی / Quetta Gladiators Deny Sale Rumours, Reaffirm PSL Commitment | category sports
-- Alternative headline: Quetta Gladiators deny franchise sale rumours, reaffirm commitment to PSL
+### Pakistan seeks deeper cooperation with IAEA on nuclear security  [NORMAL]
+- Poster: پاکستان کی جوہری سلامتی پر آئی اے ای اے سے تعاون بڑھانے کی خواہش / Pakistan seeks enhanced nuclear security cooperation with IAEA | category security
+- Alternative headline: Islamabad pushes for enhanced collaboration with IAEA regarding nuclear security measures
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWZPYU1MQ2N4SHpCZEpmT0dZQW16dU1aa3Zlb1NtemVZdW1MNmp4R01BOXBEa1BjVHpwNzJKMEoxQzBjZW9oOF9rcWJFbUxwRjJmZGVqQk5WOF9WZDIwZFJydkl6S2xxQl90T05GS2NBUWVJZTY3U2l6OFR6cVp2aFR4RnJEMS1kd3pVR2JVTTVHNWNTbnE5WVFOZDhOSWM4?oc=5
-- Supporting coverage: The Current, Dawn, Dawn Latest
-- Keywords: Quetta Gladiators, PSL, Pakistan Super League, franchise sale, cricket | hashtags: #QuettaGladiators #PSL #PakistanSuperLeague #CricketNews
-- Scheduled: Fri 27 Nov, 04:10 PM PKT
-- Caption:
-```
-Quetta Gladiators have strongly dismissed rumours regarding the sale of their franchise and reaffirmed their commitment to the Pakistan Super League.
-
-Quetta Gladiators have officially dismissed ongoing rumours about the sale of the franchise, reaffirming their steadfast commitment to the Pakistan Super League (PSL). Management clarified that the franchise is not for sale and is fully focused on upcoming tournaments.
-
-کوئٹہ گلیڈی ایٹرز نے فرنچائز کی فروخت سے متعلق گردش کرنے والی افواہوں کی سختی سے تردید کرتے ہوئے پاکستان سپر لیگ (پی ایس ایل) کے ساتھ اپنی وابستگی کا اعادہ کیا ہے۔
-
-First reported by Dawn
-
-#QuettaGladiators #PSL #PakistanSuperLeague #CricketNews
-```
-
-### Lahore police chief denies Fazl’s arrest  [NORMAL]
-- Poster: لاہور پولیس کے سربراہ نے مولانا فضل الرحمان کی گرفتاری کی تردید کر دی / Lahore Police Chief Denies Maulana Fazl's Arrest | category politics
-- Alternative headline: Lahore police chief rejects reports of Maulana Fazlur Rehman's arrest
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifkFVX3lxTE5RX19HM1llVTg3V3I0dzdzUm05c1RkQ0s0Qk5PSmttTV9HX0xNemtacVU3c0pXTjAyTl9QRExBUHhZMW5LM0ZXR25UbDRtZThRRVVOOEtYZGVTSFY0UC00ZnlGa19BSndpU19qeE9PVnpObFRzc3FFaUJHdV82dw?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOR3g3SFZTSFFhUWJQX09QYjNSaUoyNmZXV1A0RVJYVkpLekRDaS1sUXN4dXgxUlNUX3lmLWRETDFMZEw1Ym1ZOEVqSThiUTRCVHhUZmdibmtRMVl4Sk5fMjgtRlMycUhvZTJLY1d2MFQySDZoM3dSR1E5blZsOVJpNTJTaTFZaXByQmdaOVJ2QXZsaGtzeUc3R3YxbjA1QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOR3g3SFZTSFFhUWJQX09QYjNSaUoyNmZXV1A0RVJYVkpLekRDaS1sUXN4dXgxUlNUX3lmLWRETDFMZEw1Ym1ZOEVqSThiUTRCVHhUZmdibmtRMVl4Sk5fMjgtRlMycUhvZTJLY1d2MFQySDZoM3dSR1E5blZsOVJpNTJTaTFZaXByQmdaOVJ2QXZsaGtzeUc3R3YxbjA1QQ?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Lahore police, Maulana Fazlur Rehman, JUI-F, arrest denial, Lahore | hashtags: #LahorePolice #MaulanaFazlurRehman #JUIF #PakistanPolitics
-- Scheduled: Fri 27 Nov, 04:20 PM PKT
+- Keywords: nuclear security, Pakistan, IAEA, cooperation, Islamabad, Dawn | hashtags: #Pakistan #IAEA #NuclearSecurity #DawnNews
+- Scheduled: Fri 27 Nov, 05:00 PM PKT
 - Caption:
 ```
-The Lahore police chief has formally denied reports regarding the arrest of JUI-F chief Maulana Fazlur Rehman.
+Pakistan has formally expressed its desire to deepen collaboration with the International Atomic Energy Agency concerning nuclear security.
 
-The Capital City Police Officer (CCPO) or Lahore police chief has denied circulating reports claiming that JUI-F chief Maulana Fazlur Rehman has been arrested. The clarification comes amid heightened political tensions and claims of state restrictions in Lahore.
+Pakistan has sought deeper cooperation with the International Atomic Energy Agency (IAEA) to strengthen nuclear security measures, following recent diplomatic engagements and meetings hosted in Islamabad.
 
-لاہور پولیس کے سربراہ نے جمعیت علمائے اسلام (ف) کے سربراہ مولانا فضل الرحمان کی گرفتاری سے متعلق گردش کرنے والی خبروں کی تردید کر دی ہے۔
+پاکستان نے ایٹمی سیکیورٹی کے اقدامات کو مضبوط بنانے کے لیے انٹرنیشنل اٹامک انرجی ایجنسی (آئی اے ای اے) کے ساتھ گہرے تعاون کی خواہش ظاہر کی ہے، اسلام آباد میں ہونے والی حالیہ ملاقاتوں کے بعد۔
 
 First reported by Dawn
 
-#LahorePolice #MaulanaFazlurRehman #JUIF #PakistanPolitics
+#Pakistan #IAEA #NuclearSecurity #DawnNews
 ```
 
-### Fatima Sana, Sadia Iqbal secure top-category PCB contracts  [NORMAL]
-- Poster: فاطمہ ثناء اور سعدیہ اقبال کو پی سی بی کے ٹاپ کیٹیگری کنٹریکٹس مل گئے / Fatima Sana and Sadia Iqbal Secure Top PCB Contracts | category sports
-- Alternative headline: Fatima Sana and Sadia Iqbal awarded top category in PCB contracts
+### Karachi traffic police announce diversions near Press Club ahead of protest  [NORMAL]
+- Poster: کراچی میں احتجاج کے پیش نظر پریس کلب کے قریب ٹریفک ڈائیورژن کا اعلان / Traffic diversions announced near Karachi Press Club for protest | category crime
+- Alternative headline: Alternative routes announced in Karachi as traffic police manage protest near Press Club
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHM3alpGOFZlYXc2U09sZW1QWE03OEREYXFwSDRVcFZFRVZYaXlXUzlkSHlSMFpTRURPOW9iZUV2ZFlpTndLWEFBcDdOYWsyQllmc01QM0xhV2FpRE51YnFNaURMVHpiOFdGOW1kTEJZNENFZ3BwYlVtVm0wM0trdXU2c1NoZ1ItaHU1WFVlTkxMaHk0RFE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHM3alpGOFZlYXc2U09sZW1QWE03OEREYXFwSDRVcFZFRVZYaXlXUzlkSHlSMFpTRURPOW9iZUV2ZFlpTndLWEFBcDdOYWsyQllmc01QM0xhV2FpRE51YnFNaURMVHpiOFdGOW1kTEJZNENFZ3BwYlVtVm0wM0trdXU2c1NoZ1ItaHU1WFVlTkxMaHk0RFE?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Fatima Sana, Sadia Iqbal, PCB contracts, women cricket, Pakistan cricket | hashtags: #FatimaSana #SadiaIqbal #PCB #WomenCricket
-- Scheduled: Fri 27 Nov, 04:30 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGw4MU9vUFVZTkFCejJWMWphcHpzV19RMkpJX2F2LTRqX0I0MGV5Tld6LTJKcGNwdDE0RE9WMTQ1T1QwNmVnNU1EWEg5dlFkbmxkSlY4dFpuOTkyMVc2RHJIZ2htcjl5TXBMNERmcjhnTmI1U3hOUXNycU02NzBfQkYwb1NpcFhpQUYtdFk0ZDMwYk9oODJGWkJ4MXQxVDU5dHhhVG9NaFdCVnpUS2c?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGw4MU9vUFVZTkFCejJWMWphcHpzV19RMkpJX2F2LTRqX0I0MGV5Tld6LTJKcGNwdDE0RE9WMTQ1T1QwNmVnNU1EWEg5dlFkbmxkSlY4dFpuOTkyMVc2RHJIZ2htcjl5TXBMNERmcjhnTmI1U3hOUXNycU02NzBfQkYwb1NpcFhpQUYtdFk0ZDMwYk9oODJGWkJ4MXQxVDU5dHhhVG9NaFdCVnpUS2c?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: traffic diversions, Karachi Press Club, protest, traffic police, Dawn, alternative routes | hashtags: #KarachiTraffic #PressClub #DawnNews #TrafficAlert
+- Scheduled: Fri 27 Nov, 05:10 PM PKT
 - Caption:
 ```
-Star women cricketers Fatima Sana and Sadia Iqbal have secured top-category central contracts from the Pakistan Cricket Board.
+Karachi traffic police have announced alternative routes and diversions near the Press Club due to an upcoming protest.
 
-National women cricketers Fatima Sana and Sadia Iqbal have successfully secured top-category central contracts in the Pakistan Cricket Board's latest announcement, recognizing their stellar performances for the country.
+Karachi traffic police have issued a traffic advisory detailing alternative routes and diversions near the Karachi Press Club ahead of a scheduled protest demonstration.
 
-قومی خواتین کرکٹرز فاطمہ ثناء اور سعدیہ اقبال نے پاکستان کرکٹ بورڈ کے نئے سینٹرل کنٹریکٹس میں ٹاپ کیٹیگری حاصل کر لی ہے۔
+کراچی ٹریفک پولیس نے ایک متوقع احتجاجی مظاہرے کے پیش نظر کراچی پریس کلب کے قریب متبادل راستوں اور ٹریفک ڈائیورژن کا اعلان کیا ہے۔
 
 First reported by Dawn
 
-#FatimaSana #SadiaIqbal #PCB #WomenCricket
+#KarachiTraffic #PressClub #DawnNews #TrafficAlert
 ```
 
-- Indian outlets blocked this run: 1 items
+### Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again'  [NORMAL]
+- Poster: میڈیا ایگزیکٹو کا آسٹریلوی بچی کے بارے میں متنازع ریمارکس کا اعتراف / Media executive admits controversial remarks about abuse survivor | category world
+- Alternative headline: Former Murdoch executive admits to controversial remarks about Grace Tame's attire
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC
+- Keywords: media executive, Grace Tame, Australia, child sex abuse, BBC, controversy | hashtags: #GraceTame #Australia #BBCNews #MediaScandal
+- Scheduled: Fri 27 Nov, 05:20 PM PKT
+- Caption:
+```
+A former Murdoch media executive has admitted to making offensive remarks about an Australian child sex abuse survivor.
+
+A former Murdoch media executive has admitted to being overheard at an event making deeply offensive remarks regarding how Grace Tame, an Australian child sex abuse survivor, was dressed.
+
+مرڈوک میڈیا کے سابق ایگزیکٹو نے اعتراف کیا ہے کہ انہوں نے آسٹریلوی جنسی زیادتی کی شکار بچی کے بارے میں نازیبا الفاظ کہے تھے۔
+
+First reported by BBC
+
+#GraceTame #Australia #BBCNews #MediaScandal
+```
+
+### Democrats want to end Trump’s Iran war. But how different are they?  [NORMAL]
+- Poster: امریکی ڈیموکریٹس ٹرمپ کی ایران جنگ ختم کرنا چاہتے ہیں، لیکن کیا پالیسی بدلے گی؟ / Democrats want to end Trump's Iran war, but what changes? | category world
+- Alternative headline: Examining US policy differences as Democrats pledge to halt Trump's Iran conflict
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Democrats, Iran war, Donald Trump, US foreign policy, Al Jazeera, Tehran | hashtags: #USPolitics #IranWar #Democrats #AlJazeera
+- Scheduled: Fri 27 Nov, 05:30 PM PKT
+- Caption:
+```
+As Democrats express a desire to end Trump's conflict with Iran, questions arise regarding how much US foreign policy will actually change.
+
+Decades of bipartisan pressure on Tehran raise critical questions about whether Democrats are genuinely willing to alter US foreign policy regarding Iran, despite their stated opposition to Donald Trump's ongoing conflict.
+
+تہران پر کئی دہائیوں سے جاری دو طرفہ دباؤ کے بعد یہ سوال اٹھتا ہے کہ کیا ڈیموکریٹس واقعی ایران کے حوالے سے امریکی خارجہ پالیسی کو تبدیل کرنے کا ارادہ رکھتے ہیں، باوجود اس کے کہ وہ ٹرمپ کی جنگ کی مخالفت کرتے ہیں۔
+
+First reported by Al Jazeera
+
+#USPolitics #IranWar #Democrats #AlJazeera
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 23
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 24
 
 ## Queue status
-- [needs_review] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
-- [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
-- [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
 - [needs_review] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
 - [needs_review] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [needs_review] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
@@ -207,7 +204,6 @@ First reported by Dawn
 - [needs_review] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
 - [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
-- [published] normal | Plea filed in LHC against alleged police siege of Fazl's Lahore home | Tue 24 Nov, 03:53 PM PKT
 - [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
 - [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
@@ -386,11 +382,11 @@ First reported by Dawn
 - [published] normal | Two Italians Killed in Drone Strike in Kuwait as Iran Denies Involveme | Fri 27 Nov, 08:45 AM PKT
 - [needs_review] normal | Iran Foreign Minister Calls Deadly Kuwait Attack Suspicious and Pre-Co | Fri 27 Nov, 08:55 AM PKT
 - [published] normal | Asian stock markets rebound following earlier tech rout | Fri 27 Nov, 09:43 AM PKT
-- [queued] normal | Daily news cartoon highlights political developments | Fri 27 Nov, 09:53 AM PKT
-- [queued] normal | Quetta court grants bail to journalist Shahid Maitla | Fri 27 Nov, 10:03 AM PKT
-- [queued] normal | 16 new laws enacted to strengthen law and order: Bugti | Fri 27 Nov, 10:13 AM PKT
-- [queued] normal | Maritime Affairs minister urges seafood exporters to boost value addit | Fri 27 Nov, 10:23 AM PKT
-- [queued] normal | New Zealand’s Opportunity Party poised to become election kingmaker | Fri 27 Nov, 10:46 AM PKT
+- [needs_review] normal | Daily news cartoon highlights political developments | Fri 27 Nov, 09:53 AM PKT
+- [needs_review] normal | Quetta court grants bail to journalist Shahid Maitla | Fri 27 Nov, 10:03 AM PKT
+- [needs_review] normal | 16 new laws enacted to strengthen law and order: Bugti | Fri 27 Nov, 10:13 AM PKT
+- [needs_review] normal | Maritime Affairs minister urges seafood exporters to boost value addit | Fri 27 Nov, 10:23 AM PKT
+- [published] normal | New Zealand’s Opportunity Party poised to become election kingmaker | Fri 27 Nov, 10:46 AM PKT
 - [queued] normal | 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | Fri 27 Nov, 10:56 AM PKT
 - [queued] normal | Female social worker hurt in acid attack in North Karachi | Fri 27 Nov, 11:06 AM PKT
 - [queued] normal | Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on | Fri 27 Nov, 11:50 AM PKT
@@ -409,13 +405,19 @@ First reported by Dawn
 - [queued] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
 - [queued] normal | Lahore police chief denies Fazl’s arrest | Fri 27 Nov, 04:20 PM PKT
 - [queued] normal | Fatima Sana, Sadia Iqbal secure top-category PCB contracts | Fri 27 Nov, 04:30 PM PKT
+- [queued] normal | Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'? | Fri 27 Nov, 04:40 PM PKT
+- [queued] normal | Iran says it recovers two oil tankers ‘stolen’ by US military | Fri 27 Nov, 04:50 PM PKT
+- [queued] normal | Pakistan seeks deeper cooperation with IAEA on nuclear security | Fri 27 Nov, 05:00 PM PKT
+- [queued] normal | Karachi traffic police announce diversions near Press Club ahead of pr | Fri 27 Nov, 05:10 PM PKT
+- [queued] normal | Media mogul admits saying Australian child sex abuse survivor 'looking | Fri 27 Nov, 05:20 PM PKT
+- [queued] normal | Democrats want to end Trump’s Iran war. But how different are they? | Fri 27 Nov, 05:30 PM PKT
 
 ## Publishing this run
-- Published 'Asian stock markets rebound following earlier tech rout'.
+- Published 'New Zealand’s Opportunity Party poised to become election kingmaker'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 6972 | output tokens: 3342
-- Errors: 3
+- Calls: 3 | prompt tokens: 7415 | output tokens: 3381
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -424,7 +426,3 @@ First reported by Dawn
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spi

@@ -180169,7 +180169,566 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3817b86adee1b81c12116176",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:14:28+00:00",
+      "last_update": "2026-11-27T11:14:28+00:00",
+      "event": "Pakistan seeks deeper cooperation with IAEA on nuclear security",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cooperation",
+        "dawn",
+        "deeper",
+        "iaea",
+        "nuclear",
+        "pakistan",
+        "security",
+        "seeks",
+        "with"
+      ],
+      "source_excerpt": "Pakistan seeks deeper cooperation with IAEA on nuclear security Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3g3SFZTSFFhUWJQX09QYjNSaUoyNmZXV1A0RVJYVkpLekRDaS1sUXN4dXgxUlNUX3lmLWRETDFMZEw1Ym1ZOEVqSThiUTRCVHhUZmdibmtRMVl4Sk5fMjgtRlMycUhvZTJLY1d2MFQySDZoM3dSR1E5blZsOVJpNTJTaTFZaXByQmdaOVJ2QXZsaGtzeUc3R3YxbjA1QQ?oc=5",
+          "published_at": "2026-11-27T11:14:28+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+          "published_at": "2026-11-27T11:14:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3g3SFZTSFFhUWJQX09QYjNSaUoyNmZXV1A0RVJYVkpLekRDaS1sUXN4dXgxUlNUX3lmLWRETDFMZEw1Ym1ZOEVqSThiUTRCVHhUZmdibmtRMVl4Sk5fMjgtRlMycUhvZTJLY1d2MFQySDZoM3dSR1E5blZsOVJpNTJTaTFZaXByQmdaOVJ2QXZsaGtzeUc3R3YxbjA1QQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b690c4f6945bd12d1a490ecd",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:21:10+00:00",
+      "last_update": "2026-11-27T11:32:31+00:00",
+      "event": "Karachi traffic police announce diversions near Press Club ahead of protest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahead",
+        "announce",
+        "club",
+        "dawn",
+        "diversions",
+        "karachi",
+        "near",
+        "police",
+        "press",
+        "protest",
+        "traffic"
+      ],
+      "source_excerpt": "Karachi traffic police announce diversions near Press Club ahead of protest Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGw4MU9vUFVZTkFCejJWMWphcHpzV19RMkpJX2F2LTRqX0I0MGV5Tld6LTJKcGNwdDE0RE9WMTQ1T1QwNmVnNU1EWEg5dlFkbmxkSlY4dFpuOTkyMVc2RHJIZ2htcjl5TXBMNERmcjhnTmI1U3hOUXNycU02NzBfQkYwb1NpcFhpQUYtdFk0ZDMwYk9oODJGWkJ4MXQxVDU5dHhhVG9NaFdCVnpUS2c?oc=5",
+          "published_at": "2026-11-27T11:21:10+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047473/karachi-traffic-police-announce-diversions-near-press-club-ahead-of-protest",
+          "published_at": "2026-11-27T11:32:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGw4MU9vUFVZTkFCejJWMWphcHpzV19RMkpJX2F2LTRqX0I0MGV5Tld6LTJKcGNwdDE0RE9WMTQ1T1QwNmVnNU1EWEg5dlFkbmxkSlY4dFpuOTkyMVc2RHJIZ2htcjl5TXBMNERmcjhnTmI1U3hOUXNycU02NzBfQkYwb1NpcFhpQUYtdFk0ZDMwYk9oODJGWkJ4MXQxVDU5dHhhVG9NaFdCVnpUS2c?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8070c9a34978feaa51976fd7",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:15:03+00:00",
+      "last_update": "2026-11-27T11:15:03+00:00",
+      "event": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amnesty",
+        "and",
+        "attacks",
+        "births",
+        "destroy",
+        "gaza",
+        "girls",
+        "group",
+        "israel",
+        "israeli",
+        "life",
+        "meant",
+        "palestinians",
+        "prevent",
+        "rights",
+        "says",
+        "seeking",
+        "targeting",
+        "women"
+      ],
+      "source_excerpt": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+          "published_at": "2026-11-27T11:15:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "eb37d7701d9eff3101bfa838",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:12:58+00:00",
+      "last_update": "2026-11-27T11:12:58+00:00",
+      "event": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2015",
+        "backtracks",
+        "boxer",
+        "claim",
+        "claimed",
+        "diagnosis",
+        "following",
+        "for",
+        "from",
+        "fury",
+        "had",
+        "health",
+        "his",
+        "klitschko",
+        "mental",
+        "over",
+        "paris",
+        "schizophrenia",
+        "suffers",
+        "tyson",
+        "ukraine",
+        "victory",
+        "wife",
+        "wladimir"
+      ],
+      "source_excerpt": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine's Wladimir Klitschko.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+          "published_at": "2026-11-27T11:12:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ec254880347d3675b5c1c496",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T10:59:27+00:00",
+      "last_update": "2026-11-27T10:59:27+00:00",
+      "event": "US shoppers get ready for Black Friday and Cyber Monday",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "black",
+        "but",
+        "compete",
+        "cyber",
+        "discounts",
+        "electronics",
+        "for",
+        "frenzy",
+        "friday",
+        "get",
+        "may",
+        "monday",
+        "peak",
+        "ready",
+        "shoppers",
+        "the",
+        "weekend"
+      ],
+      "source_excerpt": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+          "published_at": "2026-11-27T10:59:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3ba1426e2fc173e63c8ba0e5",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T10:54:16+00:00",
+      "last_update": "2026-11-27T10:54:16+00:00",
+      "event": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "benjamin",
+        "charges",
+        "corruption",
+        "could",
+        "escape",
+        "explains",
+        "his",
+        "jazeera",
+        "lina",
+        "most",
+        "netanyahu",
+        "serene",
+        "serious",
+        "trial",
+        "unravelling",
+        "why"
+      ],
+      "source_excerpt": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+          "published_at": "2026-11-27T10:54:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7886f6eca10c54230be24526",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T10:48:54+00:00",
+      "last_update": "2026-11-27T10:48:54+00:00",
+      "event": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "brentford",
+        "charge",
+        "first",
+        "game",
+        "home",
+        "host",
+        "league",
+        "lineups",
+        "man",
+        "manager",
+        "manchester",
+        "mauricio",
+        "new",
+        "pochettino",
+        "predictions",
+        "premier",
+        "relegation",
+        "threatened",
+        "united"
+      ],
+      "source_excerpt": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
+          "published_at": "2026-11-27T10:48:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "42fc305fbac477501e7be4e2",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T10:31:20+00:00",
+      "last_update": "2026-11-27T10:40:48+00:00",
+      "event": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aim",
+        "alleged",
+        "anti",
+        "attacks",
+        "australia",
+        "for",
+        "funds",
+        "have",
+        "iran",
+        "irgc",
+        "linked",
+        "men",
+        "planned",
+        "restrict",
+        "sanctions",
+        "semitic",
+        "suspects",
+        "two"
+      ],
+      "source_excerpt": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+          "published_at": "2026-11-27T10:31:20+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTI1NktNS3JEX2dVLUlNX1BfbWVDTWgwdmJYQ2FPa2d3bGs3TTBBZ2dPS1c3UF80SnZzakN1OGVhREV3eU5XU1FGWEd6c1pVS3ZBVlpuSGhWenBqYzV4enUyVWVhZV91OU1PN2pFQUdwYlQ5QjJTdWxBc0wyeGljSmVTWGNSaUduZTF3N1JvMFZCV2Q0UnE1T0hRVWxIYXdLRmRmNXJrekExUdIBrwFBVV95cUxQaV9uYXV3Z0gzeVpNVHZzS0E2X0RWVDlfeVUtMDNxWkduaDhmb0c5d1diUWQtVmo0ZjdPQ2pWSlRwZnYyenBxLXlMS2M0dktTclljWHFnamhUS3VDUm5UMjZJeXNoRUpoWklBcTEtLXNJU0otRjNwMUlPQnpFUnR6ckRWVWRhZ2hnb1ZQX2N6ZElQZ3RrUHN6Yk1talFjSVZwZzkyS2k0MUoxN3lncVVJ?oc=5",
+          "published_at": "2026-11-27T10:40:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d706d24cf094f15a8a38eda9",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T10:39:31+00:00",
+      "last_update": "2026-11-27T10:39:31+00:00",
+      "event": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "army",
+        "congo",
+        "congolese",
+        "country",
+        "diplomatic",
+        "east",
+        "fight",
+        "from",
+        "group",
+        "helping",
+        "islamist",
+        "militant",
+        "military",
+        "row",
+        "the",
+        "town",
+        "troops",
+        "uganda",
+        "ugandan",
+        "withdraw"
+      ],
+      "source_excerpt": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T10:39:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d951c78bb9f8f68039a4d841",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:18:23+00:00",
+      "last_update": "2026-11-27T11:18:23+00:00",
+      "event": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "breach",
+        "cloud",
+        "computing",
+        "dawn",
+        "flagship",
+        "force",
+        "hackers",
+        "one",
+        "platform"
+      ],
+      "source_excerpt": "Hackers breach US Air Force flagship Cloud One computing platform Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFwcDlqNTNJSnZ0Z2s2X1gxZ25tdkY0Sl9USGFLRzVaMmFGSHA4OFNfbDVfRGZMWTN4ZzFCUEdpZWRiRV9vWHAzM0pfT1FFVHliaUNzMzd1SnZ5QlJOeVNBSXlhWnBqam9WWkxTNXFHWE10TVZ6ZVVCcG12NjZPZndMa2wzSmJQV1dpQmhjSWdXTnBlUUhZbmpKX01adkl4?oc=5",
+          "published_at": "2026-11-27T11:18:23+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047476/hackers-breach-us-air-force-flagship-cloud-one-computing-platform",
+          "published_at": "2026-11-27T11:18:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFwcDlqNTNJSnZ0Z2s2X1gxZ25tdkY0Sl9USGFLRzVaMmFGSHA4OFNfbDVfRGZMWTN4ZzFCUEdpZWRiRV9vWHAzM0pfT1FFVHliaUNzMzd1SnZ5QlJOeVNBSXlhWnBqam9WWkxTNXFHWE10TVZ6ZVVCcG12NjZPZndMa2wzSmJQV1dpQmhjSWdXTnBlUUhZbmpKX01adkl4?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4ad658253368b4e677371c6d",
+      "remembered_at": "2026-11-27T11:38:56.891363+00:00",
+      "event_date": "2026-11-27T11:27:47+00:00",
+      "last_update": "2026-11-27T11:27:47+00:00",
+      "event": "Maryam wants world to see Punjab beyond Pakistan-linked misconceptions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beyond",
+        "linked",
+        "maryam",
+        "misconceptions",
+        "pakistan",
+        "punjab",
+        "samaa",
+        "see",
+        "wants",
+        "world"
+      ],
+      "source_excerpt": "Maryam wants world to see Punjab beyond Pakistan-linked misconceptions samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkhnT09jbGYyZUxTQ3hhU24tdlFxbjdOUDJZTXRsNzlhODdKVGtrQTZxSTBZMWtkYjM2MnBpSjA4LXZSNXNJai13V09XS3AxWTc0cjJpcWswbzBMNE9uRS12c3FnRldtWkRiUmhsWkstZlRjRG5ybThGTkx1UEhhOWpWTm5uelpQMGlrRVV3WVRCY0dheTEwdVY1Sm9kMVFvUjhuTQ?oc=5",
+          "published_at": "2026-11-27T11:27:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkhnT09jbGYyZUxTQ3hhU24tdlFxbjdOUDJZTXRsNzlhODdKVGtrQTZxSTBZMWtkYjM2MnBpSjA4LXZSNXNJai13V09XS3AxWTc0cjJpcWswbzBMNE9uRS12c3FnRldtWkRiUmhsWkstZlRjRG5ybThGTkx1UEhhOWpWTm5uelpQMGlrRVV3WVRCY0dheTEwdVY1Sm9kMVFvUjhuTQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T10:40:23.540046+00:00"
+  "updated_at": "2026-11-27T11:38:56.891363+00:00"
 }
