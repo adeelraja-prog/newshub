@@ -1,172 +1,173 @@
-# News Hub report - Fri 27 Nov, 09:10 PM PKT
+# News Hub report - Fri 27 Nov, 10:22 PM PKT
 
 ## Collection
-- New items this run: 194 | items in rolling pool: 825
-- Unique story clusters: 676 (duplicates merged: 149)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 100, Geo News 12, ARY News 8, Al Jazeera 7, ProPakistani 6, samaa tv 5, Jang Urdu 5, The Verge 5, BBC World 4, TechJuice 4, Dawn 3, The News International 3
+- New items this run: 100 | items in rolling pool: 853
+- Unique story clusters: 698 (duplicates merged: 155)
+- Clusters dropped as already published/queued: 34; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 36, Pakistan Today 11, Geo News 8, ARY News 6, Al Jazeera 6, samaa tv 3, AP News 3, Engadget 3, TechJuice 3, Dawn 2, Dawn Pakistan 2, Wired 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll rises to eight | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kuwait says summoned Iran ambassador over 'continued Iranian attacks' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PTV News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: BBC India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Brazil condemns French President Macron's 'doped' meat remarks  [NORMAL]
-- Poster: برازیل کا فرانسیسی صدر کے بیان پر شدید اظہارِ افسوس / Brazil slams Macron's doped meat comments | category politics
-- Alternative headline: Brazil hits back at Macron over EU meat import restrictions
+### Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talks  [NORMAL]
+- Poster: اسرائیل: آئزن کوٹ کا نیتن ہیاہو کی پارٹی پر مذاکراتی عمل سست کرنے کا الزام / Eisenkot accuses Netanyahu's party of stalling talks | category politics
+- Alternative headline: Netanyahu's Likud Dragging Israel to New Elections, Alleges Eisenkot
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Brazil meat, Emmanuel Macron, EU imports, agriculture, trade row | hashtags: #Brazil #EmmanuelMacron #EU #Agriculture #WorldNews
-- Scheduled: Fri 27 Nov, 09:10 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: coalition talks, Eisenkot, Netanyahu, Likud, Israel politics, Yashar party | hashtags: #Israel #Netanyahu #Eisenkot #MiddleEastPolitics #WorldNews
+- Scheduled: Fri 27 Nov, 10:22 PM PKT
 - Caption:
 ```
-Brazil has strongly condemned French President Emmanuel Macron after he labeled Brazilian meat as 'doped' during a meeting with farming unions.
+Political tensions rise in Israel as opposition figures accuse the ruling party of pushing the country toward snap elections.
 
-The Brazilian government has expressed regret over statements made by French President Emmanuel Macron, who referred to Brazilian meat as 'doped' while celebrating EU restrictions on South American agricultural imports. Brazil dismissed the remarks as misinformation, highlighting its decades-long export history and rigorous sanitary controls.
+Yashar party chief Eisenkot has accused Benjamin Netanyahu’s Likud party of intentionally stalling coalition talks. He claims the ruling party aims to drag Israel into another election under the outgoing government.
 
-برازیلی حکومت نے فرانسیسی صدر ایمانوئل میکرون کے اس بیان پر افسوس کا اظہار کیا ہے جس میں انہوں نے برازیلی گوشت کو 'ڈوپڈ' قرار دیا۔ برازیل نے ان تبصروں کو غلط معلومات قرار دیتے ہوئے اپنے سخت طبی اور معیار کے نظام کا حوالہ دیا ہے۔
-
-According to a report by BBC World
-
-#Brazil #EmmanuelMacron #EU #Agriculture #WorldNews
-```
-
-### Canada's top court upholds controversial Quebec religious symbols ban  [NORMAL]
-- Poster: کینیڈا کی عدالت عظمیٰ کا کیوبیک میں مذہبی علامات پر پابندی کا فیصلہ برقرار / Canada court upholds Quebec religious ban | category other
-- Alternative headline: Supreme Court of Canada largely supports Quebec public servants law
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNFRraTBycjQ3ZnRzRUVJaWlNN005TGVMWUNYUkFZUC1yb3NjaTZjcWdQRkl1NXczcFR6c3V5a1NmRTBCNVFLd0hGU0NVRkhrS0EzVi1YMXZSMGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNFRraTBycjQ3ZnRzRUVJaWlNN005TGVMWUNYUkFZUC1yb3NjaTZjcWdQRkl1NXczcFR6c3V5a1NmRTBCNVFLd0hGU0NVRkhrS0EzVi1YMXZSMGc?oc=5
-- Supporting coverage: ProPakistani, BBC, Al Jazeera, BBC World
-- Keywords: Quebec religious symbols, Canada Supreme Court, public servants, ban, law | hashtags: #Canada #Quebec #SupremeCourt #ReligiousFreedom #WorldNews
-- Scheduled: Fri 27 Nov, 09:20 PM PKT
-- Caption:
-```
-Canada's Supreme Court has delivered a major ruling, largely upholding Quebec's controversial ban on religious symbols for public servants.
-
-Canada's top court has largely upheld the controversial Quebec law banning certain public sector employees from wearing religious symbols at work. The legislation has faced significant debate regarding individual rights, freedom of religion, and provincial jurisdiction since its implementation.
-
-کینیڈا کی اعلیٰ عدالت نے کیوبیک کے اس متنازع قانون کو بڑی حد تک برقرار رکھا ہے جو سرکاری ملازمین کے مذہبی علامات پہننے پر پابندی عائد کرتا ہے۔ اس قانون پر بنیادی حقوق اور مذہبی آزادی کے حوالے سے طویل بحث جاری رہی ہے۔
-
-First reported by BBC
-
-#Canada #Quebec #SupremeCourt #ReligiousFreedom #WorldNews
-```
-
-### Pakistan's short-term inflation hits 9.49pc amid rising flour costs  [NORMAL]
-- Poster: آٹے کی قیمتوں میں اضافے سے مہنگائی کی شرح 9.49 فیصد ہو گئی / Short-term inflation hits 9.49pc in Pakistan | category other
-- Alternative headline: Short-term inflation clocks in at 9.49pc driven by wheat flour prices
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5
-- Supporting coverage: Dawn, Dawn Latest, ProPakistani
-- Keywords: inflation Pakistan, wheat flour, SPI inflation, economy, prices | hashtags: #Inflation #Pakistan #Economy #WheatFlour #Business
-- Scheduled: Fri 27 Nov, 09:30 PM PKT
-- Caption:
-```
-Short-term inflation in Pakistan has been recorded at 9.49 percent, primarily driven by surging prices of wheat flour.
-
-Pakistan's short-term inflation, measured by the Sensitive Price Indicator, has climbed to 9.49 percent. Official reports indicate that the ongoing spike is largely driven by escalating wheat flour prices, putting additional financial pressure on everyday households.
-
-پاکستان میں قلیل المدتی مہنگائی کی شرح 9.49 فیصد تک پہنچ گئی ہے، جس کی بنیادی وجہ گندم کے آٹے کی قیمتوں میں اضافہ ہے۔ اس صورتحال سے عام شہریوں کے لیے روزمرہ کی اشیاء کی خریداری مزید مشکل ہو گئی ہے۔
-
-According to a report by Dawn
-
-#Inflation #Pakistan #Economy #WheatFlour #Business
-```
-
-### Paris Fury retracts claim that boxer Tyson Fury has schizophrenia  [NORMAL]
-- Poster: ٹائسن فیوری کی اہلیہ کا شوہر سے متعلق ذہنی بیماری کا دعویٰ واپس / Tyson Fury wife retracts schizophrenia claim | category other
-- Alternative headline: Netflix edits Tyson Fury documentary after schizophrenia claim retraction
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss
-- Supporting coverage: Al Jazeera, Geo News
-- Keywords: Tyson Fury, Paris Fury, schizophrenia, boxing, documentary | hashtags: #TysonFury #Boxing #ParisFury #SportsNews #Netflix
-- Scheduled: Fri 27 Nov, 09:40 PM PKT
-- Caption:
-```
-Paris Fury has backtracked on her previous claims that heavyweight boxing star Tyson Fury suffers from schizophrenia.
-
-Paris Fury has officially retracted her earlier statements asserting that boxer Tyson Fury was diagnosed with schizophrenia following his 2015 victory over Wladimir Klitschko. Following the retraction, streaming platforms have reportedly made edits to related documentary content.
-
-پیرس فیوری نے اپنے سابقہ دعویٰ سے پیچھے ہٹتے ہوئے واضح کیا ہے کہ باکسر ٹائسن فیوری اسزوفرینیا میں مبتلا نہیں ہیں۔ اس تردید کے بعد دستاویزی فلموں میں بھی ترامیم کی گئی ہیں۔
+یشار پارٹی کے سربراہ آئزن کوٹ نے بنجمن نیتن ہیاہو کی لیکুদ پارٹی پر اتحادی مذاکرات جان بوجھ کر سست کرنے کا الزام لگایا ہے۔ انہوں نے دعویٰ کیا کہ حکمران جماعت کا مقصد اسرائیل کو سبکدوش ہونے والی حکومت کے تحت ایک اور انتخاب میں دھکیلنا ہے۔
 
 According to Al Jazeera
 
-#TysonFury #Boxing #ParisFury #SportsNews #Netflix
+#Israel #Netanyahu #Eisenkot #MiddleEastPolitics #WorldNews
 ```
 
-### Serbia's student-led movement nominates chemistry professor for presidency  [NORMAL]
-- Poster: سربیا کی طلبہ تحریک کی جانب سے صدارتی عہدے کے لیے کیمسٹری کے پروفیسر نامزد / Serbia student movement nominates president | category other
-- Alternative headline: Belgrade professor nominated for Serbian presidency by student movement
+### Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Continue  [NORMAL]
+- Poster: کراچی: بلوچ کالونی عمارت انہدام کا واقعہ، جاں بحق افراد کی تعداد آٹھ ہو گئی / Karachi building collapse death toll climbs to eight | category disaster
+- Alternative headline: Death Toll Reaches 8 in Karachi’s Baloch Colony Building Collapse
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss
-- Supporting coverage: AP News, Al Jazeera
-- Keywords: Serbia presidency, student movement, Radomir Saicic, Belgrade University, elections | hashtags: #Serbia #Elections #Students #Politics #WorldNews
-- Scheduled: Fri 27 Nov, 09:50 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5
+- Supporting coverage: samaa tv, Dawn Pakistan, TribLIVE.com, Dawn, Dawn Pakistan, ARY News
+- Keywords: building collapse, Karachi, Baloch Colony, death toll, rescue operations, SBCA | hashtags: #Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+- Scheduled: Fri 27 Nov, 10:32 PM PKT
 - Caption:
 ```
-Serbia's active student-led political movement has nominated Belgrade University chemistry professor Radomir Saicic for the presidency.
+Tragedy deepens in Karachi as the death toll from the Baloch Colony building collapse climbs to eight amidst ongoing rescue operations.
 
-Ahead of the upcoming December 27 ballot, Serbia's student-led movement has put forward Radomir Saicic, a chemistry professor at Belgrade University, as their candidate for the presidency. Saicic was among the prominent academics who initially supported the movement.
+The death toll from the residential building collapse in Karachi's Baloch Colony has risen to eight. While rescue efforts continue, authorities report several people remain missing following the tragic incident.
 
-ستائیس دسمبر کو ہونے والے انتخابات کے پیش نظر سربیا کی طلبہ تحریک نے بیلগ্রেڈ یونیورسٹی کے کیمسٹری کے پروفیسر رادومیر سائچیچ کو صدارتی امیدوار کے طور پر نامزد کر دیا ہے۔
+کراچی کی بلوچ کالونی میں رہائشی عمارت گرنے کے واقعے میں جاں بحق افراد کی تعداد بڑھ کر آٹھ ہو گئی ہے۔ ریسکیو آپریشن جاری ہے جبکہ حکام کے مطابق اس افسوسناک واقعے کے بعد کئی افراد تاحال لاپتہ ہیں۔
 
-According to a report by Al Jazeera
+First reported by samaa tv; also reported by Dawn Pakistan
 
-#Serbia #Elections #Students #Politics #WorldNews
+#Karachi #BuildingCollapse #BalochColony #BreakingNews #Pakistan
+```
+
+### Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya  [NORMAL]
+- Poster: لیبیا کے قریب پاکستانی تارکین وطن کی کشتی ڈوبنے کی خبروں کی تصدیق باقی: دفتر خارجہ / FO says migrant boat capsizing off Libya unverified | category disaster
+- Alternative headline: FO Investigating Reports of Boat Carrying Pakistani Migrants Capsizing Near Libya
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued
+- Supporting coverage: Dawn Pakistan, The Express Tribune, Geo News, Geo News, Dawn Pakistan, samaa tv
+- Keywords: migrant boat, Foreign Office, Libya, Pakistan migrants, Mediterranean Sea, Bajaur | hashtags: #ForeignOffice #Libya #Migrants #Pakistan #BreakingNews
+- Scheduled: Fri 27 Nov, 10:42 PM PKT
+- Caption:
+```
+Pakistan's Foreign Office addresses reports concerning a capsized migrant boat near Libya, stating no independent verification exists yet.
+
+The Foreign Office stated there is no independent verification regarding reports of a boat carrying Pakistani migrants capsizing off Libya. Pakistan's embassy in Tripoli is actively working with local authorities and international organizations to ascertain the facts.
+
+دفتر خارجہ نے کہا ہے کہ لیبیا کے قریب پاکستانی تارکین وطن کو لے جانے والی کشتی کے ڈوبنے کی اطلاعات کی تاحال کوئی آزادانہ تصدیق نہیں ہو سکی۔ طرابلس میں پاکستانی سفارت خانہ حقائق جاننے کے لیے مقامی حکام اور عالمی اداروں سے رابطے میں ہے۔
+
+First reported by Dawn Pakistan; also reported by Geo News
+
+#ForeignOffice #Libya #Migrants #Pakistan #BreakingNews
+```
+
+### Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz  [NORMAL]
+- Poster: تہران: آبنائے ہرمز کے قریب سمندری بارودی سرنگ سے ٹکرا کر آئل ٹینکر دھماکے سے تباہ / Iran guards say tanker hits mine near Hormuz | category security
+- Alternative headline: Tanker Hits Naval Mine Near Strait of Hormuz, According to Iran Guards
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDhuZzhBZ0RqRGd6WGtrQlVDMzZKRU91SjY0Um9NMUphTkxKdVNiVmVsLW1XSnZjMkZhOXoyR3NLVDlDQ1Q2d2huQXpiSTF5M0dydnltWXh4R3A1aVNsdFpFenRScXBUNW9fODhXb25iZ1lEWkFFekw1RUl1VkpWQUpUaXpFNVhXeUItaWoydnZDZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDhuZzhBZ0RqRGd6WGtrQlVDMzZKRU91SjY0Um9NMUphTkxKdVNiVmVsLW1XSnZjMkZhOXoyR3NLVDlDQ1Q2d2huQXpiSTF5M0dydnltWXh4R3A1aVNsdFpFenRScXBUNW9fODhXb25iZ1lEWkFFekw1RUl1VkpWQUpUaXpFNVhXeUItaWoydnZDZw?oc=5
+- Supporting coverage: Anadolu Ajansı, Dawn, https://houseofsaud.com/
+- Keywords: Strait of Hormuz, Iran Guards, oil tanker, naval mine, explosion, maritime security | hashtags: #Iran #StraitOfHormuz #OilTanker #Security #WorldNews
+- Scheduled: Fri 27 Nov, 10:52 PM PKT
+- Caption:
+```
+Regional maritime security concerns escalate as Iranian authorities report an oil tanker explosion following a naval mine strike.
+
+Iran's Revolutionary Guard reports that an oil tanker has exploded after striking a naval mine near the strategic Strait of Hormuz. The incident adds to ongoing maritime tensions in the vital shipping lane.
+
+ایران کے پاسداران انقلاب کا کہنا ہے کہ آبنائے ہرمز کے قریب ایک آئل ٹینکر سمندری بارودی سرنگ سے ٹکرا کر دھماکے سے تباہ ہو گیا ہے۔ اس واقعے سے اہم تجارتی راستے پر بحری سیکیورٹی کے خدشات بڑھ گئے ہیں۔
+
+First reported by Dawn; also reported by Anadolu Ajansı
+
+#Iran #StraitOfHormuz #OilTanker #Security #WorldNews
+```
+
+### Kuwait Summons Iran Ambassador Over Continued Attacks  [NORMAL]
+- Poster: کویت نے مسلسل حملوں کے خلاف ایرانی سفیر کو طلب کر کے احتجاجی نوٹ تھما دیا / Kuwait summons Iran ambassador over attacks | category politics
+- Alternative headline: Kuwait Hands Protest Note to Iranian Envoy Amid Ongoing Attacks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUEzbEhrbGRMejBpRV92S0czLUFjRkpWQUNOWk9nRmIteXF3SGtfbTNHbG9mU3hsSWtNRUFfT3dkZjdJUlFXOUdreC1sV0xZVExpck84b0pXNWMxSTk1MGs0R1BnU2dUU2t4TDJNcEtzRm5YTUl5RHN4VEVqaEtONENSNG9JNzBYczFxdTA2d1V6djYxV2RDQVFDbmd1cEg3NkNN?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUEzbEhrbGRMejBpRV92S0czLUFjRkpWQUNOWk9nRmIteXF3SGtfbTNHbG9mU3hsSWtNRUFfT3dkZjdJUlFXOUdreC1sV0xZVExpck84b0pXNWMxSTk1MGs0R1BnU2dUU2t4TDJNcEtzRm5YTUl5RHN4VEVqaEtONENSNG9JNzBYczFxdTA2d1V6djYxV2RDQVFDbmd1cEg3NkNN?oc=5
+- Supporting coverage: Dawn, Khaleej Times, samaa tv
+- Keywords: Kuwait, Iran ambassador, protest note, diplomatic tensions, Gulf security, Dawn | hashtags: #Kuwait #Iran #Diplomacy #GulfNews #MiddleEast
+- Scheduled: Fri 27 Nov, 11:02 PM PKT
+- Caption:
+```
+Diplomatic tensions flare in the Gulf as Kuwait summons the Iranian ambassador to deliver a formal protest note.
+
+The Kuwaiti government has summoned the Iranian ambassador to deliver an official protest note regarding continued Iranian attacks. The diplomatic move underscores growing regional anxieties over recent security incidents.
+
+کویت کی حکومت نے مسلسل ایرانی حملوں کے سلسلے میں ایرانی سفیر کو طلب کر کے باضابطہ احتجاجی نوٹ جمع کرا دیا ہے۔ اس سفارتی اقدام سے خطے میں حالیہ سیکیورٹی واقعات پر بڑھتے ہوئے خدشات ظاہر ہوتے ہیں۔
+
+First reported by Dawn; also reported by Khaleej Times
+
+#Kuwait #Iran #Diplomacy #GulfNews #MiddleEast
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
-- [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
 - [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
 - [needs_review] normal | Peshawar CTD operation leaves five terrorists dead, weapons and grenad | Tue 24 Nov, 04:13 PM PKT
 - [needs_review] normal | Tetra Pak Pakistan's Lahore factory achieves WCM Diamond Band Status | Tue 24 Nov, 04:23 PM PKT
@@ -360,11 +361,11 @@ According to a report by Al Jazeera
 - [needs_review] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
 - [needs_review] normal | German Airline USC Moves Closer to Launching Flights to Pakistan After | Fri 27 Nov, 02:09 PM PKT
 - [published] normal | ECP says it cannot force parties to field women on winnable seats | Fri 27 Nov, 03:40 PM PKT
-- [queued] normal | PCB awards central contracts to just eight women cricketers | Fri 27 Nov, 03:50 PM PKT
-- [queued] normal | FO says reported capsizing of boat with Pakistani migrants yet to be v | Fri 27 Nov, 04:00 PM PKT
-- [queued] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
-- [queued] normal | Lahore police chief denies Fazl’s arrest | Fri 27 Nov, 04:20 PM PKT
-- [queued] normal | Fatima Sana, Sadia Iqbal secure top-category PCB contracts | Fri 27 Nov, 04:30 PM PKT
+- [needs_review] normal | PCB awards central contracts to just eight women cricketers | Fri 27 Nov, 03:50 PM PKT
+- [needs_review] normal | FO says reported capsizing of boat with Pakistani migrants yet to be v | Fri 27 Nov, 04:00 PM PKT
+- [needs_review] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
+- [needs_review] normal | Lahore police chief denies Fazl’s arrest | Fri 27 Nov, 04:20 PM PKT
+- [published] normal | Fatima Sana, Sadia Iqbal secure top-category PCB contracts | Fri 27 Nov, 04:30 PM PKT
 - [queued] normal | Fact-check: Did Trump call Shehbaz Sharif a 'selfish man'? | Fri 27 Nov, 04:40 PM PKT
 - [queued] normal | Iran says it recovers two oil tankers ‘stolen’ by US military | Fri 27 Nov, 04:50 PM PKT
 - [queued] normal | Pakistan seeks deeper cooperation with IAEA on nuclear security | Fri 27 Nov, 05:00 PM PKT
@@ -388,18 +389,20 @@ According to a report by Al Jazeera
 - [queued] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
 - [queued] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
 - [queued] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
+- [queued] normal | Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talk | Fri 27 Nov, 10:22 PM PKT
+- [queued] normal | Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Cont | Fri 27 Nov, 10:32 PM PKT
+- [queued] normal | Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya | Fri 27 Nov, 10:42 PM PKT
+- [queued] normal | Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz | Fri 27 Nov, 10:52 PM PKT
+- [queued] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
 
 ## Publishing this run
-- Published 'ECP says it cannot force parties to field women on winnable seats'.
+- Published 'Fatima Sana, Sadia Iqbal secure top-category PCB contracts'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5173 | output tokens: 2835
+- Calls: 3 | prompt tokens: 8736 | output tokens: 2697
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

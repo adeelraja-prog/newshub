@@ -183371,7 +183371,800 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2bdf30ef35c863c8339ad522",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T11:27:47+00:00",
+      "last_update": "2026-11-27T16:42:03+00:00",
+      "event": "Karachi building collapse death toll rises to eight",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "building",
+        "collapse",
+        "death",
+        "eight",
+        "karachi",
+        "rises",
+        "samaa",
+        "toll"
+      ],
+      "source_excerpt": "Karachi building collapse death toll rises to eight samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5",
+          "published_at": "2026-11-27T11:27:47+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047440/death-toll-from-baloch-colony-building-collapse-in-karachi-rises-to-8",
+          "published_at": "2026-11-27T13:54:48+00:00"
+        },
+        {
+          "name": "TribLIVE.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEFlTkVuSmUwV3E5R3hXWVVUQjRfUThnWmVCOHlTdWduejlmenhmczlwckpXN3dUdUtfQ2tScE04MjZwLTVINDZacnMyMnRrT0dudXRqRDlMazRUTlBHbXZOQkU4dVc3czNYNlItaXVXSFE1aXNMS1JwYXJYQmpBWFBfY2hGdXlyWjRCV2N1MDNaTEdFbnBvN0U1QnhiZlpMcEM1OFg0QWpIdw?oc=5",
+          "published_at": "2026-11-27T14:04:25+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96N09jdHNWekM0bWpnN2p3SFdaZHhod096TWxaOGlka0w3bEVfQmROenRqQ21IMGtDdnNiNkZrUC1YSUhjclJVTQ?oc=5",
+          "published_at": "2026-11-27T14:37:57+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047440/man-buried-under-rubble-rescued-alive-2-days-after-building-collapse-in-karachis-baloch-colony",
+          "published_at": "2026-11-27T15:34:42+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-admin-society-building-collapse-man-found-alive-after-48-hours",
+          "published_at": "2026-11-27T15:44:59+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPXzhzcmhrV3lVU0VGVUNPa3pJUWJHakhoWTB6dnYzcnZGUVVUQnVzMlZDWDBhNlNDa1dHYjkxR0ctZWNMeTIxVXFKNFRHZWVQRi1GYnBXcjRrek9zMDJXYzZuMGp3Y2dCOUc1Z0NOUjBaWGxEMG16bl82WkRPcWJyczhFODFWNmtUb3dxbE9IQTB4XzJwdW5PMzlOZEpZU3AtVEJHR21sMA?oc=5",
+          "published_at": "2026-11-27T16:42:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlF0WWx5WFRxZlV3T3R3Ni0wSjcwN1QtQmhGLUNqNUg0Wm1MbVB3WFNvZXItanBXU1poTzNWZV9RdmtCa1YwYlZFc2wyTlFYRWdqR2xlZXgzNWRidmM2LWxMRVZ5U2Y1UWpqZFQ5S3V1RFVYNVJ6RGlIX3ZPanpaSTRKeUpILUVHTGQw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d555a28b14abfe9b45fc93a7",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T09:39:39+00:00",
+      "last_update": "2026-11-27T16:20:14+00:00",
+      "event": "FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actively",
+        "and",
+        "ascertain",
+        "been",
+        "being",
+        "boat",
+        "capsizing",
+        "carrying",
+        "coast",
+        "earlier",
+        "embassy",
+        "facts",
+        "foreign",
+        "friday",
+        "had",
+        "independent",
+        "libya",
+        "matter",
+        "migrants",
+        "off",
+        "office",
+        "pakistan",
+        "pakistani",
+        "pursued",
+        "pursuing",
+        "reported",
+        "reports",
+        "said",
+        "says",
+        "that",
+        "the",
+        "there",
+        "this",
+        "verification",
+        "verified",
+        "was",
+        "week",
+        "with",
+        "yet"
+      ],
+      "source_excerpt": "The Foreign Office said on Friday that there had been no “independent verification” of the reports of a boat carrying Pakistani migrants capsizing off the coast of Libya and that Pakistan’s embassy in Libya was “actively pursuing the matter” to ascertain facts. It was reported earlier this week that",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued",
+          "published_at": "2026-11-27T09:39:39+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaktlQno2ai15VmFrR3lwaE03LWtCa3U3VjdQTXVQQlVjbERnVktEa1hZQmxQYzVsSmFLdXBZem1fRzI4UTJmVkFsQ3dVeFRabHo3MWpOc1lpdHdUeTNEamJMeFBzZWVHNVdpYjFCMTgwQm8xbWRrZ2k2R2lNZ29jNkNaLUxDRDJvRXB5WVFwUDhQZE1pT3Z0MFkxRWp1LWVkVDVqc3RzSWdqOVN0b0t2Sw?oc=5",
+          "published_at": "2026-11-27T09:48:23+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEdHenkzenQ5Q0h0d25USnBSV3E2Zk9SRFA4bkJmM2xyRFRVZ0xlUVFCNmxQR1ZkdnNKVXhpUjFMLUV4SnZhR0N1ejRwWEtPc3ZWRks3U2lIM1dvcHIwcGtHemNuWkNTbTJtQlR4cmVFZlBjN1pnUUtaQ1RNdjFWNUh6c1ZlSTNvYjVZV2E5WmpPVEhERTZYUDFxUEMzV1J0cGIzVmlQSzU?oc=5",
+          "published_at": "2026-11-27T09:51:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692853-boat-capsizing-off-libya-involving-pakistanis-yet-to-be-verified-says-fo",
+          "published_at": "2026-11-27T09:51:00+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047463/fo-says-reports-of-boat-carrying-pakistani-migrants-capsizing-off-libya-remain-unverified",
+          "published_at": "2026-11-27T10:39:40+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHNjX055UDBCYjhNSHVuWU96TWlZZkM1VVN4bXg3Mi1NczVuRmlFVFhzUnJQc0h1X2NIanZzOUl1eHFteHB6bnZacXpyeXJ2aE8wS0lMSkVmM2FQVjlrNGxZZlhaWkpKOVJYalJuRmxLNzVfeFFSZ3NCNzJQLWE3WFZWUHFOR3FmanZYQkJKV1UzUC1lTDFuR2ZFcjRIZ1k2WDcwNmd3RC1SRDg?oc=5",
+          "published_at": "2026-11-27T12:59:04+00:00"
+        },
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExHV1YzSmQ3ZE05NEpfSTJDbklFLUJlRm5hUW9DN09Kb0hnbDc2MUNyM2NWWm1ubzd5U2hTbGNaT09TWU1lMExDNDN0blB1X3Q2VDc5S3dzQ05KejFUMmxLaE51M0lpaHZQbGQ0N1lLZnVnUzNtOXl1RENzaE9ja3pJSlhtWjRIRVUyeUpwU2NSbkxhN2RnLUJVdXV6NnJhOEJzelk0dHFqSTFQalE?oc=5",
+          "published_at": "2026-11-27T16:20:14+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued",
+        "publisher_url": "https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8a409caa997763172502ffc8",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T10:30:15+00:00",
+      "last_update": "2026-11-27T16:12:07+00:00",
+      "event": "صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اور",
+        "آصف",
+        "تبادلہ",
+        "حسین",
+        "خیال",
+        "خیریت",
+        "دریافت",
+        "دوران",
+        "زرداری",
+        "سابق",
+        "سربراہ",
+        "سیاسی",
+        "شجاعت",
+        "صدر",
+        "صورتحال",
+        "علی",
+        "لیگ",
+        "مسلم",
+        "ملاقات",
+        "ملاقات،",
+        "مملکت",
+        "وزیراعظم",
+        "چوہدری",
+        "کی۔"
+      ],
+      "source_excerpt": "صدر مملکت آصف علی زرداری نے سربراہ مسلم لیگ شجاعت حسین سے ملاقات کی اور سابق وزیراعظم سے ان کی خیریت دریافت کی۔ ملاقات کے دوران...",
+      "sources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5024963",
+          "published_at": "2026-11-27T10:30:15+00:00"
+        },
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1637249",
+          "published_at": "2026-11-27T16:11:15+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5025615",
+          "published_at": "2026-11-27T16:12:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1637249",
+        "publisher_url": "https://jang.com.pk/news/1637249",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5e22f32b1ce6bdc6b3a8371",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T17:08:55+00:00",
+      "last_update": "2026-11-27T17:09:19+00:00",
+      "event": "3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "convicted",
+        "dawn",
+        "forcing",
+        "from",
+        "her",
+        "into",
+        "marriage",
+        "pakistan",
+        "police",
+        "taking",
+        "woman"
+      ],
+      "source_excerpt": "3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5",
+          "published_at": "2026-11-27T17:08:55+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047503/3-convicted-of-taking-woman-from-uk-to-pakistan-forcing-her-into-marriage-police",
+          "published_at": "2026-11-27T17:09:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "448ac895a85fdcf8e5cdf9c3",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:54:05+00:00",
+      "last_update": "2026-11-27T16:54:05+00:00",
+      "event": "Elon Musk gets the greenlight from the US to launch one million satellites",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "centres",
+        "constant",
+        "could",
+        "data",
+        "elon",
+        "from",
+        "gets",
+        "greenlight",
+        "help",
+        "into",
+        "launch",
+        "million",
+        "move",
+        "musk",
+        "near",
+        "one",
+        "power",
+        "satellites",
+        "space",
+        "sunlight",
+        "the",
+        "them",
+        "wants",
+        "where"
+      ],
+      "source_excerpt": "Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+          "published_at": "2026-11-27T16:54:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dcf2f998cc6f6ee47fe57040",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:47:35+00:00",
+      "last_update": "2026-11-27T16:47:35+00:00",
+      "event": "Syria debates citizenship rights for children of foreign fighters",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amend",
+        "and",
+        "children",
+        "citizenship",
+        "debates",
+        "fighters",
+        "for",
+        "foreign",
+        "grant",
+        "its",
+        "law",
+        "may",
+        "mothers",
+        "nationality",
+        "rights",
+        "syria",
+        "syrian"
+      ],
+      "source_excerpt": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+          "published_at": "2026-11-27T16:47:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "76513e5888d43b2d8f47e47f",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:33:21+00:00",
+      "last_update": "2026-11-27T16:33:21+00:00",
+      "event": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accuses",
+        "another",
+        "chief",
+        "coalition",
+        "drag",
+        "eisenkot",
+        "election",
+        "government",
+        "into",
+        "israel",
+        "likud",
+        "netanyahu",
+        "outgoing",
+        "party",
+        "says",
+        "stalling",
+        "talks",
+        "the",
+        "under",
+        "wants",
+        "yashar"
+      ],
+      "source_excerpt": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+          "published_at": "2026-11-27T16:33:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dc665679731d5e74192e8752",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:13:07+00:00",
+      "last_update": "2026-11-27T16:13:07+00:00",
+      "event": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "authorities",
+        "backs",
+        "baghdad",
+        "border",
+        "call",
+        "closes",
+        "constitutional",
+        "crackdown",
+        "crossings",
+        "for",
+        "iraqi",
+        "kurdish",
+        "meeting",
+        "oil",
+        "smuggling",
+        "trump",
+        "violations",
+        "warn"
+      ],
+      "source_excerpt": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+          "published_at": "2026-11-27T16:13:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6198f5736910135599070401",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:01:44+00:00",
+      "last_update": "2026-11-27T16:01:44+00:00",
+      "event": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "act",
+        "bombardment",
+        "calls",
+        "daily",
+        "envoy",
+        "gaza",
+        "huge",
+        "israeli",
+        "its",
+        "jared",
+        "jerusalem",
+        "kindness",
+        "kushner",
+        "rebuilding",
+        "reconstruction",
+        "remains",
+        "under"
+      ],
+      "source_excerpt": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+          "published_at": "2026-11-27T16:01:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "837d930a9a57e97ff92c2d33",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:46:47+00:00",
+      "last_update": "2026-11-27T16:46:47+00:00",
+      "event": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "both",
+        "coasts",
+        "during",
+        "fallen",
+        "flooded",
+        "hit",
+        "holiday",
+        "hundreds",
+        "leave",
+        "people",
+        "power",
+        "roads",
+        "severe",
+        "states",
+        "storms",
+        "thanksgiving",
+        "the",
+        "thousands",
+        "trees",
+        "united",
+        "weather",
+        "were",
+        "without"
+      ],
+      "source_excerpt": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T16:46:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5975aa25bc75a7f705ac43e1",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T17:19:31+00:00",
+      "last_update": "2026-11-27T17:19:31+00:00",
+      "event": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "123",
+        "after",
+        "being",
+        "children",
+        "convicted",
+        "cult",
+        "deaths",
+        "doomsday",
+        "followers",
+        "for",
+        "found",
+        "further",
+        "guilty",
+        "his",
+        "jailed",
+        "kenyan",
+        "killing",
+        "leader",
+        "mackenzie",
+        "mass",
+        "murder",
+        "over",
+        "paul",
+        "the",
+        "weeks"
+      ],
+      "source_excerpt": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T17:19:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f5ce830ffa122d18ba856993",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:10:01+00:00",
+      "last_update": "2026-11-27T16:10:01+00:00",
+      "event": "Peshawar Zalmi retain Aaron Hardie for PSL12",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aaron",
+        "for",
+        "hardie",
+        "peshawar",
+        "psl12",
+        "retain",
+        "zalmi"
+      ],
+      "source_excerpt": "Peshawar Zalmi retain Aaron Hardie for PSL12",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/peshawar-zalmi-retain-aaron-hardie-for-psl12",
+          "published_at": "2026-11-27T16:10:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/peshawar-zalmi-retain-aaron-hardie-for-psl12",
+        "publisher_url": "https://arynews.tv/peshawar-zalmi-retain-aaron-hardie-for-psl12",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "16732d54a17645b8afca3621",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T15:39:29+00:00",
+      "last_update": "2026-11-27T15:39:29+00:00",
+      "event": "ABAD gives Sindh government 72-hour ultimatum over sealed buildings",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abad",
+        "buildings",
+        "gives",
+        "government",
+        "hour",
+        "over",
+        "sealed",
+        "sindh",
+        "ultimatum"
+      ],
+      "source_excerpt": "ABAD gives Sindh government 72-hour ultimatum over sealed buildings",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/abad-gives-sindh-government-72-hour-ultimatum-over-sealed-buildings",
+          "published_at": "2026-11-27T15:39:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/abad-gives-sindh-government-72-hour-ultimatum-over-sealed-buildings",
+        "publisher_url": "https://arynews.tv/abad-gives-sindh-government-72-hour-ultimatum-over-sealed-buildings",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f3919e3b395525de03af6090",
+      "remembered_at": "2026-11-27T17:22:40.700986+00:00",
+      "event_date": "2026-11-27T16:21:06+00:00",
+      "last_update": "2026-11-27T16:21:06+00:00",
+      "event": "Pakistan Customs foils smuggling attempts, seizes Methamphetamine Worth Rs.136.6 million",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "136",
+        "attempts",
+        "customs",
+        "foils",
+        "methamphetamine",
+        "million",
+        "pakistan",
+        "seizes",
+        "smuggling",
+        "worth"
+      ],
+      "source_excerpt": "Pakistan Customs foils smuggling attempts, seizes Methamphetamine Worth Rs.136.6 million",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-customs-foils-smuggling-attempts-seizes-methamphetamine-worth-rs-136-6-million",
+          "published_at": "2026-11-27T16:21:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-customs-foils-smuggling-attempts-seizes-methamphetamine-worth-rs-136-6-million",
+        "publisher_url": "https://arynews.tv/pakistan-customs-foils-smuggling-attempts-seizes-methamphetamine-worth-rs-136-6-million",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T16:10:18.446447+00:00"
+  "updated_at": "2026-11-27T17:22:40.700986+00:00"
 }
