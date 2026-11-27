@@ -184759,7 +184759,411 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2e48cd616d7b08b7c9e88c4e",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T16:38:51+00:00",
+      "last_update": "2026-11-27T18:26:11+00:00",
+      "event": "Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "arabia",
+        "collective",
+        "coordination",
+        "defence",
+        "pakistan",
+        "pledge",
+        "rkiye",
+        "samaa",
+        "saudi",
+        "stronger"
+      ],
+      "source_excerpt": "Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination samaa tv",
+      "sources": [
+        {
+          "name": "Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3QyVmpKWUFZNTlPMEdHMHptZE1pXzFZQjF3V2RsbTVGQThXN1B4dXRMc0xaT2FsRXVsa1cxM0ZCakh1MkxpdGZWVjh0czF6VFlNVFZESXQ2bXNnOEFzQWlmTC1NbmluZm5DZUI4OXJXZHRncnFVeUY1elBubnQweWlBazdmN04wbE5aSUMxMGo3c2VJOTkzb3dGcjZWNDVIRGxBREhkVzAyX3BK?oc=5",
+          "published_at": "2026-11-27T16:38:51+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5",
+          "published_at": "2026-11-27T18:26:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "83b178fa37ad174a26648152",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T19:02:41+00:00",
+      "last_update": "2026-11-27T19:02:41+00:00",
+      "event": "Is snooker the most mentally challenging sport?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "and",
+        "challenging",
+        "doherty",
+        "effects",
+        "ferguson",
+        "gary",
+        "jason",
+        "ken",
+        "mental",
+        "mentally",
+        "most",
+        "players",
+        "professional",
+        "snooker",
+        "sport",
+        "talk",
+        "the",
+        "wilson"
+      ],
+      "source_excerpt": "Gary Wilson, Ken Doherty and Jason Ferguson talk about the mental effects on professional snooker players.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T19:02:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "85f5b6fc2165328395598ce4",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T19:03:18+00:00",
+      "last_update": "2026-11-27T19:03:18+00:00",
+      "event": "New satellite data shows how fast some African cities are sinking",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "african",
+        "alexandria",
+        "and",
+        "are",
+        "cities",
+        "data",
+        "fast",
+        "faster",
+        "how",
+        "including",
+        "lagos",
+        "new",
+        "previously",
+        "satellite",
+        "shows",
+        "sinking",
+        "some",
+        "study",
+        "than",
+        "thought"
+      ],
+      "source_excerpt": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T19:03:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5c77511901746f41424f42b2",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T18:35:34+00:00",
+      "last_update": "2026-11-27T18:51:24+00:00",
+      "event": "Govt increases wheat import ceiling to curb price increases",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ceiling",
+        "curb",
+        "dawn",
+        "govt",
+        "import",
+        "increases",
+        "price",
+        "wheat"
+      ],
+      "source_excerpt": "Govt increases wheat import ceiling to curb price increases Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWVmODdHNFJvMVlDbVQ5MzZxWVBIa0ZZWWVTeUIwYU1sRkR1cmhsOHhPVnlJUTEwa3loVm9xLWEtWEJhM1k2X3puSG91ZUNtSWEybGlVYTEySFdYaDFRNWpSeUMwT3p6YmZOZEs2X3g1MkN5M2ZKUW0yQ3FJcDdXaVhndTJqWVFOeVVPeTc1ZkNlSjhBc21DVw?oc=5",
+          "published_at": "2026-11-27T18:35:34+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047509/govt-increases-wheat-import-ceiling-to-curb-price-increases",
+          "published_at": "2026-11-27T18:51:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWVmODdHNFJvMVlDbVQ5MzZxWVBIa0ZZWWVTeUIwYU1sRkR1cmhsOHhPVnlJUTEwa3loVm9xLWEtWEJhM1k2X3puSG91ZUNtSWEybGlVYTEySFdYaDFRNWpSeUMwT3p6YmZOZEs2X3g1MkN5M2ZKUW0yQ3FJcDdXaVhndTJqWVFOeVVPeTc1ZkNlSjhBc21DVw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5116ac810b69c246db140c17",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T18:11:52+00:00",
+      "last_update": "2026-11-27T18:11:52+00:00",
+      "event": "CM Punjab distributes laptops and scholarships to students",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "distributes",
+        "laptops",
+        "punjab",
+        "scholarships",
+        "students"
+      ],
+      "source_excerpt": "CM Punjab distributes laptops and scholarships to students",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/cm-punjab-distributes-laptops-and-scholarships-to-students",
+          "published_at": "2026-11-27T18:11:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/cm-punjab-distributes-laptops-and-scholarships-to-students",
+        "publisher_url": "https://arynews.tv/cm-punjab-distributes-laptops-and-scholarships-to-students",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "507eb89d4e592c57d13e1817",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T17:42:12+00:00",
+      "last_update": "2026-11-27T17:42:12+00:00",
+      "event": "Bilawal vows to establish separate province in South Punjab",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "establish",
+        "province",
+        "punjab",
+        "separate",
+        "south",
+        "vows"
+      ],
+      "source_excerpt": "Bilawal vows to establish separate province in South Punjab",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab",
+          "published_at": "2026-11-27T17:42:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab",
+        "publisher_url": "https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b24e39e4eeeb1c635d2f3d0b",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T17:38:37+00:00",
+      "last_update": "2026-11-27T17:38:37+00:00",
+      "event": "Punjab hosts first international paragliding championship",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "championship",
+        "first",
+        "hosts",
+        "international",
+        "paragliding",
+        "punjab"
+      ],
+      "source_excerpt": "Punjab hosts first international paragliding championship",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-hosts-first-international-paragliding-championship",
+          "published_at": "2026-11-27T17:38:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-hosts-first-international-paragliding-championship",
+        "publisher_url": "https://arynews.tv/punjab-hosts-first-international-paragliding-championship",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "80006a52db13836345a27fc0",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T17:47:09+00:00",
+      "last_update": "2026-11-27T17:47:09+00:00",
+      "event": "Pakistan to continue constructive role for conflict resolution through peace, dialogue: envoy",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "conflict",
+        "constructive",
+        "continue",
+        "dialogue",
+        "envoy",
+        "for",
+        "geo",
+        "news",
+        "pakistan",
+        "peace",
+        "resolution",
+        "role",
+        "through"
+      ],
+      "source_excerpt": "Pakistan to continue constructive role for conflict resolution through peace, dialogue: envoy Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORnd4WE1sajhJd0pMNGcybnNmQ2JGcnJldmZsSWVCVDlzN2dLRTFnR2pDTWxabWNwTXlyODl4NlNqZm42elRLUEJYYW5DMFBSSWZzMWNHdzhDOTItaXJCZ3daVVdTdkN1WUFJRlhabTBGX3A5M2tMOTNxV1BrV1JMdlJtdUJLSHNjX1B0M1pCZzB1V3NWcFZCZkY5ejMyb1ByWFg5bXZkZWwyWGRwR2VmRWpoaFFlb2VqMTAyZFBqaHA0S3B6LUF0cg?oc=5",
+          "published_at": "2026-11-27T17:47:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORnd4WE1sajhJd0pMNGcybnNmQ2JGcnJldmZsSWVCVDlzN2dLRTFnR2pDTWxabWNwTXlyODl4NlNqZm42elRLUEJYYW5DMFBSSWZzMWNHdzhDOTItaXJCZ3daVVdTdkN1WUFJRlhabTBGX3A5M2tMOTNxV1BrV1JMdlJtdUJLSHNjX1B0M1pCZzB1V3NWcFZCZkY5ejMyb1ByWFg5bXZkZWwyWGRwR2VmRWpoaFFlb2VqMTAyZFBqaHA0S3B6LUF0cg?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "81e954196d5a2d2446691c8c",
+      "remembered_at": "2026-11-27T19:24:31.795876+00:00",
+      "event_date": "2026-11-27T18:36:18+00:00",
+      "last_update": "2026-11-27T18:36:18+00:00",
+      "event": "Punjab welcomes international tourists to explore its beauty",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "beauty",
+        "explore",
+        "international",
+        "its",
+        "punjab",
+        "tourists",
+        "welcomes"
+      ],
+      "source_excerpt": "Punjab welcomes international tourists to explore its beauty",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-welcomes-international-tourists-to-explore-its-beauty",
+          "published_at": "2026-11-27T18:36:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-welcomes-international-tourists-to-explore-its-beauty",
+        "publisher_url": "https://arynews.tv/punjab-welcomes-international-tourists-to-explore-its-beauty",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T18:17:32.618828+00:00"
+  "updated_at": "2026-11-27T19:24:31.795876+00:00"
 }

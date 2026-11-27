@@ -1,175 +1,198 @@
-# News Hub report - Fri 27 Nov, 11:17 PM PKT
+# News Hub report - Sat 28 Nov, 12:24 AM PKT
 
 ## Collection
-- New items this run: 77 | items in rolling pool: 842
-- Unique story clusters: 691 (duplicates merged: 151)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 11
-- Items per outlet: UrduPoint 26, Al Jazeera 8, ARY News 6, Pakistan Today 6, Profit by Pakistan Today 5, Geo News 4, samaa tv 4, Dawn 3, ProPakistani 2, TechJuice 2, Ynetnews 2, Dawn Pakistan 1
+- New items this run: 38 | items in rolling pool: 725
+- Unique story clusters: 595 (duplicates merged: 130)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 13
+- Items per outlet: Geo News 8, ARY News 5, samaa tv 4, UrduPoint 3, Dawn 2, The News International 2, Dawn Pakistan 1, Dawn Latest 1, The Verge 1, Wired 1, BBC Health 1, BBC Science 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Makkah pact nations condemn Houthi attacks on Saudi Arabia, reaffirm resolve to supporting kingdom’s security | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 3 convicted of taking woman from UK to Pakistan, forcing her into marriage: police | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- صدر آصف زرداری کی چوہدری شجاعت سے ملاقات، سیاسی صورتحال پر تبادلہ خیال | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- President Zardari, PML-Q chief Shujaat discuss country's political situation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Weekly inflation falls by 0.11%: PBS | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Mexico files complaint with US over tip line on alleged drug traffickers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spanish rescuers treat migrants as hundreds arrive in Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 113/120 | empty: 4 | failed: 2 | malformed/partial: 4
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: GSMArena | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Makkah pact nations condemn Houthi attacks on Saudi Arabia  [NORMAL]
-- Poster: مکہ معاہدے کے رکن ممالک کی سعودی عرب پر حوثی حملوں کی شدید مذمت / Makkah pact nations condemn Houthi attacks on Saudi Arabia | category politics
-- Alternative headline: Makkah pact nations review regional security and condemn Houthi attacks
+### President Zardari and PML-Q Chief Chaudhry Shujaat Discuss Key Political Affairs  [NORMAL]
+- Poster: صدر زرداری اور چوہدری شجاعت کی ملکی سیاسی صورتحال پر اہم مشاورت / President Zardari and Shujaat Discuss National Political Situation | category politics
+- Alternative headline: Zardari Meets Shujaat to Consult on Pakistan's Current Political Landscape
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047415/makkah-pact-nations-condemn-houthi-attacks-on-saudi-arabia-reaffirm-resolve-to-supporting-kingdoms-security
-- Supporting coverage: Dawn Pakistan, Dawn Pakistan, Dawn
-- Keywords: Makkah pact, Saudi Arabia, Houthi attacks, Ishaq Dar, regional security | hashtags: #MakkahPact #SaudiArabia #Pakistan #RegionalSecurity #HouthiAttacks
-- Scheduled: Fri 27 Nov, 11:17 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0JrazNCTmN2enZocWRTY0JTYjRmRmdnbVVROUdfWEJ5NEw4cjdsaUU2VnFNVmRfWTlMaWstNTlfaVVLX0s5dWNYdlZZTVRkdDBfWFpYTjczbGlJbTRnYnAtOGRmeThNWUdqS2NSbC1DOF9haFRtQ1IzZUxzdF9LekRoMUE0eGN0TVVEeHZSQ20zNTlCWDBBOV81d1VOSXJBMlNnRElvd2xJa2Jy?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan, samaa tv, samaa tv
+- Keywords: Asif Ali Zardari, Chaudhry Shujaat, PML-Q, Pakistan politics, political situation | hashtags: #PakistanPolitics #AsifZardari #PMLQ #ChaudhryShujaat
+- Scheduled: Sat 28 Nov, 12:24 AM PKT
 - Caption:
 ```
-Top decision-making body of the Makkah Joint Defence Agreement met in Islamabad to review regional security and condemn attacks on Saudi Arabia.
+President Asif Ali Zardari held a meeting with PML-Q chief Chaudhry Shujaat Hussain to review Pakistan's political landscape.
 
-A meeting of the Strategic Political and Defence Committee of the Makkah Joint Defence Agreement was held in Islamabad. The top decision-making body reviewed regional security and strongly condemned persistent Houthi attacks on Saudi Arabia, reaffirming commitment to the kingdom's security.
+President Asif Ali Zardari met Pakistan Muslim League-Quaid chief Chaudhry Shujaat Hussain to discuss the prevailing political situation in the country. The leaders exchanged views on national affairs and ongoing developments across Pakistan's political environment during their consultation.
 
-مکہ جوائنٹ ڈیفنس ایگریمنٹ کی اسٹریٹجک پولیٹیکل اینڈ ڈیفنس کمیٹی کا اجلاس اسلام آباد میں ہوا۔ اعلیٰ فیصلہ ساز ادارے نے علاقائی سلامتی کا جائزہ لیا اور سعودی عرب پر حوثی حملوں کی شدید مذمت کرتے ہوئے مملکت کی سلامتی کے عزم کا اعادہ کیا۔
+صدر مملکت آصف علی زرداری اور مسلم لیگ (ق) کے سربراہ چوہدری شجاعت حسین کے درمیان ملاقات ہوئی جس میں ملک کی مجموعی سیاسی صورتحال پر تبادلہ خیال کیا گیا۔ رہنماؤں نے ملکی امور اور سیاسی معاملات پر باہمی مشاورت کی۔
 
-First reported by Dawn Pakistan
+First reported by Dawn.
 
-#MakkahPact #SaudiArabia #Pakistan #RegionalSecurity #HouthiAttacks
+#PakistanPolitics #AsifZardari #PMLQ #ChaudhryShujaat
 ```
 
-### SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi  [NORMAL]
-- Poster: اسٹٹ بینک نے ماتا صاحب حسی دیوی کی سالگرہ پر یادگار سکہ جاری کر دیا / SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | category other
-- Alternative headline: State Bank issues Rs200 coin to mark Mata Sahib Hasi Devi's 200th birth anniversary
+### Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence Coordination  [NORMAL]
+- Poster: پاکستان، سعودی عرب اور ترکیہ کا مشترکہ دفاعی تعاون مزید مضبوط بنانے کا عزم / Pakistan, Saudi Arabia, Türkiye Pledge Stronger Collective Defence | category security
+- Alternative headline: Trilateral Defence Alignment: Pakistan, Saudi Arabia, and Türkiye Reaffirm Cooperation
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEJhVDgxUWthejg3akhWa21fWmpUR0dRYy1RNjVTMnhEcjZJTDh5VE02N016azRsV0tmMWp3MzdJTmhXVDQ0aU1WVmZhbkdzakd5emhwelJuUkRoNWt2S2RBUEtSMHJfcFZ4VmdqazdRN1lGc1Nuakt4VGkwbnlOQ1VQNEpIV2lRQks1QzdiNW9DYTVKU19ucThUdkRQY0R1dUxSUlZ5bDFBaVlraG1rQXhuemFFVldrelhINWhqdTI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUEJhVDgxUWthejg3akhWa21fWmpUR0dRYy1RNjVTMnhEcjZJTDh5VE02N016azRsV0tmMWp3MzdJTmhXVDQ0aU1WVmZhbkdzakd5emhwelJuUkRoNWt2S2RBUEtSMHJfcFZ4VmdqazdRN1lGc1Nuakt4VGkwbnlOQ1VQNEpIV2lRQks1QzdiNW9DYTVKU19ucThUdkRQY0R1dUxSUlZ5bDFBaVlraG1rQXhuemFFVldrelhINWhqdTI?oc=5
-- Supporting coverage: Dawn, Dawn Latest, Profit by Pakistan Today
-- Keywords: commemorative coin, SBP, Mata Sahib Hasi Devi, State Bank of Pakistan, Rs200 coin | hashtags: #SBP #CommemorativeCoin #Pakistan #MataSahibHasiDevi
-- Scheduled: Fri 27 Nov, 11:27 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5
+- Supporting coverage: Pakistan Today, samaa tv
+- Keywords: trilateral defence, Pakistan defence, Saudi Arabia, Turkiye, collective defence | hashtags: #DefenceCooperation #Pakistan #SaudiArabia #Turkiye #Security
+- Scheduled: Sat 28 Nov, 12:34 AM PKT
 - Caption:
 ```
-The State Bank of Pakistan has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Mata Sahib Hasi Devi.
+Pakistan, Saudi Arabia, and Türkiye have agreed to enhance trilateral collective defence coordination.
 
-The State Bank of Pakistan (SBP) has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Mata Sahib Hasi Devi, honoring her legacy and historical significance.
+Pakistan, Saudi Arabia, and Türkiye have reaffirmed their commitment to deepen collective defence coordination. The three partner nations pledged closer collaboration on mutual defence interests and strategic initiatives to support regional security and strengthen multilateral partnerships.
 
-اسٹٹ بینک آف پاکستان (ایس بی پی) نے ماتا صاحب حسی دیوی کی دو سو ویں جنم دن کی تقریب کے موقع پر دو سو روپے کا یادگار سکہ جاری کر دیا ہے۔
+پاکستان، سعودی عرب اور ترکیہ نے باہمی دفاعی تعاون کو مزید مضبوط اور فعال بنانے کے عزم کا اعادہ کیا ہے۔ تینوں دوست ممالک نے علاقائی سلامتی اور باہمی اسٹریٹجک مفادات کے فروغ کے لیے مشترکہ کوششیں جاری رکھنے پر اتفاق کیا۔
 
-First reported by Dawn
+First reported by samaa tv.
 
-#SBP #CommemorativeCoin #Pakistan #MataSahibHasiDevi
+#DefenceCooperation #Pakistan #SaudiArabia #Turkiye #Security
 ```
 
-### Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final  [NORMAL]
-- Poster: حسن اور شعیب کی شاندار کارکردگی، پاکستان شاہینز ایشیا کپ رائزنگ اسٹارز کے فائنل میں / Pakistan Shaheens reach Asia Cup Rising Stars final | category sports
-- Alternative headline: Pakistan Shaheens advance to Asia Cup Rising Stars final led by Hasan and Shazaib
+### Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statistics Reports  [NORMAL]
+- Poster: ادارہ شماریات: ہفتہ وار مہنگائی کی شرح میں 0.11 فیصد کمی ریکارڈ / Pakistan Weekly Inflation Drops 0.11%: PBS | category economy
+- Alternative headline: Weekly Inflation in Pakistan Eases Slightly by 0.11% According to PBS
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5
-- Supporting coverage: samaa tv, ARY News
-- Keywords: Pakistan Shaheens, Asia Cup Rising Stars, Hasan, Shazaib, cricket final | hashtags: #PakistanShaheens #AsiaCupRisingStars #Cricket #Pakistan
-- Scheduled: Fri 27 Nov, 11:37 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMidEFVX3lxTE5jdTBUSXFBOThSOWkxRndncTdkOGxKNzd2cHRfQUxWNGstMGtmZTlfOHNpQkhQb0VpNlB6ckhqNzRybGllTHE2dEtEQzlmcUliTXR4a3RfdXpYSmVKNkt3Y1VDSG8talY0Y2NKRVZEbHFTMjhk?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMidEFVX3lxTE5jdTBUSXFBOThSOWkxRndncTdkOGxKNzd2cHRfQUxWNGstMGtmZTlfOHNpQkhQb0VpNlB6ckhqNzRybGllTHE2dEtEQzlmcUliTXR4a3RfdXpYSmVKNkt3Y1VDSG8talY0Y2NKRVZEbHFTMjhk?oc=5
+- Supporting coverage: samaa tv, TechJuice
+- Keywords: weekly inflation, PBS, Pakistan inflation, SPI, consumer prices | hashtags: #PakistanEconomy #Inflation #PBS #EconomyUpdate
+- Scheduled: Sat 28 Nov, 12:44 AM PKT
 - Caption:
 ```
-Hasan and Shazaib played stellar roles to guide Pakistan Shaheens into the final of the Asia Cup Rising Stars tournament.
+Pakistan's weekly inflation dropped by 0.11 percent, according to the latest figures released by the PBS.
 
-Pakistan Shaheens have successfully qualified for the final of the Asia Cup Rising Stars tournament, powered by notable performances from Hasan and Shazaib.
+Pakistan's weekly inflation decreased by 0.11 percent, according to data from the Pakistan Bureau of Statistics. The slight drop provides short-term easing in consumer price trends across essential commodities as monitored by official statistical trackers.
 
-حسن اور شعیب کی شاندار کارکردگی کی بدولت پاکستان شاہینز نے ایشیا کپ رائزنگ اسٹارز ٹورنامنٹ کے فائنل کے لیے کوالیفائی کر لیا ہے۔
+پاکستان ادارہ شماریات کے مطابق ملک میں ہفتہ وار بنیادوں پر مہنگائی کی شرح میں 0.11 فیصد کی کمی ریکارڈ کی گئی ہے۔ اعداد و شمار کے مطابق ضروری اشیاء کی قیمتوں میں وقتی طور پر کچھ استحکام دیکھا گیا ہے۔
 
-First reported by samaa tv
+First reported by samaa tv; also reported by TechJuice.
 
-#PakistanShaheens #AsiaCupRisingStars #Cricket #Pakistan
+#PakistanEconomy #Inflation #PBS #EconomyUpdate
 ```
 
-### Three convicted in UK for forcing woman into marriage in Pakistan  [NORMAL]
-- Poster: برطانیہ میں خاتون کو زبردستی پاکستان لے جا کر شادی پر مجبور کرنے والے تین افراد کو سزا / Three convicted in UK for forced marriage plot to Pakistan | category crime
-- Alternative headline: UK court convicts three individuals for taking woman to Pakistan for forced marriage
+### Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Line  [NORMAL]
+- Poster: میکسیکو کا ڈرگ ٹریفکنگ ٹپ لائن پر امریکا کے خلاف باقاعدہ احتجاج / Mexico Lodges Complaint With US Over Drug Tip Line | category world
+- Alternative headline: Mexico Protests US Tip Line Targeting Suspected Drug Cartel Operatives
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFhSU3ZsU0Yzam51Qzd6c1YxQ1E5LVhqbXpKenJuaC0ySWd2RFM5cmdtQm1rVnNjdUJYbTBqWnRtbGVCNE5GTDFNaUdERndfNTlIVHNBZ3ZLbno0U1p4YzFMZXVlTXFaOUJlUmFMQkg1SEc0d2JQNkhJSnlfcTFsMTc5M2tGckhIa3B1TWR6RU1SMzQyaXY4cVVlR2o1X2tKakVTaDUxakNRSnROdmV4ZEtiMEo?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: forced marriage, UK police, Pakistan, court conviction, crime | hashtags: #ForcedMarriage #UKPolice #Pakistan #CourtConviction
-- Scheduled: Fri 27 Nov, 11:47 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Mexico US relations, DEA tip line, drug traffickers, Mexico complaint, sovereignty | hashtags: #Mexico #USNews #DEA #Diplomacy
+- Scheduled: Sat 28 Nov, 12:54 AM PKT
 - Caption:
 ```
-Police in the UK have secured the conviction of three individuals involved in taking a woman to Pakistan and forcing her into marriage.
+Mexico has lodged a formal complaint against the US over a DEA tip line, raising cross-border sovereignty concerns.
 
-Police authorities have announced the conviction of three individuals who transported a woman from the UK to Pakistan and forced her into marriage against her will.
+Mexico has lodged a formal diplomatic complaint with the United States regarding a DEA tip line targeting alleged drug traffickers. Mexican authorities cited concerns over national sovereignty and cross-border jurisdiction, intensifying bilateral friction surrounding joint anti-narcotics efforts.
 
-برطانوی پولیس نے تین افراد کو مجرم قرار دے دیا ہے جنہوں نے ایک خاتون کو برطانیہ سے زبردستی پاکستان لا کر اس کی مرضی کے خلاف شادی پر مجبور کیا تھا۔
+میکسیکو نے منشیات اسمگلروں سے متعلق امریکی ادارے ڈی ای اے کی ٹپ لائن پر امریکا سے باضابطہ شکایت درج کرائی ہے۔ میکسیکن حکومت نے خود مختاری کے احترام پر زور دیتے ہوئے دوطرفہ تعاون کے اصولوں کو ملحوظ خاطر رکھنے کا مطالبہ کیا ہے۔
 
-First reported by Dawn
+First reported by Al Jazeera.
 
-#ForcedMarriage #UKPolice #Pakistan #CourtConviction
+#Mexico #USNews #DEA #Diplomacy
 ```
 
-### President Asif Ali Zardari meets Chaudhry Shujaat Hussain  [NORMAL]
-- Poster: صدر مملکت آصف علی زرداری کی چوہدری شجاعت حسین سے ملاقات، سیاسی صورتحال پر تبادلہ خیال / President Zardari meets Chaudhry Shujaat to discuss political situation | category politics
-- Alternative headline: President Zardari discusses political situation with PML-Q chief Chaudhry Shujaat
+### Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Canary Islands  [NORMAL]
+- Poster: کینری جزائر پر سینکڑوں تارکین وطن کی آمد، ہسپانوی ریسکیو ٹیمیں متحرک / Spanish Rescuers Assist Migrants in Canary Islands | category world
+- Alternative headline: Spain Deploys Emergency Unit as Migrant Boats Reach Canary Islands
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1637249 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1637249
-- Supporting coverage: UrduPoint, Jang Urdu, UrduPoint
-- Keywords: Asif Ali Zardari, Chaudhry Shujaat Hussain, political situation, PML-Q, President of Pakistan | hashtags: #AsifAliZardari #ChaudhryShujaat #PMLQ #PakistanPolitics
-- Scheduled: Fri 27 Nov, 11:57 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Canary Islands migrants, Spain rescue, El Hierro, Military Emergencies Unit, migration | hashtags: #CanaryIslands #Spain #MigrantCrisis #Humanitarian
+- Scheduled: Sat 28 Nov, 01:04 AM PKT
 - Caption:
 ```
-President Asif Ali Zardari visited PML-Q chief Chaudhry Shujaat Hussain to inquire about his health and discuss the current political landscape.
+Spain's Military Emergencies Unit was deployed to provide medical care to hundreds of migrants arriving at El Hierro.
 
-President Asif Ali Zardari held a meeting with PML-Q head Chaudhry Shujaat Hussain at his residence. The leaders discussed the country's political situation, with federal and provincial ministers also in attendance.
+Spanish emergency workers and the Military Emergencies Unit were deployed to provide medical treatment and humanitarian assistance to hundreds of migrants arriving at the Canary Islands. The arrivals were brought ashore on the island of El Hierro following perilous sea journeys.
 
-صدر مملکت آصف علی زرداری نے مسلم لیگ (ق) کے سربراہ چوہدری شجاعت حسین سے ان کی رہائش گاہ پر ملاقات کی۔ رہنماؤں نے ملکی سیاسی صورتحال پر تبادلہ خیال کیا، اس موقع پر دیگر وزراء بھی موجود تھے۔
+ہسپانوی امدادی اہلکاروں اور فوجی ایمرجنسی یونٹ نے کینری جزائر کے جزیرے ال ہیرو پر پہنچنے والے سینکڑوں تارکین وطن کو طبی امداد فراہم کی ہے۔ سمندری راستے سے پہنچنے والے ان افراد کی بحالی کے لیے فوری اقدامات کیے گئے۔
 
-First reported by Jang Urdu
+First reported by Al Jazeera.
 
-#AsifAliZardari #ChaudhryShujaat #PMLQ #PakistanPolitics
+#CanaryIslands #Spain #MigrantCrisis #Humanitarian
 ```
 
-- Indian outlets blocked this run: 2 items
+### Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces  [NORMAL]
+- Poster: یوکرین کی بحیرہ اسود میں جنگ بندی کی تجویز، روس کی بحری توسیع جاری / Kyiv Offers Black Sea Ceasefire as Putin Expands Navy | category war
+- Alternative headline: Ukraine Proposes Maritime Ceasefire While Russia Expands Navy Fleet
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Black Sea ceasefire, Russia Ukraine war, Kyiv, Vladimir Putin, Volodymyr Zelenskyy | hashtags: #UkraineWar #BlackSea #Russia #Kyiv
+- Scheduled: Sat 28 Nov, 01:14 AM PKT
+- Caption:
+```
+Ukraine is awaiting Moscow's response to a Black Sea ceasefire proposal while Russian President Vladimir Putin expands naval capabilities.
+
+Kyiv has proposed a ceasefire in the Black Sea and is awaiting Moscow's response. Meanwhile, Russian President Vladimir Putin is expanding Russia's navy, even as Ukrainian President Volodymyr Zelenskyy publicly criticized US political dynamics concerning Moscow.
+
+یوکرین نے بحیرہ اسود میں جنگ بندی کی باقاعدہ تجویز پیش کی ہے اور ماسکو کے جواب کا منتظر ہے۔ دوسری جانب روسی صدر ولادیمیر پیوٹن نے اپنی بحریہ کو وسعت دینے کا اعلان کیا ہے، جس سے خطے میں کشیدگی برقرار ہے۔
+
+First reported by Al Jazeera.
+
+#UkraineWar #BlackSea #Russia #Kyiv
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 1 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Woman Receiving British-Era Pension Passes Away at 107 in Sindh | Tue 24 Nov, 05:05 PM PKT
-- [needs_review] normal | Oil Holds Near Three-Month Low as Rising Supply Offsets Hormuz Threat | Tue 24 Nov, 05:15 PM PKT
-- [needs_review] normal | Road Closures Around Karachi's PIDC Junction Cause Traffic Congestion | Tue 24 Nov, 05:25 PM PKT
-- [published] promo | [YouTube] MARYAM NAWAZ EXPOSED: RS 10 LAKH FLOWERS, MAULANA BLOCKED | Tue 24 Nov, 11:36 PM PKT
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
 - [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
 - [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
@@ -366,13 +389,13 @@ First reported by Jang Urdu
 - [needs_review] normal | Pakistan seeks deeper cooperation with IAEA on nuclear security | Fri 27 Nov, 05:00 PM PKT
 - [needs_review] normal | Karachi traffic police announce diversions near Press Club ahead of pr | Fri 27 Nov, 05:10 PM PKT
 - [published] normal | Media mogul admits saying Australian child sex abuse survivor 'looking | Fri 27 Nov, 05:20 PM PKT
-- [queued] normal | Democrats want to end Trump’s Iran war. But how different are they? | Fri 27 Nov, 05:30 PM PKT
+- [needs_review] normal | Democrats want to end Trump’s Iran war. But how different are they? | Fri 27 Nov, 05:30 PM PKT
 - [published] promo | [YouTube] MARYAM NAWAZ AIRCRAFT CONTROVERSY | NOBEL PRIZE CLAIM EXPOSE | Fri 27 Nov, 05:45 PM PKT
-- [queued] normal | What Spain’s election means for Morocco | Fri 27 Nov, 05:45 PM PKT
-- [queued] normal | Hackers breach US Air Force flagship Cloud One platform | Fri 27 Nov, 05:55 PM PKT
-- [queued] normal | Saudi strike kills 11 in Yemen: Houthi media | Fri 27 Nov, 06:05 PM PKT
-- [queued] normal | Marc Marquez announces surprise retirement after eighth MotoGP title | Fri 27 Nov, 06:15 PM PKT
-- [queued] normal | Binance completes withdrawal recovery work after $6.3bn heist | Fri 27 Nov, 06:25 PM PKT
+- [needs_review] normal | What Spain’s election means for Morocco | Fri 27 Nov, 05:45 PM PKT
+- [needs_review] normal | Hackers breach US Air Force flagship Cloud One platform | Fri 27 Nov, 05:55 PM PKT
+- [needs_review] normal | Saudi strike kills 11 in Yemen: Houthi media | Fri 27 Nov, 06:05 PM PKT
+- [needs_review] normal | Marc Marquez announces surprise retirement after eighth MotoGP title | Fri 27 Nov, 06:15 PM PKT
+- [published] normal | Binance completes withdrawal recovery work after $6.3bn heist | Fri 27 Nov, 06:25 PM PKT
 - [queued] normal | ADB approves $468m in loans for KP and Punjab water projects | Fri 27 Nov, 06:35 PM PKT
 - [queued] normal | Eisenkot tests power-sharing with Netanyahu despite election promise | Fri 27 Nov, 07:05 PM PKT
 - [queued] normal | Erdogan completes Turkey's ratification of Makkah defence pact | Fri 27 Nov, 07:15 PM PKT
@@ -394,17 +417,19 @@ First reported by Jang Urdu
 - [queued] normal | Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars f | Fri 27 Nov, 11:37 PM PKT
 - [queued] normal | Three convicted in UK for forcing woman into marriage in Pakistan | Fri 27 Nov, 11:47 PM PKT
 - [queued] normal | President Asif Ali Zardari meets Chaudhry Shujaat Hussain | Fri 27 Nov, 11:57 PM PKT
+- [queued] normal | President Zardari and PML-Q Chief Chaudhry Shujaat Discuss Key Politic | Sat 28 Nov, 12:24 AM PKT
+- [queued] normal | Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence | Sat 28 Nov, 12:34 AM PKT
+- [queued] normal | Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statisti | Sat 28 Nov, 12:44 AM PKT
+- [queued] normal | Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Lin | Sat 28 Nov, 12:54 AM PKT
+- [queued] normal | Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Cana | Sat 28 Nov, 01:04 AM PKT
+- [queued] normal | Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces | Sat 28 Nov, 01:14 AM PKT
 
 ## Publishing this run
-- Published 'Media mogul admits saying Australian child sex abuse survivor 'looking to be raped again''.
+- Published 'Binance completes withdrawal recovery work after $6.3bn heist'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6637 | output tokens: 2746
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+- Calls: 2 | prompt tokens: 7430 | output tokens: 3656
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
