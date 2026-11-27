@@ -1,35 +1,35 @@
-# News Hub report - Fri 27 Nov, 06:09 AM PKT
+# News Hub report - Fri 27 Nov, 07:27 AM PKT
 
 ## Collection
-- New items this run: 83 | items in rolling pool: 282
-- Unique story clusters: 254 (duplicates merged: 28)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 9
-- Items per outlet: Dawn 58, Al Jazeera 5, Business Recorder 5, The Express Tribune 3, samaa tv 1, Geo News 1, BBC 1, GSMArena 1, BBC Technology 1, BBC Health 1, BBC Science 1, BBC Business 1
+- New items this run: 30 | items in rolling pool: 223
+- Unique story clusters: 204 (duplicates merged: 19)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 7
+- Items per outlet: Geo News 4, The Express Tribune 4, Al Jazeera 3, The News International 2, Jang Urdu 2, BBC 2, Dawn Pakistan 1, Business Recorder 1, News4JAX 1, GSMArena 1, ProPakistani 1, Profit by Pakistan Today 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The young hikers finding friendship and fresh air offline | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- I spend £200 a month on fancy meals by myself - would you dine solo? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New Zealand: Ruling coalition loses parliamentary majority | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump says the US has ‘close to 50%’ of world’s oil | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,159 +39,156 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge  [NORMAL]
-- Poster: شیخ حسینہ کی واپسی کا اعلان، بنگلہ دیش میں ہلچل / Hasina's return plan sparks fresh tensions | category politics
-- Alternative headline: Hasina's December homecoming plan deepens Dhaka-Delhi tensions and unrest
+### New Zealand ruling coalition loses its majority in parliament by one seat  [NORMAL]
+- Poster: نیوزی لینڈ میں حکمران اتحاد پارلیمنٹ میں اکثریت کھو بیٹھا / New Zealand ruling coalition loses majority | category politics
+- Alternative headline: New Zealand's ruling coalition falls short of parliamentary majority by one seat
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC
-- Keywords: Sheikh Hasina, Bangladesh, India, Dhaka, unrest, return | hashtags: #SheikhHasina #Bangladesh #India #Dhaka #News
-- Scheduled: Fri 27 Nov, 06:09 AM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5
+- Supporting coverage: BBC, BBC
+- Keywords: New Zealand coalition, parliamentary majority, New Zealand politics, ruling coalition, BBC news | hashtags: #NewZealand #Politics #Parliament #BBC
+- Scheduled: Fri 27 Nov, 07:27 AM PKT
 - Caption:
 ```
-Ousted Prime Minister Sheikh Hasina's planned December homecoming has heightened political tensions in Bangladesh and strained ties with India.
+New Zealand's political landscape shifts as the ruling coalition officially loses its parliamentary majority.
 
-The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest. Sheikh Hasina, who faces a death sentence, plans to return to Bangladesh, putting the region on high alert and creating a diplomatic bind for India.
+New Zealand's ruling coalition has lost its parliamentary majority, falling short by a single seat according to recent reports by the BBC. This political shift could impact upcoming legislative decisions and governance in the country.
 
-معزول وزیر اعظم شیخ حسینہ کے دسمبر میں وطن واپسی کے منصوبے نے ڈھاکہ اور دہلی کے درمیان کشیدگی کو مزید بڑھا دیا ہے۔ سزائے موت پانے والی شیخ حسینہ کی واپسی سے ملک میں نئی ​​بے چینی کا خطرہ پیدا ہو گیا ہے۔
+بی بی سی کی رپورٹ کے مطابق نیوزی لینڈ کا حکمران اتحاد پارلیمنٹ میں اپنی اکثریت کھو بیٹھا ہے اور ایک نشست کی کمی کا سامنا ہے۔ اس سیاسی تبدیلی سے ملک میں قانون سازی اور حکومت چلانے کے فیصلوں پر اثر پڑ سکتا ہے۔
 
-According to a BBC report
+According to BBC
 
-#SheikhHasina #Bangladesh #India #Dhaka #News
+#NewZealand #Politics #Parliament #BBC
 ```
 
-### Hamas weighs response after Israeli strikes kill 10 people in Gaza  [NORMAL]
-- Poster: غزہ میں اسرائیلی حملے، دس افراد جاں بحق / Israeli strikes kill 10 in Gaza | category war
-- Alternative headline: Hamas chief says group cannot withstand ongoing Israeli attacks
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza
-- Supporting coverage: ARY News, Dawn
-- Keywords: Hamas, Gaza, Israel, Airstrikes, Khalil Al-Hayya, Benjamin Netanyahu | hashtags: #Hamas #Gaza #Israel #Airstrikes #MiddleEast
-- Scheduled: Fri 27 Nov, 06:19 AM PKT
-- Caption:
-```
-Hamas is weighing its next steps after Israeli airstrikes killed at least 10 people in Gaza, including a senior official.
-
-Hamas chief Khalil Al-Hayya stated the group is not prepared to withstand continued Israeli attacks after strikes killed at least 10 people in Gaza. The victims included a Hamas political office member and deputy minister of education, amid an escalation by Israel.
-
-حماس کے سربراہ خلیل الحیہ نے کہا ہے کہ حماس مسلسل اسرائیلی حملوں کو برداشت کرنے کے لیے تیار نہیں۔ غزہ میں اسرائیلی فضائی حملوں میں کم از کم 10 افراد جاں بحق ہو گئے ہیں جن میں ایک اعلیٰ عہدیدار بھی شامل ہے۔
-
-First reported by ARY News
-
-#Hamas #Gaza #Israel #Airstrikes #MiddleEast
-```
-
-### State Bank of Pakistan's foreign exchange reserves rise by $8 million  [NORMAL]
-- Poster: اسٹیٹ بینک کے زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ / SBP foreign reserves rise by $8m | category economy
-- Alternative headline: SBP foreign reserves register an increase of $8m
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5
-- Supporting coverage: The Express Tribune, Dawn
-- Keywords: SBP reserves, State Bank of Pakistan, foreign reserves, economy, dollars, Pakistan | hashtags: #SBP #Economy #Pakistan #ForeignReserves #Finance
-- Scheduled: Fri 27 Nov, 06:29 AM PKT
-- Caption:
-```
-Pakistan's central bank has recorded a minor increase in its foreign exchange reserves.
-
-The State Bank of Pakistan's foreign exchange reserves have risen by $8 million, according to recent financial reports. This slight uptick adds to the ongoing economic monitoring of the country's external account stability.
-
-اسٹیٹ بینک آف پاکستان کے غیر ملکی زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ ریکارڈ کیا گیا ہے۔ مالیاتی رپورٹس کے مطابق اس اضافے سے ملکی زر مبادلہ کی پوزیشن میں معمولی بہتری آئی ہے۔
-
-According to The Express Tribune
-
-#SBP #Economy #Pakistan #ForeignReserves #Finance
-```
-
-### Inside Ukraine's severe power crisis amid ongoing war with Russia  [NORMAL]
-- Poster: روس کے ساتھ جنگ، یوکرین کو شدید بجلی بحران کا سامنا / Ukraine faces severe power crisis | category war
-- Alternative headline: Electricity and water shortages disrupt daily life in Kyiv
+### Young hikers in the UK are ditching screens to find friendship and fresh air  [NORMAL]
+- Poster: برطانیہ میں نوجوان ڈیجیٹل اسکرینز چھوڑ کر پیدل سفر کی طرف مائل / Young UK hikers ditch screens | category lifestyle
+- Alternative headline: The young hikers finding friendship and fresh air offline
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Ukraine power crisis, Russia, war, electricity, water shortage, Kyiv | hashtags: #Ukraine #Russia #PowerCrisis #War #AlJazeera
-- Scheduled: Fri 27 Nov, 06:39 AM PKT
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: young hikers UK, hiking trend, outdoor activities, Sport England, offline life | hashtags: #Hiking #UK #MentalHealth #Nature
+- Scheduled: Fri 27 Nov, 07:37 AM PKT
 - Caption:
 ```
-Electricity and water shortages have become a harsh reality of daily life in Ukraine's capital amid the war with Russia.
+More young people in the UK are turning away from their screens and heading outdoors for hiking and fresh air.
 
-Electricity and water shortages have become part of daily life in Ukraine’s capital as the country battles a severe power crisis amid its ongoing war with Russia. Infrastructure attacks have severely impacted basic utilities for residents.
+A growing number of young people in the UK are swapping digital screens for outdoor adventures. According to Sport England, nearly 9% of 16-34 year-olds are now regular hikers, up from 2.3% eight years ago, as walking groups experience rising memberships.
 
-روس کے ساتھ جاری جنگ کے دوران یوکرین کے دارالحکومت میں بجلی اور پانی کی قلت روزمرہ کی زندگی کا حصہ بن چکی ہے۔ بنیادی ڈھانچے پر حملوں نے شہریوں کے لیے مشکلات پیدا کر دی ہیں۔
+برطانیہ میں نوجوانوں کی ایک بڑی تعداد ڈیجیٹل اسکرینز چھوڑ کر بیرونی سرگرمیوں کا رخ کر رہی ہے۔ سپورٹ انگلینڈ کے مطابق 16 سے 34 سال کی عمر کے تقریباً 9 فیصد افراد اب باقاعدگی سے ہائیکنگ کرتے ہیں، جو آٹھ سال قبل صرف 2.3 فیصد تھے۔
 
-First reported by Al Jazeera
+According to BBC Health
 
-#Ukraine #Russia #PowerCrisis #War #AlJazeera
+#Hiking #UK #MentalHealth #Nature
 ```
 
-### America's Thanksgiving holiday viewed through different cultural perspectives  [NORMAL]
-- Poster: امریکہ میں یوم تشکر، مقامی لوگوں کا یوم سوگ / Different perspectives on Thanksgiving | category world
-- Alternative headline: Indigenous people gather in Plymouth for the National Day of Mourning
+### Why a growing number of food lovers are embracing the trend of solo dining  [NORMAL]
+- Poster: اکیلے کھانا کھانے کا رجحان تیزی سے کیوں مقبول ہو رہا ہے؟ / The growing trend of solo dining | category lifestyle
+- Alternative headline: I spend £200 a month on fancy meals by myself - would you dine solo?
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss
+- Original source: published_report - BBC Business https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Business https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Business
+- Keywords: solo dining, restaurant trends, food lovers, dining alone, BBC Business | hashtags: #SoloDining #Foodie #Lifestyle #BBC
+- Scheduled: Fri 27 Nov, 07:47 AM PKT
+- Caption:
+```
+Dining alone at high-end restaurants is becoming an intentional act of self-care for many food enthusiasts.
+
+Solo dining is transforming from a necessity for business travelers into a deliberate choice for food enthusiasts seeking independence and self-care. Analysts note that more people are booking tables for one at high-end restaurants as a monthly treat.
+
+اکیلے کھانا کھانا اب کاروباری مسافروں کی مجبوری نہیں بلکہ خوراک کے شوقین افراد کے لیے خود کی دیکھ بھال اور آزادی کا ارادی انتخاب بن چکا ہے۔ تجزیہ کاروں کا کہنا ہے کہ زیادہ لوگ مہنگے ریسٹورنٹس میں اکیلے میزیں بک کرا رہے ہیں۔
+
+According to BBC Business
+
+#SoloDining #Foodie #Lifestyle #BBC
+```
+
+### Kenyan man wrongly sentenced to death says Met Police ruined his life  [NORMAL]
+- Poster: غلط سزائے موت پانے والے کینیا کے شہری کا کہنا ہے کہ برطانوی پولیس نے اس کی زندگی تباہ کر دی / Wrongly sentenced Kenyan man blames Met Police | category courts
+- Alternative headline: Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Ali Kololo Met Police, wrongful conviction, Metropolitan Police, Kenya attack, BBC World | hashtags: #MetPolice #Justice #Kenya #BBC
+- Scheduled: Fri 27 Nov, 07:57 AM PKT
+- Caption:
+```
+A Kenyan woodcutter who spent over a decade in prison for a crime he didn't commit speaks out against the Met Police.
+
+Ali Kololo, a Kenyan woodcutter wrongly sentenced to death over an attack on a British couple in 2011, says actions by London's Metropolitan Police destroyed his life. After spending more than a decade in prison, Kololo is now suing the Met for compensation.
+
+علی کولولو، جو 2011 میں ایک برطانوی جوڑے پر حملے کے الزام میں غلط طور پر سزائے موت پانے کے بعد ایک دہائی سے زائد قید میں رہے، کا کہنا ہے کہ لندن کی میٹروپولیٹن پولیس کے اقدامات نے ان کی زندگی تباہ کر دی۔ وہ اب ہرجانے کے لیے پولیس کے خلاف مقدمہ لڑ رہے ہیں۔
+
+According to BBC World
+
+#MetPolice #Justice #Kenya #BBC
+```
+
+### Donald Trump claims the United States holds close to 50% of the world's oil  [NORMAL]
+- Poster: ڈونلڈ ٹرمپ کا دعویٰ ہے کہ امریکہ کے پاس دنیا کا تقریباً نصف تیل موجود ہے / Trump claims US has half of world's oil | category world
+- Alternative headline: Trump says the US has ‘close to 50%’ of world’s oil
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Thanksgiving, Indigenous people, Plymouth, National Day of Mourning, America, culture | hashtags: #Thanksgiving #America #Indigenous #DayOfMourning #Culture
-- Scheduled: Fri 27 Nov, 06:49 AM PKT
+- Keywords: Donald Trump oil reserves, US oil, Middle East oil, Al Jazeera, oil production | hashtags: #DonaldTrump #Oil #US #AlJazeera
+- Scheduled: Fri 27 Nov, 08:07 AM PKT
 - Caption:
 ```
-As millions across America celebrate Thanksgiving, Indigenous communities gather to observe the National Day of Mourning.
+During a call to troops in the Gulf, Donald Trump made a bold claim regarding US oil reserves.
 
-As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning. The event highlights contrasting historical and cultural perspectives surrounding the holiday in the United States.
+During a call to soldiers deployed in the Gulf region, Donald Trump claimed that the United States possesses close to 50 percent of the world's oil and asserted that the nation does not need Middle East oil.
 
-جبکہ لاکھوں امریکی یوم تشکر منا رہے ہیں، پلیموت میں مقامی لوگ یوم سوگ منانے کے لیے جمع ہوئے۔ یہ دن امریکہ میں اس تہوار کے حوالے سے مختلف تاریخی اور ثقافتی نقطہ نظر کو اجاگر کرتا ہے۔
+خلیج میں تعینات فوجیوں سے گفتگو کرتے ہوئے ڈونلڈ ٹرمپ نے دعویٰ کیا کہ امریکہ کے پاس دنیا کا تقریباً 50 فیصد تیل موجود ہے اور ملک کو مشرق وسطیٰ کے تیل کی کوئی ضرورت نہیں۔
 
 According to Al Jazeera
 
-#Thanksgiving #America #Indigenous #DayOfMourning #Culture
+#DonaldTrump #Oil #US #AlJazeera
 ```
 
-### Argentina bars Central Bank from printing money for government spending  [NORMAL]
-- Poster: ارجنٹائن نے مرکزی بینک کو حکومتی اخراجات کے لیے نوٹ چھاپنے سے روک دیا / Argentina bans central bank money printing | category us_politics
-- Alternative headline: Argentine Senate advances proposal to suspend primary elections ahead of 2027
+### Clashes halt football match after Besiktas fans display Palestinian flags  [NORMAL]
+- Poster: ترکی کے شائقین کی طرف سے فلسطینی پرچم لہرانے پر فٹ بال میچ میں جھگڑا اور تعطل / Clashes halt match over Palestinian flags | category sports
+- Alternative headline: Clashes halt match as Turkiye football fans raise Palestinian flags
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Argentina Central Bank, money printing, government spending, Senate, elections, South America | hashtags: #Argentina #CentralBank #Economy #Politics #AlJazeera
-- Scheduled: Fri 27 Nov, 06:59 AM PKT
+- Keywords: Besiktas fans clashes, Palestinian flags, UEFA match, Georgian police, Al Jazeera | hashtags: #Besiktas #Football #Palestine #AlJazeera
+- Scheduled: Fri 27 Nov, 08:17 AM PKT
 - Caption:
 ```
-Argentina's Senate has moved to block the central bank from printing money to finance government spending.
+A UEFA football match was brought to a halt following clashes between police and Turkish club supporters.
 
-The South American country's Senate has barred its Central Bank from printing money to fund government spending. Additionally, the Senate advanced a proposal to suspend primary elections ahead of the upcoming 2027 presidential race.
+Clashes erupted between Georgian police and supporters of Turkish football club Besiktas during a UEFA match, halting the game after fans raised Palestinian flags.
 
-جنوبی امریکی ملک کی سینٹ نے مرکزی بینک کو حکومتی اخراجات کے لیے نوٹ چھاپنے سے روک دیا ہے۔ اس کے علاوہ سینٹ نے 2027 کے صدارتی انتخابات سے قبل پرائمری انتخابات معطل کرنے کی تجویز بھی پیش کر دی ہے۔
+یوفا میچ کے دوران جارجیائی پولیس اور ترک فٹ بال کلب بشکتاش کے حامیوں کے درمیان جھگڑے پھوٹ پڑے، جس کے بعد شائقین کی جانب سے فلسطینی پرچم لہرانے پر میچ روک دیا گیا۔
 
-First reported by Al Jazeera
+According to Al Jazeera
 
-#Argentina #CentralBank #Economy #Politics #AlJazeera
+#Besiktas #Football #Palestine #AlJazeera
 ```
 
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
-- [published] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
-- [published] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
 - [published] normal | Qatar PM Works to Revive US-Iran Talks After Rubio Meeting | Tue 24 Nov, 07:52 AM PKT
 - [needs_review] normal | Three Oil Tankers Catch Fire After Striking Hormuz Mines: Iran | Tue 24 Nov, 08:02 AM PKT
@@ -365,12 +362,12 @@ First reported by Al Jazeera
 - [needs_review] normal | Trump demands investigation into pre-midterm GDP data releases | Thu 26 Nov, 11:54 PM PKT
 - [needs_review] normal | Syrian children continue learning amid war ruins in Idlib | Fri 27 Nov, 12:04 AM PKT
 - [published] normal | Scotland's chief medical officer resigns amid controversy | Fri 27 Nov, 12:14 AM PKT
-- [queued] normal | Could AI have solved mathematics' greatest mystery? | Fri 27 Nov, 12:24 AM PKT
-- [queued] normal | Kushner sparks outrage over comments on Gaza destruction | Fri 27 Nov, 12:34 AM PKT
-- [queued] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
-- [queued] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
-- [queued] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
-- [queued] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
+- [needs_review] normal | Could AI have solved mathematics' greatest mystery? | Fri 27 Nov, 12:24 AM PKT
+- [needs_review] normal | Kushner sparks outrage over comments on Gaza destruction | Fri 27 Nov, 12:34 AM PKT
+- [needs_review] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
+- [needs_review] normal | Teen's Death Sparks Urgent Questions Over Colombia's Security Crackdow | Fri 27 Nov, 01:00 AM PKT
+- [needs_review] normal | Karachi Highway Closed: Traffic Diverted After Protest Near Sassi Toll | Fri 27 Nov, 01:10 AM PKT
+- [published] normal | Iran Confirms Qatar and Pakistan Still Relaying US Messages | Fri 27 Nov, 01:57 AM PKT
 - [queued] normal | Why Donald Trump's new global tariffs are a lesser threat | Fri 27 Nov, 02:55 AM PKT
 - [queued] normal | Attack on Saudi Arabia's Jazan refinery leaves one dead and disrupts o | Fri 27 Nov, 03:05 AM PKT
 - [queued] normal | Indian politician facing murder charges hosts massive 400,000-guest we | Fri 27 Nov, 03:15 AM PKT
@@ -390,14 +387,21 @@ First reported by Al Jazeera
 - [queued] normal | Inside Ukraine's severe power crisis amid ongoing war with Russia | Fri 27 Nov, 06:39 AM PKT
 - [queued] normal | America's Thanksgiving holiday viewed through different cultural persp | Fri 27 Nov, 06:49 AM PKT
 - [queued] normal | Argentina bars Central Bank from printing money for government spendin | Fri 27 Nov, 06:59 AM PKT
+- [queued] normal | New Zealand ruling coalition loses its majority in parliament by one s | Fri 27 Nov, 07:27 AM PKT
+- [queued] normal | Young hikers in the UK are ditching screens to find friendship and fre | Fri 27 Nov, 07:37 AM PKT
+- [queued] normal | Why a growing number of food lovers are embracing the trend of solo di | Fri 27 Nov, 07:47 AM PKT
+- [queued] normal | Kenyan man wrongly sentenced to death says Met Police ruined his life | Fri 27 Nov, 07:57 AM PKT
+- [queued] normal | Donald Trump claims the United States holds close to 50% of the world' | Fri 27 Nov, 08:07 AM PKT
+- [queued] normal | Clashes halt football match after Besiktas fans display Palestinian fl | Fri 27 Nov, 08:17 AM PKT
 
 ## Publishing this run
-- Published 'Scotland's chief medical officer resigns amid controversy'.
+- Published 'Iran Confirms Qatar and Pakistan Still Relaying US Messages'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 6659 | output tokens: 2910
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 3 | prompt tokens: 5535 | output tokens: 3160
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

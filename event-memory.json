@@ -174914,7 +174914,411 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a002c416f90ae2556560c15f",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T01:35:11+00:00",
+      "last_update": "2026-11-27T02:22:37+00:00",
+      "event": "New Zealand: Ruling coalition loses parliamentary majority",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bbc",
+        "coalition",
+        "loses",
+        "majority",
+        "new",
+        "parliamentary",
+        "ruling",
+        "zealand"
+      ],
+      "source_excerpt": "New Zealand: Ruling coalition loses parliamentary majority BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5",
+          "published_at": "2026-11-27T01:35:11+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T02:22:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47489927f86c3d8f3a809d53",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T01:44:02+00:00",
+      "last_update": "2026-11-27T01:44:02+00:00",
+      "event": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "call",
+        "claimed",
+        "close",
+        "deployed",
+        "does",
+        "donald",
+        "east",
+        "gulf",
+        "has",
+        "middle",
+        "need",
+        "not",
+        "oil",
+        "says",
+        "soldiers",
+        "that",
+        "the",
+        "trump",
+        "world"
+      ],
+      "source_excerpt": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+          "published_at": "2026-11-27T01:44:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59a7d0dc6b60da05daa2bdfd",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T01:36:23+00:00",
+      "last_update": "2026-11-27T01:36:23+00:00",
+      "event": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "besiktas",
+        "between",
+        "broke",
+        "clashes",
+        "club",
+        "during",
+        "fans",
+        "flags",
+        "football",
+        "georgian",
+        "halt",
+        "match",
+        "out",
+        "palestinian",
+        "police",
+        "raise",
+        "supporters",
+        "turkish",
+        "turkiye",
+        "uefa"
+      ],
+      "source_excerpt": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+          "published_at": "2026-11-27T01:36:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2a23fe5d37e6ad5e3341bac0",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T01:07:44+00:00",
+      "last_update": "2026-11-27T01:07:44+00:00",
+      "event": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "afp",
+        "agency",
+        "chief",
+        "collective",
+        "combat",
+        "content",
+        "cyberattack",
+        "cybersecurity",
+        "down",
+        "france",
+        "global",
+        "levels",
+        "nation",
+        "news",
+        "platform",
+        "reports",
+        "shuts",
+        "the",
+        "threat",
+        "unprecedented",
+        "urges"
+      ],
+      "source_excerpt": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+          "published_at": "2026-11-27T01:07:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "47cbf7e73f10aefc5949c95e",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T02:16:21+00:00",
+      "last_update": "2026-11-27T02:16:21+00:00",
+      "event": "Amid talk of new provinces, Sindh CM announces consultations on local govt empowerment",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ali",
+        "all",
+        "amid",
+        "and",
+        "announced",
+        "announces",
+        "body",
+        "chief",
+        "committee",
+        "comprehensive",
+        "consultation",
+        "consultations",
+        "elections",
+        "empowerment",
+        "for",
+        "formed",
+        "forms",
+        "government",
+        "govt",
+        "held",
+        "hold",
+        "karachi",
+        "law",
+        "local",
+        "meet",
+        "member",
+        "minister",
+        "ministerial",
+        "murad",
+        "new",
+        "next",
+        "opposition",
+        "process",
+        "provinces",
+        "says",
+        "shah",
+        "sindh",
+        "stakeholders",
+        "syed",
+        "talk",
+        "talks",
+        "thursday",
+        "time",
+        "two",
+        "with"
+      ],
+      "source_excerpt": "• Forms body to meet opposition; says next local govt elections to be held on time KARACHI: Chief Minister Syed Murad Ali Shah on Thursday announced a comprehensive consultation process for a new local government law and formed a two-member ministerial committee to hold talks with all stakeholders a",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment",
+          "published_at": "2026-11-27T02:16:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment",
+        "publisher_url": "https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aae4ab85556d27b7c6a87eae",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T01:52:30+00:00",
+      "last_update": "2026-11-27T01:52:30+00:00",
+      "event": "Pakistan envoy seeks stronger US ties",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "envoy",
+        "express",
+        "pakistan",
+        "seeks",
+        "stronger",
+        "the",
+        "ties",
+        "tribune"
+      ],
+      "source_excerpt": "Pakistan envoy seeks stronger US ties The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CekRGajFBRmZWMGpPdHNEaDJmcUZTbkJ1VEdqNFVNNUpHa0hMMkk2ZEdTMkpmNlpnalZqUS00VmRONW1RMVVwOGdtS05uY0FOeldZMDFJX2hLRzRJaHVsZVRHemJrUjNzbm1jNU5oTkdVTFRNQ2JpRFE0eWtXaGPSAYcBQVVfeXFMT2pELVBtbk55SU9kUW56THRjdHJWRlN6ZGsxSm41dnc0TjBueHlMeHlJWWlLQWtxX09tMHFmUzNidUF5WHRvWmdxb2MxaV9OUDgyU2oxaXZQcG9jay1OME5LQUFTTGxzV05Mc0hmVzN3UFJmMnJ3dVhHbG9iSW1GZ2Fab3BLcmJv?oc=5",
+          "published_at": "2026-11-27T01:52:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CekRGajFBRmZWMGpPdHNEaDJmcUZTbkJ1VEdqNFVNNUpHa0hMMkk2ZEdTMkpmNlpnalZqUS00VmRONW1RMVVwOGdtS05uY0FOeldZMDFJX2hLRzRJaHVsZVRHemJrUjNzbm1jNU5oTkdVTFRNQ2JpRFE0eWtXaGPSAYcBQVVfeXFMT2pELVBtbk55SU9kUW56THRjdHJWRlN6ZGsxSm41dnc0TjBueHlMeHlJWWlLQWtxX09tMHFmUzNidUF5WHRvWmdxb2MxaV9OUDgyU2oxaXZQcG9jay1OME5LQUFTTGxzV05Mc0hmVzN3UFJmMnJ3dVhHbG9iSW1GZ2Fab3BLcmJv?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "647e2d63c4291239da1c567a",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T00:46:52+00:00",
+      "last_update": "2026-11-27T00:46:52+00:00",
+      "event": "News stories for Samia Salik",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "for",
+        "news",
+        "salik",
+        "samia",
+        "stories"
+      ],
+      "source_excerpt": "News stories for Samia Salik Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bE9zMXA5ZFlkY29XNEd3YmViOUNqR2ZPZjBmS3pTOHBKdk1SYU0walJvX3JMdnN1eTk1cmVkT09RLVlKaWhJbV9IWUJ2UlVzUmpCdGZnMnU5Zw?oc=5",
+          "published_at": "2026-11-27T00:46:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bE9zMXA5ZFlkY29XNEd3YmViOUNqR2ZPZjBmS3pTOHBKdk1SYU0walJvX3JMdnN1eTk1cmVkT09RLVlKaWhJbV9IWUJ2UlVzUmpCdGZnMnU5Zw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ae948d52b6d7285157858607",
+      "remembered_at": "2026-11-27T02:27:52.983851+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T00:48:11+00:00",
+      "event": "PM forms committee to resolve NIH issues",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "committee",
+        "dawn",
+        "forms",
+        "issues",
+        "nih",
+        "resolve"
+      ],
+      "source_excerpt": "PM forms committee to resolve NIH issues Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wbDNMTTdTSE5KY2xMM09oeW9teXY1T241MUZtLTBmdUx0dFdwdWU1NWZOclgySXVaQkVjTE1YSHppTEd3N1M1aDVmNXYxekd1U0RYRFAwU20tcTdyUUJqYk9hVGszN0pqTGkwYnFVVHo0SEY4SE5RMXo1dVRmQ2s?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wbDNMTTdTSE5KY2xMM09oeW9teXY1T241MUZtLTBmdUx0dFdwdWU1NWZOclgySXVaQkVjTE1YSHppTEd3N1M1aDVmNXYxekd1U0RYRFAwU20tcTdyUUJqYk9hVGszN0pqTGkwYnFVVHo0SEY4SE5RMXo1dVRmQ2s?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T01:09:59.050200+00:00"
+  "updated_at": "2026-11-27T02:27:52.983851+00:00"
 }
