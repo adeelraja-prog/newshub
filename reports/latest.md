@@ -1,169 +1,132 @@
-# News Hub report - Fri 27 Nov, 09:43 AM PKT
+# News Hub report - Fri 27 Nov, 10:46 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 212
-- Unique story clusters: 178 (duplicates merged: 34)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 6
-- Items per outlet: Al Jazeera 6, Dawn Pakistan 5, Dawn Latest 5, Investify 3, Geo News 2, The Express Tribune 1, Dawn 1, X 1, AP News 1, Benzinga 1, Middle East Eye 1, ARY News 0
+- New items this run: 54 | items in rolling pool: 247
+- Unique story clusters: 207 (duplicates merged: 40)
+- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
+- Items per outlet: Dawn Pakistan 9, Dawn 6, samaa tv 5, Profit by Pakistan Today 4, Dawn Latest 3, Al Jazeera 3, Dunya News 3, TechJuice 3, The Current 3, Geo News 2, Reuters 2, ProPakistani 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Cartoon: 27 November, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Journalist Shahid Maitla granted bail | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 16 laws enacted to strengthen law & order: CM Bugti | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seafood exporters urged to add value | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Maritime trade set for zero growth: UN | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 1 | malformed/partial: 1
+- Overall feeds with entries: 105/120 | empty: 4 | failed: 11 | malformed/partial: 12
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Europe Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Africa Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: CNN India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Asian stock markets rebound following earlier tech rout  [NORMAL]
-- Poster: ایشیائی اسٹاک مارکیٹس میں مثبت رجحان، شیئرز کی قیمتیں سنبھل گئیں / Asian stock markets rebound after tech rout | category economy
-- Alternative headline: Indices rise across Japan, South Korea, Australia and Hong Kong
+### New Zealand’s Opportunity Party poised to become election kingmaker  [NORMAL]
+- Poster: نیوزی لینڈ کی اپرچونٹی پارٹی الیکشن میں اہم کردار ادا کرنے کو تیار / Opportunity Party poised to become election kingmaker | category politics
+- Alternative headline: Opportunity party positioned to swing New Zealand parliament left or right
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Asian stock markets, tech rout, Japan stocks, Hong Kong indices, New Zealand election | hashtags: #StockMarket #AsiaEconomy #TechRout #MarketUpdate
-- Scheduled: Fri 27 Nov, 09:43 AM PKT
+- Keywords: Opportunity Party, New Zealand, election, parliament, kingmaker | hashtags: #NewZealand #OpportunityParty #Politics #Elections
+- Scheduled: Fri 27 Nov, 10:46 AM PKT
 - Caption:
 ```
-Stock markets across major Asian economies have bounced back after an earlier tech-driven downturn.
+The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.
 
-Indices in Japan, South Korea, Australia, and Hong Kong experienced a rebound following an earlier tech rout, while New Zealand stocks dipped due to ongoing election uncertainty, according to Al Jazeera.
+The newly-elected Opportunity party is now positioned to swing New Zealand’s next parliament to the left or right, according to Al Jazeera.
 
-الجزیرہ کے مطابق جاپان، جنوبی کوریا، آسٹریلیا اور ہانگ کانگ کے انڈیکس میں ٹیکنالوجی کے شعبے میں گراوٹ کے بعد بہتری دیکھی گئی، جبکہ نیوزی لینڈ کے اسٹاکس انتخابی غیر یقینی صورتحال کی وجہ سے نیچے آگئے۔
+الجزیرہ کے مطابق، نو منتخب اپرچونٹی پارٹی اب نیوزی لینڈ کی اگلی پارلیمنٹ کو بائیں یا دائیں جانب موڑنے کی پوزیشن میں ہے۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#StockMarket #AsiaEconomy #TechRout #MarketUpdate
+#NewZealand #OpportunityParty #Politics #Elections
 ```
 
-### Daily news cartoon highlights political developments  [NORMAL]
-- Poster: روزنامہ ڈان کا تازہ کارٹون جاری / Latest daily editorial cartoon released | category other
-- Alternative headline: Epaper features latest editorial cartoon for November 27
+### 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader  [NORMAL]
+- Poster: 26ویں اور 27ویں آئینی ترامیم نے عدلیہ کو مفلوج کر دیا: رہنما آئی ایل ایف / Amendments paralysed judiciary, alleges ILF leader | category courts
+- Alternative headline: Insaf Lawyers Forum leader claims constitutional amendments paralysed the judiciary
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUlZJVERra2dFUWJVQmJtaUpTWm9BN081RF9DUTRtSzhfSVg4M2doQ2N1ejdXT1V6U3E3NUN0d3VfNzNXX3BIc0ZfdXlmSnFXT0RPVnRyVWpyMll2SkpWclVwZk5ncTFnanc?oc=5
-- Supporting coverage: Pakistan Today, Pakistan Today, Pakistan Today, Dawn, The Express Tribune, Geo News
-- Keywords: editorial cartoon, Dawn cartoon, daily cartoon, political satire | hashtags: #EditorialCartoon #Dawn #PoliticalSatire
-- Scheduled: Fri 27 Nov, 09:53 AM PKT
-- Caption:
-```
-The daily editorial cartoon offers a satirical take on current events.
-
-Dawn published its daily editorial cartoon for November 27, 2026, capturing contemporary political and social themes through visual satire.
-
-ڈان نے 27 نومبر 2026 کے لیے اپنا روزانہ کا ادارتی کارٹون شائع کیا ہے، جو بصری طنز کے ذریعے موجودہ سیاسی اور سماجی موضوعات کو اجاگر کرتا ہے۔
-
-First reported by Dawn.
-
-#EditorialCartoon #Dawn #PoliticalSatire
-```
-
-### Quetta court grants bail to journalist Shahid Maitla  [NORMAL]
-- Poster: صحافی شاہد مایتلا کو عدالت سے ضمانت مل گئی / Journalist Shahid Maitla granted bail | category courts
-- Alternative headline: Journalist Shahid Maitla released on bail in NCCIA case
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE00aUpvYkpHR2JoaE1hZEZHV2RjbjY3bGFEdG40ZWVKd1hvTTA5dFFJOEd2cXg2NkVTbFgyeGhicGJaN293X2FhY2NLdUJScWNRejFiWmNpQWFoRng4aFRIZ3dqVkZUcnp3ZTFDUkJhM1dhc0R2U0pTY1Q3aw?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNRDFRdjZCaHM1RFlXTFZfS3NLM0RORmFkRXE4Z3NadnRSV3hQNVF6dHgtY1lWRnUtU3d6ay1Eck9CTFBGZnRUSG5KdHQ2QktyY0hIUjZFZmxpTGpsRGJWS0RDS1VIOWFxVGZSTllCcklldnF6OGx4Y0FROE45OXM4ekhHeUdCZzIxOUFaeGJRSGd4Wi1qbWUtN1BJV0swQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNRDFRdjZCaHM1RFlXTFZfS3NLM0RORmFkRXE4Z3NadnRSV3hQNVF6dHgtY1lWRnUtU3d6ay1Eck9CTFBGZnRUSG5KdHQ2QktyY0hIUjZFZmxpTGpsRGJWS0RDS1VIOWFxVGZSTllCcklldnF6OGx4Y0FROE45OXM4ekhHeUdCZzIxOUFaeGJRSGd4Wi1qbWUtN1BJV0swQQ?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: Shahid Maitla bail, Quetta court, NCCIA case, journalist bail | hashtags: #ShahidMaitla #Journalist #QuettaCourt #NCCIA
-- Scheduled: Fri 27 Nov, 10:03 AM PKT
+- Keywords: constitutional amendments, judiciary, ILF, Insaf Lawyers Forum, Pakistan | hashtags: #Judiciary #Pakistan #ConstitutionalAmendments #DawnNews
+- Scheduled: Fri 27 Nov, 10:56 AM PKT
 - Caption:
 ```
-A court in Quetta has approved the bail plea of journalist Shahid Maitla in an NCCIA case.
+An Insaf Lawyers Forum leader alleges that the 26th and 27th constitutional amendments have paralysed the country's judiciary.
 
-Journalist Shahid Maitla has been granted bail by a Quetta court in a case registered under the NCCIA, following legal proceedings regarding his detention.
+An Insaf Lawyers Forum leader has alleged that the 26th and 27th constitutional amendments have effectively paralysed the judiciary, as reported by Dawn.
 
-کوئٹہ کی عدالت نے این سی سی آئی اے کے مقدمے میں گرفتار صحافی شاہد مایتلا کی ضمانت منظور کر لی ہے۔
+ڈان کی رپورٹ کے مطابق، انصاف لائرز فورم کے ایک رہنما نے الزام عائد کیا ہے کہ 26ویں اور 27ویں آئینی ترامیم نے عدلیہ کو مفلوج کر دیا ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#ShahidMaitla #Journalist #QuettaCourt #NCCIA
+#Judiciary #Pakistan #ConstitutionalAmendments #DawnNews
 ```
 
-### 16 new laws enacted to strengthen law and order: Bugti  [NORMAL]
-- Poster: امن و امان کو بہتر بنانے کے لیے 16 نئے قوانین بنائے گئے: وزیر اعلیٰ بگٹی / 16 laws enacted to strengthen security: CM Bugti | category politics
-- Alternative headline: Balochistan CM highlights enactment of 16 security laws
+### Female social worker hurt in acid attack in North Karachi  [NORMAL]
+- Poster: شمالی کراچی میں تیزاب گردی کا واقعہ، خاتون سماجی کارکن زخمی / Woman hurt in acid attack in North Karachi | category crime
+- Alternative headline: Woman injured in North Karachi acid attack, reports Dawn
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9BNllEdXhzRm9QVC01YlVOUjE0NGtQWmRKTEptUWpoQnNZYkR2M0MtU3M5SlUzd2hvemNfMUF0c3pGTVp0eXFYbWM3RFhYdWN3Nm5Mc2N2YUtCMEVDaHcyUUlTZkFyWjVmc3UxMzdwQ3phNWU2SC13ZHZLdUY2QW5QUWpXa1dBbnJ6RjZxWQ?oc=5
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VJbFVQSEUtblY0MXp5LTFCbkhTc3JXbVh0WDRxR282eFg1RVdoblYxQmF0WEtxSGdWaXBhaXNmZE84YW9pWVdncGMydGhkSlhVaDE5dVJQNUJYNy1uLWV2MWVCYm5GMUVPSzNVZkw3ZFpVcTRuSlpraGQxU2daOXhB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VJbFVQSEUtblY0MXp5LTFCbkhTc3JXbVh0WDRxR282eFg1RVdoblYxQmF0WEtxSGdWaXBhaXNmZE84YW9pWVdncGMydGhkSlhVaDE5dVJQNUJYNy1uLWV2MWVCYm5GMUVPSzNVZkw3ZFpVcTRuSlpraGQxU2daOXhB?oc=5
 - Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: CM Bugti, Balochistan laws, law and order, security legislation | hashtags: #Balochistan #CMBugti #LawAndOrder #Security
-- Scheduled: Fri 27 Nov, 10:13 AM PKT
+- Keywords: acid attack, North Karachi, crime, social worker, injury | hashtags: #Karachi #AcidAttack #Crime #DawnNews
+- Scheduled: Fri 27 Nov, 11:06 AM PKT
 - Caption:
 ```
-Balochistan Chief Minister Bugti stated that 16 new laws have been enacted to improve the province's security framework.
+A female social worker was injured in an acid attack in North Karachi, according to reports.
 
-Balochistan Chief Minister Bugti announced that 16 laws have been successfully enacted to strengthen law and order across the province, aiming to improve governance and stability, as reported by Dawn.
+A female social worker sustained injuries in an acid attack in North Karachi, Dawn reported.
 
-بلوچستان کے وزیر اعلیٰ بگٹی نے بتایا ہے کہ صوبے میں امن و امان کو بہتر بنانے اور حکمرانی کو مضبوط کرنے کے لیے 16 نئے قوانین نافذ کیے گئے ہیں۔
+ڈان کی رپورٹ کے مطابق شمالی کراچی میں تیزاب کے حملے کے نتیجے میں ایک خاتون سماجی کارکن زخمی ہو گئیں۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#Balochistan #CMBugti #LawAndOrder #Security
+#Karachi #AcidAttack #Crime #DawnNews
 ```
 
-### Maritime Affairs minister urges seafood exporters to boost value addition  [NORMAL]
-- Poster: سمندری غذا کے برآمد کنندگان پر ویلیو ایڈیشن پر توجہ دینے پر زور / Seafood exporters urged to improve value-added products | category economy
-- Alternative headline: Seafood exporters encouraged to focus on value-added product sales
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ3BSdFkyUFdRVGJaTWdnRFB6ZDNLWVlPVlBkdTBJSVFSbXNqSUlxTTNmc3U2alRKa2lBYVlQemo2b1lTclRKMlJFNGY1Vjk2RHVrLTZQTy1HUXB3OTFxMXM2VWNpbTdQTDBZaVdweTVLQTRPUjZOcm9R?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: seafood exporters, Maritime Affairs minister, value addition, Pakistan exports | hashtags: #SeafoodExporters #MaritimeAffairs #ValueAddition #PakistanEconomy
-- Scheduled: Fri 27 Nov, 10:23 AM PKT
-- Caption:
-```
-The Maritime Affairs minister has called upon seafood exporters to enhance the quality and value of their products.
-
-Pakistan's Maritime Affairs minister has urged seafood exporters to improve value-added product sales in international markets to enhance revenue and competitiveness, according to Dawn.
-
-امور بحری کے وزیر نے سمندری غذا کے برآمد کنندگان پر زور دیا ہے کہ وہ بین الاقوامی منڈیوں میں آمدنی اور مسابقت بڑھانے کے لیے ویلیو ایڈڈ مصنوعات کی فروخت کو بہتر بنائیں۔
-
-First reported by Dawn.
-
-#SeafoodExporters #MaritimeAffairs #ValueAddition #PakistanEconomy
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
@@ -173,7 +136,6 @@ First reported by Dawn.
 - [needs_review] normal | Excavator Spotted Near Sacred Sheshnag Lake in Himalayas Sparks Outrag | Tue 24 Nov, 09:06 AM PKT
 - [needs_review] normal | UN Chief Urges Global Agreement on AI Oversight Within a Year | Tue 24 Nov, 09:16 AM PKT
 - [needs_review] normal | Mexico to Prosecute ‘El Chapo Isidro’ Despite US Extradition Request | Tue 24 Nov, 09:26 AM PKT
-- [published] normal | Lahore ATC Grants Five-Day Physical Remand of PTI Leader | Tue 24 Nov, 10:02 AM PKT
 - [needs_review] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
 - [needs_review] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [needs_review] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
@@ -349,10 +311,10 @@ First reported by Dawn.
 - [needs_review] normal | Mexico seeks US talks over suspected SpaceX rocket debris near border | Fri 27 Nov, 03:25 AM PKT
 - [needs_review] normal | Baby's fight for life gives UK Christmas tractor run special meaning | Fri 27 Nov, 03:35 AM PKT
 - [published] normal | Tarar criticises Fazl and Bilawal over protests and referendum debate | Fri 27 Nov, 03:53 AM PKT
-- [queued] normal | Bournemouth and Milan secure stunning comeback victories in Europa Lea | Fri 27 Nov, 04:03 AM PKT
-- [queued] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
-- [queued] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
-- [queued] normal | Report reveals CIA used waterboarding more widely than admitted | Fri 27 Nov, 04:52 AM PKT
+- [needs_review] normal | Bournemouth and Milan secure stunning comeback victories in Europa Lea | Fri 27 Nov, 04:03 AM PKT
+- [needs_review] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
+- [needs_review] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
+- [published] normal | Report reveals CIA used waterboarding more widely than admitted | Fri 27 Nov, 04:52 AM PKT
 - [queued] normal | NHS warns of severe flu surge as hospital admissions spike | Fri 27 Nov, 05:02 AM PKT
 - [queued] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
 - [queued] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
@@ -376,17 +338,17 @@ First reported by Dawn.
 - [queued] normal | Quetta court grants bail to journalist Shahid Maitla | Fri 27 Nov, 10:03 AM PKT
 - [queued] normal | 16 new laws enacted to strengthen law and order: Bugti | Fri 27 Nov, 10:13 AM PKT
 - [queued] normal | Maritime Affairs minister urges seafood exporters to boost value addit | Fri 27 Nov, 10:23 AM PKT
+- [queued] normal | New Zealand’s Opportunity Party poised to become election kingmaker | Fri 27 Nov, 10:46 AM PKT
+- [queued] normal | 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | Fri 27 Nov, 10:56 AM PKT
+- [queued] normal | Female social worker hurt in acid attack in North Karachi | Fri 27 Nov, 11:06 AM PKT
 
 ## Publishing this run
-- Published 'Tarar criticises Fazl and Bilawal over protests and referendum debate'.
+- Published 'Report reveals CIA used waterboarding more widely than admitted'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5095 | output tokens: 2311
+- Calls: 3 | prompt tokens: 4596 | output tokens: 2054
 - Errors: 2
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
