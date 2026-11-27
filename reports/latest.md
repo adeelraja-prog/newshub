@@ -1,173 +1,98 @@
-# News Hub report - Sat 28 Nov, 01:26 AM PKT
+# News Hub report - Sat 28 Nov, 02:28 AM PKT
 
 ## Collection
-- New items this run: 21 | items in rolling pool: 567
-- Unique story clusters: 475 (duplicates merged: 92)
-- Clusters dropped as already published/queued: 31; unchanged since last analysis: 11
-- Items per outlet: Geo News 3, Al Jazeera 3, Engadget 3, Pakistan Today 3, ARY News 2, The Verge 2, Wired 2, GSMArena 1, BBC World 1, Al-Monitor 1, Aaj News 0, Reuters 0
+- New items this run: 25 | items in rolling pool: 485
+- Unique story clusters: 409 (duplicates merged: 76)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 10
+- Items per outlet: Pakistan Today 7, Al Jazeera 5, Geo News 4, The Verge 3, Iran International 1, Qazinform 1, Wired 1, BBC Science 1, Envanter Medya 1, Scripps News 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION | https://www.youtube.com/watch?v=TDIhfi6sCqo
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NADRA mobile registration vans to visit four UK locations on November 28 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Is snooker the most mentally challenging sport? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New satellite data shows how fast some African cities are sinking | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- OpenAI countersues Apple over trade secrets as AI race heats up | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Is Iraq facing renewed instability? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Venezuela to repeal law that bans opposition figures from office | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 113/120 | empty: 3 | failed: 3 | malformed/partial: 4
+- Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Aaj News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Reuters | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Electricity | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Spanish PM Pedro Sánchez Defies Polls in Final Election Rally  [NORMAL]
-- Poster: ہسپنوں میں انتخابات سے قبل سیاسی سرگرمیاں عروج پر، اہم رہنماؤں کے جلسے / Spanish Leaders Hold Final Rallies Ahead of Sunday Election | category politics
-- Alternative headline: Spain's Party Leaders Make Final Push Ahead of Sunday Vote
+### Venezuela to repeal law banning opposition figures from holding office  [NORMAL]
+- Poster: وینزویلا کا اپوزیشن پر پابندی کا قانون ختم کرنے کا اعلان / Venezuela to repeal opposition ban law | category politics
+- Alternative headline: Venezuela moves to scrap controversial law blocking opposition politicians
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Spain election, Pedro Sánchez, Alberto Núñez Feijóo, Spanish politics, election rally, Socialist Party | hashtags: #SpainElection #PedroSanchez #WorldNews #Politics #Europe
-- Scheduled: Sat 28 Nov, 01:26 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Venezuela law, Maria Corina Machado, opposition ban, politics, Venezuela repeal | hashtags: #Venezuela #Politics #News
+- Scheduled: Sat 28 Nov, 02:28 AM PKT
 - Caption:
 ```
-Spain's main political leaders have wrapped up their campaigns with final rallies ahead of Sunday's crucial national election.
+Venezuela is set to repeal a law that bans opposition figures from holding public office, following recent political developments.
 
-Spain's main party leaders held their final rallies ahead of Sunday's election. Socialist Prime Minister Pedro Sánchez expressed confidence in defying polls, while his conservative rival Alberto Núñez Feijóo promised a new political era, with polls indicating a close finish among nearly 39 million eligible voters.
+Venezuela is moving to repeal a law that previously banned opposition figures from holding office. This development comes a month after opposition leader Maria Corina Machado returned to the country, marking a notable shift in the political landscape.
 
-سپین کے اہم سیاسی رہنماؤں نے اتوار کو ہونے والے انتخابات سے قبل آخری انتخابی جلسے منعقد کیے۔ سوشلسٹ وزیراعظم پینڈرو سانچیز نے پولز کے نتائج کو غلط ثابت کرنے کا عزم ظاہر کیا، جبکہ ان کے قدامت پسند حریف البرٹو نونیز فیجو نے ایک نئے سیاسی دور کا وعدہ کیا۔
+وینزویلا ایک ایسے قانون کو منسوخ کرنے جا رہا ہے جو اپوزیشن شخصیات کے عہدے سنبھالنے پر پابندی لگاتا تھا۔ یہ پیش رفت اپوزیشن رہنما ماریا کورینا ماچاڈو کی ملک واپسی کے ایک ماہ بعد سامنے آئی ہے۔
 
-According to BBC World
+First reported by Al Jazeera.
 
-#SpainElection #PedroSanchez #WorldNews #Politics #Europe
+#Venezuela #Politics #News
 ```
 
-### Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Claim  [NORMAL]
-- Poster: کوسٹا ریکا نے اقوام متحدہ کی نمائندہ فرانچسکا البانیز کے داخلے پر پابندی لگا دی / Costa Rica Denies Entry to UN Rapporteur Francesca Albanese | category world
-- Alternative headline: UN Urges Costa Rica to Allow Entry to Rights Rapporteur Albanese
+### OpenAI countersues Apple, accusing tech giant of stealing trade secrets  [NORMAL]
+- Poster: اوپن اے آئی کا ایپل پر تجارتی راز چرانے کا دعویٰ / OpenAI countersues Apple over trade secrets | category tech_ai
+- Alternative headline: OpenAI escalates tech war by filing countersuit against Apple over trade secrets
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss
-- Supporting coverage: Ahram Online, Al Jazeera
-- Keywords: Francesca Albanese, Costa Rica, UN special rapporteur, Gaza, entry ban, United Nations | hashtags: #FrancescaAlbanese #CostaRica #UnitedNations #Gaza #WorldNews
-- Scheduled: Sat 28 Nov, 01:36 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss
+- Supporting coverage: Engadget, Al Jazeera
+- Keywords: OpenAI Apple lawsuit, OpenAI, Apple, trade secrets, AI race, countersuit | hashtags: #OpenAI #Apple #TechNews #ArtificialIntelligence
+- Scheduled: Sat 28 Nov, 02:38 AM PKT
 - Caption:
 ```
-Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded allegations regarding links to terrorist acts.
+OpenAI has countersued Apple amid an intensifying race to develop artificial intelligence products and escalating tech tensions.
 
-Costa Rica has barred UN special rapporteur Francesca Albanese from entering the country, citing what it termed unfounded links to terrorist acts. The decision has drawn international attention and reactions from various entities monitoring human rights and diplomatic relations.
+OpenAI has filed a countersuit against Apple, accusing the tech giant of stealing trade secrets as competition in the artificial intelligence sector intensifies. The legal escalation highlights growing tensions between the major technology companies.
 
-کوسٹا ریکا نے دہشت گردانہ کارروائیوں سے مبینہ تعلقات کا حوالہ دیتے ہوئے اقوام متحدہ کی خصوصی نمائندہ فرانچسکا البانیز کے ملک میں داخلے پر پابندی عائد کر دی ہے۔ اس فیصلے پر عالمی سطح پر مختلف ردعمل سامنے آئے ہیں۔
+اوپن اے آئی نے ایپل کے خلاف جوابی مقدمہ دائر کرتے ہوئے تکنیکی جنات پر تجارتی راز چرانے کا الزام عائد کیا ہے۔ مصنوعی ذہانت کی مصنوعات کی تیاری کی دوڑ تیز ہونے کے ساتھ ہی دونوں کمپنیوں کے درمیان کشیدگی بڑھ گئی ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera and Engadget.
 
-#FrancescaAlbanese #CostaRica #UnitedNations #Gaza #WorldNews
-```
-
-### Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B  [NORMAL]
-- Poster: پاکستان کی چین سے زیرو ٹیرف رسائی کی درخواست، برآمدات 25 ارب ڈالر تک لے جانے کا ہدف / Pakistan Seeks Zero-Tariff Access to China for $25B Exports | category economy
-- Alternative headline: Ahsan Iqbal Pursues Preferential Trade Deal to Target $25bn Chinese Market
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln
-- Supporting coverage: Investify, TechJuice, Pakistan Today, ARY News
-- Keywords: Pakistan China exports, zero-tariff access, Ahsan Iqbal, export target, bilateral trade, China trade | hashtags: #PakistanChina #Exports #Economy #AhsanIqbal #Trade
-- Scheduled: Sat 28 Nov, 01:46 AM PKT
-- Caption:
-```
-Pakistan has urged China to grant preferential zero-tariff market access to help lift annual bilateral exports up to $25 billion.
-
-Pakistan has sought China's support for zero-tariff access for domestic goods to increase annual exports from around $3 billion to $20-25 billion. Federal Minister Ahsan Iqbal discussed the proposal with CPC officials, pointing to China's tariff concessions to African nations as a potential model.
-
-پاکستان نے چین سے مطالبہ کیا ہے کہ وہ پاکستانی مصنوعات کو ترجیحی بنیادوں پر زیرو ٹیرف رسائی فراہم کرے تاکہ سالانہ برآمدات کو 3 ارب ڈالر سے بڑھا کر 20 سے 25 ارب ڈالر تک پہنچایا جا سکے۔ وفاقی وزیر احسن اقبال نے چینی حکام سے اس تجاویز پر تبادلہ خیال کیا۔
-
-First reported by ARY News; also reported by The Express Tribune
-
-#PakistanChina #Exports #Economy #AhsanIqbal #Trade
-```
-
-### NADRA Mobile Vans to Provide ID Services at Four UK Locations  [NORMAL]
-- Poster: نادرا کی موبائل وینز آج برطانیہ کے چار مختلف مقامات پر شناختی خدمات فراہم کریں گی / NADRA Mobile Vans to Visit Four UK Locations for ID Services | category other
-- Alternative headline: Overseas Pakistanis in UK Can Access NADRA Mobile Registration on Nov 28
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/nadra-mobile-registration-vans-to-visit-four-uk-locations-on-november-28
-- Supporting coverage: TechJuice, ARY News
-- Keywords: NADRA UK mobile vans, overseas Pakistanis, NADRA registration, UK ID services, NICOP renewal, Gravesend Blackburn Peterborough | hashtags: #NADRA #OverseasPakistanis #UK #Pakistan #Community
-- Scheduled: Sat 28 Nov, 01:56 AM PKT
-- Caption:
-```
-NADRA is deploying mobile registration vans across four UK locations today to facilitate identity documentation services for overseas Pakistanis.
-
-The National Database and Registration Authority (NADRA) is deploying mobile registration vans across four locations in the United Kingdom on November 28. The initiative aims to assist overseas Pakistanis with SNICOP, SPOC, FRC issuance, and card renewals without lengthy travel.
-
-نیشنل ڈیٹا بیس اینڈ رجسٹریشن اتھارٹی (نادرا) 28 نومبر کو برطانیہ کے چار مختلف مقامات پر موبائل رجسٹریشن وینز تعینات کر رہی ہے۔ اس اقدام کا مقصد سمندر پار پاکستانیوں کو شناختی کارڈز اور دیگر دستاویزات کی سہولت فراہم کرنا ہے۔
-
-First reported by ARY News
-
-#NADRA #OverseasPakistanis #UK #Pakistan #Community
-```
-
-### Is Snooker the Most Mentally Challenging Sport? Experts Discuss  [NORMAL]
-- Poster: کیا سنوکر دنیا کا سب سے زیادہ ذہنی مشقت والا کھیل ہے؟ ماہرین کی گفتگو / Is Snooker the Most Mentally Challenging Sport? Experts Weigh In | category sports
-- Alternative headline: Gary Wilson and Ken Doherty Discuss Mental Demands of Professional Snooker
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: mental challenge in snooker, Gary Wilson, Ken Doherty, Jason Ferguson, snooker psychology, sports mental health | hashtags: #Snooker #SportsMentalHealth #BBC #Sports #Focus
-- Scheduled: Sat 28 Nov, 02:06 AM PKT
-- Caption:
-```
-Professional snooker players Gary Wilson, Ken Doherty, and Jason Ferguson explore the intense psychological pressures of the sport.
-
-Professional snooker players Gary Wilson, Ken Doherty, and Jason Ferguson discuss the profound mental and psychological effects experienced by competitors in professional snooker, raising questions about whether it is the most mentally demanding sport.
-
-پیشہ ورانہ سنوکر کھلاڑیوں گِری ولسن، کین ڈوہرٹی اور جیسن فرگوسن نے سنوکر کے کھیل میں کھلاڑیوں کو درپیش ذہنی دباؤ اور نفسیاتی اثرات پر تفصیلی گفتگو کی ہے۔
-
-First reported by BBC Health
-
-#Snooker #SportsMentalHealth #BBC #Sports #Focus
+#OpenAI #Apple #TechNews #ArtificialIntelligence
 ```
 
 - Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 2 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
+- News posts published today: 3 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
@@ -377,9 +302,9 @@ First reported by BBC Health
 - [needs_review] normal | Eisenkot tests power-sharing with Netanyahu despite election promise | Fri 27 Nov, 07:05 PM PKT
 - [needs_review] normal | Erdogan completes Turkey's ratification of Makkah defence pact | Fri 27 Nov, 07:15 PM PKT
 - [needs_review] normal | Pakistan seeks zero-tariff access to China with $25b export target | Fri 27 Nov, 07:25 PM PKT
-- [queued] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
-- [queued] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
-- [queued] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
+- [needs_review] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
+- [needs_review] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
+- [published] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
 - [queued] normal | Canada's top court upholds controversial Quebec religious symbols ban | Fri 27 Nov, 09:20 PM PKT
 - [queued] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
 - [queued] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
@@ -406,19 +331,20 @@ First reported by BBC Health
 - [queued] normal | Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B | Sat 28 Nov, 01:46 AM PKT
 - [queued] normal | NADRA Mobile Vans to Provide ID Services at Four UK Locations | Sat 28 Nov, 01:56 AM PKT
 - [queued] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
+- [queued] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
+- [queued] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
 
 ## Publishing this run
-- Published '[YouTube] NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION'.
+- Published 'Brazil condemns French President Macron's 'doped' meat remarks'.
 
 ## Gemini usage
-- Calls: 5 | prompt tokens: 11743 | output tokens: 4556
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 3 | prompt tokens: 2437 | output tokens: 1066
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.8-flash: HTTP 429 {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 144 column 9 (char 6379)
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i

@@ -185481,7 +185481,507 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "32e4ca46ec1dce467d5fb677",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T19:44:38+00:00",
+      "last_update": "2026-11-27T20:40:51+00:00",
+      "event": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apple",
+        "between",
+        "companies",
+        "competition",
+        "countersues",
+        "develop",
+        "escalated",
+        "fuels",
+        "have",
+        "heats",
+        "intensifying",
+        "openai",
+        "over",
+        "products",
+        "race",
+        "secrets",
+        "tech",
+        "tensions",
+        "the",
+        "trade",
+        "two"
+      ],
+      "source_excerpt": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+          "published_at": "2026-11-27T19:44:38+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+          "published_at": "2026-11-27T20:40:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "99db12dce5588f265ff5dcbd",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T21:11:27+00:00",
+      "last_update": "2026-11-27T21:11:27+00:00",
+      "event": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aid",
+        "and",
+        "are",
+        "but",
+        "costs",
+        "even",
+        "families",
+        "flour",
+        "food",
+        "going",
+        "high",
+        "hodeidah",
+        "hungry",
+        "lack",
+        "markets",
+        "northern",
+        "oil",
+        "out",
+        "put",
+        "reach",
+        "sale",
+        "sanaa",
+        "still",
+        "where",
+        "why",
+        "work",
+        "yemen"
+      ],
+      "source_excerpt": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+          "published_at": "2026-11-27T21:11:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a6feb8ce530e993959460b95",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T20:44:03+00:00",
+      "last_update": "2026-11-27T20:44:03+00:00",
+      "event": "Venezuela to repeal law that bans opposition figures from office",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "bans",
+        "comes",
+        "corina",
+        "figures",
+        "from",
+        "law",
+        "leader",
+        "machado",
+        "maria",
+        "month",
+        "office",
+        "opposition",
+        "repeal",
+        "returned",
+        "that",
+        "venezuela"
+      ],
+      "source_excerpt": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+          "published_at": "2026-11-27T20:44:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "629fb1b1b2b227b21adff80f",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T20:39:57+00:00",
+      "last_update": "2026-11-27T20:39:57+00:00",
+      "event": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2030",
+        "expand",
+        "five",
+        "fleet",
+        "hypersonic",
+        "its",
+        "kremlin",
+        "naval",
+        "new",
+        "nuclear",
+        "plans",
+        "powered",
+        "putin",
+        "russian",
+        "submarine",
+        "submarines",
+        "the",
+        "unveils",
+        "weapons",
+        "with"
+      ],
+      "source_excerpt": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+          "published_at": "2026-11-27T20:39:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b9ddbe16c8b964d144125b6c",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T20:18:45+00:00",
+      "last_update": "2026-11-27T20:18:45+00:00",
+      "event": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "assassination",
+        "attempt",
+        "chief",
+        "escapes",
+        "friday",
+        "gaza",
+        "hamas",
+        "hayya",
+        "israeli",
+        "izzeldeen",
+        "khalil",
+        "last",
+        "leader",
+        "son",
+        "strike",
+        "survived",
+        "surviving"
+      ],
+      "source_excerpt": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+          "published_at": "2026-11-27T20:18:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6a3eb6570edb73f4fe781f55",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T14:10:29+00:00",
+      "last_update": "2026-11-27T17:28:24+00:00",
+      "event": "ADB approves $468 million in loans for Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "468",
+        "adb",
+        "approves",
+        "for",
+        "loans",
+        "million",
+        "pakistan"
+      ],
+      "source_excerpt": "ADB approves $468 million in loans for Pakistan",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/adb-approves-468-million-in-loans-for-pakistan",
+          "published_at": "2026-11-27T14:10:29+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEE0ekxCbXpjbGdvSmNOODl1cHhyS1VkREpNd0FROWIxTDF4bl9Db3prSFZ1T1ZBWmxKODBvaUN0VDVIYUdrcVc4ZWI0THdLQWl5YXB4Z1F4eHM2UUJpVEo4bC1MLXlOWXFQNmp2RDRldU9XUEhrVXlqZ0FiMkZzcTZwell0YWpmc01KVXM3VDd2ZEszY05DQ3I1dVJxYTI2LWpoQXpYaW8xeXFQMG1oWTdzekREd1hSNUdmYg?oc=5",
+          "published_at": "2026-11-27T17:28:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/adb-approves-468-million-in-loans-for-pakistan",
+        "publisher_url": "https://arynews.tv/adb-approves-468-million-in-loans-for-pakistan",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "05e119bcb03643b628520c7b",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T16:31:20+00:00",
+      "last_update": "2026-11-27T16:31:20+00:00",
+      "event": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advised",
+        "and",
+        "are",
+        "assured",
+        "atlantic",
+        "bankruptcy",
+        "files",
+        "flights",
+        "for",
+        "guarantees",
+        "halts",
+        "norse",
+        "not",
+        "passengers",
+        "process",
+        "refunds",
+        "sales",
+        "seek",
+        "though",
+        "ticket",
+        "via",
+        "warns"
+      ],
+      "source_excerpt": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+          "published_at": "2026-11-27T16:31:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "500419c19c407d779c251d14",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T19:58:00+00:00",
+      "last_update": "2026-11-27T19:58:00+00:00",
+      "event": "Kourtney Kardashian issues warning to Kim after infamous 'work ethic' fight",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "boundaries",
+        "dinner",
+        "ethic",
+        "feud",
+        "fight",
+        "for",
+        "founder",
+        "her",
+        "includes",
+        "infamous",
+        "issues",
+        "kardashian",
+        "kim",
+        "kourtney",
+        "list",
+        "pointed",
+        "poosh",
+        "reminder",
+        "set",
+        "shared",
+        "sister",
+        "some",
+        "strict",
+        "thanksgiving",
+        "that",
+        "the",
+        "topics",
+        "warning",
+        "with",
+        "work"
+      ],
+      "source_excerpt": "Kourtney Kardashian issues warning to Kim after infamous 'work ethic' fight Kourtney Kardashian set some strict boundaries for Thanksgiving dinner, and her list includes a pointed reminder of her infamous feud with sister Kim Kardashian. The Poosh founder shared 14 topics that...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692945-kourtney-kardashian-issues-warning-to-kim-after-infamous-work-ethic-fight",
+          "published_at": "2026-11-27T19:58:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692945-kourtney-kardashian-issues-warning-to-kim-after-infamous-work-ethic-fight",
+        "publisher_url": "https://www.geo.tv/latest/692945-kourtney-kardashian-issues-warning-to-kim-after-infamous-work-ethic-fight",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4644be9609c09ec680271941",
+      "remembered_at": "2026-11-27T21:28:02.127300+00:00",
+      "event_date": "2026-11-27T19:42:00+00:00",
+      "last_update": "2026-11-27T19:42:00+00:00",
+      "event": "Thanksgiving lunch at Doral Medical Center leaves 18 ill, 15 hospitalized",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "according",
+        "authorities",
+        "borne",
+        "casualty",
+        "center",
+        "centre",
+        "doral",
+        "due",
+        "fire",
+        "florida",
+        "food",
+        "from",
+        "getting",
+        "hospitalized",
+        "hosted",
+        "ill",
+        "illness",
+        "incident",
+        "into",
+        "leaves",
+        "lunch",
+        "luncheon",
+        "mass",
+        "medical",
+        "people",
+        "probable",
+        "rescue",
+        "sick",
+        "thanksgiving",
+        "turned"
+      ],
+      "source_excerpt": "Thanksgiving lunch at Doral Medical Center leaves 18 ill, 15 hospitalized A Thanksgiving luncheon hosted by a medical centre in Florida turned into a mass casualty incident due to 18 people getting sick from a probable food-borne illness, according to authorities. Fire rescue...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692939-thanksgiving-lunch-at-doral-medical-center-leaves-18-ill-15-hospitalized",
+          "published_at": "2026-11-27T19:42:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692939-thanksgiving-lunch-at-doral-medical-center-leaves-18-ill-15-hospitalized",
+        "publisher_url": "https://www.geo.tv/latest/692939-thanksgiving-lunch-at-doral-medical-center-leaves-18-ill-15-hospitalized",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T20:26:04.792001+00:00"
+  "updated_at": "2026-11-27T21:28:02.127300+00:00"
 }
