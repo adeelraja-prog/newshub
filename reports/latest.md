@@ -1,35 +1,35 @@
-# News Hub report - Sat 28 Nov, 03:29 AM PKT
+# News Hub report - Sat 28 Nov, 04:27 AM PKT
 
 ## Collection
-- New items this run: 14 | items in rolling pool: 438
-- Unique story clusters: 373 (duplicates merged: 65)
-- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
-- Items per outlet: Al Jazeera 3, The Verge 2, Dawn Latest 1, X 1, AP News 1, Engadget 1, Wired 1, BBC World 1, Around Prague 1, The New York Times 1, BBC 1
+- New items this run: 18 | items in rolling pool: 319
+- Unique story clusters: 261 (duplicates merged: 58)
+- Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
+- Items per outlet: Dawn Latest 2, Al Jazeera 2, AP News 2, Wired 2, The News International 1, Geo News 1, BBC 1, thedailystar.com 1, The Verge 1, Engadget 1, GSMArena 1, Daily Sun 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why India’s captain wants saliva back in cricket | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why are families going hungry in northern Yemen even where food is on sale? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Putin unveils new Russian nuclear-powered submarine with hypersonic weapons | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
@@ -41,58 +41,106 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Spain's PM Sanchez makes final push to defy election polls  [NORMAL]
-- Poster: ہسپتال کے وزیراعظم پیڈرو سانچیز کا الیکشن سے قبل آخری وار / Spain's PM Sanchez makes final push to defy polls | category politics
-- Alternative headline: Pedro Sanchez bets on left-wing surge in Spanish vote
+### Bilawal Vows to Form Separate South Punjab Province Through Democratic Struggle  [NORMAL]
+- Poster: بلاول بھٹونے جنوبی پنجاب کا الگ صوبہ بنانے کا عزم ظاہر کر دیا / Bilawal vows to create separate South Punjab province | category politics
+- Alternative headline: PPP Chairman Bilawal Bhutto Promises Separate South Punjab Province
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab
+- Supporting coverage: ARY News
+- Keywords: South Punjab province, Bilawal Bhutto Zardari, Pakistan Peoples Party, Rahim Yar Khan, Punjab Assembly | hashtags: #BilawalBhutto #SouthPunjab #PPP #PakistanPolitics
+- Scheduled: Sat 28 Nov, 04:27 AM PKT
+- Caption:
+```
+Pakistan Peoples Party Chairman Bilawal Bhutto Zardari has vowed to establish a separate province in South Punjab through democratic struggle.
+
+Pakistan Peoples Party Chairman Bilawal Bhutto Zardari announced during a rally in Rahim Yar Khan that his party will establish a separate province in South Punjab. He warned against turning the issue controversial and stated that the province would be achieved through democratic means.
+
+پاکستان پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری نے رحیم یار خان میں ایک جلسے سے خطاب کرتے ہوئے جنوبی پنجاب میں ایک الگ صوبہ بنانے کا عزم ظاہر کیا ہے۔ انہوں نے خبردار کیا کہ اس معاملے کو متنازع نہیں بنایا جائے گا اور صوبہ جمہوری جدوجہد کے ذریعے بنایا جائے گا۔
+
+First reported by ARY News
+
+#BilawalBhutto #SouthPunjab #PPP #PakistanPolitics
+```
+
+### Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deaths  [NORMAL]
+- Poster: کینیا میں متنازعہ فرقے کے سربراہ کو مزید 123 ہلاکتوں پر سزا / Kenyan cult leader convicted over 123 starvation deaths | category other
+- Alternative headline: Paul Mackenzie Found Guilty of Manslaughter in 123 Cult Deaths
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Pedro Sanchez, Spain election, left-wing surge, right-wing parties, Prime Minister | hashtags: #Spain #PedroSanchez #Elections #Politics
-- Scheduled: Sat 28 Nov, 03:29 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World, Al Jazeera
+- Keywords: Paul Mackenzie, doomsday cult, Kenya court, manslaughter, Shakahola forest | hashtags: #KenyaCult #PaulMackenzie #WorldNews
+- Scheduled: Sat 28 Nov, 04:37 AM PKT
 - Caption:
 ```
-Spanish Prime Minister Pedro Sanchez is making a final bid to beat right-wing parties ahead of Sunday's crucial vote.
+A court in Kenya has convicted doomsday cult leader Paul Mackenzie of the manslaughter of 123 of his followers.
 
-Spanish Prime Minister Pedro Sanchez is making his final push to defeat right-wing parties and defy election polls in the upcoming national vote on Sunday, banking on a left-wing voting surge.
+A Kenyan court has convicted doomsday cult leader Paul Mackenzie of the manslaughter of 123 followers who starved to death in Shakahola forest. The court found that Mackenzie systemically ordered his followers to fast, following an earlier conviction for murdering 191 children.
 
-ہسپانیہ کے وزیراعظم پیڈرو سانچیز اتوار کو ہونے والے انتخابات سے قبل دائیں بازو کی جماعتوں کو شکست دینے کے لیے آخری کوشش کر رہے ہیں، اور انہیں بائیں بازو کی حمایت میں اضافے کی توقع ہے۔
+کینیا کی ایک عدالت نے قیامت خیز فرقے کے رہنما پال مکینزی کو اپنے 123 پیروکاروں کی ہلاکت کے مقدمے میں مجرم قرار دے دیا ہے۔ عدالت نے پایا کہ مکینزی نے اپنے پیروکاروں کو شکا ہولا جنگل میں بھوک سے مرنے کا حکم دیا تھا۔
 
-First reported by Al Jazeera.
+First reported by BBC World
 
-#Spain #PedroSanchez #Elections #Politics
+#KenyaCult #PaulMackenzie #WorldNews
 ```
 
-### US military disables ship attempting to breach Iran blockade  [NORMAL]
-- Poster: امریکی فوج نے ایران کی ناکہ بندی توڑنے والی کشتی کو ناکارہ بنا دیا / US military disables ship attempting to breach Iran blockade | category security
-- Alternative headline: US disables merchant vessel trying to evade Iran blockade
+### Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism  [NORMAL]
+- Poster: سپین میں ثقافتی مراکز کے ذریعے نسل پرستی اور فار رائٹ کے خلاف جنگ / Fighting Spain's far-right through art and cultural centres | category other
+- Alternative headline: Activists of Rhythm: How Spain's Cultural Centres Counter Far-Right Politics
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5
-- Supporting coverage: Ynetnews, The Washington Post, Fox News, Mezha.net, Scripps News, Al Jazeera
-- Keywords: Iran blockade, US military, merchant ship, Iranian ports, naval blockade | hashtags: #USmilitary #Iran #Blockade #Security
-- Scheduled: Sat 28 Nov, 03:39 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Spain far-right art, Madrid cultural centres, La Parceria, Espacio Afro, migrant voices | hashtags: #Spain #ArtAgainstRacism #MigrantVoices
+- Scheduled: Sat 28 Nov, 04:47 AM PKT
 - Caption:
 ```
-The US military announced it has disabled a merchant ship that attempted to breach the naval blockade on Iranian ports.
+Madrid cultural centres like La Parceria and Espacio Afro are using the arts to fight racism and boost migrant voices.
 
-The United States military stated that it disabled a merchant ship attempting to breach the naval blockade on Iranian ports. The incident highlights ongoing tensions and enforcement actions in the region.
+Cultural centres in Madrid, including La Parceria and Espacio Afro, are utilising the arts and rhythm to combat racism, challenge far-right movements, and amplify migrant voices across Spain.
 
-امریکی فوج کا کہنا ہے کہ اس نے ایرانی بندرگاہوں کی ناکہ بندی توڑنے کی کوشش کرنے والے ایک تجارتی جہاز کو ناکارہ بنا دیا۔ اس واقعے سے خطے میں جاری کشیدگی کا پتہ چلتا ہے۔
+میڈرڈ میں لا پارسریا اور اسپاسیو افرو سمیت ثقافتی مراکز نسل پرستی کا مقابلہ کرنے اور تارکین وطن کی آوازوں کو بلند کرنے کے لیے فنون لطیفہ کا استعمال کر رہے ہیں۔
 
-First reported by Al Jazeera.
+First reported by Al Jazeera
 
-#USmilitary #Iran #Blockade #Security
+#Spain #ArtAgainstRacism #MigrantVoices
+```
+
+### Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller' Kenneth Law  [NORMAL]
+- Poster: کینیڈا میں زہر فروخت کرنے والے کینیتھ لا کے لیے 25 سال قید کی سزا کا مطالبہ / Prosecutors seek 25-year prison term for Kenneth Law | category other
+- Alternative headline: 25-Year Prison Term Sought for Kenneth Law Over Online Suicide Sales
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Kenneth Law sentencing, Canadian prosecutors, toxic chemicals, suicide forums, Ontario court | hashtags: #KennethLaw #CanadaNews #Crime
+- Scheduled: Sat 28 Nov, 04:57 AM PKT
+- Caption:
+```
+Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals online linked to suicides.
+
+Canadian prosecutors have requested a 25-year prison sentence for Kenneth Law, who admitted to selling toxic chemicals through online forums that aided suicides across multiple countries. Law previously pleaded guilty to 14 counts of aiding suicide in Ontario.
+
+کینیڈین استغاثہ نے کینیتھ لا کے لیے 25 سال قید کی سزا کا مطالبہ کیا ہے جس نے آن لائن فورمز کے ذریعے زہریلے کیمیکل فروخت کیے جو خودکشیوں کا سبب بنے۔ کینیتھ لا نے اونٹاریو میں خودکشی میں مدد دینے کے 14 الزامات کا اعتراف کیا تھا۔
+
+First reported by BBC World
+
+#KennethLaw #CanadaNews #Crime
 ```
 
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 4 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
@@ -307,10 +355,10 @@ First reported by Al Jazeera.
 - [published] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
 - [needs_review] normal | Canada's top court upholds controversial Quebec religious symbols ban | Fri 27 Nov, 09:20 PM PKT
 - [published] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
-- [queued] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
-- [queued] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
-- [queued] normal | Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talk | Fri 27 Nov, 10:22 PM PKT
-- [queued] normal | Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Cont | Fri 27 Nov, 10:32 PM PKT
+- [needs_review] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
+- [needs_review] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
+- [needs_review] normal | Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talk | Fri 27 Nov, 10:22 PM PKT
+- [published] normal | Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Cont | Fri 27 Nov, 10:32 PM PKT
 - [queued] normal | Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya | Fri 27 Nov, 10:42 PM PKT
 - [queued] normal | Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz | Fri 27 Nov, 10:52 PM PKT
 - [queued] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
@@ -335,16 +383,18 @@ First reported by Al Jazeera.
 - [queued] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
 - [queued] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
 - [queued] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
+- [queued] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
+- [queued] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
+- [queued] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
+- [queued] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
 
 ## Publishing this run
-- Published 'Pakistan's short-term inflation hits 9.49pc amid rising flour costs'.
+- Published 'Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Continue'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 9388 | output tokens: 1033
-- Errors: 3
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTP 503 {
+- Calls: 2 | prompt tokens: 5004 | output tokens: 2234
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Unterminated string starting at: line 9 column 29 (char 309)
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
