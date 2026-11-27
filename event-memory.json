@@ -174054,7 +174054,867 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cac0c00132c72a6a4f823e62",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-26T19:12:21+00:00",
+      "last_update": "2026-11-27T00:48:23+00:00",
+      "event": "Hamas weighs response after Israel kills 10 people in Gaza",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "gaza",
+        "hamas",
+        "israel",
+        "kills",
+        "people",
+        "response",
+        "weighs"
+      ],
+      "source_excerpt": "Hamas weighs response after Israel kills 10 people in Gaza",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+          "published_at": "2026-11-26T19:12:21+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDlQY0RjZTJiMjVtWVlPSHhpLXJLMzdPMk1VdU93ZTRIRVFXQ3RvSU9WVXlTUjBJcjFDZmRjTDdQYlBaemFJMFBBdm1IdUNzcjktRl9GSWZwS0ZyU0hIdnhOYUVzS0tPMW9iX3VWTjJnaEJyQ3Y3NThyaVJNQkE1cFRzYm5Ja1V5Q1RHMGFHNUlleVJoUks0?oc=5",
+          "published_at": "2026-11-27T00:48:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+        "publisher_url": "https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6c3b80591d844c1d90021c8f",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:47:43+00:00",
+      "last_update": "2026-11-27T00:47:43+00:00",
+      "event": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bangladesh",
+        "bind",
+        "death",
+        "december",
+        "deepens",
+        "delhi",
+        "dhaka",
+        "edge",
+        "fresh",
+        "hasina",
+        "homecoming",
+        "india",
+        "minister",
+        "ousted",
+        "plan",
+        "planned",
+        "prime",
+        "puts",
+        "return",
+        "risks",
+        "sentenced",
+        "sheikh",
+        "tensions",
+        "the",
+        "unrest"
+      ],
+      "source_excerpt": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:47:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c039fb0c0e5b0b6b43a80878",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:46:19+00:00",
+      "last_update": "2026-11-27T00:53:47+00:00",
+      "event": "Inside Ukraine’s power crisis amid its war with Russia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "become",
+        "capital",
+        "crisis",
+        "daily",
+        "electricity",
+        "have",
+        "inside",
+        "its",
+        "life",
+        "part",
+        "power",
+        "russia",
+        "shortages",
+        "ukraine",
+        "war",
+        "water",
+        "with"
+      ],
+      "source_excerpt": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+          "published_at": "2026-11-27T00:46:19+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmJQQ1B1bjZIY0RkLU96aHluSnhCamhVSWlMZUdsRXQxbThQMFFBNW9YUFZLR0lPaVhfZFo1a2FnQ1duUWFHaGM2R3ZIemw5MmlzYWhYQ1Q2NzBxa1FkaUdpRTdCUU5CVEw3dnp5Q0JsdldyN3JobzNZd3pRaU80WFJMaXB2ME9DY05kbE95UGlPejNFLVBmaVJCdklGaHF0TThsQklDQ0HSAa4BQVVfeXFMT0dSbnlkemlMNkhVTWJscDI0ZjNsMXJ5aWJSTF95bE1FNHluOW5UVU82cWFwVUtacmJFc0pfR0dXaF9GNlVFRjBwb2MzZmVEVEVzNEVldjA3T19FY3JBZmZHT0c0bDduNXdOLTVLYUpGNjZWdnJwYVRHd09ILUVDbThPTVRyRmlkR1JYbVR4cTQ2LW1SaUs0RjR6YTlieFA4TTdxUlE1V3BkcFV3dzhn?oc=5",
+          "published_at": "2026-11-27T00:53:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "542e8c2b9e105e438129b8c4",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:41:28+00:00",
+      "last_update": "2026-11-27T00:41:28+00:00",
+      "event": "America’s Thanksgiving holiday seen through different eyes",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "americans",
+        "celebrate",
+        "day",
+        "different",
+        "eyes",
+        "for",
+        "gather",
+        "holiday",
+        "indigenous",
+        "millions",
+        "mourning",
+        "national",
+        "people",
+        "plymouth",
+        "seen",
+        "thanksgiving",
+        "the",
+        "through"
+      ],
+      "source_excerpt": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+          "published_at": "2026-11-27T00:41:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6b905878d452837ada9051a7",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:11:16+00:00",
+      "last_update": "2026-11-27T00:11:16+00:00",
+      "event": "Argentina bars Central Bank from printing money to fund government spending",
+      "category": "us_politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2027",
+        "advances",
+        "ahead",
+        "also",
+        "american",
+        "argentina",
+        "bank",
+        "bars",
+        "central",
+        "country",
+        "elections",
+        "from",
+        "fund",
+        "government",
+        "money",
+        "presidential",
+        "primary",
+        "printing",
+        "proposal",
+        "race",
+        "senate",
+        "south",
+        "spending",
+        "suspend",
+        "the"
+      ],
+      "source_excerpt": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+          "published_at": "2026-11-27T00:11:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7c1cffcb33d5d2a6eabe3e5d",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:02:19+00:00",
+      "last_update": "2026-11-27T00:02:19+00:00",
+      "event": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "behind",
+        "elevator",
+        "good",
+        "lots",
+        "mechanics",
+        "pay",
+        "shortage",
+        "the",
+        "there",
+        "what",
+        "why",
+        "wizard",
+        "work"
+      ],
+      "source_excerpt": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:02:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "222d9b04614fa70a823a7a23",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:52:34+00:00",
+      "last_update": "2026-11-27T00:52:34+00:00",
+      "event": "The young hikers finding friendship and fresh air offline",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "and",
+        "better",
+        "city",
+        "district",
+        "embraced",
+        "feel",
+        "finding",
+        "for",
+        "fresh",
+        "friendship",
+        "from",
+        "groups",
+        "hikers",
+        "hiking",
+        "hills",
+        "leicester",
+        "offline",
+        "parks",
+        "peak",
+        "people",
+        "several",
+        "talk",
+        "the",
+        "walking",
+        "who",
+        "young"
+      ],
+      "source_excerpt": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:52:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b826e0828b5c24fbcef2b651",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:09:30+00:00",
+      "last_update": "2026-11-27T00:09:30+00:00",
+      "event": "Inside the control room feeding your weather app",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "app",
+        "bbc",
+        "control",
+        "feeding",
+        "inside",
+        "matt",
+        "met",
+        "office",
+        "room",
+        "takes",
+        "taylor",
+        "the",
+        "tour",
+        "weather",
+        "your"
+      ],
+      "source_excerpt": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:09:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f337804e0513fd31495ceed4",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:54:45+00:00",
+      "last_update": "2026-11-27T00:54:45+00:00",
+      "event": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "200",
+        "and",
+        "being",
+        "care",
+        "dine",
+        "dining",
+        "embraced",
+        "fancy",
+        "industry",
+        "meals",
+        "month",
+        "myself",
+        "reshaping",
+        "restaurant",
+        "self",
+        "solo",
+        "spend",
+        "the",
+        "trend",
+        "would",
+        "you"
+      ],
+      "source_excerpt": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:54:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b42fb75fda1894cbd318014b",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T00:48:11+00:00",
+      "event": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2011",
+        "ali",
+        "attack",
+        "british",
+        "convict",
+        "couple",
+        "evidence",
+        "from",
+        "helped",
+        "kenyan",
+        "kololo",
+        "lamu",
+        "life",
+        "man",
+        "met",
+        "officer",
+        "over",
+        "police",
+        "resort",
+        "ruined",
+        "says",
+        "sentenced",
+        "the",
+        "wrongly"
+      ],
+      "source_excerpt": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7bf34cf738c7b81be4de89fa",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:50:16+00:00",
+      "last_update": "2026-11-27T00:50:16+00:00",
+      "event": "JUI-F protests after planned rally in Punjab ‘derailed’",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "dawn",
+        "derailed",
+        "jui",
+        "planned",
+        "protests",
+        "punjab",
+        "rally"
+      ],
+      "source_excerpt": "JUI-F protests after planned rally in Punjab ‘derailed’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FtMDBuWVBKbzRIMkMzQVZ1RFdjRXVES1p1OUJaX0pFQjkzYzZ3RFBKak5VMTFvZzFTcVhaR1kwbFEzSTlJWHdod3JrTmd2MGdSdXFrY3dEbWdYOXVvOEVUR1ZzV2xodFpiT2hFYU43S19XdWNON2FQb2V2cmlmWEQ5bUVhcUdjLUNOLWxBNkk?oc=5",
+          "published_at": "2026-11-27T00:50:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FtMDBuWVBKbzRIMkMzQVZ1RFdjRXVES1p1OUJaX0pFQjkzYzZ3RFBKak5VMTFvZzFTcVhaR1kwbFEzSTlJWHdod3JrTmd2MGdSdXFrY3dEbWdYOXVvOEVUR1ZzV2xodFpiT2hFYU43S19XdWNON2FQb2V2cmlmWEQ5bUVhcUdjLUNOLWxBNkk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f62d04678857102fbfd9f1d2",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:48:59+00:00",
+      "last_update": "2026-11-27T00:48:59+00:00",
+      "event": "JUI-F protests upend traffic in Karachi, parts of Sindh",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "jui",
+        "karachi",
+        "parts",
+        "protests",
+        "sindh",
+        "traffic",
+        "upend"
+      ],
+      "source_excerpt": "JUI-F protests upend traffic in Karachi, parts of Sindh Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzdVb2FoM3VreE53czhFbjB3SDJOSkRGaXI4c3dhdHlxOVVNemhkTDZKNVZ5a0xiZkNSNnlIWnc4VERCWFJQck1zZzI5ZHVYd2p3bDJXQlhNMlA4YzU3ZU1RUkhFMUU2Zl9aTTktTkdQektsY3ZWOW42R0Fuc3RrMzNtV3R0VGZibjZQQ2F0Y3VLZw?oc=5",
+          "published_at": "2026-11-27T00:48:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzdVb2FoM3VreE53czhFbjB3SDJOSkRGaXI4c3dhdHlxOVVNemhkTDZKNVZ5a0xiZkNSNnlIWnc4VERCWFJQck1zZzI5ZHVYd2p3bDJXQlhNMlA4YzU3ZU1RUkhFMUU2Zl9aTTktTkdQektsY3ZWOW42R0Fuc3RrMzNtV3R0VGZibjZQQ2F0Y3VLZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5040d5f337896e2f97faefb8",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T00:48:11+00:00",
+      "event": "PTI observes ‘Democracy Martyrs’ day’",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "day",
+        "democracy",
+        "martyrs",
+        "observes",
+        "pti"
+      ],
+      "source_excerpt": "PTI observes ‘Democracy Martyrs’ day’ Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMVJpeUhqWTdwN1MxZkdaZk5YVzJjdTJocXo4MGVSMzR5MUZxTzlkLW1aclhiTTF6LWp5Q1Etc216Nk9KT3gzUzVDanpoTmlOcDkxeFVpT2RhSlZWWHlkODA1TFd5Y1BVZnY3ckxUb1puSWdCZmhr?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMVJpeUhqWTdwN1MxZkdaZk5YVzJjdTJocXo4MGVSMzR5MUZxTzlkLW1aclhiTTF6LWp5Q1Etc216Nk9KT3gzUzVDanpoTmlOcDkxeFVpT2RhSlZWWHlkODA1TFd5Y1BVZnY3ckxUb1puSWdCZmhr?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "065452e7c76d786d3ad93400",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:50:16+00:00",
+      "last_update": "2026-11-27T00:50:16+00:00",
+      "event": "Four terrorists killed in Khyber",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "four",
+        "khyber",
+        "killed",
+        "terrorists"
+      ],
+      "source_excerpt": "Four terrorists killed in Khyber Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xM2NkYVFXSC1rZTZ0TGtBdWJKRTBUdkdXa21nWjNoSWQ2bGVIc1BfOF9tSC1pZGpxR2Yzei12MWp1YU9vSnMyeFQ4TkI2T3VKVzQyTUpMSmJiR0RSZ3RMLXcyLW84TWdZRjI2MEVIR1d3X3oy?oc=5",
+          "published_at": "2026-11-27T00:50:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xM2NkYVFXSC1rZTZ0TGtBdWJKRTBUdkdXa21nWjNoSWQ2bGVIc1BfOF9tSC1pZGpxR2Yzei12MWp1YU9vSnMyeFQ4TkI2T3VKVzQyTUpMSmJiR0RSZ3RMLXcyLW84TWdZRjI2MEVIR1d3X3oy?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "954e6df7b12fe35831c1f739",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:50:05+00:00",
+      "last_update": "2026-11-27T00:50:05+00:00",
+      "event": "Romania seeks to deepen economic, defence ties with Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "deepen",
+        "defence",
+        "economic",
+        "pakistan",
+        "romania",
+        "seeks",
+        "ties",
+        "with"
+      ],
+      "source_excerpt": "Romania seeks to deepen economic, defence ties with Pakistan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUgzdmNvenF0LWNWbFkybTJZbXpUdEpmeC1vSkczdkxUMnZsWlhjcGwyOHRmcTlaQ2Z5TjlvZlZmUk5OdWdtQWt4OUdCMU8xUkUwUEowTjdxY2ZmanQ2XzFMMGl3WkRzWFlZVXpDMDl4VkZTQmtMRzJqX0ZnRlBMeFphVzRvUmFYbzlPdHhWMlpBLVA0TUF2bQ?oc=5",
+          "published_at": "2026-11-27T00:50:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUgzdmNvenF0LWNWbFkybTJZbXpUdEpmeC1vSkczdkxUMnZsWlhjcGwyOHRmcTlaQ2Z5TjlvZlZmUk5OdWdtQWt4OUdCMU8xUkUwUEowTjdxY2ZmanQ2XzFMMGl3WkRzWFlZVXpDMDl4VkZTQmtMRzJqX0ZnRlBMeFphVzRvUmFYbzlPdHhWMlpBLVA0TUF2bQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2463d173d2472d1660976049",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T00:48:34+00:00",
+      "event": "PM Shehbaz orders gemstone labs upgrade",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "gemstone",
+        "labs",
+        "orders",
+        "shehbaz",
+        "upgrade"
+      ],
+      "source_excerpt": "PM Shehbaz orders gemstone labs upgrade Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KLUFXcXVCcTRVbkdnTTlxM0FxREtRMVppLXk5UVFrTDhnbTh2cWVXLWNRTzdMYjhuaUcwZUNvUFhwMXIzUmdnd3pSa0RidVJCUFF2SGpSeUtTUUVYWEN6TWkyUlBpVFZKWmE4b2N3NWpDXzhHYno4OENNaDRlZw?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KLUFXcXVCcTRVbkdnTTlxM0FxREtRMVppLXk5UVFrTDhnbTh2cWVXLWNRTzdMYjhuaUcwZUNvUFhwMXIzUmdnd3pSa0RidVJCUFF2SGpSeUtTUUVYWEN6TWkyUlBpVFZKWmE4b2N3NWpDXzhHYno4OENNaDRlZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "28b65d5d73e6fafcfbcecbe9",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:50:05+00:00",
+      "last_update": "2026-11-27T00:50:05+00:00",
+      "event": "Drap registers Pakistan’s first biosimilar for osteoporosis, cancer patients",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "biosimilar",
+        "cancer",
+        "dawn",
+        "drap",
+        "first",
+        "for",
+        "osteoporosis",
+        "pakistan",
+        "patients",
+        "registers"
+      ],
+      "source_excerpt": "Drap registers Pakistan’s first biosimilar for osteoporosis, cancer patients Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3Zzd3VTc2FmdERQdmFiakppUnYxOXI4N0dCS1hzN2pram9zYU9rT3R0dGIwRDNFemFXVkFRaTlGTnFER1puUTRhVDNCSG9XTXBtMkRSYWlDX09YUWp0RFBPbDR4UklocS0xei0wUkFPTmNiT2F1SE1UaEdmWDUtQU5vaE9MQ1gxOF9iOHlOR2tkYU1ablhiRWhrTzZYMXNyNHZmb0NCOUFILV9i?oc=5",
+          "published_at": "2026-11-27T00:50:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3Zzd3VTc2FmdERQdmFiakppUnYxOXI4N0dCS1hzN2pram9zYU9rT3R0dGIwRDNFemFXVkFRaTlGTnFER1puUTRhVDNCSG9XTXBtMkRSYWlDX09YUWp0RFBPbDR4UklocS0xei0wUkFPTmNiT2F1SE1UaEdmWDUtQU5vaE9MQ1gxOF9iOHlOR2tkYU1ablhiRWhrTzZYMXNyNHZmb0NCOUFILV9i?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8ea1b80d2a44740674bf1ca8",
+      "remembered_at": "2026-11-27T01:09:59.050200+00:00",
+      "event_date": "2026-11-27T00:48:11+00:00",
+      "last_update": "2026-11-27T00:48:11+00:00",
+      "event": "PTI is a ‘political reality’, says Bilawal",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bilawal",
+        "dawn",
+        "political",
+        "pti",
+        "reality",
+        "says"
+      ],
+      "source_excerpt": "PTI is a ‘political reality’, says Bilawal Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bGJWQ05BZWNtdGdrZ0xsbzNVV2VKMVY3Ykt3eUFfZmhmT2gtYmgtQXBZeVdMRHRTLVpJYXFkS2tPZWdPM2x5cnZMUmd6WEJod0c5dWRqbGNzNzRzbkVadU5udDl5ckZHR1RjTmVHbElWNEV0dU1aQjFjLUFXQQ?oc=5",
+          "published_at": "2026-11-27T00:48:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bGJWQ05BZWNtdGdrZ0xsbzNVV2VKMVY3Ykt3eUFfZmhmT2gtYmgtQXBZeVdMRHRTLVpJYXFkS2tPZWdPM2x5cnZMUmd6WEJod0c5dWRqbGNzNzRzbkVadU5udDl5ckZHR1RjTmVHbElWNEV0dU1aQjFjLUFXQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-26T23:52:39.654608+00:00"
+  "updated_at": "2026-11-27T01:09:59.050200+00:00"
 }

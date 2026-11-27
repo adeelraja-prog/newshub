@@ -1,35 +1,35 @@
-# News Hub report - Fri 27 Nov, 04:52 AM PKT
+# News Hub report - Fri 27 Nov, 06:09 AM PKT
 
 ## Collection
-- New items this run: 10 | items in rolling pool: 365
-- Unique story clusters: 323 (duplicates merged: 42)
-- Clusters dropped as already published/queued: 35; unchanged since last analysis: 4
-- Items per outlet: Dawn Latest 2, BBC 2, Al Jazeera 2, BBC Health 2, BBC Science 1, BBC World 1
+- New items this run: 83 | items in rolling pool: 282
+- Unique story clusters: 254 (duplicates merged: 28)
+- Clusters dropped as already published/queued: 31; unchanged since last analysis: 9
+- Items per outlet: Dawn 58, Al Jazeera 5, Business Recorder 5, The Express Tribune 3, samaa tv 1, Geo News 1, BBC 1, GSMArena 1, BBC Technology 1, BBC Health 1, BBC Science 1, BBC Business 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Report: CIA tortured more people with waterboarding than US agency admitted | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- NHS boss warns of 'horrible spike' in flu as hospital admissions surge | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Zelensky questions 'strange' Trump-Putin friendship in BBC interview | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Asia made a big AI bet on Nvidia. What happens now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Hamas weighs response after Israel kills 10 people in Gaza | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- SBP's foreign reserves rise $8m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Inside Ukraine’s power crisis amid its war with Russia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- America’s Thanksgiving holiday seen through different eyes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
@@ -39,112 +39,156 @@
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Report reveals CIA used waterboarding more widely than admitted  [NORMAL]
-- Poster: سی آئی اے نے اعتراف سے زیادہ افراد پر واٹر بورڈنگ کی / CIA waterboarded more people than admitted | category other
-- Alternative headline: CIA tortured more individuals with waterboarding than previously acknowledged
+### Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge  [NORMAL]
+- Poster: شیخ حسینہ کی واپسی کا اعلان، بنگلہ دیش میں ہلچل / Hasina's return plan sparks fresh tensions | category politics
+- Alternative headline: Hasina's December homecoming plan deepens Dhaka-Delhi tensions and unrest
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: CIA, waterboarding, torture, New York Times, US agency | hashtags: #CIA #Waterboarding #Torture #NewYorkTimes
-- Scheduled: Fri 27 Nov, 04:52 AM PKT
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC
+- Keywords: Sheikh Hasina, Bangladesh, India, Dhaka, unrest, return | hashtags: #SheikhHasina #Bangladesh #India #Dhaka #News
+- Scheduled: Fri 27 Nov, 06:09 AM PKT
 - Caption:
 ```
-A recent New York Times report supports the long-held belief that the CIA used waterboarding more extensively than officially acknowledged.
+Ousted Prime Minister Sheikh Hasina's planned December homecoming has heightened political tensions in Bangladesh and strained ties with India.
 
-A New York Times report has lent credence to the long-held belief that the controversial torture method of waterboarding was used much more widely by the CIA than the US agency previously admitted.
+The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest. Sheikh Hasina, who faces a death sentence, plans to return to Bangladesh, putting the region on high alert and creating a diplomatic bind for India.
 
-نیویارک ٹائمز کی ایک رپورٹ نے اس طویل عرصے سے چلی آ رہی رائے کو تقویت دی ہے کہ سی آئی اے کی طرف سے واٹر بورڈنگ کا طریقہ کار اس سے کہیں زیادہ وسیع پیمانے پر استعمال کیا گیا جتنا کہ امریکی ادارے نے پہلے اعتراف کیا تھا۔
+معزول وزیر اعظم شیخ حسینہ کے دسمبر میں وطن واپسی کے منصوبے نے ڈھاکہ اور دہلی کے درمیان کشیدگی کو مزید بڑھا دیا ہے۔ سزائے موت پانے والی شیخ حسینہ کی واپسی سے ملک میں نئی ​​بے چینی کا خطرہ پیدا ہو گیا ہے۔
+
+According to a BBC report
+
+#SheikhHasina #Bangladesh #India #Dhaka #News
+```
+
+### Hamas weighs response after Israeli strikes kill 10 people in Gaza  [NORMAL]
+- Poster: غزہ میں اسرائیلی حملے، دس افراد جاں بحق / Israeli strikes kill 10 in Gaza | category war
+- Alternative headline: Hamas chief says group cannot withstand ongoing Israeli attacks
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - ARY News https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/hamas-weighs-response-after-israel-kills-10-people-in-gaza
+- Supporting coverage: ARY News, Dawn
+- Keywords: Hamas, Gaza, Israel, Airstrikes, Khalil Al-Hayya, Benjamin Netanyahu | hashtags: #Hamas #Gaza #Israel #Airstrikes #MiddleEast
+- Scheduled: Fri 27 Nov, 06:19 AM PKT
+- Caption:
+```
+Hamas is weighing its next steps after Israeli airstrikes killed at least 10 people in Gaza, including a senior official.
+
+Hamas chief Khalil Al-Hayya stated the group is not prepared to withstand continued Israeli attacks after strikes killed at least 10 people in Gaza. The victims included a Hamas political office member and deputy minister of education, amid an escalation by Israel.
+
+حماس کے سربراہ خلیل الحیہ نے کہا ہے کہ حماس مسلسل اسرائیلی حملوں کو برداشت کرنے کے لیے تیار نہیں۔ غزہ میں اسرائیلی فضائی حملوں میں کم از کم 10 افراد جاں بحق ہو گئے ہیں جن میں ایک اعلیٰ عہدیدار بھی شامل ہے۔
+
+First reported by ARY News
+
+#Hamas #Gaza #Israel #Airstrikes #MiddleEast
+```
+
+### State Bank of Pakistan's foreign exchange reserves rise by $8 million  [NORMAL]
+- Poster: اسٹیٹ بینک کے زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ / SBP foreign reserves rise by $8m | category economy
+- Alternative headline: SBP foreign reserves register an increase of $8m
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSHJqU1pFOE1UOHFzZW5ILXoxbGdYSS1UMHR0ZTlyeXoxZ1h6LUFDajFMX01Ka0pnbXNBd2xMVE5DbGVDSEx6clpSZ25WQlc4TUlXOC10ZFd0UG44YzhtWnhubnY0WlNwTnNBbW5pTUdsOTND0gF8QVVfeXFMTkR5UXZnYzdXcGl5Z0JUUjhLS1NWek82Ulh1S3JYbW5kaUZNVjBPQjk3bTF4V3U3ekFacVQ5NC1EVG5BcFhId3Z3dXFYaHhzZEJlbXhEcW1SUDUzRjJuWjVLQkdTV0lBUXFHTi1zUzJlbFBDOWt3Q0QybVdTTQ?oc=5
+- Supporting coverage: The Express Tribune, Dawn
+- Keywords: SBP reserves, State Bank of Pakistan, foreign reserves, economy, dollars, Pakistan | hashtags: #SBP #Economy #Pakistan #ForeignReserves #Finance
+- Scheduled: Fri 27 Nov, 06:29 AM PKT
+- Caption:
+```
+Pakistan's central bank has recorded a minor increase in its foreign exchange reserves.
+
+The State Bank of Pakistan's foreign exchange reserves have risen by $8 million, according to recent financial reports. This slight uptick adds to the ongoing economic monitoring of the country's external account stability.
+
+اسٹیٹ بینک آف پاکستان کے غیر ملکی زرمبادلہ کے ذخائر میں 8 ملین ڈالر کا اضافہ ریکارڈ کیا گیا ہے۔ مالیاتی رپورٹس کے مطابق اس اضافے سے ملکی زر مبادلہ کی پوزیشن میں معمولی بہتری آئی ہے۔
+
+According to The Express Tribune
+
+#SBP #Economy #Pakistan #ForeignReserves #Finance
+```
+
+### Inside Ukraine's severe power crisis amid ongoing war with Russia  [NORMAL]
+- Poster: روس کے ساتھ جنگ، یوکرین کو شدید بجلی بحران کا سامنا / Ukraine faces severe power crisis | category war
+- Alternative headline: Electricity and water shortages disrupt daily life in Kyiv
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Ukraine power crisis, Russia, war, electricity, water shortage, Kyiv | hashtags: #Ukraine #Russia #PowerCrisis #War #AlJazeera
+- Scheduled: Fri 27 Nov, 06:39 AM PKT
+- Caption:
+```
+Electricity and water shortages have become a harsh reality of daily life in Ukraine's capital amid the war with Russia.
+
+Electricity and water shortages have become part of daily life in Ukraine’s capital as the country battles a severe power crisis amid its ongoing war with Russia. Infrastructure attacks have severely impacted basic utilities for residents.
+
+روس کے ساتھ جاری جنگ کے دوران یوکرین کے دارالحکومت میں بجلی اور پانی کی قلت روزمرہ کی زندگی کا حصہ بن چکی ہے۔ بنیادی ڈھانچے پر حملوں نے شہریوں کے لیے مشکلات پیدا کر دی ہیں۔
 
 First reported by Al Jazeera
 
-#CIA #Waterboarding #Torture #NewYorkTimes
+#Ukraine #Russia #PowerCrisis #War #AlJazeera
 ```
 
-### NHS warns of severe flu surge as hospital admissions spike  [NORMAL]
-- Poster: این ایچ ایس نے اسپتالوں میں فلو کے مریضوں میں اضافے پر خبردار کر دیا / NHS warns of severe flu surge in hospitals | category health
-- Alternative headline: Health officials urge vaccinations amid alarming rise in flu cases
+### America's Thanksgiving holiday viewed through different cultural perspectives  [NORMAL]
+- Poster: امریکہ میں یوم تشکر، مقامی لوگوں کا یوم سوگ / Different perspectives on Thanksgiving | category world
+- Alternative headline: Indigenous people gather in Plymouth for the National Day of Mourning
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: NHS, flu, hospital admissions, UKHSA, vaccination, England | hashtags: #NHS #Flu #Health #Vaccination #UK
-- Scheduled: Fri 27 Nov, 05:02 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Thanksgiving, Indigenous people, Plymouth, National Day of Mourning, America, culture | hashtags: #Thanksgiving #America #Indigenous #DayOfMourning #Culture
+- Scheduled: Fri 27 Nov, 06:49 AM PKT
 - Caption:
 ```
-Health officials in England have urged vulnerable populations to get vaccinated immediately following a sharp surge in severe flu cases.
+As millions across America celebrate Thanksgiving, Indigenous communities gather to observe the National Day of Mourning.
 
-A surge in severe flu cases has prompted health officials in England to urge high-risk individuals to get vaccinated. The UK Health Security Agency reported that hospital admissions rose by nearly 80% over the last week, reaching the highest level for this time of year since before the pandemic.
+As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning. The event highlights contrasting historical and cultural perspectives surrounding the holiday in the United States.
 
-فلو کے شدید کیسز میں اضافے نے انگلینڈ کے صحت کے حکام کو مجبور کیا ہے کہ وہ خطرے سے دوچار افراد پر زور دیں کہ وہ جلد از جلد ویکسین لگوائیں۔ یو کے ہیلتھ سیکیورٹی ایجنسی نے بتایا کہ گزشتہ ہفتے اسپتالوں میں داخلے کی شرح میں تقریبا 80 فیصد اضافہ ہوا ہے۔
+جبکہ لاکھوں امریکی یوم تشکر منا رہے ہیں، پلیموت میں مقامی لوگ یوم سوگ منانے کے لیے جمع ہوئے۔ یہ دن امریکہ میں اس تہوار کے حوالے سے مختلف تاریخی اور ثقافتی نقطہ نظر کو اجاگر کرتا ہے۔
 
-According to BBC Health
+According to Al Jazeera
 
-#NHS #Flu #Health #Vaccination #UK
+#Thanksgiving #America #Indigenous #DayOfMourning #Culture
 ```
 
-### Zelensky questions Trump's friendly stance toward Putin in BBC interview  [NORMAL]
-- Poster: زیلنسکی کا بی بی سی انٹرویو میں ٹرمپ اور پوتن کی دوستی پر اظہارِ تعجب / Zelensky questions Trump-Putin friendship | category world
-- Alternative headline: Ukrainian president calls Trump and Putin friendship strange
+### Argentina bars Central Bank from printing money for government spending  [NORMAL]
+- Poster: ارجنٹائن نے مرکزی بینک کو حکومتی اخراجات کے لیے نوٹ چھاپنے سے روک دیا / Argentina bans central bank money printing | category us_politics
+- Alternative headline: Argentine Senate advances proposal to suspend primary elections ahead of 2027
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5
-- Supporting coverage: BBC
-- Keywords: Zelensky, Trump, Putin, BBC, friendship, interview | hashtags: #Zelensky #Trump #Putin #BBC #Ukraine
-- Scheduled: Fri 27 Nov, 05:12 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Argentina Central Bank, money printing, government spending, Senate, elections, South America | hashtags: #Argentina #CentralBank #Economy #Politics #AlJazeera
+- Scheduled: Fri 27 Nov, 06:59 AM PKT
 - Caption:
 ```
-In a recent BBC interview, Ukrainian President Volodymyr Zelensky questioned Donald Trump's portrayal of Vladimir Putin as a friend.
+Argentina's Senate has moved to block the central bank from printing money to finance government spending.
 
-In an interview with the BBC, Ukrainian President Volodymyr Zelensky questioned Donald Trump's decision to post a photo embracing Vladimir Putin, calling it strange to view an aggressor and killer as a friend.
+The South American country's Senate has barred its Central Bank from printing money to fund government spending. Additionally, the Senate advanced a proposal to suspend primary elections ahead of the upcoming 2027 presidential race.
 
-بی بی سی کو دیئے گئے ایک انٹرویو میں یوکرین کے صدر ولادیمیر زیلنسکی نے ڈونلڈ ٹرمپ کی طرف سے ولادیمیر پوتن کو گلے لگاتے ہوئے تصویر پوسٹ کرنے پر سوال اٹھایا اور کہا کہ کسی حملہ آور اور قاتل کو دوست سمجھنا عجیب ہے۔
+جنوبی امریکی ملک کی سینٹ نے مرکزی بینک کو حکومتی اخراجات کے لیے نوٹ چھاپنے سے روک دیا ہے۔ اس کے علاوہ سینٹ نے 2027 کے صدارتی انتخابات سے قبل پرائمری انتخابات معطل کرنے کی تجویز بھی پیش کر دی ہے۔
 
-According to BBC
+First reported by Al Jazeera
 
-#Zelensky #Trump #Putin #BBC #Ukraine
+#Argentina #CentralBank #Economy #Politics #AlJazeera
 ```
 
-### Asian stocks ride rollercoaster following Jensen Huang's return as Nvidia CEO  [NORMAL]
-- Poster: ینسن ہوانگ کی واپسی کے بعد ایشیائی مارکیٹس میں اتار چڑھاؤ / Asian stocks volatile after Nvidia CEO return | category tech
-- Alternative headline: What's next for Asian markets after major AI bets on Nvidia?
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC
-- Keywords: Nvidia, Jensen Huang, Asian stocks, AI, BBC | hashtags: #Nvidia #JensenHuang #AI #AsiaStocks #BBC
-- Scheduled: Fri 27 Nov, 05:22 AM PKT
-- Caption:
-```
-Asian stock markets have experienced significant volatility following Jensen Huang's shocking return as Nvidia's CEO.
-
-Asian stock markets have experienced a rollercoaster ride following the shocking return of Jensen Huang as Nvidia CEO, prompting questions about the region's massive artificial intelligence investments tied to the chip giant.
-
-ینسن ہوانگ کی اینڈیا کے سی ای او کے طور پر حیرت انگیز واپسی کے بعد ایشیائی اسٹاک مارکیٹس میں اتار چڑھاؤ دیکھا گیا ہے، جس سے خطے کی مصنوعی ذہانت کی بڑی سرمایہ کاری کے حوالے سے سوالات اٹھ کھڑے ہوئے ہیں۔
-
-According to BBC
-
-#Nvidia #JensenHuang #AI #AsiaStocks #BBC
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 25
 
 ## Queue status
-- [published] normal | Jensen Huang's return as Nvidia CEO adds $1 trillion to company's valu | Tue 24 Nov, 05:30 AM PKT
-- [published] normal | Wall St stages sharp recovery as Nvidia shares soar 31.5% after Jensen | Tue 24 Nov, 05:40 AM PKT
-- [published] normal | Israeli strikes kill at least three, including UNRWA worker, in Gaza | Tue 24 Nov, 05:50 AM PKT
-- [published] normal | Brentford hit Everton for four to soar into Premier League top six | Tue 24 Nov, 06:00 AM PKT
 - [published] normal | Trump Demands Immediate Expedited Federal Executions While Blasting Ga | Tue 24 Nov, 06:53 AM PKT
 - [published] normal | US Plans to Blacklist Singaporean AI Firm Megaspeed Following Nvidia S | Tue 24 Nov, 07:03 AM PKT
 - [published] normal | King Charles and Elton John Pay Tribute to Late Australian Music Legen | Tue 24 Nov, 07:13 AM PKT
@@ -314,13 +358,13 @@ According to BBC
 - [needs_review] normal | Pregnant US inmate escapes in prison vehicle after medical appointment | Thu 26 Nov, 10:42 PM PKT
 - [published] promo | [YouTube] MAULANA FAZL BLOCKS ROADS, BILAWAL UNDER PRESSURE & PTI’S NE | Thu 26 Nov, 10:52 PM PKT
 - [published] normal | Netanyahu's corruption trial back in focus amid new court suggestions | Thu 26 Nov, 10:52 PM PKT
-- [queued] normal | French actor Gerard Depardieu to stand trial for alleged 2018 rape | Thu 26 Nov, 11:02 PM PKT
-- [queued] normal | Rana Irfan clinches Snooker World Cup title after defeating Mohammad A | Thu 26 Nov, 11:12 PM PKT
-- [queued] normal | 143 illegal under-construction buildings sealed in Karachi after trage | Thu 26 Nov, 11:22 PM PKT
-- [queued] normal | UK drivers over 70 face mandatory eye tests every three years under ne | Thu 26 Nov, 11:32 PM PKT
-- [queued] normal | Trump demands investigation into pre-midterm GDP data releases | Thu 26 Nov, 11:54 PM PKT
-- [queued] normal | Syrian children continue learning amid war ruins in Idlib | Fri 27 Nov, 12:04 AM PKT
-- [queued] normal | Scotland's chief medical officer resigns amid controversy | Fri 27 Nov, 12:14 AM PKT
+- [needs_review] normal | French actor Gerard Depardieu to stand trial for alleged 2018 rape | Thu 26 Nov, 11:02 PM PKT
+- [needs_review] normal | Rana Irfan clinches Snooker World Cup title after defeating Mohammad A | Thu 26 Nov, 11:12 PM PKT
+- [needs_review] normal | 143 illegal under-construction buildings sealed in Karachi after trage | Thu 26 Nov, 11:22 PM PKT
+- [needs_review] normal | UK drivers over 70 face mandatory eye tests every three years under ne | Thu 26 Nov, 11:32 PM PKT
+- [needs_review] normal | Trump demands investigation into pre-midterm GDP data releases | Thu 26 Nov, 11:54 PM PKT
+- [needs_review] normal | Syrian children continue learning amid war ruins in Idlib | Fri 27 Nov, 12:04 AM PKT
+- [published] normal | Scotland's chief medical officer resigns amid controversy | Fri 27 Nov, 12:14 AM PKT
 - [queued] normal | Could AI have solved mathematics' greatest mystery? | Fri 27 Nov, 12:24 AM PKT
 - [queued] normal | Kushner sparks outrage over comments on Gaza destruction | Fri 27 Nov, 12:34 AM PKT
 - [queued] normal | Guinea-Bissau delays presidential election by two years | Fri 27 Nov, 12:44 AM PKT
@@ -340,12 +384,18 @@ According to BBC
 - [queued] normal | NHS warns of severe flu surge as hospital admissions spike | Fri 27 Nov, 05:02 AM PKT
 - [queued] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
 - [queued] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
+- [queued] normal | Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge | Fri 27 Nov, 06:09 AM PKT
+- [queued] normal | Hamas weighs response after Israeli strikes kill 10 people in Gaza | Fri 27 Nov, 06:19 AM PKT
+- [queued] normal | State Bank of Pakistan's foreign exchange reserves rise by $8 million | Fri 27 Nov, 06:29 AM PKT
+- [queued] normal | Inside Ukraine's severe power crisis amid ongoing war with Russia | Fri 27 Nov, 06:39 AM PKT
+- [queued] normal | America's Thanksgiving holiday viewed through different cultural persp | Fri 27 Nov, 06:49 AM PKT
+- [queued] normal | Argentina bars Central Bank from printing money for government spendin | Fri 27 Nov, 06:59 AM PKT
 
 ## Publishing this run
-- Published 'Netanyahu's corruption trial back in focus amid new court suggestions'.
+- Published 'Scotland's chief medical officer resigns amid controversy'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5303 | output tokens: 2862
+- Calls: 2 | prompt tokens: 6659 | output tokens: 2910
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
