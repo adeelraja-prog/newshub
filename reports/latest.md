@@ -1,176 +1,170 @@
-# News Hub report - Fri 27 Nov, 07:05 PM PKT
+# News Hub report - Fri 27 Nov, 09:10 PM PKT
 
 ## Collection
-- New items this run: 113 | items in rolling pool: 796
-- Unique story clusters: 670 (duplicates merged: 126)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 40, Geo News 17, samaa tv 10, ProPakistani 7, TechJuice 7, Al Jazeera 6, Dawn 3, Dawn Pakistan 2, Dawn Latest 2, The Express Tribune 2, The Verge 2, Wired 2
+- New items this run: 194 | items in rolling pool: 825
+- Unique story clusters: 676 (duplicates merged: 149)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 100, Geo News 12, ARY News 8, Al Jazeera 7, ProPakistani 6, samaa tv 5, Jang Urdu 5, The Verge 5, BBC World 4, TechJuice 4, Dawn 3, The News International 3
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Erdogan completes Turkiye's ratification of Makkah defence pact | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistan seeks zero-tariff access to China, eyes $25b export target | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic lessors demand jets back as airline seeks urgent funding | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Airline Norse Atlantic's Norwegian operating unit declares bankruptcy | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- European football violence causes concern with far-right claim in UEFA game | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Canada's top court largely upholds Quebec ban on religious symbols for public servants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Short-term inflation clocks in at 9.49pc driven by wheat flour prices | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Serbia’s student-led movement nominates chemistry professor for presidency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran Guards say tanker hits mine near Strait of Hormuz | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Eisenkot tests power-sharing with Netanyahu despite election promise  [NORMAL]
-- Poster: آئزن کوٹ کا نیتن یاہو کے ساتھ اقتدار میں شراکت داری کا امتحان / Eisenkot tests power-sharing with Netanyahu | category politics
-- Alternative headline: Netanyahu power-sharing arrangement weighed by Israel's Eisenkot
+### Brazil condemns French President Macron's 'doped' meat remarks  [NORMAL]
+- Poster: برازیل کا فرانسیسی صدر کے بیان پر شدید اظہارِ افسوس / Brazil slams Macron's doped meat comments | category politics
+- Alternative headline: Brazil hits back at Macron over EU meat import restrictions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Eisenkot, Netanyahu, Israel politics, power-sharing, Al Jazeera | hashtags: #Eisenkot #Netanyahu #IsraelPolitics #AlJazeera
-- Scheduled: Fri 27 Nov, 07:05 PM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Brazil meat, Emmanuel Macron, EU imports, agriculture, trade row | hashtags: #Brazil #EmmanuelMacron #EU #Agriculture #WorldNews
+- Scheduled: Fri 27 Nov, 09:10 PM PKT
 - Caption:
 ```
-Some allies are urging a power-sharing deal, but it would contradict a key pre-election promise.
+Brazil has strongly condemned French President Emmanuel Macron after he labeled Brazilian meat as 'doped' during a meeting with farming unions.
 
-Israeli politician Eisenkot is navigating a difficult political path as some of his allies push for a power-sharing arrangement with Prime Minister Benjamin Netanyahu. Such a move would directly contradict Eisenkot's pre-election commitments, raising questions about his political stance.
+The Brazilian government has expressed regret over statements made by French President Emmanuel Macron, who referred to Brazilian meat as 'doped' while celebrating EU restrictions on South American agricultural imports. Brazil dismissed the remarks as misinformation, highlighting its decades-long export history and rigorous sanitary controls.
 
-اسرائیلی سیاستدان آئزن کوٹ ایک مشکل سیاسی دور سے گزر رہے ہیں کیونکہ ان کے کچھ اتحادی وزیراعظم بنجمن نیتن یاہو کے ساتھ اقتدار میں شراکت داری پر زور دے رہے ہیں۔ اس طرح کا قدم آئزن کوٹ کے انتخابات سے پہلے کے وعدوں کے بالکل برعکس ہوگا۔
+برازیلی حکومت نے فرانسیسی صدر ایمانوئل میکرون کے اس بیان پر افسوس کا اظہار کیا ہے جس میں انہوں نے برازیلی گوشت کو 'ڈوپڈ' قرار دیا۔ برازیل نے ان تبصروں کو غلط معلومات قرار دیتے ہوئے اپنے سخت طبی اور معیار کے نظام کا حوالہ دیا ہے۔
 
-First reported by Al Jazeera
+According to a report by BBC World
 
-#Eisenkot #Netanyahu #IsraelPolitics #AlJazeera
+#Brazil #EmmanuelMacron #EU #Agriculture #WorldNews
 ```
 
-### Erdogan completes Turkey's ratification of Makkah defence pact  [NORMAL]
-- Poster: صدر اردوان نے مکہ دفاعی معاہدے کی توسیع مکمل کر لی / Erdogan completes Makkah defence pact ratification | category other
-- Alternative headline: Turkey finalizes Makkah defence pact ratification under Erdogan
+### Canada's top court upholds controversial Quebec religious symbols ban  [NORMAL]
+- Poster: کینیڈا کی عدالت عظمیٰ کا کیوبیک میں مذہبی علامات پر پابندی کا فیصلہ برقرار / Canada court upholds Quebec religious ban | category other
+- Alternative headline: Supreme Court of Canada largely supports Quebec public servants law
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNFRraTBycjQ3ZnRzRUVJaWlNN005TGVMWUNYUkFZUC1yb3NjaTZjcWdQRkl1NXczcFR6c3V5a1NmRTBCNVFLd0hGU0NVRkhrS0EzVi1YMXZSMGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNFRraTBycjQ3ZnRzRUVJaWlNN005TGVMWUNYUkFZUC1yb3NjaTZjcWdQRkl1NXczcFR6c3V5a1NmRTBCNVFLd0hGU0NVRkhrS0EzVi1YMXZSMGc?oc=5
+- Supporting coverage: ProPakistani, BBC, Al Jazeera, BBC World
+- Keywords: Quebec religious symbols, Canada Supreme Court, public servants, ban, law | hashtags: #Canada #Quebec #SupremeCourt #ReligiousFreedom #WorldNews
+- Scheduled: Fri 27 Nov, 09:20 PM PKT
+- Caption:
+```
+Canada's Supreme Court has delivered a major ruling, largely upholding Quebec's controversial ban on religious symbols for public servants.
+
+Canada's top court has largely upheld the controversial Quebec law banning certain public sector employees from wearing religious symbols at work. The legislation has faced significant debate regarding individual rights, freedom of religion, and provincial jurisdiction since its implementation.
+
+کینیڈا کی اعلیٰ عدالت نے کیوبیک کے اس متنازع قانون کو بڑی حد تک برقرار رکھا ہے جو سرکاری ملازمین کے مذہبی علامات پہننے پر پابندی عائد کرتا ہے۔ اس قانون پر بنیادی حقوق اور مذہبی آزادی کے حوالے سے طویل بحث جاری رہی ہے۔
+
+First reported by BBC
+
+#Canada #Quebec #SupremeCourt #ReligiousFreedom #WorldNews
+```
+
+### Pakistan's short-term inflation hits 9.49pc amid rising flour costs  [NORMAL]
+- Poster: آٹے کی قیمتوں میں اضافے سے مہنگائی کی شرح 9.49 فیصد ہو گئی / Short-term inflation hits 9.49pc in Pakistan | category other
+- Alternative headline: Short-term inflation clocks in at 9.49pc driven by wheat flour prices
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMinAFBVV95cUxQM25GTjlVRXE2a0pPSGxvODcyZXRORWM3clJUQWl6dkdPSjdxQU1xbkFGWHprZEZibUhmV3ZtSmdCd3pvQTItekxTVU9KYmZIU2d4WnYzUU5uZ3hZS3ZFMEdndVZGSkRTb2NKcHhPYlBkd3I4Uzh5Y0czUTRlcE5odG0zbjlrSzljZUEtYXBWZ1B3SmlsQ1hPRjUycUE?oc=5
-- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
-- Keywords: Erdogan, Makkah defence pact, Turkey, ratification, Dawn | hashtags: #Erdogan #Turkey #MakkahPact #Dawn
-- Scheduled: Fri 27 Nov, 07:15 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMipAFBVV95cUxQNl9scjBSZUZIVUUxOEppRWtiNWFGNzlzTmREZFdSX2xYLURQYy1lYjVzdEt5Q1NPOU5xSUhkVUFJUFZFTDNuNWVIR2t3TF9hWXJ2ZjdjWjU0QWE1ZjVnYWYwOUptMWJwUWtpLWR1UDA2ZGZDWDJ4RW9ZZkhrV09wR0JfODlwSkp1ZXdNd3pvUG8tcHlHT1BDdW52OXRQdFg4RWZndg?oc=5
+- Supporting coverage: Dawn, Dawn Latest, ProPakistani
+- Keywords: inflation Pakistan, wheat flour, SPI inflation, economy, prices | hashtags: #Inflation #Pakistan #Economy #WheatFlour #Business
+- Scheduled: Fri 27 Nov, 09:30 PM PKT
 - Caption:
 ```
-Turkish President Erdogan has officially completed the ratification process for the Makkah defence pact.
+Short-term inflation in Pakistan has been recorded at 9.49 percent, primarily driven by surging prices of wheat flour.
 
-Turkish President Recep Tayyip Erdogan has completed the ratification of the Makkah defence pact, as reported by Dawn. The agreement marks a significant step in regional defense cooperation, though further details on its implementation are awaited.
+Pakistan's short-term inflation, measured by the Sensitive Price Indicator, has climbed to 9.49 percent. Official reports indicate that the ongoing spike is largely driven by escalating wheat flour prices, putting additional financial pressure on everyday households.
 
-ڈان کی رپورٹ کے مطابق ترک صدر رجب طیب اردوان نے مکہ دفاعی معاہدے کی توثیق مکمل کر لی ہے۔ یہ معاہدہ علاقائی دفاعی تعاون میں ایک اہم قدم کی نشاناندہی کرتا ہے۔
+پاکستان میں قلیل المدتی مہنگائی کی شرح 9.49 فیصد تک پہنچ گئی ہے، جس کی بنیادی وجہ گندم کے آٹے کی قیمتوں میں اضافہ ہے۔ اس صورتحال سے عام شہریوں کے لیے روزمرہ کی اشیاء کی خریداری مزید مشکل ہو گئی ہے۔
 
-First reported by Dawn
+According to a report by Dawn
 
-#Erdogan #Turkey #MakkahPact #Dawn
+#Inflation #Pakistan #Economy #WheatFlour #Business
 ```
 
-### Pakistan seeks zero-tariff access to China with $25b export target  [NORMAL]
-- Poster: پاکستان نے چین تک زیرو ٹیرف رسائی اور 25 ارب ڈالر کا ہدف مقرر کر لیا / Pakistan seeks zero-tariff access to China | category economy
-- Alternative headline: Export target set at $25b as Pakistan pushes for zero-tariff China access
+### Paris Fury retracts claim that boxer Tyson Fury has schizophrenia  [NORMAL]
+- Poster: ٹائسن فیوری کی اہلیہ کا شوہر سے متعلق ذہنی بیماری کا دعویٰ واپس / Tyson Fury wife retracts schizophrenia claim | category other
+- Alternative headline: Netflix edits Tyson Fury documentary after schizophrenia claim retraction
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmF4VzkwLS1WczlHaVJyYjlzMmZiNGdKYU5QbDVYc21xREZQZUVfcDlWVEJLOC1KaWRiUENRMDBvYmxsTDdOUWRRWEQydkY1cUQ2RzNMTnR3RkcxcVRBVHQ2OXZkRUNGR2U1R0ttNHRTV29KTjA3ZVpIOVBpa2s0VnF1RjNROGltUkFhMFA2VDVKU21uNG9YXzF6RzViWC14ZkZhZw?oc=5
-- Supporting coverage: The Express Tribune, Investify
-- Keywords: Pakistan exports, China, zero-tariff, $25b export target, The Express Tribune | hashtags: #PakistanExports #China #Economy #ExpressTribune
-- Scheduled: Fri 27 Nov, 07:25 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss
+- Supporting coverage: Al Jazeera, Geo News
+- Keywords: Tyson Fury, Paris Fury, schizophrenia, boxing, documentary | hashtags: #TysonFury #Boxing #ParisFury #SportsNews #Netflix
+- Scheduled: Fri 27 Nov, 09:40 PM PKT
 - Caption:
 ```
-Pakistan is aggressively pursuing zero-tariff market access in China to achieve an ambitious $25 billion export target.
+Paris Fury has backtracked on her previous claims that heavyweight boxing star Tyson Fury suffers from schizophrenia.
 
-Pakistan is seeking zero-tariff access to Chinese markets as part of a broader strategy to boost its trade volume and reach an ambitious export target of $25 billion. The move aims to strengthen bilateral trade ties and enhance economic growth.
+Paris Fury has officially retracted her earlier statements asserting that boxer Tyson Fury was diagnosed with schizophrenia following his 2015 victory over Wladimir Klitschko. Following the retraction, streaming platforms have reportedly made edits to related documentary content.
 
-پاکستان اپنے تجارتی حجم کو بڑھانے اور 25 ارب ڈالر برآمدات کے ہدف تک پہنچنے کی حکمت عملی کے تحت چینی مارکیٹوں تک زیرو ٹیرف رسائی حاصل کرنے کی کوشش کر رہا ہے۔
+پیرس فیوری نے اپنے سابقہ دعویٰ سے پیچھے ہٹتے ہوئے واضح کیا ہے کہ باکسر ٹائسن فیوری اسزوفرینیا میں مبتلا نہیں ہیں۔ اس تردید کے بعد دستاویزی فلموں میں بھی ترامیم کی گئی ہیں۔
 
-First reported by The Express Tribune
+According to Al Jazeera
 
-#PakistanExports #China #Economy #ExpressTribune
+#TysonFury #Boxing #ParisFury #SportsNews #Netflix
 ```
 
-### Norse Atlantic lessors demand jets back amid urgent funding crisis  [NORMAL]
-- Poster: نورس اٹلانٹک کے طیارے واپس مانگ لیے گئے، فنڈز کی تلاش جاری / Norse Atlantic lessors demand jets back | category economy
-- Alternative headline: Lessors demand 12 aircraft back as Norse Atlantic fights for survival
+### Serbia's student-led movement nominates chemistry professor for presidency  [NORMAL]
+- Poster: سربیا کی طلبہ تحریک کی جانب سے صدارتی عہدے کے لیے کیمسٹری کے پروفیسر نامزد / Serbia student movement nominates president | category other
+- Alternative headline: Belgrade professor nominated for Serbian presidency by student movement
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047462/norse-atlantic-lessors-demand-jets-back-as-airline-seeks-urgent-funding
-- Supporting coverage: Dawn Latest, Geo News, Geo News
-- Keywords: Norse Atlantic, lessors, bankruptcy, airline crisis, Dawn | hashtags: #NorseAtlantic #Aviation #Economy #Dawn
-- Scheduled: Fri 27 Nov, 07:35 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss
+- Supporting coverage: AP News, Al Jazeera
+- Keywords: Serbia presidency, student movement, Radomir Saicic, Belgrade University, elections | hashtags: #Serbia #Elections #Students #Politics #WorldNews
+- Scheduled: Fri 27 Nov, 09:50 PM PKT
 - Caption:
 ```
-Lessors have terminated leases for all 12 aircraft as the budget carrier scrambles for emergency funding.
+Serbia's active student-led political movement has nominated Belgrade University chemistry professor Radomir Saicic for the presidency.
 
-Budget carrier Norse Atlantic is facing severe financial turmoil as lessors terminated leasing contracts for all 12 aircraft in its fleet, demanding their return. The airline is urgently seeking funding after suspending all flights due to soaring fuel costs from the war on Iran.
+Ahead of the upcoming December 27 ballot, Serbia's student-led movement has put forward Radomir Saicic, a chemistry professor at Belgrade University, as their candidate for the presidency. Saicic was among the prominent academics who initially supported the movement.
 
-بجٹ ایئر لائن نورس اٹلانٹک کو شدید مالی بحران کا سامنا ہے کیونکہ لیزرز نے اس کے تمام 12 طیاروں کے معاہدے ختم کر دیے ہیں اور ان کی واپسی کا مطالبہ کیا ہے۔
+ستائیس دسمبر کو ہونے والے انتخابات کے پیش نظر سربیا کی طلبہ تحریک نے بیلগ্রেڈ یونیورسٹی کے کیمسٹری کے پروفیسر رادومیر سائچیچ کو صدارتی امیدوار کے طور پر نامزد کر دیا ہے۔
 
-First reported by Dawn Latest
+According to a report by Al Jazeera
 
-#NorseAtlantic #Aviation #Economy #Dawn
+#Serbia #Elections #Students #Politics #WorldNews
 ```
 
-### Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel costs  [NORMAL]
-- Poster: ایران جنگ کے باعث نورس اٹلانٹک کی نارویجن یونٹ دیوالیہ / Norse Atlantic Norwegian unit declares bankruptcy | category economy
-- Alternative headline: Norwegian unit of Norse Atlantic files for bankruptcy amid soaring fuel costs
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Latest https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Latest https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy
-- Supporting coverage: Dawn Latest, Euronext Markets: Real-time Stock Market Data | live
-- Keywords: Norse Atlantic bankruptcy, Iran war, fuel costs, airline, Dawn | hashtags: #NorseAtlantic #Bankruptcy #AviationNews #Dawn
-- Scheduled: Fri 27 Nov, 07:45 PM PKT
-- Caption:
-```
-Surging fuel costs driven by the war on Iran have forced Norse Atlantic's Norwegian operating unit into bankruptcy.
-
-Norse Atlantic's Norwegian operating unit has filed for bankruptcy after succumbing to soaring fuel costs driven by the war on Iran. While the main listed entity and other group companies are not part of the filing, the airline previously suspended all flights.
-
-ایران جنگ کی وجہ سے بڑھتے ہوئے ایندھن کے اخراجات کے باعث نورس اٹلانٹک کی نارویجن آپریٹنگ یونٹ نے دیوالیہ ہونے کا اعلان کر دیا ہے۔
-
-First reported by Dawn Latest
-
-#NorseAtlantic #Bankruptcy #AviationNews #Dawn
-```
-
-- Indian outlets blocked this run: 4 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Bus and truck collision kills 11 people in UAE's Ras Al Khaimah | Tue 24 Nov, 12:46 PM PKT
-- [needs_review] normal | Punjab Assembly echoes with fiery exchanges over agricultural crisis | Tue 24 Nov, 12:56 PM PKT
-- [needs_review] normal | Pakistan’s Zeeshan Ali Set to Become First Astronaut in Space | Tue 24 Nov, 01:53 PM PKT
-- [needs_review] normal | KP's MNJ Road Closed to Traffic Until Next Summer | Tue 24 Nov, 02:03 PM PKT
-- [needs_review] normal | PM Shehbaz Congratulates CDF Munir on Malaysia Hall of Fame Induction | Tue 24 Nov, 02:13 PM PKT
 - [needs_review] normal | DR Congo searches for missing cargo plane as rebels claim shootdown | Tue 24 Nov, 03:12 PM PKT
 - [needs_review] normal | PTI moves Islamabad High Court for live broadcast of Al-Qadir Trust ap | Tue 24 Nov, 03:22 PM PKT
 - [needs_review] normal | Five suspected terrorists killed in CTD intelligence-based operation i | Tue 24 Nov, 04:03 PM PKT
@@ -361,11 +355,11 @@ First reported by Dawn Latest
 - [needs_review] normal | Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | Fri 27 Nov, 12:20 PM PKT
 - [needs_review] normal | PPRA points out procedural flaw in CDA's sewage treatment plants | Fri 27 Nov, 12:30 PM PKT
 - [published] normal | New Zealand Election Results Force Tough Coalition Talks for Conservat | Fri 27 Nov, 01:29 PM PKT
-- [queued] normal | Sandpapergate Forum Widens Scope to Cover 2017-18 Australia-England As | Fri 27 Nov, 01:39 PM PKT
-- [queued] normal | State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Mill | Fri 27 Nov, 01:49 PM PKT
-- [queued] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
-- [queued] normal | German Airline USC Moves Closer to Launching Flights to Pakistan After | Fri 27 Nov, 02:09 PM PKT
-- [queued] normal | ECP says it cannot force parties to field women on winnable seats | Fri 27 Nov, 03:40 PM PKT
+- [needs_review] normal | Sandpapergate Forum Widens Scope to Cover 2017-18 Australia-England As | Fri 27 Nov, 01:39 PM PKT
+- [needs_review] normal | State Bank of Pakistan's Foreign Exchange Reserves Increase by $8 Mill | Fri 27 Nov, 01:49 PM PKT
+- [needs_review] normal | Greed and Official Negligence Fuel Deadly Karachi Building Collapse, R | Fri 27 Nov, 01:59 PM PKT
+- [needs_review] normal | German Airline USC Moves Closer to Launching Flights to Pakistan After | Fri 27 Nov, 02:09 PM PKT
+- [published] normal | ECP says it cannot force parties to field women on winnable seats | Fri 27 Nov, 03:40 PM PKT
 - [queued] normal | PCB awards central contracts to just eight women cricketers | Fri 27 Nov, 03:50 PM PKT
 - [queued] normal | FO says reported capsizing of boat with Pakistani migrants yet to be v | Fri 27 Nov, 04:00 PM PKT
 - [queued] normal | Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL | Fri 27 Nov, 04:10 PM PKT
@@ -389,12 +383,17 @@ First reported by Dawn Latest
 - [queued] normal | Pakistan seeks zero-tariff access to China with $25b export target | Fri 27 Nov, 07:25 PM PKT
 - [queued] normal | Norse Atlantic lessors demand jets back amid urgent funding crisis | Fri 27 Nov, 07:35 PM PKT
 - [queued] normal | Norse Atlantic's Norwegian unit declares bankruptcy over Iran war fuel | Fri 27 Nov, 07:45 PM PKT
+- [queued] normal | Brazil condemns French President Macron's 'doped' meat remarks | Fri 27 Nov, 09:10 PM PKT
+- [queued] normal | Canada's top court upholds controversial Quebec religious symbols ban | Fri 27 Nov, 09:20 PM PKT
+- [queued] normal | Pakistan's short-term inflation hits 9.49pc amid rising flour costs | Fri 27 Nov, 09:30 PM PKT
+- [queued] normal | Paris Fury retracts claim that boxer Tyson Fury has schizophrenia | Fri 27 Nov, 09:40 PM PKT
+- [queued] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
 
 ## Publishing this run
-- Published 'New Zealand Election Results Force Tough Coalition Talks for Conservative Incumbent'.
+- Published 'ECP says it cannot force parties to field women on winnable seats'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6281 | output tokens: 2740
+- Calls: 3 | prompt tokens: 5173 | output tokens: 2835
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
