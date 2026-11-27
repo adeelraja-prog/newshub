@@ -177279,7 +177279,809 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d48a41fd4935dfb4af17eb86",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T05:11:57+00:00",
+      "last_update": "2026-11-27T06:05:54+00:00",
+      "event": "Iran warns South Korea against Gulf military expansion",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "expansion",
+        "gulf",
+        "iran",
+        "korea",
+        "military",
+        "samaa",
+        "south",
+        "warns"
+      ],
+      "source_excerpt": "Iran warns South Korea against Gulf military expansion samaa tv",
+      "sources": [
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeG9ZaE5VNnNkaWRzN2dCUjFxdmNMeGtpSER0bFF6OGF2VW9kTFd6WG1ZdjltNm1jeXNJRDcwT1FGOXhOVk5DcTlNWXNycjV0bE9KQlZIY0xnTzBUYXBaMktBeW84VnFIU2VkcHp3S212WGhObk40YVhfbWNkLW1tYks1Um5QUVNGR1gyTElEbVUyNDZxRTlMWGhEaGxwbDRqcjJjN1ZtWHVSTkZaaE5kT2pqY1VCVl9lTTNyMDVpalBRNXE2ZDI1N2wwQ3NyVlMxNy1DNFFRSEJVMG8?oc=5",
+          "published_at": "2026-11-27T05:11:57+00:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjgyMVEwOUJRYll3NXdiU29vVVlmcGMxc3VhTGdEZ3BaZzZ0bUFtemt1c01oMXhjcHlJMEoxVWppTFV2YU12Qk4xRjlzVTNZaEVyR0dBZGtRNEdvaGhCTHhPY2VEVTUtZUw3a3dGekV4VTZkYmp3ZzFjVmxMRnliRmhwZmJOdkZhS3dBNWVfVkU4SjdObjF4WFY4Mmo4ZDlGWFcxYTZnMmVDUXN3NTVPY2lObHZlRFd0aXhjbTR0NXkwWkFkSHVr?oc=5",
+          "published_at": "2026-11-27T05:12:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5",
+          "published_at": "2026-11-27T05:53:33+00:00"
+        },
+        {
+          "name": "Awani International",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFJCemFhM1VSVmNRMmgyY3N0M1FZX3loZ3FNdGVPeENjN0VpeEFXczY0bFYwNXNEMXlDeGlOMnpuc2hEckdFUFVoV0tNSHdlMGNKY0Y5aEVIQVNROWVNMThMU2FFNVlnTVQ4QVVBZnNhWWR1VmVCejBEVmpMN0dPYVQyWW9zYy1oMHU1WWIyMHJ3ZWM5ZEtMMEhpUVp2Wll1VV9LRnB5NTlKemozbk96bkNYdVRxNmVsN0tDdWI3OA?oc=5",
+          "published_at": "2026-11-27T06:04:33+00:00"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2oyWnY2OEk3ZGxOT0o0eE5UcFZpZWpvcXlsTl9kNnkxcEFtM25MekhBRnAwWlBZZHphUkhkU216M2JNX2pnWExPVXo0dmFMc0hoSGgxLWZ4RGRnaWFWMnQzWl9Ha3ZkR2RjM0w4c01zVnNyVTRhZGJvNFJUUjVLYXpNajZpcUlsdW8zRFR0UEkzSEdWR2QxYUdLZHFBNUpzaG96NDFuTV8yNG5hM3hWWXlaT3BHTjcxUmw4d0RDRGxsNWM?oc=5",
+          "published_at": "2026-11-27T06:05:54+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "04b82df0009b541c79de485d",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T05:34:00+00:00",
+      "last_update": "2026-11-27T06:03:31+00:00",
+      "event": "Making waves: Pakistani woman breaking jet ski barriers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "barriers",
+        "breaking",
+        "dawn",
+        "jet",
+        "making",
+        "pakistani",
+        "ski",
+        "waves",
+        "woman"
+      ],
+      "source_excerpt": "Making waves: Pakistani woman breaking jet ski barriers Dawn",
+      "sources": [
+        {
+          "name": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1BqUF9aa2dzckduY2JhSDlKSUozQnlSLTFDcnlqTGtuNFEybjFYUXhIVmRwTktTQ2tMd2JjcUFibjIyaEMtYVpsbzREb0tEWTJINHg5TXJTaU9DWUpnTU5DTXpOd3hpVmxwanBuNTNEUHpNeTd2MzRWd1JTLTRsLVROTms?oc=5",
+          "published_at": "2026-11-27T05:34:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5",
+          "published_at": "2026-11-27T06:00:28+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047444/making-waves-pakistani-woman-breaking-jet-ski-barriers",
+          "published_at": "2026-11-27T06:03:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1066b4dde2a2bb8008a8f81",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T00:50:05+00:00",
+      "last_update": "2026-11-27T06:04:13+00:00",
+      "event": "PPRA points out procedural flaw in CDA’s sewage treatment plants",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cda",
+        "dawn",
+        "flaw",
+        "out",
+        "plants",
+        "points",
+        "ppra",
+        "procedural",
+        "sewage",
+        "treatment"
+      ],
+      "source_excerpt": "PPRA points out procedural flaw in CDA’s sewage treatment plants Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5",
+          "published_at": "2026-11-27T00:50:05+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047281/ppra-points-out-procedural-flaw-in-cdas-sewage-treatment-plants",
+          "published_at": "2026-11-27T06:04:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e33ed99608cad721516e5ffd",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T00:50:16+00:00",
+      "last_update": "2026-11-27T06:18:09+00:00",
+      "event": "PHC stays arrest, deportation of Afghan house officers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "arrest",
+        "dawn",
+        "deportation",
+        "house",
+        "officers",
+        "phc",
+        "stays"
+      ],
+      "source_excerpt": "PHC stays arrest, deportation of Afghan house officers Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPREg3NXZmTUhncGZKeXRwU2NsUk9HMmNsS1J6ZndLZlE2M0d4QlFaTGRPdDVlcnltajBRSk90ZjM4anB5YThNdk16YnRhM2hYc0lNTlM3LXA3VmxTS0pTZTlIZ3lKcTczT1VGaXFDeHFZVzZKempJcEE4ZEJZekIwRXl2UkFKaDlKeklHQVlGOHk?oc=5",
+          "published_at": "2026-11-27T00:50:16+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047260/phc-stays-arrest-deportation-of-afghan-house-officers",
+          "published_at": "2026-11-27T06:18:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPREg3NXZmTUhncGZKeXRwU2NsUk9HMmNsS1J6ZndLZlE2M0d4QlFaTGRPdDVlcnltajBRSk90ZjM4anB5YThNdk16YnRhM2hYc0lNTlM3LXA3VmxTS0pTZTlIZ3lKcTczT1VGaXFDeHFZVzZKempJcEE4ZEJZekIwRXl2UkFKaDlKeklHQVlGOHk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5ee21a53196290ba7cd44c0e",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:23:39+00:00",
+      "last_update": "2026-11-27T06:30:57+00:00",
+      "event": "German airline USC prepares to launch flights to Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airline",
+        "flights",
+        "german",
+        "launch",
+        "pakistan",
+        "prepares",
+        "samaa",
+        "usc"
+      ],
+      "source_excerpt": "German airline USC prepares to launch flights to Pakistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG10bENlNTJtSC0yVWNKaFVuQW5UTV94bWU5cnlreEEwc2FPTlhsOWh2V2NOZGxHS1lJMkRvcjF6QlJ4T0Rab0poTXdqd1V6MF9vNGdDZzI4ZWxWX0hZZTJYZXBWWWxDM2dZY202bGx3ZmFSMHh0cEJFdmw0T2Jwcm5xbmFxMzAtU21hTkgwU3VOc00?oc=5",
+          "published_at": "2026-11-27T06:23:39+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/german-airline-usc-moves-closer-to-pakistan-flights-after-caa-nod/",
+          "published_at": "2026-11-27T06:30:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG10bENlNTJtSC0yVWNKaFVuQW5UTV94bWU5cnlreEEwc2FPTlhsOWh2V2NOZGxHS1lJMkRvcjF6QlJ4T0Rab0poTXdqd1V6MF9vNGdDZzI4ZWxWX0hZZTJYZXBWWWxDM2dZY202bGx3ZmFSMHh0cEJFdmw0T2Jwcm5xbmFxMzAtU21hTkgwU3VOc00?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c021ed8aabc18949b6b95220",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:00:39+00:00",
+      "last_update": "2026-11-27T06:00:39+00:00",
+      "event": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "eve",
+        "false",
+        "for",
+        "house",
+        "india",
+        "name",
+        "new",
+        "open",
+        "pant",
+        "plays",
+        "rishabh",
+        "second",
+        "side",
+        "stan",
+        "swingers",
+        "test",
+        "under",
+        "uses",
+        "wicketkeeper",
+        "zealand"
+      ],
+      "source_excerpt": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+          "published_at": "2026-11-27T06:00:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6407098f8d3b485d84ffbda0",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T05:57:37+00:00",
+      "last_update": "2026-11-27T05:57:37+00:00",
+      "event": "Spain’s 2026 election explained in maps and charts",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "and",
+        "charts",
+        "election",
+        "explained",
+        "general",
+        "here",
+        "how",
+        "issues",
+        "key",
+        "maps",
+        "november",
+        "parties",
+        "snap",
+        "spain",
+        "spaniards",
+        "system",
+        "the",
+        "vote",
+        "works"
+      ],
+      "source_excerpt": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+          "published_at": "2026-11-27T05:57:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e88391dbe836eae6a3bcb231",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:00:41+00:00",
+      "last_update": "2026-11-27T06:00:41+00:00",
+      "event": "Reform UK pledges to scrap hospital parking fees in England",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "care",
+        "charging",
+        "compensate",
+        "england",
+        "fees",
+        "for",
+        "foreign",
+        "hospital",
+        "lost",
+        "more",
+        "nationals",
+        "nhs",
+        "parking",
+        "party",
+        "pledges",
+        "reform",
+        "says",
+        "scrap",
+        "the",
+        "trusts",
+        "would"
+      ],
+      "source_excerpt": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:00:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ac63ba48013da59d65484483",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:07:11+00:00",
+      "last_update": "2026-11-27T06:07:11+00:00",
+      "event": "Nature walks 'another tool' in mental health fight",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "another",
+        "being",
+        "effort",
+        "encouraging",
+        "fight",
+        "haven",
+        "health",
+        "hope",
+        "hub",
+        "improve",
+        "mental",
+        "nature",
+        "outside",
+        "people",
+        "step",
+        "the",
+        "their",
+        "tool",
+        "walks",
+        "well"
+      ],
+      "source_excerpt": "The Hope Haven hub is encouraging people to step outside in an effort to improve their well-being.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:07:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9418bf23f14ec9ce8155c7ab",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:11:37+00:00",
+      "last_update": "2026-11-27T06:11:37+00:00",
+      "event": "Council to set London's highest littering fines",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "500",
+        "750",
+        "council",
+        "fines",
+        "fly",
+        "for",
+        "from",
+        "harrow",
+        "highest",
+        "littering",
+        "london",
+        "penalty",
+        "rise",
+        "see",
+        "set",
+        "tipping",
+        "while",
+        "will"
+      ],
+      "source_excerpt": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:11:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ba298e38c86b312c06337bb2",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:11:32+00:00",
+      "last_update": "2026-11-27T06:11:32+00:00",
+      "event": "How much is your rent in Birmingham?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ask",
+        "biggest",
+        "birmingham",
+        "for",
+        "homes",
+        "how",
+        "much",
+        "pay",
+        "people",
+        "rent",
+        "second",
+        "the",
+        "their",
+        "they",
+        "your"
+      ],
+      "source_excerpt": "We ask people in the UK's second biggest how much they pay for their homes.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:11:32+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8e7fe49428d586d9d45e831e",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:11:13+00:00",
+      "last_update": "2026-11-27T06:11:13+00:00",
+      "event": "The food bank helping pet owners with rising bills",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bank",
+        "bills",
+        "cat",
+        "food",
+        "hands",
+        "helping",
+        "litter",
+        "out",
+        "owners",
+        "pet",
+        "rising",
+        "rspca",
+        "struggling",
+        "the",
+        "toys",
+        "vet",
+        "vouchers",
+        "with"
+      ],
+      "source_excerpt": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:11:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5d936bb671f11326784b7881",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:09:31+00:00",
+      "last_update": "2026-11-27T06:09:31+00:00",
+      "event": "Could housing decide Spain's general election?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apart",
+        "beake",
+        "correspondent",
+        "could",
+        "couple",
+        "decide",
+        "election",
+        "europe",
+        "general",
+        "high",
+        "housing",
+        "kept",
+        "nick",
+        "one",
+        "rents",
+        "spain",
+        "speaks",
+        "valencia"
+      ],
+      "source_excerpt": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-27T06:09:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6cef3fcb9b1ac2f65a7db8fe",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T05:54:38+00:00",
+      "last_update": "2026-11-27T05:54:38+00:00",
+      "event": "Erin Patterson: Mushroom murderer launches last-ditch High Court appeal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "appeal",
+        "bbc",
+        "court",
+        "ditch",
+        "erin",
+        "high",
+        "last",
+        "launches",
+        "murderer",
+        "mushroom",
+        "patterson"
+      ],
+      "source_excerpt": "Erin Patterson: Mushroom murderer launches last-ditch High Court appeal BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd1pWdU4zbjJUSUw3ZnRzQ1Z6aUtUdmlpenRob2dkV2ZnUVNmT1pXZXNwN3B5QzdGdnZpQUJBYjdOZDA4OTNLWG4yM0VQMXNtMUxhSTRYRHlEQ3c?oc=5",
+          "published_at": "2026-11-27T05:54:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd1pWdU4zbjJUSUw3ZnRzQ1Z6aUtUdmlpenRob2dkV2ZnUVNmT1pXZXNwN3B5QzdGdnZpQUJBYjdOZDA4OTNLWG4yM0VQMXNtMUxhSTRYRHlEQ3c?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5607a2ea5bb11623393be2e2",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T00:48:34+00:00",
+      "last_update": "2026-11-27T06:49:36+00:00",
+      "event": "FBR sets quota for solvent supplies",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fbr",
+        "for",
+        "quota",
+        "sets",
+        "solvent",
+        "supplies"
+      ],
+      "source_excerpt": "FBR sets quota for solvent supplies Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03c1YyT0c1RkJtekZPNlZyRmZvN3p6UzAyWVY1czJ5RVlLNkxRVDZhV1k0MUtxcjBNR0dMdEhoQk9FWHJkMG1RWGs0QU1TaGFXLS10WWRTa1YydVR2dDdQNVZVY0lYOVBkWnEzVGkwbFZkblZ0SUpTdw?oc=5",
+          "published_at": "2026-11-27T00:48:34+00:00"
+        },
+        {
+          "name": "TechJuice",
+          "url": "https://www.techjuice.pk/fbr-sets-new-rules-for-duty-free-white-spirit-and-solvent-oil-purchases/",
+          "published_at": "2026-11-27T06:49:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03c1YyT0c1RkJtekZPNlZyRmZvN3p6UzAyWVY1czJ5RVlLNkxRVDZhV1k0MUtxcjBNR0dMdEhoQk9FWHJkMG1RWGs0QU1TaGFXLS10WWRTa1YydVR2dDdQNVZVY0lYOVBkWnEzVGkwbFZkblZ0SUpTdw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a2a71e8efa2e81ff8e32d150",
+      "remembered_at": "2026-11-27T06:50:44.187530+00:00",
+      "event_date": "2026-11-27T06:20:13+00:00",
+      "last_update": "2026-11-27T06:20:13+00:00",
+      "event": "Who Controls America’s AI Chokepoint?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "america",
+        "chokepoint",
+        "controls",
+        "dawn",
+        "who"
+      ],
+      "source_excerpt": "Who Controls America’s AI Chokepoint? Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TM2hzcW8zOEY2RjFCVEF1WFRwc1luRF9Kamk5YXZpdDhTWG5lQTgxZlR5Zk9mdzctYWhGa1BHYnpJSE4zOVk5dzQwWU85R3duaVc2dGg2RnlTdzh6T0d0aU9tZzFkb3VzdDJyWW1zWmQwOFAzVWIxZw?oc=5",
+          "published_at": "2026-11-27T06:20:13+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047446/who-controls-americas-ai-chokepoint",
+          "published_at": "2026-11-27T06:20:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TM2hzcW8zOEY2RjFCVEF1WFRwc1luRF9Kamk5YXZpdDhTWG5lQTgxZlR5Zk9mdzctYWhGa1BHYnpJSE4zOVk5dzQwWU85R3duaVc2dGg2RnlTdzh6T0d0aU9tZzFkb3VzdDJyWW1zWmQwOFAzVWIxZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T05:46:10.098112+00:00"
+  "updated_at": "2026-11-27T06:50:44.187530+00:00"
 }

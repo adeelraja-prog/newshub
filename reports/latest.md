@@ -1,132 +1,172 @@
-# News Hub report - Fri 27 Nov, 10:46 AM PKT
+# News Hub report - Fri 27 Nov, 11:50 AM PKT
 
 ## Collection
-- New items this run: 54 | items in rolling pool: 247
-- Unique story clusters: 207 (duplicates merged: 40)
-- Clusters dropped as already published/queued: 28; unchanged since last analysis: 7
-- Items per outlet: Dawn Pakistan 9, Dawn 6, samaa tv 5, Profit by Pakistan Today 4, Dawn Latest 3, Al Jazeera 3, Dunya News 3, TechJuice 3, The Current 3, Geo News 2, Reuters 2, ProPakistani 2
+- New items this run: 84 | items in rolling pool: 307
+- Unique story clusters: 240 (duplicates merged: 67)
+- Clusters dropped as already published/queued: 27; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 15, Wired 10, samaa tv 7, TechJuice 7, Geo News 6, Dawn Pakistan 5, ProPakistani 3, Dawn 2, Jang 2, Dawn Latest 2, Al Jazeera 2, AP News 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 0 | new uploads queued: 0 | first-run seeded: 0
+- Feed warning: Adeel Raja: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCS5Lljc_YNJU4aLXGMCYAOQ
+- Feed warning: Adeel Raja Shorts: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrCIWah6oQYS-safc4vkaeg
 
 ## Top 5 most important
-- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Woman hurt in acid attack in North Karachi | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'Cried tears of happiness': Netizens are beaming with pride as Zeeshan Ali becomes first Pakistani in space | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thanksgiving storms leave nearly a million without power across the US | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least 13 Niger soldiers killed in Sanam armed attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran warns South Korea against Gulf military expansion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Making waves: Pakistani woman breaking jet ski barriers | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PPRA points out procedural flaw in CDA’s sewage treatment plants | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 105/120 | empty: 4 | failed: 11 | malformed/partial: 12
+- Overall feeds with entries: 115/120 | empty: 4 | failed: 1 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Geo News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Express Tribune Fast Lane | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: ARY News | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News Urdu | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: 92 News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Security Breaking Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PTI Opposition Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Europe Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Africa Politics Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- ATTENTION: CNN India General Desk | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### New Zealand’s Opportunity Party poised to become election kingmaker  [NORMAL]
-- Poster: نیوزی لینڈ کی اپرچونٹی پارٹی الیکشن میں اہم کردار ادا کرنے کو تیار / Opportunity Party poised to become election kingmaker | category politics
-- Alternative headline: Opportunity party positioned to swing New Zealand parliament left or right
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Opportunity Party, New Zealand, election, parliament, kingmaker | hashtags: #NewZealand #OpportunityParty #Politics #Elections
-- Scheduled: Fri 27 Nov, 10:46 AM PKT
-- Caption:
-```
-The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.
-
-The newly-elected Opportunity party is now positioned to swing New Zealand’s next parliament to the left or right, according to Al Jazeera.
-
-الجزیرہ کے مطابق، نو منتخب اپرچونٹی پارٹی اب نیوزی لینڈ کی اگلی پارلیمنٹ کو بائیں یا دائیں جانب موڑنے کی پوزیشن میں ہے۔
-
-First reported by Al Jazeera
-
-#NewZealand #OpportunityParty #Politics #Elections
-```
-
-### 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader  [NORMAL]
-- Poster: 26ویں اور 27ویں آئینی ترامیم نے عدلیہ کو مفلوج کر دیا: رہنما آئی ایل ایف / Amendments paralysed judiciary, alleges ILF leader | category courts
-- Alternative headline: Insaf Lawyers Forum leader claims constitutional amendments paralysed the judiciary
+### Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on agenda  [NORMAL]
+- Poster: اسلام آباد میں مکح دفاعی اتحاد کا اجلاس، یمن تنازع ایجنڈے میں شامل / Islamabad hosts Makkah Defence Alliance meeting | category politics
+- Alternative headline: Yemen conflict on agenda as Makkah Defence Alliance meeting begins in Islamabad
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNRDFRdjZCaHM1RFlXTFZfS3NLM0RORmFkRXE4Z3NadnRSV3hQNVF6dHgtY1lWRnUtU3d6ay1Eck9CTFBGZnRUSG5KdHQ2QktyY0hIUjZFZmxpTGpsRGJWS0RDS1VIOWFxVGZSTllCcklldnF6OGx4Y0FROE45OXM4ekhHeUdCZzIxOUFaeGJRSGd4Wi1qbWUtN1BJV0swQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNRDFRdjZCaHM1RFlXTFZfS3NLM0RORmFkRXE4Z3NadnRSV3hQNVF6dHgtY1lWRnUtU3d6ay1Eck9CTFBGZnRUSG5KdHQ2QktyY0hIUjZFZmxpTGpsRGJWS0RDS1VIOWFxVGZSTllCcklldnF6OGx4Y0FROE45OXM4ekhHeUdCZzIxOUFaeGJRSGd4Wi1qbWUtN1BJV0swQQ?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: constitutional amendments, judiciary, ILF, Insaf Lawyers Forum, Pakistan | hashtags: #Judiciary #Pakistan #ConstitutionalAmendments #DawnNews
-- Scheduled: Fri 27 Nov, 10:56 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda
+- Supporting coverage: Dawn Pakistan, Geo News, Geo News, The Current
+- Keywords: Makkah Defence Alliance, Islamabad, Yemen conflict, Khawaja Asif, Saudi Arabia, SPDC | hashtags: #Islamabad #MakkahDefenceAlliance #Pakistan #SaudiArabia #Yemen
+- Scheduled: Fri 27 Nov, 11:50 AM PKT
 - Caption:
 ```
-An Insaf Lawyers Forum leader alleges that the 26th and 27th constitutional amendments have paralysed the country's judiciary.
+Pakistan is hosting a two-day meeting of the Makkah Defence Alliance in Islamabad, with regional security and the Yemen conflict on the agenda.
 
-An Insaf Lawyers Forum leader has alleged that the 26th and 27th constitutional amendments have effectively paralysed the judiciary, as reported by Dawn.
+Pakistan is hosting a two-day meeting of the tripartite Makkah Defence Alliance's Strategic Political and Defence Committee in Islamabad. Defence ministers and officials from Saudi Arabia, Turkiye, and Pakistan are participating, with discussions expected to cover standard operating procedures and the ongoing conflict in Yemen.
 
-ڈان کی رپورٹ کے مطابق، انصاف لائرز فورم کے ایک رہنما نے الزام عائد کیا ہے کہ 26ویں اور 27ویں آئینی ترامیم نے عدلیہ کو مفلوج کر دیا ہے۔
+پاکستان اسلام آباد میں سہ فریقی مکح دفاعی اتحاد کی اسٹریٹجک پولیٹیکل اینڈ ڈیفنس کمیٹی کے دو روزہ اجلاس کی میزبانی کر رہا ہے۔ سعودی عرب، ترکی اور پاکستان کے وزرائے دفاع اور حکام اجلاس میں شریک ہیں، جس میں معیاری آپریٹنگ طریقہ کار اور یمن کے تنازع پر بات چیت متوقع ہے۔
 
-First reported by Dawn
+First reported by Dawn Pakistan
 
-#Judiciary #Pakistan #ConstitutionalAmendments #DawnNews
+#Islamabad #MakkahDefenceAlliance #Pakistan #SaudiArabia #Yemen
 ```
 
-### Female social worker hurt in acid attack in North Karachi  [NORMAL]
-- Poster: شمالی کراچی میں تیزاب گردی کا واقعہ، خاتون سماجی کارکن زخمی / Woman hurt in acid attack in North Karachi | category crime
-- Alternative headline: Woman injured in North Karachi acid attack, reports Dawn
+### Iran warns South Korea against Gulf military expansion  [NORMAL]
+- Poster: ایران نے جنوبی کوریا کو خلیج میں فوجی توسیع کے خلاف خبردار کر دیا / Iran warns South Korea on Gulf military expansion | category world
+- Alternative headline: Iran warns on Gulf military presence as South Korea readies naval role
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VJbFVQSEUtblY0MXp5LTFCbkhTc3JXbVh0WDRxR282eFg1RVdoblYxQmF0WEtxSGdWaXBhaXNmZE84YW9pWVdncGMydGhkSlhVaDE5dVJQNUJYNy1uLWV2MWVCYm5GMUVPSzNVZkw3ZFpVcTRuSlpraGQxU2daOXhB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VJbFVQSEUtblY0MXp5LTFCbkhTc3JXbVh0WDRxR282eFg1RVdoblYxQmF0WEtxSGdWaXBhaXNmZE84YW9pWVdncGMydGhkSlhVaDE5dVJQNUJYNy1uLWV2MWVCYm5GMUVPSzNVZkw3ZFpVcTRuSlpraGQxU2daOXhB?oc=5
-- Supporting coverage: Dawn, Dawn Pakistan
-- Keywords: acid attack, North Karachi, crime, social worker, injury | hashtags: #Karachi #AcidAttack #Crime #DawnNews
-- Scheduled: Fri 27 Nov, 11:06 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTlrdFlOeE9XZTdjYlF6RzI1djRmTkpzTFMwYlhpY2xfMHRvek5QNEJ5SVI5ZHRyekZzdmU2WmpGRUloaWg2blNqQTk2RVJKcmhTNzVlTkQzVGVMekpqamZkamNCUm15S09VR2dmZWZiUHB1aDQ3Q3pjRzY4aS1POHV1bnVidEJNT1lGeGFXcw?oc=5
+- Supporting coverage: Internazionale, Reuters, samaa tv, Awani International, The Times of Israel
+- Keywords: Iran, South Korea, Gulf military expansion, naval role | hashtags: #Iran #SouthKorea #Gulf #MilitaryExpansion
+- Scheduled: Fri 27 Nov, 12:00 PM PKT
 - Caption:
 ```
-A female social worker was injured in an acid attack in North Karachi, according to reports.
+Iran has issued a warning to South Korea regarding any military expansion in the Gulf region.
 
-A female social worker sustained injuries in an acid attack in North Karachi, Dawn reported.
+Iran has issued a formal warning to South Korea against expanding its military presence in the Gulf region, amid heightened regional tensions and discussions surrounding naval deployments.
 
-ڈان کی رپورٹ کے مطابق شمالی کراچی میں تیزاب کے حملے کے نتیجے میں ایک خاتون سماجی کارکن زخمی ہو گئیں۔
+ایران نے خلیج کے خطے میں اپنی فوجی موجودگی کو بڑھانے کے خلاف جنوبی کوریا کو باضابطہ خبردار کر دیا ہے، جب کہ خطے میں کشیدگی اور بحری تعیناتیوں پر بات چیت جاری ہے۔
+
+First reported by samaa tv
+
+#Iran #SouthKorea #Gulf #MilitaryExpansion
+```
+
+### Making waves: Pakistani woman breaking jet ski barriers  [NORMAL]
+- Poster: پاکستانی خاتون نے جیٹ سکی کی دنیا میں نئی تاریخ رقم کر دی / Pakistani woman breaking jet ski barriers | category sports
+- Alternative headline: Pakistani woman makes waves by breaking jet ski barriers
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmozdk9ObUNlSkV0eEFpdjEwVFJtMnZyYVRycDBlLXA2MmE0RzIyMUpyY2FGc01PSmZoRnRYWW5nTEJ4M1lxNnlGRnl3dC1IeTdid3Y5NVpGSkJDbFJURVF2T3JpTE9KbFl0N3pDOTlFZGRYN0ZPTHRtUE1XM094ZXZvUmJWeThTUTRFYU9QV2Y3QQ?oc=5
+- Supporting coverage: Yahoo News Singapore, Dawn, Dawn Latest
+- Keywords: jet ski, Pakistani woman, breaking barriers, sports | hashtags: #JetSki #PakistaniWomen #Sports #Inspiring
+- Scheduled: Fri 27 Nov, 12:10 PM PKT
+- Caption:
+```
+A trailblazing Pakistani woman is making waves and breaking barriers in the world of jet skiing.
+
+A Pakistani woman is making headlines by shattering barriers in jet skiing, showcasing remarkable skill and determination in a male-dominated sport and inspiring others across the country.
+
+ایک پاکستانی خاتون جیٹ سکی میں رکاوٹیں توڑ کر سرخیوں میں آ گئی ہیں، جو ایک ایسے کھیل میں اپنی صلاحیتوں کا مظاہرہ کر رہی ہیں جہاں عام طور پر مردوں کا غلبہ ہے اور وہ ملک بھر میں دوسروں کے لیے مثال بن رہی ہیں۔
 
 First reported by Dawn
 
-#Karachi #AcidAttack #Crime #DawnNews
+#JetSki #PakistaniWomen #Sports #Inspiring
 ```
 
-- Indian outlets blocked this run: 3 items
+### Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes  [NORMAL]
+- Poster: کرکٹ آسٹریلیا نے سینڈ پیپر گیٹ فورم کو 2017-2018 کی ایشز تک بڑھا دیا / Cricket Australia widens Sandpapergate forum | category sports
+- Alternative headline: Cricket Australia expands 'Sandpapergate' discussion to preceding Ashes series
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNYU9VcEl4TmtYUlROeUFsamlFZ0JRV1QwYS0tQ2RyNEZ3SThETks2UEtyTWpGZ3NMVWJlSGEyTDBta0FUUU1MNjJVV2ZOa0lkUGdadXlDdmRUbnlEeHF2Rlk2VmJfQ0lKblVjVDc2RG9SSkR5UTNDa2pGTHpPd0VNNDIxQ3lVR3RZSHUyMVBMdDVUQUhYYjVXaG96RUtUdw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxNYU9VcEl4TmtYUlROeUFsamlFZ0JRV1QwYS0tQ2RyNEZ3SThETks2UEtyTWpGZ3NMVWJlSGEyTDBta0FUUU1MNjJVV2ZOa0lkUGdadXlDdmRUbnlEeHF2Rlk2VmJfQ0lKblVjVDc2RG9SSkR5UTNDa2pGTHpPd0VNNDIxQ3lVR3RZSHUyMVBMdDVUQUhYYjVXaG96RUtUdw?oc=5
+- Supporting coverage: Dawn, Dawn Latest, The Express Tribune
+- Keywords: Sandpapergate, Cricket Australia, 2017-2018 Ashes, cricket | hashtags: #CricketAustralia #Sandpapergate #Ashes #Cricket
+- Scheduled: Fri 27 Nov, 12:20 PM PKT
+- Caption:
+```
+Cricket Australia has broadened its 'Sandpapergate' forum to include the 2017-2018 Ashes series.
+
+Cricket Australia has decided to widen its 'Sandpapergate' forum to encompass the 2017-2018 Ashes series, drawing fresh attention to past controversies surrounding the Australian cricket team.
+
+کرکٹ آسٹریلیا نے اپنے 'سینڈ پیپر گیٹ' فورم کو 2017-2018 کی ایشز سیریز تک وسعت دینے کا فیصلہ کیا ہے، جس سے آسٹریلوی کرکٹ ٹیم کے گرد گھومنے والے پچھلے تنازعات پر ایک بار پھر توجہ مرکوز ہو گئی ہے۔
+
+First reported by Dawn
+
+#CricketAustralia #Sandpapergate #Ashes #Cricket
+```
+
+### PPRA points out procedural flaw in CDA's sewage treatment plants  [NORMAL]
+- Poster: پی پی آر اے نے سی ڈی اے کے سیوریج ٹریٹمنٹ پلانٹس میں طریقہ کار کی خامی کی نشاندہی کر دی / PPRA points out procedural flaw in CDA sewage plants | category other
+- Alternative headline: CDA sewage treatment plants face procedural flaws flagged by PPRA
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZ0VktKWlNyYzV6QkNIay1ncGRpRXZiTTNQWFl0VTZ1NEJ1eGxQbkhOZ1FhbXVENkNsb1BfLTJIYWJzaHozTUZDOFJBRnY4T0hXSS1HTzFIcXhmZGtCMlZ5SFowZkFibFh4TnpWMUlfaVR5dnhkR2FaUHA2Qm5NemtobmFRVFZKMGZtSzZCbVp6WHBubWF6Yi1Jdm1udw?oc=5
+- Supporting coverage: Dawn, Dawn Pakistan
+- Keywords: PPRA, CDA, sewage treatment plants, procedural flaw | hashtags: #PPRA #CDA #Islamabad #News
+- Scheduled: Fri 27 Nov, 12:30 PM PKT
+- Caption:
+```
+The Public Procurement Regulatory Authority has identified procedural flaws in the Capital Development Authority's sewage treatment plants.
+
+The Public Procurement Regulatory Authority (PPRA) has pointed out procedural flaws regarding the Capital Development Authority's (CDA) sewage treatment plants, raising questions over project execution.
+
+پبلک پروکیورمنٹ ریگولیٹری اتھارٹی (پی پی آر اے) نے کیپیٹل ڈویلپمنٹ اتھارٹی (سی ڈی اے) کے سیوریج ٹریٹمنٹ پلانٹس میں طریقہ کار کی خامیوں کی نشاندہی کی ہے، جس سے پروجیکٹ کے نفاذ پر سوالات اٹھ کھڑے ہوئے ہیں۔
+
+First reported by Dawn
+
+#PPRA #CDA #Islamabad #News
+```
+
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Zeeshan Ali Set to Become Pakistan's First Astronaut in Space | Tue 24 Nov, 07:23 AM PKT
@@ -139,7 +179,6 @@ First reported by Dawn
 - [needs_review] normal | FoodAg Exhibition Showcases Pakistan's Growing Export Potential | Tue 24 Nov, 10:12 AM PKT
 - [needs_review] normal | Renowned Pop Singer Bunny Passes Away in Karachi | Tue 24 Nov, 10:22 AM PKT
 - [needs_review] normal | Surge in Used Phone Imports Hits Local Industry Hard | Tue 24 Nov, 10:32 AM PKT
-- [published] normal | Iran Parliament Speaker Warns US Seeks 'No War, No Peace' Stalemate | Tue 24 Nov, 11:06 AM PKT
 - [needs_review] normal | Petroleum Dealers Threaten Nationwide Strike Over Pricing Mechanism | Tue 24 Nov, 11:16 AM PKT
 - [needs_review] normal | Punjab CM Orders Authorities to Double Wheat and Flour Supply | Tue 24 Nov, 11:26 AM PKT
 - [needs_review] normal | 11 More Illegal Afghan Nationals Detained in Rawalpindi | Tue 24 Nov, 11:36 AM PKT
@@ -315,10 +354,10 @@ First reported by Dawn
 - [needs_review] normal | Bangladesh garment workers clash with police after wage hike falls sho | Fri 27 Nov, 04:13 AM PKT
 - [needs_review] normal | Man and dog narrowly escape powerful king tide in Oregon | Fri 27 Nov, 04:23 AM PKT
 - [published] normal | Report reveals CIA used waterboarding more widely than admitted | Fri 27 Nov, 04:52 AM PKT
-- [queued] normal | NHS warns of severe flu surge as hospital admissions spike | Fri 27 Nov, 05:02 AM PKT
-- [queued] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
-- [queued] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
-- [queued] normal | Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge | Fri 27 Nov, 06:09 AM PKT
+- [needs_review] normal | NHS warns of severe flu surge as hospital admissions spike | Fri 27 Nov, 05:02 AM PKT
+- [needs_review] normal | Zelensky questions Trump's friendly stance toward Putin in BBC intervi | Fri 27 Nov, 05:12 AM PKT
+- [needs_review] normal | Asian stocks ride rollercoaster following Jensen Huang's return as Nvi | Fri 27 Nov, 05:22 AM PKT
+- [published] normal | Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge | Fri 27 Nov, 06:09 AM PKT
 - [queued] normal | Hamas weighs response after Israeli strikes kill 10 people in Gaza | Fri 27 Nov, 06:19 AM PKT
 - [queued] normal | State Bank of Pakistan's foreign exchange reserves rise by $8 million | Fri 27 Nov, 06:29 AM PKT
 - [queued] normal | Inside Ukraine's severe power crisis amid ongoing war with Russia | Fri 27 Nov, 06:39 AM PKT
@@ -341,14 +380,18 @@ First reported by Dawn
 - [queued] normal | New Zealand’s Opportunity Party poised to become election kingmaker | Fri 27 Nov, 10:46 AM PKT
 - [queued] normal | 26th and 27th amendments ‘paralysed’ judiciary, alleges ILF leader | Fri 27 Nov, 10:56 AM PKT
 - [queued] normal | Female social worker hurt in acid attack in North Karachi | Fri 27 Nov, 11:06 AM PKT
+- [queued] normal | Islamabad hosts Makkah Defence Alliance meeting with Yemen conflict on | Fri 27 Nov, 11:50 AM PKT
+- [queued] normal | Iran warns South Korea against Gulf military expansion | Fri 27 Nov, 12:00 PM PKT
+- [queued] normal | Making waves: Pakistani woman breaking jet ski barriers | Fri 27 Nov, 12:10 PM PKT
+- [queued] normal | Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes | Fri 27 Nov, 12:20 PM PKT
+- [queued] normal | PPRA points out procedural flaw in CDA's sewage treatment plants | Fri 27 Nov, 12:30 PM PKT
 
 ## Publishing this run
-- Published 'Report reveals CIA used waterboarding more widely than admitted'.
+- Published 'Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4596 | output tokens: 2054
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 2 | prompt tokens: 7736 | output tokens: 2792
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
