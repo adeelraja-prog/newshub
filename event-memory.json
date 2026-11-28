@@ -193129,7 +193129,410 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "25c4f7b574fed3a6d65f9145",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:11:02+00:00",
+      "last_update": "2026-11-28T10:33:21+00:00",
+      "event": "PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "aboard",
+        "astronaut",
+        "cdf",
+        "china",
+        "dawn",
+        "munir",
+        "pakistani",
+        "phone",
+        "shehbaz",
+        "space",
+        "speak",
+        "station",
+        "tiangong",
+        "with"
+      ],
+      "source_excerpt": "PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5",
+          "published_at": "2026-11-28T10:11:02+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzQxWUV0eTZVUVJmUFdxVXoyR3BMVWViSzVrR3Z1NEVLbXNfUEdtSTlERG5Gb2hscG9hNXJRMGtENTA2cTJ4bWozVFlyTzBFdFZUNFVNZXZ4MHpNOVptQlhhYk9lZVZHRnZUaFJNWmJXZ1F6ejlXZHBHZjNXM05wbC14WlZwZHZoLWU3LW9Dd3NwTUtNUGJ1MHNrSmtNb2F4MDJjZ2l6R2kzemdjcXh5aG81TdIBuwFBVV95cUxNTXZtYUQwdkJiRjBCeHdTeno5QmxFZGQzZlIweDk2Z2o0dGJnclV0QzM2VkdUUVgzdVp1blBvRkU4SVU1UFp5VFY0UWVOeTRpYmpzVTZwOVVPWGFjdzVsajAycFJzVjFId1I1dEw4c1h5ZUVqSGZvaTRqaW1Ja0tkQ1JYWmlGWUVWUXR3OGJpSlBrbUwyaXZHVWVBcHhZY2hYclZuQTBIZjlmUXNsMUxmZC00OHJIUENmTkRR?oc=5",
+          "published_at": "2026-11-28T10:12:39+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047663/pm-shehbaz-cdf-munir-speak-with-pakistani-astronaut-aboard-chinas-tiangong-space-station",
+          "published_at": "2026-11-28T10:33:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6d53566a86d634c606550cc4",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:05:26+00:00",
+      "last_update": "2026-11-28T10:05:26+00:00",
+      "event": "Several students killed in blast beside Afghan school",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "afghanistan",
+        "and",
+        "asadabad",
+        "been",
+        "beside",
+        "blast",
+        "explosion",
+        "have",
+        "injured",
+        "killed",
+        "least",
+        "middle",
+        "school",
+        "several",
+        "six",
+        "students"
+      ],
+      "source_excerpt": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+          "published_at": "2026-11-28T10:05:26+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8f4f6ed99d25e50f30158233",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:33:41+00:00",
+      "last_update": "2026-11-28T10:33:41+00:00",
+      "event": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "anti",
+        "backing",
+        "campaign",
+        "iraq",
+        "jazeera",
+        "smuggling",
+        "trump",
+        "why"
+      ],
+      "source_excerpt": "Why is Trump backing Iraq’s anti-smuggling campaign? Al Jazeera",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5",
+          "published_at": "2026-11-28T10:33:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5",
+        "publisher_url": "https://www.aljazeera.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "19236e4d0a7f2b42e20e6b16",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:18:12+00:00",
+      "last_update": "2026-11-28T10:18:12+00:00",
+      "event": "Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "australia",
+        "bailey",
+        "bancroft",
+        "cost",
+        "dawn",
+        "denies",
+        "recall",
+        "sandpapergate",
+        "selector",
+        "test"
+      ],
+      "source_excerpt": "Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2M2STExU0dycHdSVHdGc2ZTa01KbWlSWkI0cF8wSV9tOXc0Wkl2RXZmWFh2TW4teXZQYkU4Z0xiSXhUTWh0aFRpcGJqazBTWEFPc3lyN0JBRk5rSjVxWEZhVWpXWm5PVGVUZXQwUmxnTTBnd0FLNGdIYjY3cHFFald5dlkyY09zV0RnYktHcjFlT2VQblRBX0JmeVZyWUpsLWdvTVVQWlRRUQ?oc=5",
+          "published_at": "2026-11-28T10:18:12+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047672/australia-selector-bailey-denies-sandpapergate-cost-bancroft-test-recall",
+          "published_at": "2026-11-28T10:18:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2M2STExU0dycHdSVHdGc2ZTa01KbWlSWkI0cF8wSV9tOXc0Wkl2RXZmWFh2TW4teXZQYkU4Z0xiSXhUTWh0aFRpcGJqazBTWEFPc3lyN0JBRk5rSjVxWEZhVWpXWm5PVGVUZXQwUmxnTTBnd0FLNGdIYjY3cHFFald5dlkyY09zV0RnYktHcjFlT2VQblRBX0JmeVZyWUpsLWdvTVVQWlRRUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c6db90dc372b3db22d684c06",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:06:30+00:00",
+      "last_update": "2026-11-28T10:06:30+00:00",
+      "event": "Punjab bans school trips beyond 50km",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "50km",
+        "bans",
+        "beyond",
+        "punjab",
+        "samaa",
+        "school",
+        "trips"
+      ],
+      "source_excerpt": "Punjab bans school trips beyond 50km samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlbkR2TUpZcFJudU13eDg4SURFT1pSM2ZWZXJJenlsdkd2T0pZMGgwY2F4dWxqOVd6SUFWSnoyRWRUTUtpZkFscTVYMDdUWFR6c0tnRnZvSWFoek03UXhaT1d2b3VnWnlNWld4YW5ZdDBkVkJaWkdn?oc=5",
+          "published_at": "2026-11-28T10:06:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlbkR2TUpZcFJudU13eDg4SURFT1pSM2ZWZXJJenlsdkd2T0pZMGgwY2F4dWxqOVd6SUFWSnoyRWRUTUtpZkFscTVYMDdUWFR6c0tnRnZvSWFoek03UXhaT1d2b3VnWnlNWld4YW5ZdDBkVkJaWkdn?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0ebca9e660ea0cba9a030de2",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:27:03+00:00",
+      "last_update": "2026-11-28T10:27:03+00:00",
+      "event": "Pakistan’s economy improving, but global risks persist: Report",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "but",
+        "economy",
+        "global",
+        "improving",
+        "pakistan",
+        "persist",
+        "report",
+        "risks",
+        "samaa"
+      ],
+      "source_excerpt": "Pakistan’s economy improving, but global risks persist: Report samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxFM3YyWnpCQ1pPM1VLV1JoMnBmRnhRRUF6SFY2aWxPa0xUTGU5X0lLVVFZMUl2Q3RGbC04VGdrblVLZFhSczJLdHVobkc3YXVtdVdZQzhxamUxOXdjSXlSWWhQb3FGVC1Nc3dGbW1abXEzSERpUkxCOW9ZV29ieHJhSUxDZFFuVGRkUUk2Y0g0X29ZdENV?oc=5",
+          "published_at": "2026-11-28T10:27:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxFM3YyWnpCQ1pPM1VLV1JoMnBmRnhRRUF6SFY2aWxPa0xUTGU5X0lLVVFZMUl2Q3RGbC04VGdrblVLZFhSczJLdHVobkc3YXVtdVdZQzhxamUxOXdjSXlSWWhQb3FGVC1Nc3dGbW1abXEzSERpUkxCOW9ZV29ieHJhSUxDZFFuVGRkUUk2Y0g0X29ZdENV?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a8d4298a76d398f5a5a9fe33",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:40:25+00:00",
+      "last_update": "2026-11-28T10:40:25+00:00",
+      "event": "PHC restrains expulsion of Pakistani woman’s Afghan spouse for six months",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghan",
+        "expulsion",
+        "for",
+        "months",
+        "pakistani",
+        "phc",
+        "restrains",
+        "six",
+        "spouse",
+        "woman"
+      ],
+      "source_excerpt": "PHC restrains expulsion of Pakistani woman’s Afghan spouse for six months",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/phc-restrains-expulsion-pakistani-womans-afghan-spouse-six-months",
+          "published_at": "2026-11-28T10:40:25+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/phc-restrains-expulsion-pakistani-womans-afghan-spouse-six-months",
+        "publisher_url": "https://arynews.tv/phc-restrains-expulsion-pakistani-womans-afghan-spouse-six-months",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "cda6c8901244a4ed0fdd0bc6",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:33:55+00:00",
+      "last_update": "2026-11-28T10:33:55+00:00",
+      "event": "Commissioner submits report to CM Sindh; over 500 illegal structures sealed in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "500",
+        "commissioner",
+        "illegal",
+        "karachi",
+        "over",
+        "report",
+        "sealed",
+        "sindh",
+        "structures",
+        "submits"
+      ],
+      "source_excerpt": "Commissioner submits report to CM Sindh; over 500 illegal structures sealed in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/commissioner-submits-report-to-cm-sindh-over-500-illegal-structures-sealed-in-karachi",
+          "published_at": "2026-11-28T10:33:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/commissioner-submits-report-to-cm-sindh-over-500-illegal-structures-sealed-in-karachi",
+        "publisher_url": "https://arynews.tv/commissioner-submits-report-to-cm-sindh-over-500-illegal-structures-sealed-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4c4d39519dd59158fbb956b2",
+      "remembered_at": "2026-11-28T10:49:28.538285+00:00",
+      "event_date": "2026-11-28T10:20:40+00:00",
+      "last_update": "2026-11-28T10:20:40+00:00",
+      "event": "NCCIA arrest 14 in Lahore petrol pumps scam",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrest",
+        "lahore",
+        "nccia",
+        "petrol",
+        "pumps",
+        "scam"
+      ],
+      "source_excerpt": "NCCIA arrest 14 in Lahore petrol pumps scam",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/nccia-arrest-14-lahore-petrol-pumps-scam",
+          "published_at": "2026-11-28T10:20:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/nccia-arrest-14-lahore-petrol-pumps-scam",
+        "publisher_url": "https://arynews.tv/nccia-arrest-14-lahore-petrol-pumps-scam",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T09:53:55.990730+00:00"
+  "updated_at": "2026-11-28T10:49:28.538285+00:00"
 }

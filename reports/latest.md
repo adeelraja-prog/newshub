@@ -1,35 +1,36 @@
-# News Hub report - Sat 28 Nov, 02:53 PM PKT
+# News Hub report - Sat 28 Nov, 03:49 PM PKT
 
 ## Collection
-- New items this run: 83 | items in rolling pool: 416
-- Unique story clusters: 344 (duplicates merged: 72)
-- Clusters dropped as already published/queued: 39; unchanged since last analysis: 6
-- Items per outlet: UrduPoint 48, Geo News 5, samaa tv 4, TechJuice 4, ARY News 3, Al Jazeera 3, Wired 3, Dawn 2, The News International 2, Dawn Latest 2, Dunya News 1, Dawn Pakistan 1
+- New items this run: 95 | items in rolling pool: 490
+- Unique story clusters: 407 (duplicates merged: 83)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 51, Geo News 10, samaa tv 4, ARY News 3, Al Jazeera 3, Wired 3, Dawn 2, Dawn Latest 2, The Express Tribune 2, BBC World 2, ProPakistani 2, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
+- Adeel Raja: SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA | https://www.youtube.com/watch?v=FVbvnmRQv8g
 
 ## Top 5 most important
-- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
@@ -40,42 +41,156 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Yemen Forces Strike Houthi Positions Amid Dire UN Hunger Warning  [NORMAL]
-- Poster: یمنی فوج کے حوثی پوزیشنز پر حملے، اقوام متحدہ کی بھوک کی سنگین وارننگ / Yemen Forces Hit Houthis as UN Warns of Hunger Crisis | category war
-- Alternative headline: UN Warns of Severe Hunger as Yemen Forces Target Houthi Positions
+### Spain faces major political shift as far-right gains ground  [NORMAL]
+- Poster: اسپین میں دائیں بازو کی جماعتوں کا اثرورسوخ بڑھنے لگا / Far-right gains ground in Spain political shift | category politics
+- Alternative headline: Far-right advances spark concerns over Spain's political future
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Yemen conflict, Houthi positions, UN hunger warning, Yemen government forces, emergency hunger, Al Jazeera | hashtags: #Yemen #UN #Houthis #WorldNews #AlJazeera
-- Scheduled: Sat 28 Nov, 02:53 PM PKT
+- Keywords: Spain politics, far right, political shift, Al Jazeera, Spain news | hashtags: #Spain #Politics #FarRight #AlJazeera
+- Scheduled: Sat 28 Nov, 03:49 PM PKT
 - Caption:
 ```
-As Yemen government forces strike Houthi positions, the United Nations warns that approximately 1.8 million people face emergency levels of hunger in government-held areas.
+Spain is facing a significant political shift as far-right groups continue to gain ground.
 
-Yemen government forces have targeted Houthi positions amid an escalating conflict, while the United Nations warns that nearly 1.8 million people are facing emergency levels of hunger in government-controlled regions of the country.
+Spain is facing a notable political shift as far-right groups gain ground and influence across the country. Reports highlight changing political dynamics and emerging challenges for the nation's leadership and democratic framework.
 
-یمن کی سرکاری افواج نے حوثی پوزیشنز کو نشانہ بنایا ہے جبکہ اقوام متحدہ نے خبردار کیا ہے کہ حکومت کے زیر کنٹرول علاقوں میں تقریباً 18 لاکھ افراد کو شدید بھوک کا سامنا ہے۔
+اسپین میں دائیں بازو کے گروہوں کے اثرورسوخ میں اضافے کے ساتھ ہی ایک اہم سیاسی تبدیلی دیکھنے میں آ رہی ہے۔ رپورٹ کے مطابق ملک کی سیاسی حرکیات میں تبدیلیاں رونما ہو رہی ہیں اور قیادت کے لیے نئے چیلنجز سامنے آ رہے ہیں۔
 
-First reported by Al Jazeera.
+According to Al Jazeera
 
-#Yemen #UN #Houthis #WorldNews #AlJazeera
+#Spain #Politics #FarRight #AlJazeera
 ```
 
-- Indian outlets blocked this run: 5 items
+### PTA confirms submarine cable fault fixed, internet services restored  [NORMAL]
+- Poster: سب میرین کیبل کی مرمت مکمل، انٹرنیٹ سروسز بحال / Submarine cable fault fixed, internet services normal | category other
+- Alternative headline: SMW-5 cable repaired as internet connectivity returns to normal across Pakistan
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal
+- Supporting coverage: Dawn Pakistan, Dawn, samaa tv
+- Keywords: PTA, internet services, submarine cable, SMW5, Pakistan | hashtags: #PTA #Internet #Pakistan #SubmarineCable
+- Scheduled: Sat 28 Nov, 03:59 PM PKT
+- Caption:
+```
+The Pakistan Telecommunication Authority announced that the international submarine cable fault has been repaired and internet services are back to normal.
+
+The Pakistan Telecommunication Authority announced the successful restoration of the SEA-ME-WE 5 international submarine cable system. Following repair work by technical teams and the international consortium, countrywide internet services have returned to normal operating capacity.
+
+پاکستان ٹیلی کمیونیکیشن اتھارٹی نے سی-می-وی 5 بین الاقوامی سب میرین کیبل سسٹم کی کامیاب بحالی کا اعلان کر دیا ہے۔ فنی ٹیموں اور بین الاقوامی کنسورشیم کی جانب سے مرمتی کام مکمل ہونے کے بعد ملک بھر میں انٹرنیٹ سروسز معمول پر آ گئی ہیں۔
+
+According to Dawn Pakistan
+
+#PTA #Internet #Pakistan #SubmarineCable
+```
+
+### PM Shehbaz and CDF Munir speak with Pakistani astronaut in space  [NORMAL]
+- Poster: وزیراعظم اور آرمی چیف کی خلا میں موجود پاکستانی خلاء باز سے گفتگو / PM and CDF speak to Pakistani astronaut in space | category other
+- Alternative headline: Top leaders call Pakistan's first astronaut aboard China's space station
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5
+- Supporting coverage: Dawn, The Express Tribune, Dawn Latest
+- Keywords: Pakistani astronaut, PM Shehbaz, CDF Munir, Tiangong space station, Zeeshan Ali | hashtags: #PakistanInSpace #ShehbazSharif #SpaceStation #ZeeshanAli
+- Scheduled: Sat 28 Nov, 04:09 PM PKT
+- Caption:
+```
+Prime Minister Shehbaz Sharif and CDF General Munir spoke via phone with Pakistani astronaut Zeeshan Ali aboard China’s Tiangong space station.
+
+Prime Minister Shehbaz Sharif and Chief of Defence Forces General Munir made a phone call to Pakistan's first astronaut, Zeeshan Ali, who is currently aboard China’s Tiangong space station as part of the historic space mission.
+
+وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز جنرل منیر نے چین کے تیانگونگ خلائی اسٹیشن پر موجود پاکستان کے پہلے خلاء باز زیشان علی سے ٹیلیفون پر گفتگو کی ہے۔
+
+According to Dawn
+
+#PakistanInSpace #ShehbazSharif #SpaceStation #ZeeshanAli
+```
+
+### Gaza’s chess players survive conflict and rebuild their community  [NORMAL]
+- Poster: غزہ کے شطرنج کے کھلاڑیوں کی جنگ کے بعد دوبارہ واپسی / Gaza chess players rebuild community after conflict | category other
+- Alternative headline: Chess returns to Gaza as players rebuild community after years of war
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Gaza chess, chess players, community rebuild, Al Jazeera, Gaza | hashtags: #Gaza #Chess #Resilience #AlJazeera
+- Scheduled: Sat 28 Nov, 04:19 PM PKT
+- Caption:
+```
+Gaza’s chess players are returning to the sport and rebuilding their community after enduring years of devastating conflict.
+
+Chess players in Gaza are returning to the game and working to rebuild their community following years of severe conflict and hardship, highlighting resilience and a passion for the sport amidst adversity.
+
+غزہ میں شطرنج کے کھلاڑی کئی سالہ شدید تنازعے کے بعد اس کھیل کی طرف واپس آ رہے ہیں اور اپنی کمیونٹی کو دوبارہ تعمیر کرنے کی کوشش کر رہے ہیں، جو مشکلات کے باوجود ان کے عزم کو ظاہر کرتا ہے۔
+
+According to Al Jazeera
+
+#Gaza #Chess #Resilience #AlJazeera
+```
+
+### New Sussex project offers free mental health and recovery courses  [NORMAL]
+- Poster: سسیکس میں ذہنی صحت کے مفت کورسز کا نیا منصوبہ شروع / New project provides free mental health courses in Sussex | category health
+- Alternative headline: County-wide mental health recovery project launches free courses in Sussex
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: mental health courses, Sussex, Recovery College, NHS, free courses | hashtags: #MentalHealth #Sussex #NHS #HealthNews
+- Scheduled: Sat 28 Nov, 04:29 PM PKT
+- Caption:
+```
+Adults across Sussex can access free mental health and recovery courses through a new county-wide project launching next year.
+
+A new county-wide project called the Sussex Recovery College will offer free courses covering mental health, wellbeing, and personal growth starting in January. Partners note that similar past services helped reduce hospital admissions significantly.
+
+سسیکس ریکوری کالج کے نام سے ایک نیا کاؤنٹی گیر پروجیکٹ جنوری سے ذہنی صحت، فلاح و بہبود اور ذاتی ترقی کے مفت کورسز پیش کرے گا۔ شراکت داروں کا کہنا ہے کہ ماضی کی اسی طرح کی خدمات سے اسپتالوں میں داخلے نمایاں طور پر کم ہوئے ہیں۔
+
+According to BBC Health
+
+#MentalHealth #Sussex #NHS #HealthNews
+```
+
+### Several students killed and injured in blast near Afghan school  [NORMAL]
+- Poster: افغان اسکول کے قریب دھماکہ، کئی طالب علم جاں بحق / Students killed and injured in blast near Afghan school | category disaster
+- Alternative headline: Explosion beside middle school in Afghanistan leaves students dead
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Afghanistan school blast, Asadabad explosion, students killed, Al Jazeera, Afghanistan | hashtags: #Afghanistan #SchoolBlast #BreakingNews #AlJazeera
+- Scheduled: Sat 28 Nov, 04:39 PM PKT
+- Caption:
+```
+At least six students were killed and 97 others injured in an explosion near a middle school in Asadabad, Afghanistan.
+
+An explosion occurring beside a middle school in Asadabad, Afghanistan, resulted in the deaths of at least six students, with 97 others sustaining injuries, according to reports from the region.
+
+افغانستان کے شہر اسناد آباد میں ایک مڈل اسکول کے قریب ہونے والے دھماکے کے نتیجے میں کم از کم چھ طالب علم جاں بحق اور 97 دیگر زخمی ہو گئے ہیں۔
+
+According to Al Jazeera
+
+#Afghanistan #SchoolBlast #BreakingNews #AlJazeera
+```
+
+- Indian outlets blocked this run: 7 items
 
 ## Today
-- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
 
 ## Queue status
-- [needs_review] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
-- [needs_review] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
-- [needs_review] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
-- [needs_review] normal | Food Inflation Surges to 8.94 Percent Amid Rising Cost of Living in In | Wed 25 Nov, 08:48 AM PKT
-- [needs_review] normal | Trump risks political fortunes on Nvidia after Jensen Huang's return | Wed 25 Nov, 08:59 AM PKT
-- [needs_review] normal | Zeeshan Ali makes history as Pakistan's first astronaut in orbit | Wed 25 Nov, 09:09 AM PKT
 - [needs_review] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
 - [needs_review] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
 - [needs_review] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
@@ -85,7 +200,6 @@ First reported by Al Jazeera.
 - [needs_review] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
 - [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
-- [published] promo | [YouTube] IMRAN KHAN’S MESSAGE, MARYAM NAWAZ SHOE INCIDENT & PML-N CRI | Wed 25 Nov, 03:18 PM PKT
 - [published] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
 - [published] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
 - [published] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
@@ -313,11 +427,11 @@ First reported by Al Jazeera.
 - [needs_review] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
 - [published] normal | JUI-F claims dozens of workers arrested amid protests | Sat 28 Nov, 08:44 AM PKT
 - [published] normal | Profit-taking drags PSX below 178,000 index level | Sat 28 Nov, 08:54 AM PKT
-- [queued] normal | Privatisation drive gains fresh momentum | Sat 28 Nov, 09:04 AM PKT
-- [queued] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
-- [queued] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
-- [queued] normal | Hunted beyond borders: Allegations of Tanzanian repression in Kenya | Sat 28 Nov, 09:34 AM PKT
-- [queued] normal | Turkish officials 'destroyed' pro-opposition TV channel, owner tells B | Sat 28 Nov, 09:45 AM PKT
+- [needs_review] normal | Privatisation drive gains fresh momentum | Sat 28 Nov, 09:04 AM PKT
+- [needs_review] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
+- [needs_review] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
+- [needs_review] normal | Hunted beyond borders: Allegations of Tanzanian repression in Kenya | Sat 28 Nov, 09:34 AM PKT
+- [needs_review] normal | Turkish officials 'destroyed' pro-opposition TV channel, owner tells B | Sat 28 Nov, 09:45 AM PKT
 - [queued] normal | US military says it disabled merchant ship trying to breach Iran block | Sat 28 Nov, 09:55 AM PKT
 - [queued] normal | Lok Mela opens to celebrate Pakistan’s cultural diversity | Sat 28 Nov, 10:05 AM PKT
 - [queued] normal | Israel kills two MSF staff in targeted strike on Gaza clinic | Sat 28 Nov, 10:15 AM PKT
@@ -340,15 +454,27 @@ First reported by Al Jazeera.
 - [queued] normal | Students killed and injured in school explosion in Afghanistan's Kunar | Sat 28 Nov, 02:17 PM PKT
 - [queued] normal | Uganda launches Africa's first mRNA Ebola vaccine trial | Sat 28 Nov, 02:27 PM PKT
 - [queued] normal | Yemen Forces Strike Houthi Positions Amid Dire UN Hunger Warning | Sat 28 Nov, 02:53 PM PKT
+- [published] promo | [YouTube] SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA | Sat 28 Nov, 03:49 PM PKT
+- [queued] normal | Spain faces major political shift as far-right gains ground | Sat 28 Nov, 03:49 PM PKT
+- [queued] normal | PTA confirms submarine cable fault fixed, internet services restored | Sat 28 Nov, 03:59 PM PKT
+- [queued] normal | PM Shehbaz and CDF Munir speak with Pakistani astronaut in space | Sat 28 Nov, 04:09 PM PKT
+- [queued] normal | Gaza’s chess players survive conflict and rebuild their community | Sat 28 Nov, 04:19 PM PKT
+- [queued] normal | New Sussex project offers free mental health and recovery courses | Sat 28 Nov, 04:29 PM PKT
+- [queued] normal | Several students killed and injured in blast near Afghan school | Sat 28 Nov, 04:39 PM PKT
 
 ## Publishing this run
-- Published 'Profit-taking drags PSX below 178,000 index level'.
+- Published '[YouTube] SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 2148 | output tokens: 595
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 6 | prompt tokens: 6782 | output tokens: 4196
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
