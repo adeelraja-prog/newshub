@@ -191223,7 +191223,945 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2ad988075e134a24536bbb49",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T06:35:09+00:00",
+      "last_update": "2026-11-28T07:21:01+00:00",
+      "event": "WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "born",
+        "bronson",
+        "but",
+        "complications",
+        "didn",
+        "died",
+        "dies",
+        "friday",
+        "from",
+        "further",
+        "haley",
+        "jaley",
+        "jermaine",
+        "medical",
+        "november",
+        "provide",
+        "reed",
+        "said",
+        "star",
+        "statement",
+        "was",
+        "wwe"
+      ],
+      "source_excerpt": "WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications WWE star Bronson Reed, born as Jermaine Haley, died on Friday, November 27, 2026. He was 38. In a statement, WWE said he died from “medical complications\" but didn’t provide further...",
+      "sources": [
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/wwe-wrestler-jermaine-haley-aka-bronson-reed-dies-at-38/",
+          "published_at": "2026-11-28T06:35:09+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside",
+          "published_at": "2026-11-28T07:05:00+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YNW45ZXZNY2FtS1JuX1QzN1NWTi1OMWVQbWNkU2VxY0Jmd0VQeHlZVnp3N2N5SnR4Vi03aVBHZ3JPV3ZfVUJQQk9ncUpYa0h3eHhDNHR2M2J6cWNVWkNTOGFhUEM4dFlabnZDTmFsZ0ItUQ?oc=5",
+          "published_at": "2026-11-28T07:21:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside",
+        "publisher_url": "https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "41f4d914e4d44a7e985438c2",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:42:09+00:00",
+      "last_update": "2026-11-28T07:42:09+00:00",
+      "event": "Students killed, injured in school explosion in Afghanistan’s Kunar region",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "breaking",
+        "explosion",
+        "injured",
+        "killed",
+        "kunar",
+        "news",
+        "region",
+        "school",
+        "story",
+        "students",
+        "this"
+      ],
+      "source_excerpt": "This is a breaking news story.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+          "published_at": "2026-11-28T07:42:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fc11504bd6ddd4fa60bdcfb",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:22:17+00:00",
+      "last_update": "2026-11-28T07:22:17+00:00",
+      "event": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "africa",
+        "behind",
+        "bundibugyo",
+        "common",
+        "drc",
+        "ebola",
+        "first",
+        "for",
+        "less",
+        "mrna",
+        "neighbouring",
+        "outbreak",
+        "starts",
+        "strain",
+        "targets",
+        "the",
+        "trial",
+        "uganda",
+        "vaccine"
+      ],
+      "source_excerpt": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+          "published_at": "2026-11-28T07:22:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "740de6f6683435dd742c9432",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:21:22+00:00",
+      "last_update": "2026-11-28T07:21:22+00:00",
+      "event": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "become",
+        "bid",
+        "boost",
+        "centres",
+        "clout",
+        "data",
+        "fast",
+        "global",
+        "how",
+        "israel",
+        "its",
+        "looking",
+        "military",
+        "processing",
+        "strength",
+        "superpower",
+        "tracking"
+      ],
+      "source_excerpt": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+          "published_at": "2026-11-28T07:21:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "306455b3606170e7abea308a",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T06:57:19+00:00",
+      "last_update": "2026-11-28T06:57:19+00:00",
+      "event": "Trump’s tariffs have become America’s new normal",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "administration",
+        "america",
+        "become",
+        "cuts",
+        "democratic",
+        "even",
+        "finance",
+        "have",
+        "help",
+        "may",
+        "new",
+        "normal",
+        "reverse",
+        "struggle",
+        "tariffs",
+        "tax",
+        "that",
+        "trump"
+      ],
+      "source_excerpt": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+          "published_at": "2026-11-28T06:57:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6050ae99f6d7837b9b3e0e84",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:55:18+00:00",
+      "last_update": "2026-11-28T07:55:18+00:00",
+      "event": "Pensions and benefits services still down after 'cyber incident'",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "been",
+        "benefits",
+        "but",
+        "chief",
+        "confirmed",
+        "cyber",
+        "department",
+        "down",
+        "for",
+        "former",
+        "government",
+        "hackers",
+        "has",
+        "have",
+        "hit",
+        "incident",
+        "may",
+        "not",
+        "officer",
+        "pensions",
+        "says",
+        "services",
+        "still",
+        "technology",
+        "that",
+        "the",
+        "work"
+      ],
+      "source_excerpt": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T07:55:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "10003e8018a3b137a3cd1c5b",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:57:30+00:00",
+      "last_update": "2026-11-28T07:57:30+00:00",
+      "event": "First hippo born at safari park in more than 40 years",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "born",
+        "breeding",
+        "calf",
+        "european",
+        "first",
+        "hippo",
+        "longleat",
+        "more",
+        "park",
+        "part",
+        "programme",
+        "safari",
+        "than",
+        "years"
+      ],
+      "source_excerpt": "A hippo calf is born at Longleat Safari Park as part of a European breeding programme.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cm0qjlv9lelzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T07:57:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/videos/cm0qjlv9lelzo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cm0qjlv9lelzo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d6c116aa6f58faf5441c0e52",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:44:51+00:00",
+      "last_update": "2026-11-28T07:44:51+00:00",
+      "event": "Tribute to farmer who 'saved rare cattle breed'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advocate",
+        "breed",
+        "breeds",
+        "cattle",
+        "eric",
+        "farm",
+        "farmer",
+        "for",
+        "freeman",
+        "gloucestershire",
+        "his",
+        "local",
+        "pioneering",
+        "rare",
+        "saved",
+        "tribute",
+        "was",
+        "who"
+      ],
+      "source_excerpt": "Eric Freeman was a pioneering advocate for local rare breeds on his farm in Gloucestershire.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T07:44:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0fb8957dcc2396bc1e7bbece",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:22:22+00:00",
+      "last_update": "2026-11-28T07:22:22+00:00",
+      "event": "Viaduct gardens vision on show as group gets access",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "been",
+        "community",
+        "create",
+        "disused",
+        "five",
+        "garden",
+        "gardens",
+        "gets",
+        "group",
+        "have",
+        "leamington",
+        "plans",
+        "published",
+        "show",
+        "spaces",
+        "viaduct",
+        "vision"
+      ],
+      "source_excerpt": "Plans to create five community garden spaces on a disused viaduct in Leamington have been published.",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T07:22:22+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "530576b430c4b21942c5037a",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:18:47+00:00",
+      "last_update": "2026-11-28T07:18:47+00:00",
+      "event": "Butcher blames costs for closure after 127 years",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "127",
+        "after",
+        "and",
+        "bennett",
+        "blames",
+        "butcher",
+        "butchers",
+        "closure",
+        "costs",
+        "energy",
+        "for",
+        "have",
+        "insurance",
+        "made",
+        "national",
+        "rises",
+        "says",
+        "spalding",
+        "unviable",
+        "years"
+      ],
+      "source_excerpt": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T07:18:47+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5fcf6a21a092aef4ec3140fb",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:34:57+00:00",
+      "last_update": "2026-11-28T07:34:57+00:00",
+      "event": "Survivor pulled from Karachi building collapse credits mother’s prayers after 48 hours trapped",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "building",
+        "collapse",
+        "credits",
+        "from",
+        "hours",
+        "karachi",
+        "mother",
+        "prayers",
+        "pulled",
+        "survivor",
+        "trapped"
+      ],
+      "source_excerpt": "Survivor pulled from Karachi building collapse credits mother’s prayers after 48 hours trapped",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/survivor-pulled-from-karachi-building-collapse-credits-mothers-prayers-after-48-hours-trapped",
+          "published_at": "2026-11-28T07:34:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/survivor-pulled-from-karachi-building-collapse-credits-mothers-prayers-after-48-hours-trapped",
+        "publisher_url": "https://arynews.tv/survivor-pulled-from-karachi-building-collapse-credits-mothers-prayers-after-48-hours-trapped",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "dd3e81d6e67b019c09b3ccaa",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:27:44+00:00",
+      "last_update": "2026-11-28T07:27:44+00:00",
+      "event": "Air pollution in Lahore soars to 330 on air quality index",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "330",
+        "air",
+        "index",
+        "lahore",
+        "pollution",
+        "quality",
+        "soars"
+      ],
+      "source_excerpt": "Air pollution in Lahore soars to 330 on air quality index",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/air-pollution-in-lahore-soars-330-air-quality-index",
+          "published_at": "2026-11-28T07:27:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/air-pollution-in-lahore-soars-330-air-quality-index",
+        "publisher_url": "https://arynews.tv/air-pollution-in-lahore-soars-330-air-quality-index",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "950da819fb7101b29f588542",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:26:21+00:00",
+      "last_update": "2026-11-28T07:26:21+00:00",
+      "event": "Karachi: Court rejects bail of accused in quadruple murders case",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accused",
+        "bail",
+        "case",
+        "court",
+        "karachi",
+        "murders",
+        "quadruple",
+        "rejects"
+      ],
+      "source_excerpt": "Karachi: Court rejects bail of accused in quadruple murders case",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/karachi-court-rejects-bail-accused-quadruple-murders-case",
+          "published_at": "2026-11-28T07:26:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/karachi-court-rejects-bail-accused-quadruple-murders-case",
+        "publisher_url": "https://arynews.tv/karachi-court-rejects-bail-accused-quadruple-murders-case",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "07a3b2aa044e1bcdfa4720a5",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T06:55:06+00:00",
+      "last_update": "2026-11-28T06:55:06+00:00",
+      "event": "Pakistan launches “Call of the Soil” program to reconnect overseas youth: How to apply?",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apply",
+        "call",
+        "how",
+        "launches",
+        "overseas",
+        "pakistan",
+        "program",
+        "reconnect",
+        "soil",
+        "the",
+        "youth"
+      ],
+      "source_excerpt": "Pakistan launches “Call of the Soil” program to reconnect overseas youth: How to apply?",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pakistan-launches-call-of-the-soil-program-to-reconnect-overseas-youth-how-to-apply",
+          "published_at": "2026-11-28T06:55:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pakistan-launches-call-of-the-soil-program-to-reconnect-overseas-youth-how-to-apply",
+        "publisher_url": "https://arynews.tv/pakistan-launches-call-of-the-soil-program-to-reconnect-overseas-youth-how-to-apply",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8984d0e48481d3db5bb35521",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T07:29:37+00:00",
+      "last_update": "2026-11-28T07:29:37+00:00",
+      "event": "Pakistani envoy to Kuwait visits national injured in drone attack",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "attack",
+        "dawn",
+        "drone",
+        "envoy",
+        "injured",
+        "kuwait",
+        "national",
+        "pakistani",
+        "visits"
+      ],
+      "source_excerpt": "Pakistani envoy to Kuwait visits national injured in drone attack Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVRCb0FRck9YZUh3d1pLeWE4bjViTWc2VDk2djlBWm9Dc2UtZEhZVzlqcUFSWk1qc01RSzhsanlBMW9NMlFqdFRUMjlmREV6TnV4ZGczNlN6dGVEblJicm95U2Utb3BtX0ZEX3ZFd0paQUhoU2pKRDk0Qk1hQnM0aU43TElqbmE2VS10TVZUdkxZR1NrVkJIeDNodWNpSEdf?oc=5",
+          "published_at": "2026-11-28T07:29:37+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVRCb0FRck9YZUh3d1pLeWE4bjViTWc2VDk2djlBWm9Dc2UtZEhZVzlqcUFSWk1qc01RSzhsanlBMW9NMlFqdFRUMjlmREV6TnV4ZGczNlN6dGVEblJicm95U2Utb3BtX0ZEX3ZFd0paQUhoU2pKRDk0Qk1hQnM0aU43TElqbmE2VS10TVZUdkxZR1NrVkJIeDNodWNpSEdf?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d196cf0c587ed0e8cea7acc0",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T03:00:00+00:00",
+      "last_update": "2026-11-28T03:00:00+00:00",
+      "event": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "being",
+        "clean",
+        "coast",
+        "customers",
+        "east",
+        "following",
+        "heavy",
+        "hundreds",
+        "lashes",
+        "parts",
+        "power",
+        "rain",
+        "restored",
+        "round",
+        "slowly",
+        "snow",
+        "storm",
+        "thanksgiving",
+        "thousands",
+        "wind"
+      ],
+      "source_excerpt": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+          "published_at": "2026-11-28T03:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "083a03f5c1100e3fc61b8ef4",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T06:04:10+00:00",
+      "last_update": "2026-11-28T06:04:10+00:00",
+      "event": "US military says cyber systems secure after reports of Air Force hack",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "air",
+        "any",
+        "asked",
+        "based",
+        "been",
+        "breach",
+        "cloud",
+        "computer",
+        "cyber",
+        "denied",
+        "digital",
+        "following",
+        "force",
+        "friday",
+        "hac",
+        "hack",
+        "hacked",
+        "had",
+        "high",
+        "infrastructure",
+        "issues",
+        "its",
+        "latest",
+        "media",
+        "military",
+        "one",
+        "platform",
+        "profile",
+        "recent",
+        "reports",
+        "says",
+        "secure",
+        "security",
+        "system",
+        "systems",
+        "that",
+        "the",
+        "was",
+        "weeks",
+        "what",
+        "whether",
+        "with",
+        "would"
+      ],
+      "source_excerpt": "The US military denied Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked , in what would be the latest high-profile breach of US digital infrastructure in recent weeks. Asked whether the Air Force’s Cloud One platform had been hac",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047651/us-military-says-cyber-systems-secure-after-reports-of-air-force-hack",
+          "published_at": "2026-11-28T06:04:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047651/us-military-says-cyber-systems-secure-after-reports-of-air-force-hack",
+        "publisher_url": "https://www.dawn.com/news/2047651/us-military-says-cyber-systems-secure-after-reports-of-air-force-hack",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4a017f9a76394c17d9f5bcb6",
+      "remembered_at": "2026-11-28T08:02:27.737241+00:00",
+      "event_date": "2026-11-28T06:39:00+00:00",
+      "last_update": "2026-11-28T06:39:00+00:00",
+      "event": "Kat Dennings marks three years of marriage to Andrew W.K.",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "andrew",
+        "another",
+        "back",
+        "backyard",
+        "beautiful",
+        "broke",
+        "celebrate",
+        "dennings",
+        "girls",
+        "her",
+        "husband",
+        "intimate",
+        "kat",
+        "looking",
+        "love",
+        "marked",
+        "marks",
+        "marriage",
+        "milestone",
+        "musician",
+        "occasion",
+        "special",
+        "star",
+        "story",
+        "the",
+        "their",
+        "they",
+        "third",
+        "three",
+        "wedding",
+        "with",
+        "years"
+      ],
+      "source_excerpt": "Kat Dennings marks three years of marriage to Andrew W.K. Kat Dennings is looking back on her intimate backyard wedding on a special occasion. The 2 Broke Girls star marked another beautiful milestone in her love story with musician husband Andrew W.K. as they celebrate their third...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692977-kat-dennings-marks-three-years-of-marriage-to-andrew-wk",
+          "published_at": "2026-11-28T06:39:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692977-kat-dennings-marks-three-years-of-marriage-to-andrew-wk",
+        "publisher_url": "https://www.geo.tv/latest/692977-kat-dennings-marks-three-years-of-marriage-to-andrew-wk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T06:47:26.950926+00:00"
+  "updated_at": "2026-11-28T08:02:27.737241+00:00"
 }

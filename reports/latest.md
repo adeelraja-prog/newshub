@@ -1,170 +1,152 @@
-# News Hub report - Sat 28 Nov, 11:47 AM PKT
+# News Hub report - Sat 28 Nov, 01:02 PM PKT
 
 ## Collection
-- New items this run: 62 | items in rolling pool: 278
-- Unique story clusters: 226 (duplicates merged: 52)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 12
-- Items per outlet: Geo News 11, Wired 10, UrduPoint 8, samaa tv 4, Dunya News 4, TechJuice 4, ARY News 3, The Current 3, Dawn 2, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1
+- New items this run: 100 | items in rolling pool: 338
+- Unique story clusters: 289 (duplicates merged: 49)
+- Clusters dropped as already published/queued: 36; unchanged since last analysis: 10
+- Items per outlet: UrduPoint 49, samaa tv 7, Geo News 6, ARY News 6, ProPakistani 6, TechJuice 5, Al Jazeera 4, BBC Science 3, Profit by Pakistan Today 2, Jang Urdu 1, Dawn 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 0 | new uploads queued: 0 | first-run seeded: 0
-- Feed warning: Adeel Raja: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCS5Lljc_YNJU4aLXGMCYAOQ
-- Feed warning: Adeel Raja Shorts: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrCIWah6oQYS-safc4vkaeg
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 109/120 | empty: 4 | failed: 7 | malformed/partial: 8
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: CNN India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India Public Affairs | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Saudi-led coalition intercepts Houthi cruise missile fired toward Riyadh  [NORMAL]
-- Poster: سৌদি اتحاد نے ریاض کی طرف فائر کیا جانے والا حوثی میزائل ناکام بنا دیا / Saudi coalition intercepts Houthi missile targeting Riyadh | category security
-- Alternative headline: Middle East latest: Saudi Arabia intercepts Houthi cruise missile
+### UK Benefits and Pensions Offline After Suspected Cyber Incident  [NORMAL]
+- Poster: برطانوی حکومت کا نظام سائبر حملے کے بعد معطل / UK Systems Down After Cyber Incident | category tech
+- Alternative headline: Government Takes Welfare Systems Offline Following Cyber Attack
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: cyber incident, pensions, benefits, DWP, UK government, hackers | hashtags: #CyberAttack #UKNews #Pensions #DWP #Technology
+- Scheduled: Sat 28 Nov, 01:02 PM PKT
+- Caption:
+```
+Online benefits and pensions services in the UK were taken offline following a cyber incident, though officials assure standard payments will continue.
+
+Online benefits and pensions services remained offline on Saturday morning after a cyber incident forced the UK government to suspend access. The Department for Work and Pensions has not confirmed the trigger or ruled out hackers, while cyber experts suspect a targeted attack to prevent data theft. Authorities assure that regular payments will continue.
+
+برطانیہ میں سائبر واقعے کے بعد آن لائن پینشن اور فوائد کی خدمات معطل ہو گئیں۔ محکمہ برائے کام اور پینشن نے تاحال تصدیق نہیں کی کہ اس کی وجہ کیا تھی لیکن ماہرین کا خیال ہے کہ یہ ہیکرز کا حملہ ہو سکتا ہے۔ حکام نے یقین دہانی کرائی ہے کہ معمول کی ادائیگیاں جاری رہیں گی۔
+
+First reported by BBC Technology
+
+#CyberAttack #UKNews #Pensions #DWP #Technology
+```
+
+### Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two More Bodies  [NORMAL]
+- Poster: کراچی عمارت انہدام: اموات کی تعداد 11 ہو گئی / Karachi Collapse Death Toll Hits 11 | category disaster
+- Alternative headline: Baloch Colony Building Collapse Death Toll Climbs to 11
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5
-- Supporting coverage: The National, The Express Tribune, samaa tv
-- Keywords: Houthi missile, Saudi coalition, Riyadh, cruise missile, intercepted | hashtags: #SaudiArabia #Riyadh #Houthi #MiddleEast #Security
-- Scheduled: Sat 28 Nov, 11:47 AM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692962-karachi-building-collapse-death-toll-reaches-11-after-two-more-bodies-pulled-out-of-rubble | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692962-karachi-building-collapse-death-toll-reaches-11-after-two-more-bodies-pulled-out-of-rubble
+- Supporting coverage: Geo News, Geo News, Dawn Pakistan, ARY News
+- Keywords: building collapse, Karachi, Baloch Colony, rescue operation, death toll, Admin Society | hashtags: #Karachi #BuildingCollapse #RescueOperation #PakistanNews #BalochColony
+- Scheduled: Sat 28 Nov, 01:12 PM PKT
 - Caption:
 ```
-The Saudi-led coalition successfully intercepted a Houthi cruise missile fired toward the capital city of Riyadh.
+The death toll from an under-construction building collapse near Baloch Colony in Karachi reached 11 after rescue teams recovered two more bodies.
 
-The Saudi-led coalition announced that it successfully intercepted a Houthi cruise missile fired toward the capital city of Riyadh. Regional tensions remain high as security forces continue to monitor and respond to aerial threats targeting the kingdom.
+The death toll from the collapse of an under-construction six-storey building in Karachi’s Admin Society near Baloch Colony rose to 11 on Saturday. Rescue teams pulled two more bodies from the rubble while searching cautiously with modern equipment. Up to nine people may still be trapped beneath the debris.
 
-سৌদি اتحاد نے اعلان کیا ہے کہ اس نے دارالحکومت ریاض کی طرف فائر کیا جانے والا حوثی کروز میزائل کامیابی سے ناکام بنا دیا۔ سیکیورٹی فورسز مملکت کو نشانہ بنانے والے فضائی خطرات کی نگرانی کر رہی ہیں۔
+کراچی کے علاقے بلوچ کالونی کے قریب زیرِ تعمیر عمارت گرنے کے واقعے میں جاں بحق افراد کی تعداد 11 ہو گئی ہے۔ ریسکیو ٹیمیں ملبے سے مزید لاشیں نکالنے اور لاپتہ افراد کی تلاش کے لیے جدید آلات کی مدد سے آپریشن جاری رکھے ہوئے ہیں۔
 
-First reported by The Express Tribune
+First reported by Geo News
 
-#SaudiArabia #Riyadh #Houthi #MiddleEast #Security
+#Karachi #BuildingCollapse #RescueOperation #PakistanNews #BalochColony
 ```
 
-### El Nino-linked deluges flood cities in Peru and Ecuador  [NORMAL]
-- Poster: ایل نینو کی بارشوں سے پیرو اور ایکواڈور کے شہر زیر آب آگئے / El Nino rains flood cities in Peru and Ecuador | category disaster
-- Alternative headline: Heavy rains and floods affect thousands in Peru and Ecuador
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss
-- Supporting coverage: Al Jazeera, ARY News
-- Keywords: El Nino floods, Peru, Ecuador, heavy rains, Piura | hashtags: #ElNino #Peru #Ecuador #Floods #Weather
-- Scheduled: Sat 28 Nov, 11:57 AM PKT
-- Caption:
-```
-Severe El Nino-linked heavy rains have triggered massive flooding, affecting thousands of families and causing dozens of deaths in Peru and Ecuador.
-
-Heavy rains linked to the El Nino weather phenomenon have caused severe flooding across cities in Peru and Ecuador. The deluges have affected thousands of families in Peru's Piura region and tens of thousands in Ecuador, where dozens of deaths have been officially reported.
-
-ایل نینو موسمیاتی مظہر سے جڑی شدید بارشوں نے پیرو اور ایکواڈور کے شہروں میں شدید سیلاب برپا کر دیا ہے۔ ان طوفانی بارشوں سے پیرو کے علاقے پیورا اور ایکواڈور میں ہزاروں خاندان متاثر ہوئے ہیں جہاں درجنوں اموات کی بھی تصدیق کی گئی ہے۔
-
-First reported by Al Jazeera
-
-#ElNino #Peru #Ecuador #Floods #Weather
-```
-
-### ADB approves $468m for water and agriculture projects in Pakistan  [NORMAL]
-- Poster: اے ڈی بی نے پانی اور زراعت کے منصوبوں کے لیے 468 ملین ڈالر منظور کر لیے / ADB approves $468m for water and agriculture projects | category economy
-- Alternative headline: Asian Development Bank approves $468m funding for Punjab and KP
+### WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications  [NORMAL]
+- Poster: ڈبلیو ڈبلیو ای کے اسٹار برونسن ریڈ 38 برس کی عمر میں انتقال کر گئے / WWE Star Bronson Reed Dies at 38 | category other
+- Alternative headline: Wrestler Jermaine Haley, Known as Bronson Reed, Dies at 38
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5
-- Supporting coverage: Dawn, Geo News, Geo News
-- Keywords: ADB funding, water projects, agriculture, Punjab, KP | hashtags: #ADB #Economy #Pakistan #Agriculture #Development
-- Scheduled: Sat 28 Nov, 12:07 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside
+- Supporting coverage: The Current, Geo News, samaa tv
+- Keywords: Bronson Reed, WWE, Jermaine Haley, wrestler, death, SmackDown | hashtags: #BronsonReed #WWE #JermaineHaley #Wrestling #RestInPeace
+- Scheduled: Sat 28 Nov, 01:22 PM PKT
 - Caption:
 ```
-The Asian Development Bank has approved $468 million in funding to boost water and agriculture management in Punjab and Khyber Pakhtunkhwa.
+WWE star Bronson Reed, born Jermaine Haley, has passed away at the age of 38 due to medical complications.
 
-The Asian Development Bank (ADB) has approved $468 million in loans aimed at improving water and agriculture management practices. The funding is targeted toward developmental projects within the provinces of Punjab and Khyber Pakhtunkhwa.
+WWE star Bronson Reed, whose real name was Jermaine Haley, died on November 27, 2026, at the age of 38. The wrestling organization announced his passing due to medical complications without providing further details. WWE paid emotional tributes to the late wrestler at the start of its SmackDown broadcast.
 
-ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پانی اور زراعت کے انتظام کو بہتر بنانے کے لیے 468 ملین ڈالر کے قرضوں کی منظوری دے دی ہے۔ یہ فنڈنگ پنجاب اور خیبر پختونخوا کے صوبوں میں ترقیاتی منصوبوں کے لیے مختص کی گئی ہے۔
+ڈبلیو ڈبلیو ای کے معروف ریسلر برونسن ریڈ 38 برس کی عمر میں طبی پیچیدگیوں کے باعث انتقال کر گئے۔ ادارے کی جانب سے ان کی اچانک موت پر گہرے دکھ کا اظہار کیا گیا ہے اور پروگرام کے آغاز میں انہیں خراج تحسین پیش کیا گیا۔
 
-First reported by Dawn
+First reported by Geo News
 
-#ADB #Economy #Pakistan #Agriculture #Development
+#BronsonReed #WWE #JermaineHaley #Wrestling #RestInPeace
 ```
 
-### Behind India’s IIT dream: Student suicides and support gaps  [NORMAL]
-- Poster: بھارت کے آئی آئی ٹی خواب کے پیچھے: طلبہ کی خودکشیاں اور معاونت کی کمی / Behind India's IIT dream: Student suicides and support gaps | category other
-- Alternative headline: Tragic death revives questions over student support at India's IIT
+### Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 Billion  [NORMAL]
+- Poster: لاہور راولپنڈی ہائی اسپیڈ ریل منصوبے کی لاگت 624 ارب روپے سے زائد / Lahore-Rawalpindi Rail Cost Over Rs624B | category other
+- Alternative headline: Expected Cost of High-Speed Lahore-Rawalpindi Rail Project Crosses Rs624 Billion
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: IIT student suicide, India education, mental health, student support, Rishikesh Kumar | hashtags: #IIT #India #MentalHealth #StudentSupport #Education
-- Scheduled: Sat 28 Nov, 12:17 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVRSNDI4OFk4Wl84TXZCT2RpanRvLVY1dTdGazFCX3Q5UjdReUpuZHZGeWJ2b1ZnWGtYZ2hpREl0UC1MWVFuQXo4VXRYdjRnOWpNd1FranpKT0c3a1l6ek1OcTB3dE1nTjBNMUZjSmN4Rk5Bd1ZuQ2RNRnF2Y1k1MU5kQlNVWjRzWW9rZWtmNHFCaTZ1ckExdUVldV8zTHpCMkVrX3l1eDhfb1UyMkhr?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVRSNDI4OFk4Wl84TXZCT2RpanRvLVY1dTdGazFCX3Q5UjdReUpuZHZGeWJ2b1ZnWGtYZ2hpREl0UC1MWVFuQXo4VXRYdjRnOWpNd1FranpKT0c3a1l6ek1OcTB3dE1nTjBNMUZjSmN4Rk5Bd1ZuQ2RNRnF2Y1k1MU5kQlNVWjRzWW9rZWtmNHFCaTZ1ckExdUVldV8zTHpCMkVrX3l1eDhfb1UyMkhr?oc=5
+- Supporting coverage: samaa tv, ProPakistani
+- Keywords: high-speed rail, Lahore, Rawalpindi, railway project, cost estimate, Pakistan infrastructure | hashtags: #RailwayProject #Lahore #Rawalpindi #Infrastructure #Pakistan
+- Scheduled: Sat 28 Nov, 01:32 PM PKT
 - Caption:
 ```
-The tragic death of a student months after joining IIT has revived critical questions regarding mental health support systems.
+The proposed Lahore-Rawalpindi high-speed rail project is estimated to cost more than Rs624 billion.
 
-The tragic death of Rishikesh Kumar, who died in a suspected suicide months after securing admission to India's prestigious IIT, has reignited urgent discussions and concerns regarding adequate mental health support and institutional gaps for students.
+The estimated cost for the high-speed rail project connecting Lahore and Rawalpindi has been projected at over Rs624 billion. The initiative aims to enhance transportation infrastructure and connectivity between the two major cities in Punjab.
 
-بھارت کے معتبر ادارے آئی آئی ٹی میں داخلے کے چند ماہ بعد مبینہ خودکشی سے جاں بحق ہونے والے رشی کیش کمار کے واقعے نے طلبہ کو ذہنی صحت کی معاونت فراہم کرنے کے حوالے سے اہم سوالات کو دوبارہ جنم دیا ہے۔
+لاہور اور راولپنڈی کے درمیان ہائی اسپیڈ ریل منصوبے کی تخمینہ لاگت 624 ارب روپے سے زائد ظاہر کی گئی ہے۔ اس منصوبے کا مقصد دونوں شہروں کے درمیان ٹرانسپورٹ کے نظام کو جدید بنانا ہے۔
 
-First reported by Al Jazeera
+First reported by Samaa TV
 
-#IIT #India #MentalHealth #StudentSupport #Education
+#RailwayProject #Lahore #Rawalpindi #Infrastructure #Pakistan
 ```
 
-### Elon Musk can afford a little MAGA amnesia, analysts say  [NORMAL]
-- Poster: ایلون مسک کے سیاسی داؤ ان کی دولت کی کشش کو کم نہ کر سکے / Elon Musk can afford political amnesia, reports say | category politics
-- Alternative headline: Failed political bets fail to diminish the bipartisan appeal of Musk's fortune
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Elon Musk, MAGA, Republicans, bipartisan appeal, fortune | hashtags: #ElonMusk #USPolitics #Business #MAGA #Economy
-- Scheduled: Sat 28 Nov, 12:27 PM PKT
-- Caption:
-```
-Despite a failed political bet on Republicans, Elon Musk’s immense fortune maintains its strong bipartisan appeal.
-
-Analysts discuss how Elon Musk's previous political spending and failed bets on Republican candidates have done nothing to diminish the enduring bipartisan commercial and financial appeal of his vast business empire and fortune.
-
-تجزیہ کاروں کے مطابق ایلون مسک کی جانب سے ریپبلکنز پر لگائے گئے سیاسی داؤ کے ناکام ہونے کے باوجود ان کی بے پناہ دولت اور تجارتی اثاثوں کی دوطرفہ سیاسی مقبولیت پر کوئی فرق نہیں پڑا۔
-
-First reported by Al Jazeera
-
-#ElonMusk #USPolitics #Business #MAGA #Economy
-```
-
-- Indian outlets blocked this run: 3 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -406,10 +388,10 @@ First reported by Al Jazeera
 - [needs_review] normal | Power Outages And Travel Disruptions As Storm Batters US East Coast | Sat 28 Nov, 05:33 AM PKT
 - [needs_review] normal | At Least Eight Migrants Found Dead On Boat Off Canary Islands | Sat 28 Nov, 05:43 AM PKT
 - [published] normal | Dissidents Say Their Voices Are Drowned Out Amid China's Rise | Sat 28 Nov, 05:53 AM PKT
-- [queued] normal | Family Seeks Answers 14 Years After Teenager's Sudden Death | Sat 28 Nov, 06:03 AM PKT
-- [queued] normal | JUI-F protests official treatment of Maulana Fazlur Rehman | Sat 28 Nov, 06:52 AM PKT
-- [queued] normal | New film spotlights legendary Indian dancer Vithabhai Narayangaonkar | Sat 28 Nov, 07:02 AM PKT
-- [queued] normal | Thousands of Puerto Ricans join 'Day of National Outrage' | Sat 28 Nov, 07:12 AM PKT
+- [needs_review] normal | Family Seeks Answers 14 Years After Teenager's Sudden Death | Sat 28 Nov, 06:03 AM PKT
+- [needs_review] normal | JUI-F protests official treatment of Maulana Fazlur Rehman | Sat 28 Nov, 06:52 AM PKT
+- [needs_review] normal | New film spotlights legendary Indian dancer Vithabhai Narayangaonkar | Sat 28 Nov, 07:02 AM PKT
+- [published] normal | Thousands of Puerto Ricans join 'Day of National Outrage' | Sat 28 Nov, 07:12 AM PKT
 - [queued] normal | BBC Technology explores autonomous space travel and tech innovations | Sat 28 Nov, 07:22 AM PKT
 - [queued] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
 - [queued] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
@@ -433,15 +415,22 @@ First reported by Al Jazeera
 - [queued] normal | ADB approves $468m for water and agriculture projects in Pakistan | Sat 28 Nov, 12:07 PM PKT
 - [queued] normal | Behind India’s IIT dream: Student suicides and support gaps | Sat 28 Nov, 12:17 PM PKT
 - [queued] normal | Elon Musk can afford a little MAGA amnesia, analysts say | Sat 28 Nov, 12:27 PM PKT
+- [queued] normal | UK Benefits and Pensions Offline After Suspected Cyber Incident | Sat 28 Nov, 01:02 PM PKT
+- [queued] normal | Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two  | Sat 28 Nov, 01:12 PM PKT
+- [queued] normal | WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications | Sat 28 Nov, 01:22 PM PKT
+- [queued] normal | Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 | Sat 28 Nov, 01:32 PM PKT
 
 ## Publishing this run
-- Published 'Dissidents Say Their Voices Are Drowned Out Amid China's Rise'.
+- Published 'Thousands of Puerto Ricans join 'Day of National Outrage''.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5506 | output tokens: 2808
+- Calls: 3 | prompt tokens: 5824 | output tokens: 2284
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTP 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
