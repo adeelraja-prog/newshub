@@ -1,10 +1,10 @@
-# News Hub report - Sat 28 Nov, 10:44 AM PKT
+# News Hub report - Sat 28 Nov, 11:47 AM PKT
 
 ## Collection
-- New items this run: 27 | items in rolling pool: 238
-- Unique story clusters: 192 (duplicates merged: 46)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 11
-- Items per outlet: TechJuice 4, Geo News 3, samaa tv 3, Al Jazeera 3, ARY News 2, Dawn 1, Dunya News 1, Dawn Pakistan 1, Dawn Latest 1, Punjab Newsline 1, Bol News 1, The Current 1
+- New items this run: 62 | items in rolling pool: 278
+- Unique story clusters: 226 (duplicates merged: 52)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 12
+- Items per outlet: Geo News 11, Wired 10, UrduPoint 8, samaa tv 4, Dunya News 4, TechJuice 4, ARY News 3, The Current 3, Dawn 2, Dawn Pakistan 1, Dawn Latest 1, Jang Urdu 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
@@ -13,111 +13,158 @@
 - Feed warning: Adeel Raja Shorts: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrCIWah6oQYS-safc4vkaeg
 
 ## Top 5 most important
-- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ADB approves $468m water, farm projects | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Elon Musk can afford a little MAGA amnesia | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
 
 ## Selected for the queue
-### Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers  [NORMAL]
-- Poster: سندھ اسمبلی کا گھریلو صارفین کو بلا تعطل گیس فراہمی کا مطالبہ / Sindh Assembly demands uninterrupted gas supply | category politics
-- Alternative headline: Lawmakers Accuse Centre of Denying Gas to Sindh
+### Saudi-led coalition intercepts Houthi cruise missile fired toward Riyadh  [NORMAL]
+- Poster: سৌদি اتحاد نے ریاض کی طرف فائر کیا جانے والا حوثی میزائل ناکام بنا دیا / Saudi coalition intercepts Houthi missile targeting Riyadh | category security
+- Alternative headline: Middle East latest: Saudi Arabia intercepts Houthi cruise missile
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047595/sindh-assembly-demands-uninterrupted-gas-supply-to-domestic-consumers | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047595/sindh-assembly-demands-uninterrupted-gas-supply-to-domestic-consumers
-- Supporting coverage: Dawn Pakistan
-- Keywords: gas supply, Sindh Assembly, SSGC, loadshedding, domestic consumers, Ziaul Hassan Lanjar | hashtags: #SindhAssembly #GasSupply #Karachi #Pakistan #SSGC
-- Scheduled: Sat 28 Nov, 10:45 AM PKT
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5
+- Supporting coverage: The National, The Express Tribune, samaa tv
+- Keywords: Houthi missile, Saudi coalition, Riyadh, cruise missile, intercepted | hashtags: #SaudiArabia #Riyadh #Houthi #MiddleEast #Security
+- Scheduled: Sat 28 Nov, 11:47 AM PKT
 - Caption:
 ```
-Lawmakers across party lines in the Sindh Assembly unanimously passed a motion demanding uninterrupted gas supply and an end to unannounced loadshedding.
+The Saudi-led coalition successfully intercepted a Houthi cruise missile fired toward the capital city of Riyadh.
 
-The Sindh Assembly unanimously passed a motion demanding uninterrupted gas supply to domestic consumers and an end to unannounced loadshedding. Lawmakers accused the federal government of denying the province its constitutional right, while urging Sui Southern Gas Company to provide advance notice before any suspension.
+The Saudi-led coalition announced that it successfully intercepted a Houthi cruise missile fired toward the capital city of Riyadh. Regional tensions remain high as security forces continue to monitor and respond to aerial threats targeting the kingdom.
 
-سندھ اسمبلی نے متفقہ طور پر ایک قرارداد منظور کی جس میں گھریلو صارفین کو بلا تعطل گیس کی فراہمی اور غیر اعلانیہ لوڈشیڈنگ کے خاتمے کا مطالبہ کیا گیا۔ ارکان نے وفاقی حکومت پر صوبے کو اس کا آئینی حق نہ دینے کا الزام عائد کیا۔
+سৌদি اتحاد نے اعلان کیا ہے کہ اس نے دارالحکومت ریاض کی طرف فائر کیا جانے والا حوثی کروز میزائل کامیابی سے ناکام بنا دیا۔ سیکیورٹی فورسز مملکت کو نشانہ بنانے والے فضائی خطرات کی نگرانی کر رہی ہیں۔
 
-First reported by Dawn Pakistan
+First reported by The Express Tribune
 
-#SindhAssembly #GasSupply #Karachi #Pakistan #SSGC
+#SaudiArabia #Riyadh #Houthi #MiddleEast #Security
 ```
 
-### Gold Prices Surge by Rs11,500 Per Tola in Pakistan  [NORMAL]
-- Poster: پاکستان میں فی تولہ سونے کی قیمت میں بڑا اضافہ / Gold price rises by Rs11,500 per tola | category other
-- Alternative headline: Gold Rate Jumps Significantly Across Pakistan Markets
+### El Nino-linked deluges flood cities in Peru and Ecuador  [NORMAL]
+- Poster: ایل نینو کی بارشوں سے پیرو اور ایکواڈور کے شہر زیر آب آگئے / El Nino rains flood cities in Peru and Ecuador | category disaster
+- Alternative headline: Heavy rains and floods affect thousands in Peru and Ecuador
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss
+- Supporting coverage: Al Jazeera, ARY News
+- Keywords: El Nino floods, Peru, Ecuador, heavy rains, Piura | hashtags: #ElNino #Peru #Ecuador #Floods #Weather
+- Scheduled: Sat 28 Nov, 11:57 AM PKT
+- Caption:
+```
+Severe El Nino-linked heavy rains have triggered massive flooding, affecting thousands of families and causing dozens of deaths in Peru and Ecuador.
+
+Heavy rains linked to the El Nino weather phenomenon have caused severe flooding across cities in Peru and Ecuador. The deluges have affected thousands of families in Peru's Piura region and tens of thousands in Ecuador, where dozens of deaths have been officially reported.
+
+ایل نینو موسمیاتی مظہر سے جڑی شدید بارشوں نے پیرو اور ایکواڈور کے شہروں میں شدید سیلاب برپا کر دیا ہے۔ ان طوفانی بارشوں سے پیرو کے علاقے پیورا اور ایکواڈور میں ہزاروں خاندان متاثر ہوئے ہیں جہاں درجنوں اموات کی بھی تصدیق کی گئی ہے۔
+
+First reported by Al Jazeera
+
+#ElNino #Peru #Ecuador #Floods #Weather
+```
+
+### ADB approves $468m for water and agriculture projects in Pakistan  [NORMAL]
+- Poster: اے ڈی بی نے پانی اور زراعت کے منصوبوں کے لیے 468 ملین ڈالر منظور کر لیے / ADB approves $468m for water and agriculture projects | category economy
+- Alternative headline: Asian Development Bank approves $468m funding for Punjab and KP
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPYS0wWEcyNWZJVU0yR01NOExpeWZBREMtNlo5Um5wSldRRlJ4RHkzWVRrOXdlWi05VjhlcmtHLUZNVGtTaW1IUzVSWjRLNlVpOUJoVlZfVHI5SVpDdXNuRzJuV0VvTm5LREdKQkw4dDdyck1QV2VKaVh2Mk1RcktVR3VXZW1kR0FZckpVTmtkbmhyYk1QUUV1bQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPYS0wWEcyNWZJVU0yR01NOExpeWZBREMtNlo5Um5wSldRRlJ4RHkzWVRrOXdlWi05VjhlcmtHLUZNVGtTaW1IUzVSWjRLNlVpOUJoVlZfVHI5SVpDdXNuRzJuV0VvTm5LREdKQkw4dDdyck1QV2VKaVh2Mk1RcktVR3VXZW1kR0FZckpVTmtkbmhyYk1QUUV1bQ?oc=5
-- Supporting coverage: Investify, samaa tv, TechJuice, TechJuice
-- Keywords: gold price, gold rate, tola, Pakistan, precious metals, market update | hashtags: #GoldPrice #Pakistan #Economy #Gold #MarketUpdate
-- Scheduled: Sat 28 Nov, 10:55 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5
+- Supporting coverage: Dawn, Geo News, Geo News
+- Keywords: ADB funding, water projects, agriculture, Punjab, KP | hashtags: #ADB #Economy #Pakistan #Agriculture #Development
+- Scheduled: Sat 28 Nov, 12:07 PM PKT
 - Caption:
 ```
-Gold prices in Pakistan experienced a massive upward shift, rising by Rs11,500 per tola.
+The Asian Development Bank has approved $468 million in funding to boost water and agriculture management in Punjab and Khyber Pakhtunkhwa.
 
-Gold prices in Pakistan recorded a significant increase of Rs11,500 per tola, reflecting ongoing market fluctuations and shifts in precious metal rates across the country.
+The Asian Development Bank (ADB) has approved $468 million in loans aimed at improving water and agriculture management practices. The funding is targeted toward developmental projects within the provinces of Punjab and Khyber Pakhtunkhwa.
 
-پاکستان میں سونے کی فی تولہ قیمت میں گیارہ ہزار پانچ سو روپے کا بڑا اضافہ ریکارڈ کیا گیا، جس سے ملک بھر میں قیمتی دھاتوں کے نرخ متاثر ہوئے۔
+ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پانی اور زراعت کے انتظام کو بہتر بنانے کے لیے 468 ملین ڈالر کے قرضوں کی منظوری دے دی ہے۔ یہ فنڈنگ پنجاب اور خیبر پختونخوا کے صوبوں میں ترقیاتی منصوبوں کے لیے مختص کی گئی ہے۔
 
-First reported by samaa tv
+First reported by Dawn
 
-#GoldPrice #Pakistan #Economy #Gold #MarketUpdate
+#ADB #Economy #Pakistan #Agriculture #Development
 ```
 
-### City Council Approves Rs249m for Burns Road Food Street  [NORMAL]
-- Poster: سٹی کونسل نے برنس روڈ فوڈ اسٹریٹ کے لیے کروڑوں روپے منظور کر لیے / City Council approves Rs249m for Burns Road | category other
-- Alternative headline: Karachi Approves Pedestrian-Only Status for Burns Road
+### Behind India’s IIT dream: Student suicides and support gaps  [NORMAL]
+- Poster: بھارت کے آئی آئی ٹی خواب کے پیچھے: طلبہ کی خودکشیاں اور معاونت کی کمی / Behind India's IIT dream: Student suicides and support gaps | category other
+- Alternative headline: Tragic death revives questions over student support at India's IIT
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047592/city-council-approves-rs249m-for-karachis-burns-road-food-street | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047592/city-council-approves-rs249m-for-karachis-burns-road-food-street
-- Supporting coverage: Dawn Pakistan, Dawn
-- Keywords: Burns Road Food Street, City Council, Karachi, pedestrian area, Sindh High Court, Murtaza Wahab | hashtags: #BurnsRoad #Karachi #CityCouncil #FoodStreet #SindhHighCourt
-- Scheduled: Sat 28 Nov, 11:05 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: IIT student suicide, India education, mental health, student support, Rishikesh Kumar | hashtags: #IIT #India #MentalHealth #StudentSupport #Education
+- Scheduled: Sat 28 Nov, 12:17 PM PKT
 - Caption:
 ```
-Karachi's City Council approved Rs249.823 million to renovate Burns Road Food Street and make it a pedestrian-only area.
+The tragic death of a student months after joining IIT has revived critical questions regarding mental health support systems.
 
-The City Council approved a proposal to designate Burns Road Food Street as a pedestrian-only area and allocate Rs249.823 million for its renovation. The decision revives the project despite a previous 2023 Sindh High Court directive to restore vehicular traffic on the road.
+The tragic death of Rishikesh Kumar, who died in a suspected suicide months after securing admission to India's prestigious IIT, has reignited urgent discussions and concerns regarding adequate mental health support and institutional gaps for students.
 
-سٹی کونسل نے برنس روڈ فوڈ اسٹریٹ کو پیدل چلنے والوں کے لیے مخصوص کرنے اور اس کی تزئین و آرائش کے لیے دو کروڑ روپے سے زائد کے فنڈز کی منظوری دے دی ہے، باوجود اس کے کہ سندھ ہائی کورٹ کا پرانا حکم ٹریفک بحال رکھنے کا تھا۔
+بھارت کے معتبر ادارے آئی آئی ٹی میں داخلے کے چند ماہ بعد مبینہ خودکشی سے جاں بحق ہونے والے رشی کیش کمار کے واقعے نے طلبہ کو ذہنی صحت کی معاونت فراہم کرنے کے حوالے سے اہم سوالات کو دوبارہ جنم دیا ہے۔
 
-First reported by Dawn Pakistan
+First reported by Al Jazeera
 
-#BurnsRoad #Karachi #CityCouncil #FoodStreet #SindhHighCourt
+#IIT #India #MentalHealth #StudentSupport #Education
+```
+
+### Elon Musk can afford a little MAGA amnesia, analysts say  [NORMAL]
+- Poster: ایلون مسک کے سیاسی داؤ ان کی دولت کی کشش کو کم نہ کر سکے / Elon Musk can afford political amnesia, reports say | category politics
+- Alternative headline: Failed political bets fail to diminish the bipartisan appeal of Musk's fortune
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Elon Musk, MAGA, Republicans, bipartisan appeal, fortune | hashtags: #ElonMusk #USPolitics #Business #MAGA #Economy
+- Scheduled: Sat 28 Nov, 12:27 PM PKT
+- Caption:
+```
+Despite a failed political bet on Republicans, Elon Musk’s immense fortune maintains its strong bipartisan appeal.
+
+Analysts discuss how Elon Musk's previous political spending and failed bets on Republican candidates have done nothing to diminish the enduring bipartisan commercial and financial appeal of his vast business empire and fortune.
+
+تجزیہ کاروں کے مطابق ایلون مسک کی جانب سے ریپبلکنز پر لگائے گئے سیاسی داؤ کے ناکام ہونے کے باوجود ان کی بے پناہ دولت اور تجارتی اثاثوں کی دوطرفہ سیاسی مقبولیت پر کوئی فرق نہیں پڑا۔
+
+First reported by Al Jazeera
+
+#ElonMusk #USPolitics #Business #MAGA #Economy
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 12 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -354,11 +401,11 @@ First reported by Dawn Pakistan
 - [published] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
 - [needs_review] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
 - [published] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
-- [queued] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
-- [queued] normal | Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears | Sat 28 Nov, 05:23 AM PKT
-- [queued] normal | Power Outages And Travel Disruptions As Storm Batters US East Coast | Sat 28 Nov, 05:33 AM PKT
-- [queued] normal | At Least Eight Migrants Found Dead On Boat Off Canary Islands | Sat 28 Nov, 05:43 AM PKT
-- [queued] normal | Dissidents Say Their Voices Are Drowned Out Amid China's Rise | Sat 28 Nov, 05:53 AM PKT
+- [needs_review] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
+- [needs_review] normal | Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears | Sat 28 Nov, 05:23 AM PKT
+- [needs_review] normal | Power Outages And Travel Disruptions As Storm Batters US East Coast | Sat 28 Nov, 05:33 AM PKT
+- [needs_review] normal | At Least Eight Migrants Found Dead On Boat Off Canary Islands | Sat 28 Nov, 05:43 AM PKT
+- [published] normal | Dissidents Say Their Voices Are Drowned Out Amid China's Rise | Sat 28 Nov, 05:53 AM PKT
 - [queued] normal | Family Seeks Answers 14 Years After Teenager's Sudden Death | Sat 28 Nov, 06:03 AM PKT
 - [queued] normal | JUI-F protests official treatment of Maulana Fazlur Rehman | Sat 28 Nov, 06:52 AM PKT
 - [queued] normal | New film spotlights legendary Indian dancer Vithabhai Narayangaonkar | Sat 28 Nov, 07:02 AM PKT
@@ -381,14 +428,20 @@ First reported by Dawn Pakistan
 - [queued] normal | Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers | Sat 28 Nov, 10:45 AM PKT
 - [queued] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
 - [queued] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
+- [queued] normal | Saudi-led coalition intercepts Houthi cruise missile fired toward Riya | Sat 28 Nov, 11:47 AM PKT
+- [queued] normal | El Nino-linked deluges flood cities in Peru and Ecuador | Sat 28 Nov, 11:57 AM PKT
+- [queued] normal | ADB approves $468m for water and agriculture projects in Pakistan | Sat 28 Nov, 12:07 PM PKT
+- [queued] normal | Behind India’s IIT dream: Student suicides and support gaps | Sat 28 Nov, 12:17 PM PKT
+- [queued] normal | Elon Musk can afford a little MAGA amnesia, analysts say | Sat 28 Nov, 12:27 PM PKT
 
 ## Publishing this run
-- Published 'Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism'.
+- Published 'Dissidents Say Their Voices Are Drowned Out Amid China's Rise'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4493 | output tokens: 1747
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
+- Calls: 3 | prompt tokens: 5506 | output tokens: 2808
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

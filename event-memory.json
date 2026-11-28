@@ -190730,7 +190730,500 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8795defb11aa606c882cec88",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T05:31:29+00:00",
+      "last_update": "2026-11-28T06:44:28+00:00",
+      "event": "Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "capital",
+        "coalition",
+        "cruise",
+        "express",
+        "fired",
+        "houthi",
+        "intercepts",
+        "led",
+        "missile",
+        "riyadh",
+        "saudi",
+        "the",
+        "toward",
+        "tribune"
+      ],
+      "source_excerpt": "Saudi-led coalition intercepts Houthi cruise missile fired toward capital Riyadh The Express Tribune",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+          "published_at": "2026-11-28T05:31:29+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5",
+          "published_at": "2026-11-28T06:33:45+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUtUSjRVa0pwZmdZRFpfRERxOVNSUXB2VkRvTUFkMWhZTC1NaWNnMTNzVDNnbmhyeDhQRldoNnF4TmdKRk5uak56VVpHVDd3ajZNUzBfbG9zT0RrNEdJNVc4TnE0azFVZkJ5LV9wUmV6VnZ2Ykp0S01nTUpwRWR4c3pIQzlxU2Vlb2N3dW5MTHFOb2hvb3NoRGhn?oc=5",
+          "published_at": "2026-11-28T06:44:28+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1ptRDMwRVdpQkpScklERlJvSkNnRzdNZHVFZ2xGN0JXeW5YV25abjZ3R0VmNmJkRGhnNklyRjF1NFJ1Y0Zaa0ZGVFpucDJxNDJmb1FwTVp1ZXNwTGJzRkhBRzJXaFJ1LVRBOGpMMGdnVGxSSWllVlJscjFMc1VDbFd5X1pfWEpXYWtYbDdrWVJDUlRBaURLcmFSbmFBZ2p5eFgwMV9SU05vdUtyYkFwNDRQbGVqSzVh?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef491cd63f6a898e4cb0a735",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T00:02:58+00:00",
+      "last_update": "2026-11-28T06:29:00+00:00",
+      "event": "ADB approves $468m water, farm projects",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "468m",
+        "adb",
+        "approves",
+        "dawn",
+        "farm",
+        "projects",
+        "water"
+      ],
+      "source_excerpt": "ADB approves $468m water, farm projects Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5",
+          "published_at": "2026-11-28T00:02:58+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692976-adb-approves-468m-funding-for-projects-in-punjab-kp",
+          "published_at": "2026-11-28T06:29:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVowSEVBWTdlX05SUXduTHVLaWlWcHA0YzF0TkdxVy0tc0JLUXRvSVhicm9uSHo4SmRqVUFOYWlDNlZZUVlPM1pCRk5MR3RKQUlUQWFvbzBXdWFCWXhvME5DV2g5TnU2LXNaaG1KM0hrQlJGb3JmUExleG1OWU42VlRoelJadHRsVkdrcA?oc=5",
+          "published_at": "2026-11-28T06:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVG0yeU9pZnNhaGh6TXRhTzE0Q0pwRzE5WFNjSGNwcWwyUFBlcVl0QlBadmpUZEx0RkItckxUT0FOWHlaUkgyZEtlSmVHcmRaa21TcWU2NDVjTk9KUUgydVFFWTA0WTFsR0stVUFFQUZGSDFlZy1vOUlyWQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "88fc8203ef4d5bba8fc841eb",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:25:24+00:00",
+      "last_update": "2026-11-28T06:25:24+00:00",
+      "event": "Elon Musk can afford a little MAGA amnesia",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afford",
+        "amnesia",
+        "appeal",
+        "bet",
+        "bipartisan",
+        "can",
+        "diminish",
+        "done",
+        "elon",
+        "failed",
+        "fortune",
+        "has",
+        "his",
+        "little",
+        "maga",
+        "musk",
+        "nothing",
+        "republicans",
+        "the"
+      ],
+      "source_excerpt": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+          "published_at": "2026-11-28T06:25:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8cd5780b7b220f9c32e0d84c",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:00:11+00:00",
+      "last_update": "2026-11-28T06:00:11+00:00",
+      "event": "Pharmacies get new powers to swap prescriptions during shortages",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "capsule",
+        "different",
+        "drug",
+        "during",
+        "form",
+        "get",
+        "instead",
+        "like",
+        "medicine",
+        "new",
+        "offer",
+        "out",
+        "pharmacies",
+        "pill",
+        "powers",
+        "prescriptions",
+        "same",
+        "shortages",
+        "staff",
+        "stock",
+        "strength",
+        "swap",
+        "the"
+      ],
+      "source_excerpt": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T06:00:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4dd4703e922f5efcbdb970c6",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:30:42+00:00",
+      "last_update": "2026-11-28T06:30:42+00:00",
+      "event": "CDA seals Fazl’s Islamabad residence after 'foreign' owner's CNIC cancelled",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "amid",
+        "authority",
+        "between",
+        "cancellation",
+        "cancelled",
+        "capital",
+        "card",
+        "cda",
+        "chief",
+        "cnic",
+        "comes",
+        "continuing",
+        "development",
+        "fazl",
+        "fazlur",
+        "following",
+        "foreign",
+        "identity",
+        "islam",
+        "islamabad",
+        "jamiat",
+        "jui",
+        "legal",
+        "maulana",
+        "move",
+        "owner",
+        "property",
+        "rehman",
+        "residence",
+        "saturday",
+        "sealed",
+        "seals",
+        "tensions",
+        "the",
+        "ulema"
+      ],
+      "source_excerpt": "ISLAMABAD: The Capital Development Authority (CDA) on Saturday sealed the residence of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman in Islamabad following the cancellation of the identity card of the property’s legal owner. The move comes amid continuing tensions between the JUI-F a",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+          "published_at": "2026-11-28T06:30:42+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+        "publisher_url": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "799fbb26cb993a8795d1a2ec",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:32:31+00:00",
+      "last_update": "2026-11-28T06:32:31+00:00",
+      "event": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "fazlur",
+        "islamabad",
+        "maulana",
+        "rehman",
+        "residence",
+        "sealed",
+        "son"
+      ],
+      "source_excerpt": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/maulana-fazlur-rehmans-islamabad-residence-sealed-son-arrested",
+          "published_at": "2026-11-28T06:32:31+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/maulana-fazlur-rehmans-islamabad-residence-sealed-son-arrested",
+        "publisher_url": "https://arynews.tv/maulana-fazlur-rehmans-islamabad-residence-sealed-son-arrested",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7b3b59334c6fdbc961f127b8",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:32:55+00:00",
+      "last_update": "2026-11-28T06:32:55+00:00",
+      "event": "Punjab emerges as epicentre of intense political activity",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activity",
+        "emerges",
+        "epicentre",
+        "geo",
+        "intense",
+        "news",
+        "political",
+        "punjab"
+      ],
+      "source_excerpt": "Punjab emerges as epicentre of intense political activity Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzFUMmg2NDE0WVJJZzNGaE16ZUw1UHBrbkxLYmpxXzM3Yjd0TWh6dk02MFFrVzZROXJRd2gyNEhCVGU4TGJ4UUVIRVNSTkhFaWRkVXhBYmQxSElYbVlXbkR0cGR4NTZaRVJRNTE2UjZsVERNcHdoaGctenFDckc1TzFmeWZ6UTMweHFFVnJqY0pqbW9yRmNwdzhwNGJ6ajljb1BVakl3?oc=5",
+          "published_at": "2026-11-28T06:32:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzFUMmg2NDE0WVJJZzNGaE16ZUw1UHBrbkxLYmpxXzM3Yjd0TWh6dk02MFFrVzZROXJRd2gyNEhCVGU4TGJ4UUVIRVNSTkhFaWRkVXhBYmQxSElYbVlXbkR0cGR4NTZaRVJRNTE2UjZsVERNcHdoaGctenFDckc1TzFmeWZ6UTMweHFFVnJqY0pqbW9yRmNwdzhwNGJ6ajljb1BVakl3?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "93b4dac304f4377ba305ad94",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T05:25:21+00:00",
+      "last_update": "2026-11-28T05:25:21+00:00",
+      "event": "US shoppers confront uphill battle in Black Friday discount quest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "battle",
+        "black",
+        "confront",
+        "discount",
+        "friday",
+        "quest",
+        "shoppers",
+        "uphill"
+      ],
+      "source_excerpt": "US shoppers confront uphill battle in Black Friday discount quest",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest",
+          "published_at": "2026-11-28T05:25:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest",
+        "publisher_url": "https://arynews.tv/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4ea8aba8758bf02c237628b7",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T05:53:46+00:00",
+      "last_update": "2026-11-28T05:53:46+00:00",
+      "event": "UAE aviation sector expands as passenger traffic, airport investments rise",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "aviation",
+        "expands",
+        "investments",
+        "passenger",
+        "rise",
+        "samaa",
+        "sector",
+        "traffic",
+        "uae"
+      ],
+      "source_excerpt": "UAE aviation sector expands as passenger traffic, airport investments rise samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS05LTk5IdlVpaExGeE5WNzRjR3pScV9HSTBtWWFQT1dRMlc4TVk1VVVCMlgycldpSmI2ei1HZ0VsOE1JbDZ3VUsyNkhaLU1jdl9IVW1nS1hldDdJNjJyVXV3SXg3SnU2cHdIaF9rUXpNemYyRUR0M1JvWDRaMW5aSEx0OFZ6ZVNjNGw3a1lmWkJUa0RseGQ3bmxGUHpldVZ5LXpacVZ1dE0?oc=5",
+          "published_at": "2026-11-28T05:53:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS05LTk5IdlVpaExGeE5WNzRjR3pScV9HSTBtWWFQT1dRMlc4TVk1VVVCMlgycldpSmI2ei1HZ0VsOE1JbDZ3VUsyNkhaLU1jdl9IVW1nS1hldDdJNjJyVXV3SXg3SnU2cHdIaF9rUXpNemYyRUR0M1JvWDRaMW5aSEx0OFZ6ZVNjNGw3a1lmWkJUa0RseGQ3bmxGUHpldVZ5LXpacVZ1dE0?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3228b5f06fbd8b727c9648a6",
+      "remembered_at": "2026-11-28T06:47:26.950926+00:00",
+      "event_date": "2026-11-28T06:29:40+00:00",
+      "last_update": "2026-11-28T06:29:40+00:00",
+      "event": "Saudi minister, Asim Munir discuss advancing defence capabilities",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "advancing",
+        "asim",
+        "capabilities",
+        "defence",
+        "discuss",
+        "minister",
+        "munir",
+        "samaa",
+        "saudi"
+      ],
+      "source_excerpt": "Saudi minister, Asim Munir discuss advancing defence capabilities samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXhaZ2h4QXFpb25HcGpxMjlYcTNtLTRObnpPZkhlX2ZFLUJ5V25QUlIzN1ZZYVdrNG5CcUstWk1WWXpyTklaQkVCaTFQU01hV3VCUjN5S0h1UlZ3Y3JSSVFmVFZudC1hX1YtUTY1VVF1djNsTms4d09VWHFkbmlRRDVla2d0YzdwV1Ixd2dqeWpfMUtmZWJLQ1JGOHc?oc=5",
+          "published_at": "2026-11-28T06:29:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXhaZ2h4QXFpb25HcGpxMjlYcTNtLTRObnpPZkhlX2ZFLUJ5V25QUlIzN1ZZYVdrNG5CcUstWk1WWXpyTklaQkVCaTFQU01hV3VCUjN5S0h1UlZ3Y3JSSVFmVFZudC1hX1YtUTY1VVF1djNsTms4d09VWHFkbmlRRDVla2d0YzdwV1Ixd2dqeWpfMUtmZWJLQ1JGOHc?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T05:44:59.237116+00:00"
+  "updated_at": "2026-11-28T06:47:26.950926+00:00"
 }
