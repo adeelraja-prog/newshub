@@ -1,36 +1,35 @@
-# News Hub report - Sat 28 Nov, 03:49 PM PKT
+# News Hub report - Sat 28 Nov, 04:37 PM PKT
 
 ## Collection
-- New items this run: 95 | items in rolling pool: 490
-- Unique story clusters: 407 (duplicates merged: 83)
-- Clusters dropped as already published/queued: 33; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 51, Geo News 10, samaa tv 4, ARY News 3, Al Jazeera 3, Wired 3, Dawn 2, Dawn Latest 2, The Express Tribune 2, BBC World 2, ProPakistani 2, The News International 1
+- New items this run: 73 | items in rolling pool: 549
+- Unique story clusters: 450 (duplicates merged: 99)
+- Clusters dropped as already published/queued: 30; unchanged since last analysis: 14
+- Items per outlet: UrduPoint 33, Geo News 8, ProPakistani 6, samaa tv 4, Wired 3, TechJuice 3, Dawn Pakistan 2, The Express Tribune 2, AP News 2, ARYnews.tv 1, The News International 1, Dawn Latest 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 1 | first-run seeded: 0
-- Adeel Raja: SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA | https://www.youtube.com/watch?v=FVbvnmRQv8g
+- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- PTA says submarine cable fault fixed, internet services return to normal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- PM Shehbaz, CDF Munir speak on phone with Pakistani astronaut aboard China’s Tiangong space station | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Gaza’s chess players survive a genocide and rebuild a community | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Spain faces political shift as far right gains ground | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- New project to provide free mental health courses | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
 - Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
@@ -41,169 +40,111 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Spain faces major political shift as far-right gains ground  [NORMAL]
-- Poster: اسپین میں دائیں بازو کی جماعتوں کا اثرورسوخ بڑھنے لگا / Far-right gains ground in Spain political shift | category politics
-- Alternative headline: Far-right advances spark concerns over Spain's political future
+### Why is Trump backing Iraq’s anti-smuggling campaign?  [NORMAL]
+- Poster: عراق کی انسداد اسمگلنگ مہم کی حمایت کیوں کر رہے ہیں؟ / Why is Trump backing Iraq's anti-smuggling campaign? | category politics
+- Alternative headline: Exploring Donald Trump's support for Iraq anti-smuggling efforts
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss
+- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5
 - Supporting coverage: Al Jazeera
-- Keywords: Spain politics, far right, political shift, Al Jazeera, Spain news | hashtags: #Spain #Politics #FarRight #AlJazeera
-- Scheduled: Sat 28 Nov, 03:49 PM PKT
+- Keywords: Trump Iraq anti-smuggling, Donald Trump, Iraq smuggling, Al Jazeera, anti-smuggling campaign, US Iraq relations | hashtags: #Trump #Iraq #Smuggling #AlJazeera #WorldNews
+- Scheduled: Sat 28 Nov, 04:49 PM PKT
 - Caption:
 ```
-Spain is facing a significant political shift as far-right groups continue to gain ground.
+Al Jazeera reports on the reasons behind Donald Trump's surprising backing of Iraq's ongoing anti-smuggling campaign.
 
-Spain is facing a notable political shift as far-right groups gain ground and influence across the country. Reports highlight changing political dynamics and emerging challenges for the nation's leadership and democratic framework.
+Al Jazeera reports on the motivations and geopolitical factors behind Donald Trump's backing of Iraq's anti-smuggling campaign, shedding light on international policy dynamics in the region.
 
-اسپین میں دائیں بازو کے گروہوں کے اثرورسوخ میں اضافے کے ساتھ ہی ایک اہم سیاسی تبدیلی دیکھنے میں آ رہی ہے۔ رپورٹ کے مطابق ملک کی سیاسی حرکیات میں تبدیلیاں رونما ہو رہی ہیں اور قیادت کے لیے نئے چیلنجز سامنے آ رہے ہیں۔
+الجزیرہ کی رپورٹ کے مطابق ڈونلڈ ٹرمپ کی جانب سے عراق کی انسداد اسمگلنگ مہم کی حمایت کے محرکات اور علاقائی جیو پولیٹیکل عوامل پر روشنی ڈالی گئی ہے۔
 
-According to Al Jazeera
+First reported by Al Jazeera.
 
-#Spain #Politics #FarRight #AlJazeera
+#Trump #Iraq #Smuggling #AlJazeera #WorldNews
 ```
 
-### PTA confirms submarine cable fault fixed, internet services restored  [NORMAL]
-- Poster: سب میرین کیبل کی مرمت مکمل، انٹرنیٹ سروسز بحال / Submarine cable fault fixed, internet services normal | category other
-- Alternative headline: SMW-5 cable repaired as internet connectivity returns to normal across Pakistan
+### Israeli strike on Gaza medical clinic kills two MSF staff  [NORMAL]
+- Poster: غزہ میں طبی مرکز پر اسرائیلی حملہ، دو عملے کے ارکان جاں بحق / Israeli strike on Gaza clinic kills two MSF staff | category world
+- Alternative headline: Doctors Without Borders condemns direct hit on Gaza clinic
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss
+- Supporting coverage: Al Jazeera, ARY News, BBC World, The Express Tribune
+- Keywords: Gaza MSF strike, Doctors Without Borders, Gaza clinic, Israeli strike, MSF staff killed, Al Jazeera | hashtags: #Gaza #MSF #Israel #BreakingNews #Palestine
+- Scheduled: Sat 28 Nov, 04:59 PM PKT
+- Caption:
+```
+Doctors Without Borders condemns a direct Israeli strike on a Gaza clinic that killed two of its staff members.
+
+An Israeli strike on a Doctors Without Borders (MSF) clinic in Gaza resulted in the deaths of two staff members. MSF strongly condemned the attack as a direct hit and demanded accountability for those responsible.
+
+غزہ میں ڈاکٹرز ودآؤٹ بارڈرز (ایم ایس ایف) کے کلینک پر اسرائیلی حملے میں عملے کے دو ارکان جاں بحق ہو گئے۔ تنظیم نے اسے براہ راست حملہ قرار دیتے ہوئے ذمہ داروں کا احتساب کا مطالبہ کیا ہے۔
+
+First reported by Al Jazeera; also reported by ARY News, BBC World, and The Express Tribune.
+
+#Gaza #MSF #Israel #BreakingNews #Palestine
+```
+
+### MQM-P cancels Karachi rally and public gathering  [NORMAL]
+- Poster: ایم کیو ایم پاکستان کا کراچی میں جلسہ اور ریلی منسوخ کرنے کا فیصلہ / MQM-P cancels Karachi rally and public gathering | category politics
+- Alternative headline: MQM-Pakistan calls off scheduled Karachi protest amid security concerns
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal
-- Supporting coverage: Dawn Pakistan, Dawn, samaa tv
-- Keywords: PTA, internet services, submarine cable, SMW5, Pakistan | hashtags: #PTA #Internet #Pakistan #SubmarineCable
-- Scheduled: Sat 28 Nov, 03:59 PM PKT
+- Original source: published_report - Jang Urdu https://jang.com.pk/news/1637450 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Jang Urdu https://jang.com.pk/news/1637450
+- Supporting coverage: Jang Urdu, UrduPoint
+- Keywords: MQM Karachi rally, MQM Pakistan, Karachi Jalsa, Sharea Faisal, Sindh Government, Jang Urdu | hashtags: #MQM #Karachi #Pakistan #BreakingNews #Sindh
+- Scheduled: Sat 28 Nov, 05:09 PM PKT
 - Caption:
 ```
-The Pakistan Telecommunication Authority announced that the international submarine cable fault has been repaired and internet services are back to normal.
+MQM-Pakistan has decided to cancel its scheduled rally and public gathering in Karachi due to security concerns.
 
-The Pakistan Telecommunication Authority announced the successful restoration of the SEA-ME-WE 5 international submarine cable system. Following repair work by technical teams and the international consortium, countrywide internet services have returned to normal operating capacity.
+MQM-Pakistan has decided to cancel its planned rally and public gathering in Karachi. Party sources stated the decision was made keeping law and order in mind, following the commissioner's denial of permission for a rally on Sharea Faisal.
 
-پاکستان ٹیلی کمیونیکیشن اتھارٹی نے سی-می-وی 5 بین الاقوامی سب میرین کیبل سسٹم کی کامیاب بحالی کا اعلان کر دیا ہے۔ فنی ٹیموں اور بین الاقوامی کنسورشیم کی جانب سے مرمتی کام مکمل ہونے کے بعد ملک بھر میں انٹرنیٹ سروسز معمول پر آ گئی ہیں۔
+متحدہ قومی موومنٹ پاکستان نے امن و امان کی صورتحال کے پیش نظر کراچی میں اپنی طے شدہ ریلی اور جلسہ منسوخ کرنے کا فیصلہ کر لیا ہے۔ کمشنر آفس کی جانب سے شارع فیصل پر ریلی کی اجازت دینے سے انکار کیا گیا تھا۔
 
-According to Dawn Pakistan
+First reported by Jang Urdu; also reported by UrduPoint.
 
-#PTA #Internet #Pakistan #SubmarineCable
+#MQM #Karachi #Pakistan #BreakingNews #Sindh
 ```
 
-### PM Shehbaz and CDF Munir speak with Pakistani astronaut in space  [NORMAL]
-- Poster: وزیراعظم اور آرمی چیف کی خلا میں موجود پاکستانی خلاء باز سے گفتگو / PM and CDF speak to Pakistani astronaut in space | category other
-- Alternative headline: Top leaders call Pakistan's first astronaut aboard China's space station
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhCVDN1bWlUbVE2eFZzajNUbmV3OWVPNm5BNks1Y1pQUW1PZEJzZGk5ZTkwTUhSdU4yQXpUVE9xUWtLQVpFd1Nvck8yZEIyQmQtUnR1QlFKVHVnZnYtQmFOWEFaSlZxSTRtTFZkTEwzMHNPVkh2ajFmMUh1SWFjMUNqb1czVFFESDZEUUZiSGJjQ0xIZzZpRG5kbmxWa0xIbFdzeDR2UE16NkdSekl5MEhmTXRsQk9iZ3ZDZFBjNjFoNUZfZTJaelZHRQ?oc=5
-- Supporting coverage: Dawn, The Express Tribune, Dawn Latest
-- Keywords: Pakistani astronaut, PM Shehbaz, CDF Munir, Tiangong space station, Zeeshan Ali | hashtags: #PakistanInSpace #ShehbazSharif #SpaceStation #ZeeshanAli
-- Scheduled: Sat 28 Nov, 04:09 PM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif and CDF General Munir spoke via phone with Pakistani astronaut Zeeshan Ali aboard China’s Tiangong space station.
-
-Prime Minister Shehbaz Sharif and Chief of Defence Forces General Munir made a phone call to Pakistan's first astronaut, Zeeshan Ali, who is currently aboard China’s Tiangong space station as part of the historic space mission.
-
-وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز جنرل منیر نے چین کے تیانگونگ خلائی اسٹیشن پر موجود پاکستان کے پہلے خلاء باز زیشان علی سے ٹیلیفون پر گفتگو کی ہے۔
-
-According to Dawn
-
-#PakistanInSpace #ShehbazSharif #SpaceStation #ZeeshanAli
-```
-
-### Gaza’s chess players survive conflict and rebuild their community  [NORMAL]
-- Poster: غزہ کے شطرنج کے کھلاڑیوں کی جنگ کے بعد دوبارہ واپسی / Gaza chess players rebuild community after conflict | category other
-- Alternative headline: Chess returns to Gaza as players rebuild community after years of war
+### Tributes poured in for late Irish actor PJ Gallagher  [NORMAL]
+- Poster: آئرش اداکار اور کامیڈین پی جے گیلاگھر کے انتقال پر خراج عقیدت / Tributes poured in for late Irish actor PJ Gallagher | category lifestyle
+- Alternative headline: Irish comedy community mourns actor and comedian PJ Gallagher
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Gaza chess, chess players, community rebuild, Al Jazeera, Gaza | hashtags: #Gaza #Chess #Resilience #AlJazeera
-- Scheduled: Sat 28 Nov, 04:19 PM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5
+- Supporting coverage: BBC
+- Keywords: PJ Gallagher tributes, PJ Gallagher, Irish actor, comedian, BBC, tributes | hashtags: #PJGallagher #Ireland #Comedy #BBC #Tributes
+- Scheduled: Sat 28 Nov, 05:19 PM PKT
 - Caption:
 ```
-Gaza’s chess players are returning to the sport and rebuilding their community after enduring years of devastating conflict.
+Tributes are being paid across Ireland following the death of well-known actor and comedian PJ Gallagher.
 
-Chess players in Gaza are returning to the game and working to rebuild their community following years of severe conflict and hardship, highlighting resilience and a passion for the sport amidst adversity.
+Friends, fans, and fellow entertainers have paid glowing tributes to Irish actor and comedian PJ Gallagher following news of his passing, remembering his contributions to comedy and entertainment.
 
-غزہ میں شطرنج کے کھلاڑی کئی سالہ شدید تنازعے کے بعد اس کھیل کی طرف واپس آ رہے ہیں اور اپنی کمیونٹی کو دوبارہ تعمیر کرنے کی کوشش کر رہے ہیں، جو مشکلات کے باوجود ان کے عزم کو ظاہر کرتا ہے۔
+آئرش اداکار اور کامیڈین پی جے گیلاگھر کے انتقال پر مداحوں، دوستوں اور ساتھی فنکاروں کی طرف سے زبردست خراج عقیدت پیش کیا جا رہا ہے۔
 
-According to Al Jazeera
+First reported by BBC.
 
-#Gaza #Chess #Resilience #AlJazeera
+#PJGallagher #Ireland #Comedy #BBC #Tributes
 ```
 
-### New Sussex project offers free mental health and recovery courses  [NORMAL]
-- Poster: سسیکس میں ذہنی صحت کے مفت کورسز کا نیا منصوبہ شروع / New project provides free mental health courses in Sussex | category health
-- Alternative headline: County-wide mental health recovery project launches free courses in Sussex
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: mental health courses, Sussex, Recovery College, NHS, free courses | hashtags: #MentalHealth #Sussex #NHS #HealthNews
-- Scheduled: Sat 28 Nov, 04:29 PM PKT
-- Caption:
-```
-Adults across Sussex can access free mental health and recovery courses through a new county-wide project launching next year.
-
-A new county-wide project called the Sussex Recovery College will offer free courses covering mental health, wellbeing, and personal growth starting in January. Partners note that similar past services helped reduce hospital admissions significantly.
-
-سسیکس ریکوری کالج کے نام سے ایک نیا کاؤنٹی گیر پروجیکٹ جنوری سے ذہنی صحت، فلاح و بہبود اور ذاتی ترقی کے مفت کورسز پیش کرے گا۔ شراکت داروں کا کہنا ہے کہ ماضی کی اسی طرح کی خدمات سے اسپتالوں میں داخلے نمایاں طور پر کم ہوئے ہیں۔
-
-According to BBC Health
-
-#MentalHealth #Sussex #NHS #HealthNews
-```
-
-### Several students killed and injured in blast near Afghan school  [NORMAL]
-- Poster: افغان اسکول کے قریب دھماکہ، کئی طالب علم جاں بحق / Students killed and injured in blast near Afghan school | category disaster
-- Alternative headline: Explosion beside middle school in Afghanistan leaves students dead
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Afghanistan school blast, Asadabad explosion, students killed, Al Jazeera, Afghanistan | hashtags: #Afghanistan #SchoolBlast #BreakingNews #AlJazeera
-- Scheduled: Sat 28 Nov, 04:39 PM PKT
-- Caption:
-```
-At least six students were killed and 97 others injured in an explosion near a middle school in Asadabad, Afghanistan.
-
-An explosion occurring beside a middle school in Asadabad, Afghanistan, resulted in the deaths of at least six students, with 97 others sustaining injuries, according to reports from the region.
-
-افغانستان کے شہر اسناد آباد میں ایک مڈل اسکول کے قریب ہونے والے دھماکے کے نتیجے میں کم از کم چھ طالب علم جاں بحق اور 97 دیگر زخمی ہو گئے ہیں۔
-
-According to Al Jazeera
-
-#Afghanistan #SchoolBlast #BreakingNews #AlJazeera
-```
-
-- Indian outlets blocked this run: 7 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 16 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 28
+- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [needs_review] normal | Tareen joins political chorus demanding new provinces | Wed 25 Nov, 09:19 AM PKT
-- [needs_review] normal | Supreme Court declares Auqaf takeover of private shrine void | Wed 25 Nov, 09:29 AM PKT
-- [needs_review] normal | Trump says Iran war funded through January, warns Democrats | Wed 25 Nov, 09:39 AM PKT
-- [needs_review] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
-- [needs_review] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
-- [needs_review] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
 - [needs_review] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
 - [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
-- [published] normal | Could Netanyahu trigger a wider war with Iran to cling to power? | Wed 25 Nov, 04:23 PM PKT
-- [published] normal | Pakistan makes history as Zeeshan Ali reaches space aboard China's She | Wed 25 Nov, 04:33 PM PKT
-- [published] normal | Under-construction building collapses near Karachi's Baloch Colony, ca | Wed 25 Nov, 04:43 PM PKT
-- [published] normal | ADB approves $250m loan to boost private investment in Pakistan | Wed 25 Nov, 04:53 PM PKT
 - [needs_review] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
 - [needs_review] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
 - [published] promo | [YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | Wed 25 Nov, 05:34 PM PKT
@@ -432,12 +373,12 @@ According to Al Jazeera
 - [needs_review] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
 - [needs_review] normal | Hunted beyond borders: Allegations of Tanzanian repression in Kenya | Sat 28 Nov, 09:34 AM PKT
 - [needs_review] normal | Turkish officials 'destroyed' pro-opposition TV channel, owner tells B | Sat 28 Nov, 09:45 AM PKT
-- [queued] normal | US military says it disabled merchant ship trying to breach Iran block | Sat 28 Nov, 09:55 AM PKT
-- [queued] normal | Lok Mela opens to celebrate Pakistan’s cultural diversity | Sat 28 Nov, 10:05 AM PKT
-- [queued] normal | Israel kills two MSF staff in targeted strike on Gaza clinic | Sat 28 Nov, 10:15 AM PKT
-- [queued] normal | The split-second teamwork behind an F1 pit stop | Sat 28 Nov, 10:25 AM PKT
-- [queued] normal | Eight killed in Peruvian military helicopter crash | Sat 28 Nov, 10:35 AM PKT
-- [queued] normal | Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers | Sat 28 Nov, 10:45 AM PKT
+- [needs_review] normal | US military says it disabled merchant ship trying to breach Iran block | Sat 28 Nov, 09:55 AM PKT
+- [needs_review] normal | Lok Mela opens to celebrate Pakistan’s cultural diversity | Sat 28 Nov, 10:05 AM PKT
+- [needs_review] normal | Israel kills two MSF staff in targeted strike on Gaza clinic | Sat 28 Nov, 10:15 AM PKT
+- [needs_review] normal | The split-second teamwork behind an F1 pit stop | Sat 28 Nov, 10:25 AM PKT
+- [needs_review] normal | Eight killed in Peruvian military helicopter crash | Sat 28 Nov, 10:35 AM PKT
+- [published] normal | Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers | Sat 28 Nov, 10:45 AM PKT
 - [queued] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
 - [queued] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
 - [queued] normal | Saudi-led coalition intercepts Houthi cruise missile fired toward Riya | Sat 28 Nov, 11:47 AM PKT
@@ -461,13 +402,17 @@ According to Al Jazeera
 - [queued] normal | Gaza’s chess players survive conflict and rebuild their community | Sat 28 Nov, 04:19 PM PKT
 - [queued] normal | New Sussex project offers free mental health and recovery courses | Sat 28 Nov, 04:29 PM PKT
 - [queued] normal | Several students killed and injured in blast near Afghan school | Sat 28 Nov, 04:39 PM PKT
+- [queued] normal | Why is Trump backing Iraq’s anti-smuggling campaign? | Sat 28 Nov, 04:49 PM PKT
+- [queued] normal | Israeli strike on Gaza medical clinic kills two MSF staff | Sat 28 Nov, 04:59 PM PKT
+- [queued] normal | MQM-P cancels Karachi rally and public gathering | Sat 28 Nov, 05:09 PM PKT
+- [queued] normal | Tributes poured in for late Irish actor PJ Gallagher | Sat 28 Nov, 05:19 PM PKT
 
 ## Publishing this run
-- Published '[YouTube] SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA'.
+- Published 'Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers'.
 
 ## Gemini usage
-- Calls: 6 | prompt tokens: 6782 | output tokens: 4196
-- Errors: 4
+- Calls: 3 | prompt tokens: 6024 | output tokens: 2581
+- Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -476,5 +421,3 @@ According to Al Jazeera
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)

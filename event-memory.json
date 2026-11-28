@@ -193532,7 +193532,177 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9a1d9121c693a093b83509f0",
+      "remembered_at": "2026-11-28T11:37:53.844457+00:00",
+      "event_date": "2026-11-28T03:45:58+00:00",
+      "last_update": "2026-11-28T10:38:36+00:00",
+      "event": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "accountable",
+        "and",
+        "attack",
+        "borders",
+        "calls",
+        "clinic",
+        "direct",
+        "doctors",
+        "for",
+        "gaza",
+        "held",
+        "hit",
+        "israeli",
+        "kills",
+        "msf",
+        "responsible",
+        "says",
+        "staff",
+        "strike",
+        "those",
+        "two",
+        "without"
+      ],
+      "source_excerpt": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+          "published_at": "2026-11-28T03:45:58+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/israeli-strike-kills-two-doctors-without-borders-staff-gaza",
+          "published_at": "2026-11-28T05:04:29+00:00"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T10:34:58+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3JBSFdyZUE5YUpoRUZndHFxTjU4bTJpdHQtb1Y3elhKbS1jSEFxd25lMk9pNGZKWE5qcDlXdUJUY1l2YVB2XzBZOG1vVm9ramJ0NF94QkJsV0xhVUdnVnNrSi1Za0RoaVZhYjdsZ2VZNllKTW9DaWE5bE1waEFlVHlSeHh0T0FMN05MYjlOMTBkZjkybThLbDVONmhaZ2Qw?oc=5",
+          "published_at": "2026-11-28T10:38:36+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9973eb417b1b8e51398b810a",
+      "remembered_at": "2026-11-28T11:37:53.844457+00:00",
+      "event_date": "2026-11-28T06:11:57+00:00",
+      "last_update": "2026-11-28T11:30:30+00:00",
+      "event": "ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اور",
+        "ایم",
+        "جلسہ",
+        "ذرائع",
+        "ریلی",
+        "فائل",
+        "فوٹومتحدہ",
+        "فیصلہ",
+        "قومی",
+        "لیا۔ایم",
+        "مطابق",
+        "منسوخ",
+        "موومنٹ",
+        "میں",
+        "پاکستان",
+        "کراچی",
+        "کرنے",
+        "کیو"
+      ],
+      "source_excerpt": "— فائل فوٹومتحدہ قومی موومنٹ پاکستان نے کراچی میں کل ریلی اور جلسہ منسوخ کرنے کا فیصلہ کر لیا۔ایم کیو ایم کے ذرائع کے مطابق اس...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1637450",
+          "published_at": "2026-11-28T06:11:57+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5026078",
+          "published_at": "2026-11-28T11:30:30+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1637450",
+        "publisher_url": "https://jang.com.pk/news/1637450",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9b636a0df86522f670d700e",
+      "remembered_at": "2026-11-28T11:37:53.844457+00:00",
+      "event_date": "2026-11-28T11:13:01+00:00",
+      "last_update": "2026-11-28T11:13:01+00:00",
+      "event": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amb",
+        "best",
+        "care",
+        "citizen",
+        "directs",
+        "ensure",
+        "for",
+        "injured",
+        "kuwait",
+        "pak",
+        "pakistani"
+      ],
+      "source_excerpt": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/pm-directs-pak-amb-to-ensure-best-care-for-injured-pakistani-citizen-in-kuwait",
+          "published_at": "2026-11-28T11:13:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/pm-directs-pak-amb-to-ensure-best-care-for-injured-pakistani-citizen-in-kuwait",
+        "publisher_url": "https://arynews.tv/pm-directs-pak-amb-to-ensure-best-care-for-injured-pakistani-citizen-in-kuwait",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T10:49:28.538285+00:00"
+  "updated_at": "2026-11-28T11:37:53.844457+00:00"
 }
