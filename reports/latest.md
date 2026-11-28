@@ -1,39 +1,40 @@
-# News Hub report - Sat 28 Nov, 07:49 AM PKT
+# News Hub report - Sat 28 Nov, 08:44 AM PKT
 
 ## Collection
-- New items this run: 22 | items in rolling pool: 236
-- Unique story clusters: 203 (duplicates merged: 33)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 11
-- Items per outlet: Investify 7, Al Jazeera 4, Dawn Pakistan 3, The Express Tribune 2, Dawn Latest 2, Dawn 1, Jang Urdu 1, Profit by Pakistan Today 1, Critical Threats 1
+- New items this run: 16 | items in rolling pool: 228
+- Unique story clusters: 187 (duplicates merged: 41)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 13
+- Items per outlet: Dawn Latest 5, Profit by Pakistan Today 3, Investify 2, Dawn 1, Geo News 1, Al Jazeera 1, The Verge 1, Latin Times 1, The Guardian 1, The News International 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
+- Overall feeds with entries: 114/120 | empty: 4 | failed: 1 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
@@ -41,10 +42,154 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-- Indian outlets blocked this run: 0 items
+### JUI-F claims dozens of workers arrested amid protests  [NORMAL]
+- Poster: جے یو آئی کا ملک بھر میں کارکنان کی گرفتاری کا دعویٰ / JUI-F claims workers arrested amid protests | category politics
+- Alternative headline: JUI-F alleges widespread arrests of workers during protests across provinces
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: JUI-F protests, worker arrests, Khyber Pakhtunkhwa, Balochistan, Punjab, Dawn | hashtags: #JUIF #Protests #Pakistan #DawnNews #PoliticalNews
+- Scheduled: Sat 28 Nov, 08:44 AM PKT
+- Caption:
+```
+JUI-F leadership has claimed that dozens of its workers have been arrested during ongoing protests across multiple provinces.
+
+According to Dawn, JUI-F has claimed that dozens of its workers were arrested during protests held across Khyber Pakhtunkhwa, Balochistan, and Punjab. The party denounced the arrests and staged demonstrations against the action.
+
+ڈان کے مطابق جے یو آئی نے دعویٰ کیا ہے کہ خیبر پختونخوا، بلوچستان اور پنجاب میں احتجاج کے دوران ان کے درجنوں کارکنوں کو گرفتار کیا گیا ہے۔ پارٹی نے گرفتاریوں کی شدید مذمت کی ہے۔
+
+First reported by Dawn
+
+#JUIF #Protests #Pakistan #DawnNews #PoliticalNews
+```
+
+### Profit-taking drags PSX below 178,000 index level  [NORMAL]
+- Poster: منافع کی وصولی سے پاکستان اسٹاک ایکسچینج میں گہرا گراوٹ / Profit-taking drags PSX below 178,000 | category economy
+- Alternative headline: Stock market dips as profit-taking pulls PSX down past 178,000
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: PSX index, profit-taking, stock market, Pakistan Stock Exchange, Dawn | hashtags: #PSX #StockMarket #Economy #PakistanEconomy #DawnNews
+- Scheduled: Sat 28 Nov, 08:54 AM PKT
+- Caption:
+```
+The Pakistan Stock Exchange experienced a downturn as profit-taking activities dragged the benchmark index below the 178,000 mark.
+
+According to Dawn, the Pakistan Stock Exchange (PSX) slipped below the 178,000 threshold due to persistent profit-taking by investors. Market analysts are closely monitoring the trading sessions as indices fluctuate.
+
+ڈان کے مطابق سرمایہ کاروں کی جانب سے منافع کی وصولی کے باعث پاکستان اسٹاک ایکسچینج کا انڈیکس 178,000 کی سطح سے نیچے آ گیا۔ مارکیٹ کے تجزیہ کار صورتحال پر گہری نظر رکھے ہوئے ہیں۔
+
+First reported by Dawn
+
+#PSX #StockMarket #Economy #PakistanEconomy #DawnNews
+```
+
+### Privatisation drive gains fresh momentum  [NORMAL]
+- Poster: حکومت کی نجکاری کی مہم میں تیزی آ گئی / Privatisation drive gains momentum | category economy
+- Alternative headline: Government's privatisation initiative picks up pace across sectors
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: privatisation drive, state-owned enterprises, government policy, Dawn | hashtags: #Privatisation #PakistanEconomy #Government #DawnNews
+- Scheduled: Sat 28 Nov, 09:04 AM PKT
+- Caption:
+```
+The government's ongoing privatisation agenda has reportedly gained significant momentum as administrative steps advance.
+
+According to Dawn, the national privatisation drive has gained fresh momentum with authorities expediting processes for state-owned enterprises. Officials are reviewing timelines to ensure smooth execution.
+
+ڈان کے مطابق حکومت کی جانب سے سرکاری اداروں کی نجکاری کی مہم میں تیزی آ گئی ہے۔ حکام اس عمل کو جلد مکمل کرنے کے لیے مختلف تجاویز کا جائزہ لے رہے ہیں۔
+
+First reported by Dawn
+
+#Privatisation #PakistanEconomy #Government #DawnNews
+```
+
+### Desperate bid to reunite with family ends in tragedy at LoC  [NORMAL]
+- Poster: کنٹرول لائن پر خاندان سے ملنے کی کوشش المیہ بن گئی / Tragedy at LoC during family reunion attempt | category disaster
+- Alternative headline: Tragic end at Line of Control during family reunion attempt
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5
+- Supporting coverage: Dawn, Dawn Latest
+- Keywords: Line of Control, LoC tragedy, family reunion, Dawn | hashtags: #LoC #Kashmir #Tragedy #DawnNews
+- Scheduled: Sat 28 Nov, 09:14 AM PKT
+- Caption:
+```
+A heartbreaking incident unfolded at the Line of Control where an attempt to reunite with family members ended in tragedy.
+
+According to Dawn, a desperate attempt by an individual to reunite with family members across the Line of Control (LoC) resulted in a tragic outcome. Further details regarding the incident are awaited.
+
+ڈان کے مطابق لائن آف کنٹرول پر اپنے خاندان سے ملنے کی ایک کوشش ایک بڑے المیے پر ختم ہوئی۔ واقعے سے متعلق مزید تفصیلات کا انتظار ہے۔
+
+First reported by Dawn
+
+#LoC #Kashmir #Tragedy #DawnNews
+```
+
+### ECC raises wheat import ceiling to 2.5 million tonnes  [NORMAL]
+- Poster: ای سی سی نے گندم کی درآمدی حد بڑھا کر 2.5 ملین ٹن کر دی / ECC raises wheat import limit to 2.5m tonnes | category economy
+- Alternative headline: ECC increases wheat import limit as flour prices continue to rise
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5
+- Supporting coverage: The Express Tribune, Profit by Pakistan Today
+- Keywords: ECC wheat import, wheat ceiling, flour prices, Economic Coordination Committee, The Express Tribune | hashtags: #ECC #WheatImport #Inflation #PakistanEconomy #ExpressTribune
+- Scheduled: Sat 28 Nov, 09:24 AM PKT
+- Caption:
+```
+Amid climbing flour prices across the country, the Economic Coordination Committee has raised the wheat import ceiling.
+
+According to The Express Tribune, the Economic Coordination Committee (ECC) has approved raising the wheat import ceiling to 2.5 million tonnes. The decision comes as domestic flour prices continue to climb, prompting steps to ensure adequate food supplies.
+
+دی ایکسپریس ٹریبیون کے مطابق اقتصادی رابطہ کمیٹی (ECC) نے آٹے کی بڑھتی ہوئی قیمتوں کے پیش نظر گندم کی درآمدی حد بڑھا کر 2.5 ملین ٹن کرنے کی منظوری دے دی ہے۔
+
+First reported by The Express Tribune; also reported by Profit by Pakistan Today
+
+#ECC #WheatImport #Inflation #PakistanEconomy #ExpressTribune
+```
+
+### Hunted beyond borders: Allegations of Tanzanian repression in Kenya  [NORMAL]
+- Poster: کینیا میں تنزانیہ کے اختلاف کرنے والوں کی سلامتی کو خطرات لاحق / Fears for Tanzanian dissidents in Kenya | category security
+- Alternative headline: Missing activist case sparks fears over Tanzanian dissenters in Kenya
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Tanzanian repression, missing activist, Kenya, Tanzania, Al Jazeera | hashtags: #Tanzania #Kenya #HumanRights #AlJazeera
+- Scheduled: Sat 28 Nov, 09:34 AM PKT
+- Caption:
+```
+The disappearance of an activist in Kenya has sparked widespread concern and allegations regarding transnational repression.
+
+According to Al Jazeera, the disappearance of a prominent activist in Kenya has raised serious fears for the safety of Tanzanian dissidents living abroad. Observers have highlighted growing concerns over cross-border state actions.
+
+الجزیرہ کے مطابق کینیا میں ایک نمایاں کارکن کے لاپتہ ہونے کے واقعے نے تنزانیہ کے منحرف افراد کی سلامتی کے حوالے سے شدید خدشات کو جنم دیا ہے۔
+
+First reported by Al Jazeera
+
+#Tanzania #Kenya #HumanRights #AlJazeera
+```
+
+- Indian outlets blocked this run: 4 items
 
 ## Today
-- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
+- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -52,7 +197,6 @@
 - [needs_review] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
 - [needs_review] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
 - [needs_review] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
-- [published] normal | Cybersecurity Identified as Key Pillar for Digital Pakistan Vision | Wed 25 Nov, 08:08 AM PKT
 - [needs_review] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
 - [needs_review] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
 - [needs_review] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
@@ -275,10 +419,10 @@
 - [needs_review] normal | Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Cla | Sat 28 Nov, 01:36 AM PKT
 - [needs_review] normal | Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B | Sat 28 Nov, 01:46 AM PKT
 - [published] normal | NADRA Mobile Vans to Provide ID Services at Four UK Locations | Sat 28 Nov, 01:56 AM PKT
-- [queued] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
-- [queued] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
-- [queued] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
-- [queued] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
+- [needs_review] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
+- [needs_review] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
+- [needs_review] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
+- [published] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
 - [queued] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
 - [queued] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
 - [queued] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
@@ -295,17 +439,20 @@
 - [queued] normal | BBC Technology explores autonomous space travel and tech innovations | Sat 28 Nov, 07:22 AM PKT
 - [queued] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
 - [queued] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
+- [queued] normal | JUI-F claims dozens of workers arrested amid protests | Sat 28 Nov, 08:44 AM PKT
+- [queued] normal | Profit-taking drags PSX below 178,000 index level | Sat 28 Nov, 08:54 AM PKT
+- [queued] normal | Privatisation drive gains fresh momentum | Sat 28 Nov, 09:04 AM PKT
+- [queued] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
+- [queued] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
+- [queued] normal | Hunted beyond borders: Allegations of Tanzanian repression in Kenya | Sat 28 Nov, 09:34 AM PKT
 
 ## Publishing this run
-- Published 'NADRA Mobile Vans to Provide ID Services at Four UK Locations'.
+- Published 'Spain's PM Sanchez makes final push to defy election polls'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 10808 | output tokens: 6372
-- Errors: 4
+- Calls: 2 | prompt tokens: 4854 | output tokens: 2903
+- Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
-  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 66 column 7 (char 3085)
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 159 column 29 (char 6496)
-  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting value: line 159 column 29 (char 6496)

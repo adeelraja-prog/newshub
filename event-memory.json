@@ -188889,7 +188889,216 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b1ed81b76f949478f565c880",
+      "remembered_at": "2026-11-28T03:44:23.198620+00:00",
+      "event_date": "2026-11-28T00:02:58+00:00",
+      "last_update": "2026-11-28T02:51:33+00:00",
+      "event": "Privatisation drive gains momentum",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "drive",
+        "gains",
+        "momentum",
+        "privatisation"
+      ],
+      "source_excerpt": "Privatisation drive gains momentum Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5",
+          "published_at": "2026-11-28T00:02:58+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047550/privatisation-drive-gains-momentum",
+          "published_at": "2026-11-28T02:51:33+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d6716bc4b51deaf3836bf75",
+      "remembered_at": "2026-11-28T03:44:23.198620+00:00",
+      "event_date": "2026-11-28T00:02:17+00:00",
+      "last_update": "2026-11-28T03:29:00+00:00",
+      "event": "Desperate bid to reunite with family ends in tragedy at LoC",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bid",
+        "dawn",
+        "desperate",
+        "ends",
+        "family",
+        "loc",
+        "reunite",
+        "tragedy",
+        "with"
+      ],
+      "source_excerpt": "Desperate bid to reunite with family ends in tragedy at LoC Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5",
+          "published_at": "2026-11-28T00:02:17+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047562/desperate-bid-to-reunite-with-family-ends-in-tragedy-at-line-of-control",
+          "published_at": "2026-11-28T03:29:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8fc1084063e37c7fbf922ae8",
+      "remembered_at": "2026-11-28T03:44:23.198620+00:00",
+      "event_date": "2026-11-28T00:36:52+00:00",
+      "last_update": "2026-11-28T03:01:01+00:00",
+      "event": "ECC raises wheat import to 2.5mt",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "5mt",
+        "ecc",
+        "express",
+        "import",
+        "raises",
+        "the",
+        "tribune",
+        "wheat"
+      ],
+      "source_excerpt": "ECC raises wheat import to 2.5mt The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5",
+          "published_at": "2026-11-28T00:36:52+00:00"
+        },
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1NKaHpHRHZWcGdNM0dXbFkteUlacWJJekFieFpUZ2QzSmw3NTFMUVVTV1J6c2Y4aWZRNzBvZS0zTlV0Tkgxc3hJUVQ0WUFyYkxtN2llSVZwMlhJRnNTNWpJckV1UmYzWUwyd19yc3RhTl9pemw2SmVhLUlBaTFHRmdvdzJNSFVOYWo1cklvMG1vOGx3Q0ZaN2Mzd3dZLUd2M0M0QVdKUmxtN3NudWdGTHBQeDJTZkdQVTRHNHB3?oc=5",
+          "published_at": "2026-11-28T03:01:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a11603ce893e9b25f029b60e",
+      "remembered_at": "2026-11-28T03:44:23.198620+00:00",
+      "event_date": "2026-11-28T02:57:39+00:00",
+      "last_update": "2026-11-28T02:57:39+00:00",
+      "event": "Trump says he asked Putin to ‘pull back’ all over Europe",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "aggression",
+        "all",
+        "asked",
+        "back",
+        "beach",
+        "conversations",
+        "could",
+        "donald",
+        "during",
+        "europe",
+        "hope",
+        "last",
+        "lead",
+        "leader",
+        "like",
+        "military",
+        "over",
+        "palm",
+        "president",
+        "pull",
+        "putin",
+        "quick",
+        "russia",
+        "russian",
+        "said",
+        "says",
+        "see",
+        "settlement",
+        "territories",
+        "the",
+        "throughout",
+        "thursday",
+        "told",
+        "trump",
+        "ukraine",
+        "vladimir",
+        "war",
+        "week",
+        "would"
+      ],
+      "source_excerpt": "PALM BEACH: President Donald Trump said on Thursday he told Russian leader Vladimir Putin last week he would like to see Russia pull back on “military aggression against territories” throughout Europe in the hope it could lead to a quick settlement of the war in Ukraine. “During my conversations in",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047621/trump-says-he-asked-putin-to-pull-back-all-over-europe",
+          "published_at": "2026-11-28T02:57:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047621/trump-says-he-asked-putin-to-pull-back-all-over-europe",
+        "publisher_url": "https://www.dawn.com/news/2047621/trump-says-he-asked-putin-to-pull-back-all-over-europe",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T02:49:36.438893+00:00"
+  "updated_at": "2026-11-28T03:44:23.198620+00:00"
 }
