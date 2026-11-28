@@ -1,195 +1,199 @@
-# News Hub report - Sat 28 Nov, 08:44 AM PKT
+# News Hub report - Sat 28 Nov, 09:45 AM PKT
 
 ## Collection
-- New items this run: 16 | items in rolling pool: 228
-- Unique story clusters: 187 (duplicates merged: 41)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 13
-- Items per outlet: Dawn Latest 5, Profit by Pakistan Today 3, Investify 2, Dawn 1, Geo News 1, Al Jazeera 1, The Verge 1, Latin Times 1, The Guardian 1, The News International 0
+- New items this run: 23 | items in rolling pool: 226
+- Unique story clusters: 186 (duplicates merged: 40)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 10
+- Items per outlet: Dawn Latest 7, Dawn Pakistan 4, Geo News 3, Dunya News 2, Al Jazeera 2, BBC World 2, Profit by Pakistan Today 2, Dawn 1, Express News TV 0, BOL News 0, Judiciary and Courts Desk 0, Petrol prices 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- JUI-F claims scores held amid protests | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Profit-taking drags PSX below 178,000 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Privatisation drive gains momentum | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Desperate bid to reunite with family ends in tragedy at LoC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ECC raises wheat import to 2.5mt | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 4 | failed: 1 | malformed/partial: 3
+- Overall feeds with entries: 110/120 | empty: 2 | failed: 7 | malformed/partial: 8
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
+- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### JUI-F claims dozens of workers arrested amid protests  [NORMAL]
-- Poster: جے یو آئی کا ملک بھر میں کارکنان کی گرفتاری کا دعویٰ / JUI-F claims workers arrested amid protests | category politics
-- Alternative headline: JUI-F alleges widespread arrests of workers during protests across provinces
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: JUI-F protests, worker arrests, Khyber Pakhtunkhwa, Balochistan, Punjab, Dawn | hashtags: #JUIF #Protests #Pakistan #DawnNews #PoliticalNews
-- Scheduled: Sat 28 Nov, 08:44 AM PKT
-- Caption:
-```
-JUI-F leadership has claimed that dozens of its workers have been arrested during ongoing protests across multiple provinces.
-
-According to Dawn, JUI-F has claimed that dozens of its workers were arrested during protests held across Khyber Pakhtunkhwa, Balochistan, and Punjab. The party denounced the arrests and staged demonstrations against the action.
-
-ڈان کے مطابق جے یو آئی نے دعویٰ کیا ہے کہ خیبر پختونخوا، بلوچستان اور پنجاب میں احتجاج کے دوران ان کے درجنوں کارکنوں کو گرفتار کیا گیا ہے۔ پارٹی نے گرفتاریوں کی شدید مذمت کی ہے۔
-
-First reported by Dawn
-
-#JUIF #Protests #Pakistan #DawnNews #PoliticalNews
-```
-
-### Profit-taking drags PSX below 178,000 index level  [NORMAL]
-- Poster: منافع کی وصولی سے پاکستان اسٹاک ایکسچینج میں گہرا گراوٹ / Profit-taking drags PSX below 178,000 | category economy
-- Alternative headline: Stock market dips as profit-taking pulls PSX down past 178,000
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: PSX index, profit-taking, stock market, Pakistan Stock Exchange, Dawn | hashtags: #PSX #StockMarket #Economy #PakistanEconomy #DawnNews
-- Scheduled: Sat 28 Nov, 08:54 AM PKT
-- Caption:
-```
-The Pakistan Stock Exchange experienced a downturn as profit-taking activities dragged the benchmark index below the 178,000 mark.
-
-According to Dawn, the Pakistan Stock Exchange (PSX) slipped below the 178,000 threshold due to persistent profit-taking by investors. Market analysts are closely monitoring the trading sessions as indices fluctuate.
-
-ڈان کے مطابق سرمایہ کاروں کی جانب سے منافع کی وصولی کے باعث پاکستان اسٹاک ایکسچینج کا انڈیکس 178,000 کی سطح سے نیچے آ گیا۔ مارکیٹ کے تجزیہ کار صورتحال پر گہری نظر رکھے ہوئے ہیں۔
-
-First reported by Dawn
-
-#PSX #StockMarket #Economy #PakistanEconomy #DawnNews
-```
-
-### Privatisation drive gains fresh momentum  [NORMAL]
-- Poster: حکومت کی نجکاری کی مہم میں تیزی آ گئی / Privatisation drive gains momentum | category economy
-- Alternative headline: Government's privatisation initiative picks up pace across sectors
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMid0FVX3lxTE5sekRycTQ4NWZ3MGtvUTl3bnNUQXI4eEtEUTEtX2xJME0yTGg0Nnlld1dXZ0dtdWpfdW1yalRaS0NZbG90SjFMdFptLXVfckhNbk82aUNYbEQ2MmR4X0pSYldqM0dhTm9uZU8zd0k3T3RMTThvNE5R?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: privatisation drive, state-owned enterprises, government policy, Dawn | hashtags: #Privatisation #PakistanEconomy #Government #DawnNews
-- Scheduled: Sat 28 Nov, 09:04 AM PKT
-- Caption:
-```
-The government's ongoing privatisation agenda has reportedly gained significant momentum as administrative steps advance.
-
-According to Dawn, the national privatisation drive has gained fresh momentum with authorities expediting processes for state-owned enterprises. Officials are reviewing timelines to ensure smooth execution.
-
-ڈان کے مطابق حکومت کی جانب سے سرکاری اداروں کی نجکاری کی مہم میں تیزی آ گئی ہے۔ حکام اس عمل کو جلد مکمل کرنے کے لیے مختلف تجاویز کا جائزہ لے رہے ہیں۔
-
-First reported by Dawn
-
-#Privatisation #PakistanEconomy #Government #DawnNews
-```
-
-### Desperate bid to reunite with family ends in tragedy at LoC  [NORMAL]
-- Poster: کنٹرول لائن پر خاندان سے ملنے کی کوشش المیہ بن گئی / Tragedy at LoC during family reunion attempt | category disaster
-- Alternative headline: Tragic end at Line of Control during family reunion attempt
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2huSTJTZXBfTUQ4U184cXBXWEJrNVZvLThUZWNzZGdGYVgwRXZ6T2t4ZTM3MWJOcDJETEFZNHNBdXE3WWFOZjZVWTEzVTN5Z3pFZU9ZWmVPTlRiNlRNWHdpNzJhcnYtNXpxVDNSUFEzN01RZXpjWXQ0Qjc4OHFhYU5PMTVsQ2g2WW9wNUtPdDhmblVEaVViWg?oc=5
-- Supporting coverage: Dawn, Dawn Latest
-- Keywords: Line of Control, LoC tragedy, family reunion, Dawn | hashtags: #LoC #Kashmir #Tragedy #DawnNews
-- Scheduled: Sat 28 Nov, 09:14 AM PKT
-- Caption:
-```
-A heartbreaking incident unfolded at the Line of Control where an attempt to reunite with family members ended in tragedy.
-
-According to Dawn, a desperate attempt by an individual to reunite with family members across the Line of Control (LoC) resulted in a tragic outcome. Further details regarding the incident are awaited.
-
-ڈان کے مطابق لائن آف کنٹرول پر اپنے خاندان سے ملنے کی ایک کوشش ایک بڑے المیے پر ختم ہوئی۔ واقعے سے متعلق مزید تفصیلات کا انتظار ہے۔
-
-First reported by Dawn
-
-#LoC #Kashmir #Tragedy #DawnNews
-```
-
-### ECC raises wheat import ceiling to 2.5 million tonnes  [NORMAL]
-- Poster: ای سی سی نے گندم کی درآمدی حد بڑھا کر 2.5 ملین ٹن کر دی / ECC raises wheat import limit to 2.5m tonnes | category economy
-- Alternative headline: ECC increases wheat import limit as flour prices continue to rise
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMid0FVX3lxTE1NeDgwMHA5X2NYSkNYUTV3OTd2VGdUS1c0dHNCUm01YzNCMWZuMEdrNEl3N3JEMlZQbHBhR0xZSEpiMTh2cVN2QkFVY3FncWJla1ZfRVR2RjFVS1FtU0FCVmFJSTFaemVsNDdyWVljN01oNS1DMlFJ0gF_QVVfeXFMTk9BYjJVWG5TY1lXY0RZOTdNaDVnZldNOGs2dU1QZ0hzLUozUG9BUS1uamR5cDFHQlJkZjRJcVRhaGxRSmxCYW9xdmw2WTdyVGNfaTNZa0J3bDZVTVNWSW0wTHhXNHZQTTB0SnVVZWIwSzA3bS0ydVdPOXB6NldkQQ?oc=5
-- Supporting coverage: The Express Tribune, Profit by Pakistan Today
-- Keywords: ECC wheat import, wheat ceiling, flour prices, Economic Coordination Committee, The Express Tribune | hashtags: #ECC #WheatImport #Inflation #PakistanEconomy #ExpressTribune
-- Scheduled: Sat 28 Nov, 09:24 AM PKT
-- Caption:
-```
-Amid climbing flour prices across the country, the Economic Coordination Committee has raised the wheat import ceiling.
-
-According to The Express Tribune, the Economic Coordination Committee (ECC) has approved raising the wheat import ceiling to 2.5 million tonnes. The decision comes as domestic flour prices continue to climb, prompting steps to ensure adequate food supplies.
-
-دی ایکسپریس ٹریبیون کے مطابق اقتصادی رابطہ کمیٹی (ECC) نے آٹے کی بڑھتی ہوئی قیمتوں کے پیش نظر گندم کی درآمدی حد بڑھا کر 2.5 ملین ٹن کرنے کی منظوری دے دی ہے۔
-
-First reported by The Express Tribune; also reported by Profit by Pakistan Today
-
-#ECC #WheatImport #Inflation #PakistanEconomy #ExpressTribune
-```
-
-### Hunted beyond borders: Allegations of Tanzanian repression in Kenya  [NORMAL]
-- Poster: کینیا میں تنزانیہ کے اختلاف کرنے والوں کی سلامتی کو خطرات لاحق / Fears for Tanzanian dissidents in Kenya | category security
-- Alternative headline: Missing activist case sparks fears over Tanzanian dissenters in Kenya
+### Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC  [NORMAL]
+- Poster: ترکیہ میں حکومت نے اپوزیشن کا ٹی وی چینل تباہ کر دیا، مالک کا دعویٰ / Turkish officials destroyed pro-opposition TV channel, owner says | category politics
+- Alternative headline: Owner claims Turkish government destroyed pro-opposition TV channel
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Tanzanian repression, missing activist, Kenya, Tanzania, Al Jazeera | hashtags: #Tanzania #Kenya #HumanRights #AlJazeera
-- Scheduled: Sat 28 Nov, 09:34 AM PKT
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Halk TV, Turkey media, Cafer Mahiroglu, opposition channel, BBC, Istanbul | hashtags: #Turkey #HalkTV #MediaFreedom #BBC #Politics
+- Scheduled: Sat 28 Nov, 09:45 AM PKT
 - Caption:
 ```
-The disappearance of an activist in Kenya has sparked widespread concern and allegations regarding transnational repression.
+The London-based owner of a major Turkish news channel tells the BBC that authorities have destroyed the pro-opposition network.
 
-According to Al Jazeera, the disappearance of a prominent activist in Kenya has raised serious fears for the safety of Tanzanian dissidents living abroad. Observers have highlighted growing concerns over cross-border state actions.
+Turkish authorities have taken control of Halk TV, a pro-opposition news channel, and arrested nine individuals, including family members of its owner Cafer Mahiroğlu, on charges such as money laundering and bribery. Prosecutors accuse former anchors of producing false reports, while Mahiroğlu denies all allegations, calling them politically motivated.
 
-الجزیرہ کے مطابق کینیا میں ایک نمایاں کارکن کے لاپتہ ہونے کے واقعے نے تنزانیہ کے منحرف افراد کی سلامتی کے حوالے سے شدید خدشات کو جنم دیا ہے۔
+ترکیہ حکام نے اپوزیشن نواز نیوز چینل خلق ٹی وی کا کنٹرول سنبھال لیا ہے اور منی لانڈرنگ اور رشوت ستانی کے الزامات کے تحت مالک کے اہل خانہ سمیت نو افراد کو گرفتار کر لیا ہے۔ چینل کے مالک جعفر ماہیروغلو نے تمام الزامات کی تردید کرتے ہوئے انہیں بے بنیاد قرار دیا ہے۔
 
-First reported by Al Jazeera
+According to a report by BBC World
 
-#Tanzania #Kenya #HumanRights #AlJazeera
+#Turkey #HalkTV #MediaFreedom #BBC #Politics
 ```
 
-- Indian outlets blocked this run: 4 items
+### US military says it disabled merchant ship trying to breach Iran blockade  [NORMAL]
+- Poster: امریکی فوج نے ایران کی ناکہ بندی توڑنے والی تجارتی کشتی کو ناکارہ بنا دیا / US military disables merchant ship trying to breach Iran blockade | category security
+- Alternative headline: US military disables merchant vessel attempting to violate Iran blockade
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss
+- Supporting coverage: Scripps News, Al Jazeera, Al Jazeera, Daily Sun, Al Jazeera, Al Jazeera
+- Keywords: Iran blockade, US military, merchant ship, Palau-flagged, Al Jazeera, naval blockade | hashtags: #USMilitary #Iran #Blockade #NavalOperation #BreakingNews
+- Scheduled: Sat 28 Nov, 09:55 AM PKT
+- Caption:
+```
+The US military reports it has disabled the propulsion of a merchant ship attempting to breach the blockade on Iran.
+
+The US military announced that it disabled a Palau-flagged merchant ship's propulsion system after it attempted to breach the ongoing blockade on Iran. Authorities confirmed that the crew members aboard the vessel remain unharmed following the military intervention.
+
+امریکی فوج نے اعلان کیا ہے کہ اس نے ایران کی ناکہ بندی توڑنے کی کوشش کرنے والے پلاؤ کے جھنڈے والے ایک تجارتی جہاز کے پروپلشن سسٹم کو ناکارہ بنا دیا۔ حکام نے تصدیق کی ہے کہ کارروائی کے دوران جہاز کا عملہ محفوظ رہا۔
+
+First reported by Al Jazeera; also reported by Scripps News
+
+#USMilitary #Iran #Blockade #NavalOperation #BreakingNews
+```
+
+### Lok Mela opens to celebrate Pakistan’s cultural diversity  [NORMAL]
+- Poster: پاکستان کے ثقافتی تنوع کا جشن، اسلام آباد میں لوک میلہ شروع / Lok Mela opens in Islamabad to celebrate cultural diversity | category other
+- Alternative headline: Annual Lok Mela kicks off at Lok Virsa Islamabad
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5
+- Supporting coverage: Dawn, Dawn, Dawn Latest
+- Keywords: Lok Mela, Lok Virsa, Islamabad, cultural diversity, Pakistani culture, Dawn | hashtags: #LokMela #LokVirsa #Islamabad #PakistaniCulture #Heritage
+- Scheduled: Sat 28 Nov, 10:05 AM PKT
+- Caption:
+```
+The annual Lok Mela has officially opened in Islamabad, bringing together artisans and performers from across Pakistan.
+
+The annual Lok Mela has kicked off at Lok Virsa in Islamabad, aiming to celebrate and showcase Pakistan's rich cultural diversity. The vibrant festival features traditional crafts, folk music, and artisans from various regions across the country, drawing large crowds of culture enthusiasts.
+
+اسلام آباد کے لوک ورثہ میں سالانہ لوک میلے کا باقاعدہ آغاز ہو گیا ہے جس کا مقصد پاکستان کے بھرپور ثقافتی تنوع کو اجاگر کرنا ہے۔ اس رنگا رنگ میلے میں ملک بھر سے روایتی دستکار، فنکار اور لوک فنکار اپنی صلاحیتوں کا مظاہرہ کر رہے ہیں۔
+
+According to a report by Dawn
+
+#LokMela #LokVirsa #Islamabad #PakistaniCulture #Heritage
+```
+
+### Israel kills two MSF staff in targeted strike on Gaza clinic  [NORMAL]
+- Poster: غزہ میں ڈاکٹرز ودآؤٹ بارڈرز کے کلینک پر اسرائیلی حملہ، دو کارکن جاں بحق / Israeli strike on Gaza clinic kills two MSF staff members | category war
+- Alternative headline: Israeli strike on Doctors Without Borders clinic in Gaza kills two
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: MSF clinic, Gaza strike, Doctors Without Borders, Israel military, Al Jazeera, humanitarian workers | hashtags: #Gaza #MSF #Israel #HumanitarianCrisis #AlJazeera
+- Scheduled: Sat 28 Nov, 10:15 AM PKT
+- Caption:
+```
+An Israeli military strike targeting a Doctors Without Borders clinic in Gaza has resulted in the deaths of two staff members.
+
+An Israeli military strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen. The attack highlights the ongoing dangers faced by humanitarian workers and medical personnel operating within the conflict zone.
+
+غزہ میں ڈاکٹرز ودآؤٹ بارڈرز (ایم ایس ایف) کے زیر انتظام چلنے والے ایک کلینک پر اسرائیلی فضائی حملے میں دو چوکیدار جاں بحق ہو گئے۔ اس حملے سے جنگ زدہ علاقے میں امدادی کارکنوں کو درپیش شدید خطرات اجاگر ہوتے ہیں۔
+
+According to a report by Al Jazeera
+
+#Gaza #MSF #Israel #HumanitarianCrisis #AlJazeera
+```
+
+### The split-second teamwork behind an F1 pit stop  [NORMAL]
+- Poster: فارمولا ون پٹ اسٹاپ کے پیچھے چھپی سیکنڈوں کی حیرت انگیز ٹیم ورک / Exploring the rapid teamwork behind an F1 pit stop | category sports
+- Alternative headline: Inside the intense teamwork required for a Formula 1 pit stop
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: F1 pit stop, Formula 1, Al Jazeera, pit crew, Joanna Gasiorowska, motorsport | hashtags: #Formula1 #F1 #PitStop #Motorsport #AlJazeera
+- Scheduled: Sat 28 Nov, 10:25 AM PKT
+- Caption:
+```
+Al Jazeera’s Joanna Gasiorowska goes behind the scenes to experience the extreme pressure and precision of an F1 pit crew.
+
+Al Jazeera journalist Joanna Gasiorowska stepped directly into the pit lane to experience firsthand the incredible speed, precision, and split-second teamwork required by a Formula 1 pit crew during a race.
+
+الجزیرہ کی صحافی جوآنہ گاسورووسکا نے پٹ لین کا دورہ کیا تاکہ فارمولا ون ریس کے دوران پٹ کرو کی طرف سے درکار ناقابل یقین رفتار، درستگی اور سیکنڈوں کے اندر کیے جانے والے کام کا تجربہ کیا جا سکے۔
+
+According to a report by Al Jazeera
+
+#Formula1 #F1 #PitStop #Motorsport #AlJazeera
+```
+
+### Eight killed in Peruvian military helicopter crash  [NORMAL]
+- Poster: پیرو میں فوجی ہیلی کاپٹر گر کر تباہ، آٹھ اہلکار جاں بحق / Eight military personnel killed in Peruvian helicopter crash | category disaster
+- Alternative headline: Military helicopter crash in drug-trafficking region of Peru leaves eight dead
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Peruvian helicopter crash, Peru military, VRAEM, helicopter crash, BBC, Cocaine Valley | hashtags: #Peru #HelicopterCrash #Military #BBC #BreakingNews
+- Scheduled: Sat 28 Nov, 10:35 AM PKT
+- Caption:
+```
+Eight military personnel have died after their helicopter crashed in a remote drug-trafficking region of Peru.
+
+Eight military personnel were killed when their helicopter crashed in Peru's remote VRAEM region, known for drug trafficking and coca production. The aircraft went down during an evacuation mission, with the pilot serving as the sole survivor.
+
+پیرو کے دور افتادہ ویریم علاقے میں فوجی ہیلی کاپٹر گرنے سے آٹھ فوجی اہلکار جاں بحق ہو گئے۔ یہ حادثہ ایک انخلا کے مشن کے دوران پیش آیا، اور پائلٹ اس حادثے کا واحد زندہ بچ جانے والا شخص ہے۔
+
+According to a report by BBC World
+
+#Peru #HelicopterCrash #Military #BBC #BreakingNews
+```
+
+- Indian outlets blocked this run: 2 items
 
 ## Today
-- News posts published today: 9 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 22
+- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -423,8 +427,8 @@ First reported by Al Jazeera
 - [needs_review] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
 - [needs_review] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
 - [published] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
-- [queued] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
-- [queued] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
+- [needs_review] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
+- [published] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
 - [queued] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
 - [queued] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
 - [queued] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
@@ -445,14 +449,18 @@ First reported by Al Jazeera
 - [queued] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
 - [queued] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
 - [queued] normal | Hunted beyond borders: Allegations of Tanzanian repression in Kenya | Sat 28 Nov, 09:34 AM PKT
+- [queued] normal | Turkish officials 'destroyed' pro-opposition TV channel, owner tells B | Sat 28 Nov, 09:45 AM PKT
+- [queued] normal | US military says it disabled merchant ship trying to breach Iran block | Sat 28 Nov, 09:55 AM PKT
+- [queued] normal | Lok Mela opens to celebrate Pakistan’s cultural diversity | Sat 28 Nov, 10:05 AM PKT
+- [queued] normal | Israel kills two MSF staff in targeted strike on Gaza clinic | Sat 28 Nov, 10:15 AM PKT
+- [queued] normal | The split-second teamwork behind an F1 pit stop | Sat 28 Nov, 10:25 AM PKT
+- [queued] normal | Eight killed in Peruvian military helicopter crash | Sat 28 Nov, 10:35 AM PKT
 
 ## Publishing this run
-- Published 'Spain's PM Sanchez makes final push to defy election polls'.
+- Published 'Bilawal Vows to Form Separate South Punjab Province Through Democratic Struggle'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 4854 | output tokens: 2903
-- Errors: 1
-  - Gemini gemini-3.8-flash: HTTP 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan an
+- Calls: 3 | prompt tokens: 6910 | output tokens: 3566
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
