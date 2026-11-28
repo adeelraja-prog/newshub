@@ -192686,7 +192686,450 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "174d8cc7e7a40b5b8976cdcc",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T07:11:16+00:00",
+      "last_update": "2026-11-28T09:06:10+00:00",
+      "event": "پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "اڑانے",
+        "بھی",
+        "توسیع",
+        "جاری",
+        "دیا",
+        "عائد",
+        "فائل",
+        "فضا",
+        "فوٹوپنجاب",
+        "میں",
+        "نوٹیفکیشن",
+        "پابندی",
+        "پنجاب",
+        "ڈرون",
+        "کھلی",
+        "گئی۔پابندی",
+        "گیا،"
+      ],
+      "source_excerpt": "—فائل فوٹوپنجاب میں کھلی فضا میں ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع کر دی گئی۔پابندی کا نوٹیفکیشن بھی جاری کر دیا گیا، جس کے...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1637460",
+          "published_at": "2026-11-28T07:11:16+00:00"
+        },
+        {
+          "name": "UrduPoint",
+          "url": "https://urdupoint.com/n/5025930",
+          "published_at": "2026-11-28T09:06:10+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1637460",
+        "publisher_url": "https://jang.com.pk/news/1637460",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6fb99f3184b23b029547e371",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:41:45+00:00",
+      "last_update": "2026-11-28T09:41:45+00:00",
+      "event": "Gaza’s chess players survive a genocide and rebuild a community",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "are",
+        "chess",
+        "community",
+        "gaza",
+        "genocide",
+        "players",
+        "rebuild",
+        "returning",
+        "sport",
+        "survive",
+        "the",
+        "three",
+        "years"
+      ],
+      "source_excerpt": "Gaza's chess players are returning to the sport after three years of genocide.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+          "published_at": "2026-11-28T09:41:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1fe7756bd634d3d112b32e43",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:35:15+00:00",
+      "last_update": "2026-11-28T09:35:15+00:00",
+      "event": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "about",
+        "according",
+        "areas",
+        "crisis",
+        "emergency",
+        "face",
+        "forces",
+        "government",
+        "held",
+        "hit",
+        "houthi",
+        "hunger",
+        "levels",
+        "million",
+        "people",
+        "positions",
+        "the",
+        "warns",
+        "yemen"
+      ],
+      "source_excerpt": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+          "published_at": "2026-11-28T09:35:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2736ab6f43376ede7a428ae8",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T08:54:02+00:00",
+      "last_update": "2026-11-28T08:54:02+00:00",
+      "event": "Spain faces political shift as far right gains ground",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "faces",
+        "far",
+        "gains",
+        "ground",
+        "political",
+        "right",
+        "shift",
+        "spain"
+      ],
+      "source_excerpt": "Spain faces political shift as far right gains ground",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+          "published_at": "2026-11-28T08:54:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6ba9d1e7a7c2258d4e0bb4be",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:45:27+00:00",
+      "last_update": "2026-11-28T09:45:27+00:00",
+      "event": "New project to provide free mental health courses",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "courses",
+        "creativity",
+        "free",
+        "growth",
+        "health",
+        "mental",
+        "new",
+        "personal",
+        "project",
+        "provide",
+        "recovery",
+        "there",
+        "wellbeing",
+        "will"
+      ],
+      "source_excerpt": "There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T09:45:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "675932d3b13ec9821bec1547",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:37:06+00:00",
+      "last_update": "2026-11-28T09:37:06+00:00",
+      "event": "PTA says submarine cable fault fixed, internet services return to normal",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "announced",
+        "authority",
+        "been",
+        "cable",
+        "country",
+        "fault",
+        "fixed",
+        "following",
+        "had",
+        "international",
+        "internet",
+        "normal",
+        "november",
+        "pakistan",
+        "pta",
+        "repair",
+        "repo",
+        "restoration",
+        "return",
+        "returned",
+        "said",
+        "saturday",
+        "saying",
+        "says",
+        "sea",
+        "services",
+        "smw5",
+        "submarine",
+        "system",
+        "telecommunication",
+        "that",
+        "the"
+      ],
+      "source_excerpt": "The Pakistan Telecommunication Authority (PTA) on Saturday announced the restoration of the SEA-ME-WE 5 (SMW5) international submarine cable system following the repair of a fault, saying internet services across the country had returned to normal. On November 18, PTA said that a fault had been repo",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+          "published_at": "2026-11-28T09:37:06+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXp4aDJFTTI1Ykh3Q1hXb1ZfYWxnWFIyTHNsS1hlR29IZTdvTVVTVEhldkFIMlFoWG1xT28tUlVjYkhLM3NXM0tOa1FETXlSQ3d5SHh0NUxfRnFiQ0pkVUZsTnJFcEFiNVB0NEdEMC1IdzFyWFEzZXdFN3BGTnFYcV8zaDdZWC16UV96X01BZ0swaFROYmp2cUVGcWdaX2gzZGlZcG1lSC0?oc=5",
+          "published_at": "2026-11-28T09:37:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+        "publisher_url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9dd4e5195de3b6045d58567b",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:47:08+00:00",
+      "last_update": "2026-11-28T09:47:08+00:00",
+      "event": "Saeed Ahmed: The Lahore bookbinder that time forgot",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ahmed",
+        "bookbinder",
+        "forgot",
+        "lahore",
+        "saeed",
+        "that",
+        "the",
+        "time"
+      ],
+      "source_excerpt": "",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047669/saeed-ahmed-the-lahore-bookbinder-that-time-forgot",
+          "published_at": "2026-11-28T09:47:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047669/saeed-ahmed-the-lahore-bookbinder-that-time-forgot",
+        "publisher_url": "https://www.dawn.com/news/2047669/saeed-ahmed-the-lahore-bookbinder-that-time-forgot",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "851f602cc5e4b751fddaaff5",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:39:05+00:00",
+      "last_update": "2026-11-28T09:39:05+00:00",
+      "event": "Gold, silver prices decline in Pakistan amid fall in international market",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "decline",
+        "fall",
+        "gold",
+        "international",
+        "market",
+        "pakistan",
+        "prices",
+        "silver"
+      ],
+      "source_excerpt": "Gold, silver prices decline in Pakistan amid fall in international market",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/gold-silver-prices-decline-in-pakistan-amid-fall-in-international-market",
+          "published_at": "2026-11-28T09:39:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/gold-silver-prices-decline-in-pakistan-amid-fall-in-international-market",
+        "publisher_url": "https://arynews.tv/gold-silver-prices-decline-in-pakistan-amid-fall-in-international-market",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d7a2e8bd04941c2bf73487cc",
+      "remembered_at": "2026-11-28T09:53:55.990730+00:00",
+      "event_date": "2026-11-28T09:31:39+00:00",
+      "last_update": "2026-11-28T09:31:39+00:00",
+      "event": "Six cops arrested in Rawalpindi for taking Rs4 million bribe to release drug traffickers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "arrested",
+        "bribe",
+        "cops",
+        "drug",
+        "for",
+        "million",
+        "rawalpindi",
+        "release",
+        "rs4",
+        "six",
+        "taking",
+        "traffickers"
+      ],
+      "source_excerpt": "Six cops arrested in Rawalpindi for taking Rs4 million bribe to release drug traffickers",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/six-cops-arrested-in-rawalpindi-for-taking-rs4-million-bribe-to-release-drug-traffickers",
+          "published_at": "2026-11-28T09:31:39+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/six-cops-arrested-in-rawalpindi-for-taking-rs4-million-bribe-to-release-drug-traffickers",
+        "publisher_url": "https://arynews.tv/six-cops-arrested-in-rawalpindi-for-taking-rs4-million-bribe-to-release-drug-traffickers",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T08:57:48.084812+00:00"
+  "updated_at": "2026-11-28T09:53:55.990730+00:00"
 }

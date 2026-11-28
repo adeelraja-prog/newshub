@@ -1,151 +1,75 @@
-# News Hub report - Sat 28 Nov, 01:57 PM PKT
+# News Hub report - Sat 28 Nov, 02:53 PM PKT
 
 ## Collection
-- New items this run: 86 | items in rolling pool: 353
-- Unique story clusters: 292 (duplicates merged: 61)
-- Clusters dropped as already published/queued: 37; unchanged since last analysis: 9
-- Items per outlet: UrduPoint 44, Geo News 10, Wired 4, The Current 4, The News International 3, PhoneWorld 3, samaa tv 2, Dawn 2, ARY News 2, Al Jazeera 2, ProPakistani 2, Profit by Pakistan Today 2
+- New items this run: 83 | items in rolling pool: 416
+- Unique story clusters: 344 (duplicates merged: 72)
+- Clusters dropped as already published/queued: 39; unchanged since last analysis: 6
+- Items per outlet: UrduPoint 48, Geo News 5, samaa tv 4, TechJuice 4, ARY News 3, Al Jazeera 3, Wired 3, Dawn 2, The News International 2, Dawn Latest 2, Dunya News 1, Dawn Pakistan 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- پنجاب: ڈرون اڑانے پر عائد پابندی میں 30 دن کی توسیع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN’s Albanese leaves Costa Rica airport after constitutional court verdict | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### PM Shehbaz orders simpler bank loan procedures to boost small businesses  [NORMAL]
-- Poster: چھوٹے کاروباروں کے لیے بینک قرضوں کے حصول کو آسان بنانے کی ہدایت / PM Shehbaz orders easier bank loans for SMEs | category economy
-- Alternative headline: PM Shehbaz pushes for alternative collateral and easier loans for SMEs
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises
-- Supporting coverage: Geo News, Geo News
-- Keywords: SME loans, Shehbaz Sharif, bank credit, small businesses, alternative collateral, Pakistan | hashtags: #PMShehbaz #SMEloans #PakistanEconomy #BusinessGrowth #Banking
-- Scheduled: Sat 28 Nov, 01:57 PM PKT
-- Caption:
-```
-Prime Minister Shehbaz Sharif has directed authorities to simplify loan procedures and introduce alternative collateral options for small and medium enterprises.
-
-Prime Minister Shehbaz Sharif chaired a high-level meeting to improve SME access to credit, directing that export data, supply chain participation, and cash flow be considered as alternative collateral. He also called for a review of prudential regulations to speed up loan disbursements and help small businesses.
-
-وزیر اعظم شہباز شریف نے چھوٹے اور درمیانے درجے کے کاروباروں کے لیے بینک قرضوں کے طریقہ کار کو آسان بنانے اور متبادل ضمانت کو تسلیم کرنے کی ہدایت کی ہے تاکہ معاشی سرگرمیوں کو فروغ دیا جا سکے۔
-
-First reported by Geo News
-
-#PMShehbaz #SMEloans #PakistanEconomy #BusinessGrowth #Banking
-```
-
-### Trump officials move to military bases amid mounting security threats  [NORMAL]
-- Poster: دھمکیوں کے پیش نظر ٹرمپ کے عہدیدار فوجی اڈوں پر منتقل / Trump officials move to military bases | category world
-- Alternative headline: Reports indicate Trump officials relocating to military bases over safety concerns
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5
-- Supporting coverage: samaa tv, Iran International
-- Keywords: Trump officials, military bases, security threats, US politics | hashtags: #Trump #USPolitics #SecurityThreats #MilitaryBases #BreakingNews
-- Scheduled: Sat 28 Nov, 02:07 PM PKT
-- Caption:
-```
-Trump officials have reportedly moved to military bases amid growing security concerns and threats.
-
-Reports indicate that officials associated with Donald Trump have relocated to military bases amid ongoing security threats and concerns.
-
-اطلاعات کے مطابق سکیورٹی خدشات اور دھمکیوں کے پیش نظر ڈونلڈ ٹرمپ کے عہدیدار فوجی اڈوں پر منتقل ہو گئے ہیں۔
-
-First reported by Samaa TV
-
-#Trump #USPolitics #SecurityThreats #MilitaryBases #BreakingNews
-```
-
-### Students killed and injured in school explosion in Afghanistan's Kunar  [NORMAL]
-- Poster: افغانستان کے صوبے کنڑ میں سکول کے قریب دھماکہ، طلبہ جاں بحق و زخمی / School explosion in Afghanistan's Kunar kills students | category disaster
-- Alternative headline: Explosion at school in Afghan Kunar region leaves students casualties
+### Yemen Forces Strike Houthi Positions Amid Dire UN Hunger Warning  [NORMAL]
+- Poster: یمنی فوج کے حوثی پوزیشنز پر حملے، اقوام متحدہ کی بھوک کی سنگین وارننگ / Yemen Forces Hit Houthis as UN Warns of Hunger Crisis | category war
+- Alternative headline: UN Warns of Severe Hunger as Yemen Forces Target Houthi Positions
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Kunar explosion, Afghanistan, school blast, students killed, Kunar region | hashtags: #Afghanistan #Kunar #BreakingNews #SchoolBlast #Tragedy
-- Scheduled: Sat 28 Nov, 02:17 PM PKT
+- Keywords: Yemen conflict, Houthi positions, UN hunger warning, Yemen government forces, emergency hunger, Al Jazeera | hashtags: #Yemen #UN #Houthis #WorldNews #AlJazeera
+- Scheduled: Sat 28 Nov, 02:53 PM PKT
 - Caption:
 ```
-Several students have been reported killed and injured following a school explosion in Afghanistan's Kunar region.
+As Yemen government forces strike Houthi positions, the United Nations warns that approximately 1.8 million people face emergency levels of hunger in government-held areas.
 
-A tragic school explosion in Afghanistan's Kunar region has resulted in the death and injury of multiple students, according to breaking reports.
+Yemen government forces have targeted Houthi positions amid an escalating conflict, while the United Nations warns that nearly 1.8 million people are facing emergency levels of hunger in government-controlled regions of the country.
 
-افغانستان کے صوبے کنڑ میں ایک سکول کے قریب ہونے والے دھماکے کے نتیجے میں کئی طلبہ جاں بحق اور زخمی ہو گئے ہیں۔
+یمن کی سرکاری افواج نے حوثی پوزیشنز کو نشانہ بنایا ہے جبکہ اقوام متحدہ نے خبردار کیا ہے کہ حکومت کے زیر کنٹرول علاقوں میں تقریباً 18 لاکھ افراد کو شدید بھوک کا سامنا ہے۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Afghanistan #Kunar #BreakingNews #SchoolBlast #Tragedy
+#Yemen #UN #Houthis #WorldNews #AlJazeera
 ```
 
-### Uganda launches Africa's first mRNA Ebola vaccine trial  [NORMAL]
-- Poster: یوگنڈا میں افریقہ کی پہلی ایم آر این اے ایبولا ویکسین کا تجربہ شروع / Uganda starts mRNA Ebola vaccine trial | category health
-- Alternative headline: First African trial for mRNA Ebola vaccine begins in Uganda
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Ebola vaccine trial, Uganda, mRNA vaccine, Bundibugyo strain, Africa health | hashtags: #Uganda #EbolaVaccine #mRNA #PublicHealth #MedicalResearch
-- Scheduled: Sat 28 Nov, 02:27 PM PKT
-- Caption:
-```
-Uganda has launched Africa's first clinical trial for an mRNA Ebola vaccine, targeting the Bundibugyo strain.
-
-Uganda has initiated clinical trials for an mRNA Ebola vaccine in a historic first for the African continent. The trial specifically targets the less common Bundibugyo strain linked to an outbreak in the neighboring Democratic Republic of Congo.
-
-یوگنڈا نے افریقہ میں پہلی بار ایم آر این اے ایبولا ویکسین کا کلینیکل ٹرائل شروع کر دیا ہے۔ یہ ٹرائل کانگو میں پھیلنے والے ایبولا کے کم عام برنڈیبوجیو سسٹین کو ہدف بناتا ہے۔
-
-First reported by Al Jazeera
-
-#Uganda #EbolaVaccine #mRNA #PublicHealth #MedicalResearch
-```
-
-- Indian outlets blocked this run: 1 items
+- Indian outlets blocked this run: 5 items
 
 ## Today
-- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 15 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
-- [needs_review] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
-- [needs_review] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
-- [needs_review] normal | Alaska ends deal to give voter records to US Justice Department | Wed 25 Nov, 07:48 AM PKT
-- [needs_review] normal | Poll Finds Majority of US Voters Want Immediate End to Iran War | Wed 25 Nov, 07:58 AM PKT
 - [needs_review] normal | Internal Vulnerabilities Complicated Deutsche Bank's Pakistan Operatio | Wed 25 Nov, 08:18 AM PKT
 - [needs_review] normal | Iranian Singer Parastoo Ahmadi Flogged 74 Times Over YouTube Concert | Wed 25 Nov, 08:28 AM PKT
 - [needs_review] normal | What Are the Chances of Experiencing a White Christmas This Year? | Wed 25 Nov, 08:38 AM PKT
@@ -388,7 +312,7 @@ First reported by Al Jazeera
 - [needs_review] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
 - [needs_review] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
 - [published] normal | JUI-F claims dozens of workers arrested amid protests | Sat 28 Nov, 08:44 AM PKT
-- [queued] normal | Profit-taking drags PSX below 178,000 index level | Sat 28 Nov, 08:54 AM PKT
+- [published] normal | Profit-taking drags PSX below 178,000 index level | Sat 28 Nov, 08:54 AM PKT
 - [queued] normal | Privatisation drive gains fresh momentum | Sat 28 Nov, 09:04 AM PKT
 - [queued] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
 - [queued] normal | ECC raises wheat import ceiling to 2.5 million tonnes | Sat 28 Nov, 09:24 AM PKT
@@ -415,19 +339,16 @@ First reported by Al Jazeera
 - [queued] normal | Trump officials move to military bases amid mounting security threats | Sat 28 Nov, 02:07 PM PKT
 - [queued] normal | Students killed and injured in school explosion in Afghanistan's Kunar | Sat 28 Nov, 02:17 PM PKT
 - [queued] normal | Uganda launches Africa's first mRNA Ebola vaccine trial | Sat 28 Nov, 02:27 PM PKT
+- [queued] normal | Yemen Forces Strike Houthi Positions Amid Dire UN Hunger Warning | Sat 28 Nov, 02:53 PM PKT
 
 ## Publishing this run
-- Published 'JUI-F claims dozens of workers arrested amid protests'.
+- Published 'Profit-taking drags PSX below 178,000 index level'.
 
 ## Gemini usage
-- Calls: 4 | prompt tokens: 8896 | output tokens: 4626
-- Errors: 3
+- Calls: 3 | prompt tokens: 2148 | output tokens: 595
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.8-flash: HTTP 503 {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes i
-  - Gemini gemini-3.5-flash-lite: Expecting value: line 180 column 9 (char 8135)
