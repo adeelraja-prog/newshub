@@ -1,199 +1,123 @@
-# News Hub report - Sat 28 Nov, 09:45 AM PKT
+# News Hub report - Sat 28 Nov, 10:44 AM PKT
 
 ## Collection
-- New items this run: 23 | items in rolling pool: 226
-- Unique story clusters: 186 (duplicates merged: 40)
-- Clusters dropped as already published/queued: 29; unchanged since last analysis: 10
-- Items per outlet: Dawn Latest 7, Dawn Pakistan 4, Geo News 3, Dunya News 2, Al Jazeera 2, BBC World 2, Profit by Pakistan Today 2, Dawn 1, Express News TV 0, BOL News 0, Judiciary and Courts Desk 0, Petrol prices 0
+- New items this run: 27 | items in rolling pool: 238
+- Unique story clusters: 192 (duplicates merged: 46)
+- Clusters dropped as already published/queued: 33; unchanged since last analysis: 11
+- Items per outlet: TechJuice 4, Geo News 3, samaa tv 3, Al Jazeera 3, ARY News 2, Dawn 1, Dunya News 1, Dawn Pakistan 1, Dawn Latest 1, Punjab Newsline 1, Bol News 1, The Current 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
-- Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
+- Feed entries checked: 0 | new uploads queued: 0 | first-run seeded: 0
+- Feed warning: Adeel Raja: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCS5Lljc_YNJU4aLXGMCYAOQ
+- Feed warning: Adeel Raja Shorts: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrCIWah6oQYS-safc4vkaeg
 
 ## Top 5 most important
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- US military says it disabled merchant ship trying to breach Iran blockade | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lok Mela opens to celebrate Pakistan’s cultural diversity | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Israel kills two MSF staff in targeted strike on Gaza clinic | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- The split-second teamwork behind an F1 pit stop | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Gold price in Pakistan rises by Rs11,500 per tola: Nov 28, 2026 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- City Council approves Rs249m for Karachi's Burns Road Food Street | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Behind India’s IIT dream: Student suicides and gaps in support | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- El Nino-linked deluges flood cities in Peru, Ecuador | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN chief frontrunner urged to speak out over Albanese detention | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 110/120 | empty: 2 | failed: 7 | malformed/partial: 8
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Express News TV | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: BOL News | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
+- ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Petrol prices | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: War | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC  [NORMAL]
-- Poster: ترکیہ میں حکومت نے اپوزیشن کا ٹی وی چینل تباہ کر دیا، مالک کا دعویٰ / Turkish officials destroyed pro-opposition TV channel, owner says | category politics
-- Alternative headline: Owner claims Turkish government destroyed pro-opposition TV channel
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Halk TV, Turkey media, Cafer Mahiroglu, opposition channel, BBC, Istanbul | hashtags: #Turkey #HalkTV #MediaFreedom #BBC #Politics
-- Scheduled: Sat 28 Nov, 09:45 AM PKT
-- Caption:
-```
-The London-based owner of a major Turkish news channel tells the BBC that authorities have destroyed the pro-opposition network.
-
-Turkish authorities have taken control of Halk TV, a pro-opposition news channel, and arrested nine individuals, including family members of its owner Cafer Mahiroğlu, on charges such as money laundering and bribery. Prosecutors accuse former anchors of producing false reports, while Mahiroğlu denies all allegations, calling them politically motivated.
-
-ترکیہ حکام نے اپوزیشن نواز نیوز چینل خلق ٹی وی کا کنٹرول سنبھال لیا ہے اور منی لانڈرنگ اور رشوت ستانی کے الزامات کے تحت مالک کے اہل خانہ سمیت نو افراد کو گرفتار کر لیا ہے۔ چینل کے مالک جعفر ماہیروغلو نے تمام الزامات کی تردید کرتے ہوئے انہیں بے بنیاد قرار دیا ہے۔
-
-According to a report by BBC World
-
-#Turkey #HalkTV #MediaFreedom #BBC #Politics
-```
-
-### US military says it disabled merchant ship trying to breach Iran blockade  [NORMAL]
-- Poster: امریکی فوج نے ایران کی ناکہ بندی توڑنے والی تجارتی کشتی کو ناکارہ بنا دیا / US military disables merchant ship trying to breach Iran blockade | category security
-- Alternative headline: US military disables merchant vessel attempting to violate Iran blockade
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss
-- Supporting coverage: Scripps News, Al Jazeera, Al Jazeera, Daily Sun, Al Jazeera, Al Jazeera
-- Keywords: Iran blockade, US military, merchant ship, Palau-flagged, Al Jazeera, naval blockade | hashtags: #USMilitary #Iran #Blockade #NavalOperation #BreakingNews
-- Scheduled: Sat 28 Nov, 09:55 AM PKT
-- Caption:
-```
-The US military reports it has disabled the propulsion of a merchant ship attempting to breach the blockade on Iran.
-
-The US military announced that it disabled a Palau-flagged merchant ship's propulsion system after it attempted to breach the ongoing blockade on Iran. Authorities confirmed that the crew members aboard the vessel remain unharmed following the military intervention.
-
-امریکی فوج نے اعلان کیا ہے کہ اس نے ایران کی ناکہ بندی توڑنے کی کوشش کرنے والے پلاؤ کے جھنڈے والے ایک تجارتی جہاز کے پروپلشن سسٹم کو ناکارہ بنا دیا۔ حکام نے تصدیق کی ہے کہ کارروائی کے دوران جہاز کا عملہ محفوظ رہا۔
-
-First reported by Al Jazeera; also reported by Scripps News
-
-#USMilitary #Iran #Blockade #NavalOperation #BreakingNews
-```
-
-### Lok Mela opens to celebrate Pakistan’s cultural diversity  [NORMAL]
-- Poster: پاکستان کے ثقافتی تنوع کا جشن، اسلام آباد میں لوک میلہ شروع / Lok Mela opens in Islamabad to celebrate cultural diversity | category other
-- Alternative headline: Annual Lok Mela kicks off at Lok Virsa Islamabad
+### Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers  [NORMAL]
+- Poster: سندھ اسمبلی کا گھریلو صارفین کو بلا تعطل گیس فراہمی کا مطالبہ / Sindh Assembly demands uninterrupted gas supply | category politics
+- Alternative headline: Lawmakers Accuse Centre of Denying Gas to Sindh
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5
-- Supporting coverage: Dawn, Dawn, Dawn Latest
-- Keywords: Lok Mela, Lok Virsa, Islamabad, cultural diversity, Pakistani culture, Dawn | hashtags: #LokMela #LokVirsa #Islamabad #PakistaniCulture #Heritage
-- Scheduled: Sat 28 Nov, 10:05 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047595/sindh-assembly-demands-uninterrupted-gas-supply-to-domestic-consumers | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047595/sindh-assembly-demands-uninterrupted-gas-supply-to-domestic-consumers
+- Supporting coverage: Dawn Pakistan
+- Keywords: gas supply, Sindh Assembly, SSGC, loadshedding, domestic consumers, Ziaul Hassan Lanjar | hashtags: #SindhAssembly #GasSupply #Karachi #Pakistan #SSGC
+- Scheduled: Sat 28 Nov, 10:45 AM PKT
 - Caption:
 ```
-The annual Lok Mela has officially opened in Islamabad, bringing together artisans and performers from across Pakistan.
+Lawmakers across party lines in the Sindh Assembly unanimously passed a motion demanding uninterrupted gas supply and an end to unannounced loadshedding.
 
-The annual Lok Mela has kicked off at Lok Virsa in Islamabad, aiming to celebrate and showcase Pakistan's rich cultural diversity. The vibrant festival features traditional crafts, folk music, and artisans from various regions across the country, drawing large crowds of culture enthusiasts.
+The Sindh Assembly unanimously passed a motion demanding uninterrupted gas supply to domestic consumers and an end to unannounced loadshedding. Lawmakers accused the federal government of denying the province its constitutional right, while urging Sui Southern Gas Company to provide advance notice before any suspension.
 
-اسلام آباد کے لوک ورثہ میں سالانہ لوک میلے کا باقاعدہ آغاز ہو گیا ہے جس کا مقصد پاکستان کے بھرپور ثقافتی تنوع کو اجاگر کرنا ہے۔ اس رنگا رنگ میلے میں ملک بھر سے روایتی دستکار، فنکار اور لوک فنکار اپنی صلاحیتوں کا مظاہرہ کر رہے ہیں۔
+سندھ اسمبلی نے متفقہ طور پر ایک قرارداد منظور کی جس میں گھریلو صارفین کو بلا تعطل گیس کی فراہمی اور غیر اعلانیہ لوڈشیڈنگ کے خاتمے کا مطالبہ کیا گیا۔ ارکان نے وفاقی حکومت پر صوبے کو اس کا آئینی حق نہ دینے کا الزام عائد کیا۔
 
-According to a report by Dawn
+First reported by Dawn Pakistan
 
-#LokMela #LokVirsa #Islamabad #PakistaniCulture #Heritage
+#SindhAssembly #GasSupply #Karachi #Pakistan #SSGC
 ```
 
-### Israel kills two MSF staff in targeted strike on Gaza clinic  [NORMAL]
-- Poster: غزہ میں ڈاکٹرز ودآؤٹ بارڈرز کے کلینک پر اسرائیلی حملہ، دو کارکن جاں بحق / Israeli strike on Gaza clinic kills two MSF staff members | category war
-- Alternative headline: Israeli strike on Doctors Without Borders clinic in Gaza kills two
+### Gold Prices Surge by Rs11,500 Per Tola in Pakistan  [NORMAL]
+- Poster: پاکستان میں فی تولہ سونے کی قیمت میں بڑا اضافہ / Gold price rises by Rs11,500 per tola | category other
+- Alternative headline: Gold Rate Jumps Significantly Across Pakistan Markets
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: MSF clinic, Gaza strike, Doctors Without Borders, Israel military, Al Jazeera, humanitarian workers | hashtags: #Gaza #MSF #Israel #HumanitarianCrisis #AlJazeera
-- Scheduled: Sat 28 Nov, 10:15 AM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPYS0wWEcyNWZJVU0yR01NOExpeWZBREMtNlo5Um5wSldRRlJ4RHkzWVRrOXdlWi05VjhlcmtHLUZNVGtTaW1IUzVSWjRLNlVpOUJoVlZfVHI5SVpDdXNuRzJuV0VvTm5LREdKQkw4dDdyck1QV2VKaVh2Mk1RcktVR3VXZW1kR0FZckpVTmtkbmhyYk1QUUV1bQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimAFBVV95cUxPYS0wWEcyNWZJVU0yR01NOExpeWZBREMtNlo5Um5wSldRRlJ4RHkzWVRrOXdlWi05VjhlcmtHLUZNVGtTaW1IUzVSWjRLNlVpOUJoVlZfVHI5SVpDdXNuRzJuV0VvTm5LREdKQkw4dDdyck1QV2VKaVh2Mk1RcktVR3VXZW1kR0FZckpVTmtkbmhyYk1QUUV1bQ?oc=5
+- Supporting coverage: Investify, samaa tv, TechJuice, TechJuice
+- Keywords: gold price, gold rate, tola, Pakistan, precious metals, market update | hashtags: #GoldPrice #Pakistan #Economy #Gold #MarketUpdate
+- Scheduled: Sat 28 Nov, 10:55 AM PKT
 - Caption:
 ```
-An Israeli military strike targeting a Doctors Without Borders clinic in Gaza has resulted in the deaths of two staff members.
+Gold prices in Pakistan experienced a massive upward shift, rising by Rs11,500 per tola.
 
-An Israeli military strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen. The attack highlights the ongoing dangers faced by humanitarian workers and medical personnel operating within the conflict zone.
+Gold prices in Pakistan recorded a significant increase of Rs11,500 per tola, reflecting ongoing market fluctuations and shifts in precious metal rates across the country.
 
-غزہ میں ڈاکٹرز ودآؤٹ بارڈرز (ایم ایس ایف) کے زیر انتظام چلنے والے ایک کلینک پر اسرائیلی فضائی حملے میں دو چوکیدار جاں بحق ہو گئے۔ اس حملے سے جنگ زدہ علاقے میں امدادی کارکنوں کو درپیش شدید خطرات اجاگر ہوتے ہیں۔
+پاکستان میں سونے کی فی تولہ قیمت میں گیارہ ہزار پانچ سو روپے کا بڑا اضافہ ریکارڈ کیا گیا، جس سے ملک بھر میں قیمتی دھاتوں کے نرخ متاثر ہوئے۔
 
-According to a report by Al Jazeera
+First reported by samaa tv
 
-#Gaza #MSF #Israel #HumanitarianCrisis #AlJazeera
+#GoldPrice #Pakistan #Economy #Gold #MarketUpdate
 ```
 
-### The split-second teamwork behind an F1 pit stop  [NORMAL]
-- Poster: فارمولا ون پٹ اسٹاپ کے پیچھے چھپی سیکنڈوں کی حیرت انگیز ٹیم ورک / Exploring the rapid teamwork behind an F1 pit stop | category sports
-- Alternative headline: Inside the intense teamwork required for a Formula 1 pit stop
+### City Council Approves Rs249m for Burns Road Food Street  [NORMAL]
+- Poster: سٹی کونسل نے برنس روڈ فوڈ اسٹریٹ کے لیے کروڑوں روپے منظور کر لیے / City Council approves Rs249m for Burns Road | category other
+- Alternative headline: Karachi Approves Pedestrian-Only Status for Burns Road
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: F1 pit stop, Formula 1, Al Jazeera, pit crew, Joanna Gasiorowska, motorsport | hashtags: #Formula1 #F1 #PitStop #Motorsport #AlJazeera
-- Scheduled: Sat 28 Nov, 10:25 AM PKT
+- Original source: published_report - Dawn Pakistan https://www.dawn.com/news/2047592/city-council-approves-rs249m-for-karachis-burns-road-food-street | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn Pakistan https://www.dawn.com/news/2047592/city-council-approves-rs249m-for-karachis-burns-road-food-street
+- Supporting coverage: Dawn Pakistan, Dawn
+- Keywords: Burns Road Food Street, City Council, Karachi, pedestrian area, Sindh High Court, Murtaza Wahab | hashtags: #BurnsRoad #Karachi #CityCouncil #FoodStreet #SindhHighCourt
+- Scheduled: Sat 28 Nov, 11:05 AM PKT
 - Caption:
 ```
-Al Jazeera’s Joanna Gasiorowska goes behind the scenes to experience the extreme pressure and precision of an F1 pit crew.
+Karachi's City Council approved Rs249.823 million to renovate Burns Road Food Street and make it a pedestrian-only area.
 
-Al Jazeera journalist Joanna Gasiorowska stepped directly into the pit lane to experience firsthand the incredible speed, precision, and split-second teamwork required by a Formula 1 pit crew during a race.
+The City Council approved a proposal to designate Burns Road Food Street as a pedestrian-only area and allocate Rs249.823 million for its renovation. The decision revives the project despite a previous 2023 Sindh High Court directive to restore vehicular traffic on the road.
 
-الجزیرہ کی صحافی جوآنہ گاسورووسکا نے پٹ لین کا دورہ کیا تاکہ فارمولا ون ریس کے دوران پٹ کرو کی طرف سے درکار ناقابل یقین رفتار، درستگی اور سیکنڈوں کے اندر کیے جانے والے کام کا تجربہ کیا جا سکے۔
+سٹی کونسل نے برنس روڈ فوڈ اسٹریٹ کو پیدل چلنے والوں کے لیے مخصوص کرنے اور اس کی تزئین و آرائش کے لیے دو کروڑ روپے سے زائد کے فنڈز کی منظوری دے دی ہے، باوجود اس کے کہ سندھ ہائی کورٹ کا پرانا حکم ٹریفک بحال رکھنے کا تھا۔
 
-According to a report by Al Jazeera
+First reported by Dawn Pakistan
 
-#Formula1 #F1 #PitStop #Motorsport #AlJazeera
+#BurnsRoad #Karachi #CityCouncil #FoodStreet #SindhHighCourt
 ```
 
-### Eight killed in Peruvian military helicopter crash  [NORMAL]
-- Poster: پیرو میں فوجی ہیلی کاپٹر گر کر تباہ، آٹھ اہلکار جاں بحق / Eight military personnel killed in Peruvian helicopter crash | category disaster
-- Alternative headline: Military helicopter crash in drug-trafficking region of Peru leaves eight dead
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Peruvian helicopter crash, Peru military, VRAEM, helicopter crash, BBC, Cocaine Valley | hashtags: #Peru #HelicopterCrash #Military #BBC #BreakingNews
-- Scheduled: Sat 28 Nov, 10:35 AM PKT
-- Caption:
-```
-Eight military personnel have died after their helicopter crashed in a remote drug-trafficking region of Peru.
-
-Eight military personnel were killed when their helicopter crashed in Peru's remote VRAEM region, known for drug trafficking and coca production. The aircraft went down during an evacuation mission, with the pilot serving as the sole survivor.
-
-پیرو کے دور افتادہ ویریم علاقے میں فوجی ہیلی کاپٹر گرنے سے آٹھ فوجی اہلکار جاں بحق ہو گئے۔ یہ حادثہ ایک انخلا کے مشن کے دوران پیش آیا، اور پائلٹ اس حادثے کا واحد زندہ بچ جانے والا شخص ہے۔
-
-According to a report by BBC World
-
-#Peru #HelicopterCrash #Military #BBC #BreakingNews
-```
-
-- Indian outlets blocked this run: 2 items
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 10 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 11 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -213,7 +137,6 @@ According to a report by BBC World
 - [needs_review] normal | WHO chief urges end to US fuel blockade on Cuba | Wed 25 Nov, 09:49 AM PKT
 - [needs_review] normal | Bilawal says new provinces only through parliamentary process | Wed 25 Nov, 10:11 AM PKT
 - [needs_review] normal | Commerce Minister Jam Kamal vows to help Balochistan traders | Wed 25 Nov, 10:21 AM PKT
-- [published] normal | World Bank downgrades $150m Punjab education project | Wed 25 Nov, 10:31 AM PKT
 - [needs_review] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
 - [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
 - [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
@@ -429,8 +352,8 @@ According to a report by BBC World
 - [published] normal | Spain's PM Sanchez makes final push to defy election polls | Sat 28 Nov, 03:29 AM PKT
 - [needs_review] normal | US military disables ship attempting to breach Iran blockade | Sat 28 Nov, 03:39 AM PKT
 - [published] normal | Bilawal Vows to Form Separate South Punjab Province Through Democratic | Sat 28 Nov, 04:27 AM PKT
-- [queued] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
-- [queued] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
+- [needs_review] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
+- [published] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
 - [queued] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
 - [queued] normal | Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears | Sat 28 Nov, 05:23 AM PKT
 - [queued] normal | Power Outages And Travel Disruptions As Storm Batters US East Coast | Sat 28 Nov, 05:33 AM PKT
@@ -455,12 +378,17 @@ According to a report by BBC World
 - [queued] normal | Israel kills two MSF staff in targeted strike on Gaza clinic | Sat 28 Nov, 10:15 AM PKT
 - [queued] normal | The split-second teamwork behind an F1 pit stop | Sat 28 Nov, 10:25 AM PKT
 - [queued] normal | Eight killed in Peruvian military helicopter crash | Sat 28 Nov, 10:35 AM PKT
+- [queued] normal | Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers | Sat 28 Nov, 10:45 AM PKT
+- [queued] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
+- [queued] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
 
 ## Publishing this run
-- Published 'Bilawal Vows to Form Separate South Punjab Province Through Democratic Struggle'.
+- Published 'Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6910 | output tokens: 3566
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 2 | prompt tokens: 4493 | output tokens: 1747
+- Errors: 1
+  - Gemini gemini-3.8-flash: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan an
