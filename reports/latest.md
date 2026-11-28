@@ -1,154 +1,148 @@
-# News Hub report - Sat 28 Nov, 04:37 PM PKT
+# News Hub report - Sat 28 Nov, 05:35 PM PKT
 
 ## Collection
-- New items this run: 73 | items in rolling pool: 549
-- Unique story clusters: 450 (duplicates merged: 99)
-- Clusters dropped as already published/queued: 30; unchanged since last analysis: 14
-- Items per outlet: UrduPoint 33, Geo News 8, ProPakistani 6, samaa tv 4, Wired 3, TechJuice 3, Dawn Pakistan 2, The Express Tribune 2, AP News 2, ARYnews.tv 1, The News International 1, Dawn Latest 1
+- New items this run: 104 | items in rolling pool: 635
+- Unique story clusters: 516 (duplicates merged: 119)
+- Clusters dropped as already published/queued: 34; unchanged since last analysis: 11
+- Items per outlet: UrduPoint 50, ProPakistani 10, samaa tv 6, Al Jazeera 6, Geo News 5, TechJuice 4, ARY News 3, Wired 3, BBC Business 2, The Current 2, Dawn 1, The News International 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Israeli strike on Doctors Without Borders clinic in Gaza kills two staff | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ایم کیو ایم پاکستان کا کراچی میں کل کی ریلی و جلسہ منسوخ کرنے کا فیصلہ: ذرائع | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Why is Trump backing Iraq’s anti-smuggling campaign? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Australia selector Bailey denies 'Sandpapergate' cost Bancroft Test recall | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tributes paid to Irish actor and comedian PJ Gallagher | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Why is Trump backing Iraq’s anti-smuggling campaign?  [NORMAL]
-- Poster: عراق کی انسداد اسمگلنگ مہم کی حمایت کیوں کر رہے ہیں؟ / Why is Trump backing Iraq's anti-smuggling campaign? | category politics
-- Alternative headline: Exploring Donald Trump's support for Iraq anti-smuggling efforts
+### Israel Unity Government Talks Stall Amid Rotation Row  [NORMAL]
+- Poster: اسرائیل میں اتحادی حکومت کی تشکیل پر مذاکرات تعطل کا شکار / Israel Unity Government Talks Stall | category politics
+- Alternative headline: Netanyahu and Eisenkot Clash Over Coalition Deal
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Trump Iraq anti-smuggling, Donald Trump, Iraq smuggling, Al Jazeera, anti-smuggling campaign, US Iraq relations | hashtags: #Trump #Iraq #Smuggling #AlJazeera #WorldNews
-- Scheduled: Sat 28 Nov, 04:49 PM PKT
+- Keywords: Israel unity government, Eisenkot, Netanyahu, coalition talks, rotation deal, Israel politics | hashtags: #Israel #Politics #Netanyahu #MiddleEast #BreakingNews
+- Scheduled: Sat 28 Nov, 05:35 PM PKT
 - Caption:
 ```
-Al Jazeera reports on the reasons behind Donald Trump's surprising backing of Iraq's ongoing anti-smuggling campaign.
+Efforts to form an Israeli unity government face major hurdles as coalition talks stall over rotation deals and key compromises.
 
-Al Jazeera reports on the motivations and geopolitical factors behind Donald Trump's backing of Iraq's anti-smuggling campaign, shedding light on international policy dynamics in the region.
+Efforts by Eisenkot to form a new unity government in Israel have hit a roadblock as coalition talks with Netanyahu stall over disagreements concerning rotation deals and mutual compromises.
 
-الجزیرہ کی رپورٹ کے مطابق ڈونلڈ ٹرمپ کی جانب سے عراق کی انسداد اسمگلنگ مہم کی حمایت کے محرکات اور علاقائی جیو پولیٹیکل عوامل پر روشنی ڈالی گئی ہے۔
+اسرائیل میں آئزینکوت کی جانب سے نئی اتحادی حکومت بنانے کی کوششیں اس وقت تعطل کا شکار ہو گئیں جب نیتن یاھو کے ساتھ روٹیشن ڈیل اور اتحاد کے معاملے پر مذاکرات رک گئے۔
 
-First reported by Al Jazeera.
+According to Al Jazeera
 
-#Trump #Iraq #Smuggling #AlJazeera #WorldNews
+#Israel #Politics #Netanyahu #MiddleEast #BreakingNews
 ```
 
-### Israeli strike on Gaza medical clinic kills two MSF staff  [NORMAL]
-- Poster: غزہ میں طبی مرکز پر اسرائیلی حملہ، دو عملے کے ارکان جاں بحق / Israeli strike on Gaza clinic kills two MSF staff | category world
-- Alternative headline: Doctors Without Borders condemns direct hit on Gaza clinic
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss
-- Supporting coverage: Al Jazeera, ARY News, BBC World, The Express Tribune
-- Keywords: Gaza MSF strike, Doctors Without Borders, Gaza clinic, Israeli strike, MSF staff killed, Al Jazeera | hashtags: #Gaza #MSF #Israel #BreakingNews #Palestine
-- Scheduled: Sat 28 Nov, 04:59 PM PKT
-- Caption:
-```
-Doctors Without Borders condemns a direct Israeli strike on a Gaza clinic that killed two of its staff members.
-
-An Israeli strike on a Doctors Without Borders (MSF) clinic in Gaza resulted in the deaths of two staff members. MSF strongly condemned the attack as a direct hit and demanded accountability for those responsible.
-
-غزہ میں ڈاکٹرز ودآؤٹ بارڈرز (ایم ایس ایف) کے کلینک پر اسرائیلی حملے میں عملے کے دو ارکان جاں بحق ہو گئے۔ تنظیم نے اسے براہ راست حملہ قرار دیتے ہوئے ذمہ داروں کا احتساب کا مطالبہ کیا ہے۔
-
-First reported by Al Jazeera; also reported by ARY News, BBC World, and The Express Tribune.
-
-#Gaza #MSF #Israel #BreakingNews #Palestine
-```
-
-### MQM-P cancels Karachi rally and public gathering  [NORMAL]
-- Poster: ایم کیو ایم پاکستان کا کراچی میں جلسہ اور ریلی منسوخ کرنے کا فیصلہ / MQM-P cancels Karachi rally and public gathering | category politics
-- Alternative headline: MQM-Pakistan calls off scheduled Karachi protest amid security concerns
+### Afghanistan School Blast Kills 7 Students, Injures 99  [NORMAL]
+- Poster: افغانستان میں اسکول کے قریب دھماکہ، 7 طلباء جاں بحق اور 99 زخمی / Afghanistan School Blast Kills 7, Injures 99 | category crime
+- Alternative headline: School Explosion in Afghanistan Leaves Seven Dead and 99 Injured
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Jang Urdu https://jang.com.pk/news/1637450 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Jang Urdu https://jang.com.pk/news/1637450
-- Supporting coverage: Jang Urdu, UrduPoint
-- Keywords: MQM Karachi rally, MQM Pakistan, Karachi Jalsa, Sharea Faisal, Sindh Government, Jang Urdu | hashtags: #MQM #Karachi #Pakistan #BreakingNews #Sindh
-- Scheduled: Sat 28 Nov, 05:09 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5
+- Supporting coverage: samaa tv, Dawn, Dawn Latest
+- Keywords: Afghanistan school blast, school explosion, Kunar, students killed, injuries, Afghanistan news | hashtags: #Afghanistan #SchoolBlast #Kunar #BreakingNews #Tragedy
+- Scheduled: Sat 28 Nov, 05:45 PM PKT
 - Caption:
 ```
-MQM-Pakistan has decided to cancel its scheduled rally and public gathering in Karachi due to security concerns.
+A tragic school blast in Afghanistan has left seven students dead and scores injured, according to reports.
 
-MQM-Pakistan has decided to cancel its planned rally and public gathering in Karachi. Party sources stated the decision was made keeping law and order in mind, following the commissioner's denial of permission for a rally on Sharea Faisal.
+A devastating school blast in Afghanistan has resulted in the deaths of seven students, with 99 others sustaining injuries. Authorities and news outlets are closely monitoring the unfolding situation following the explosion.
 
-متحدہ قومی موومنٹ پاکستان نے امن و امان کی صورتحال کے پیش نظر کراچی میں اپنی طے شدہ ریلی اور جلسہ منسوخ کرنے کا فیصلہ کر لیا ہے۔ کمشنر آفس کی جانب سے شارع فیصل پر ریلی کی اجازت دینے سے انکار کیا گیا تھا۔
+افغانستان میں اسکول کے قریب ہونے والے ایک دھماکے کے نتیجے میں 7 طلباء جاں بحق اور 99 زخمی ہو گئے۔ حکام اس واقعے کی تحقیقات کر رہے ہیں۔
 
-First reported by Jang Urdu; also reported by UrduPoint.
+First reported by samaa tv; also reported by Dawn
 
-#MQM #Karachi #Pakistan #BreakingNews #Sindh
+#Afghanistan #SchoolBlast #Kunar #BreakingNews #Tragedy
 ```
 
-### Tributes poured in for late Irish actor PJ Gallagher  [NORMAL]
-- Poster: آئرش اداکار اور کامیڈین پی جے گیلاگھر کے انتقال پر خراج عقیدت / Tributes poured in for late Irish actor PJ Gallagher | category lifestyle
-- Alternative headline: Irish comedy community mourns actor and comedian PJ Gallagher
+### Tarantulas and Scorpions Seized from Luggage at Peru Airport  [NORMAL]
+- Poster: پیرو کے ہوائی اڈے پر مسافر کے سامان سے مکڑیاں اور بچھو برآمد / Tarantulas and Scorpions Found at Peru Airport | category crime
+- Alternative headline: Peru Airport Security Discovers Hidden Tarantulas and Scorpions in Baggage
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5
-- Supporting coverage: BBC
-- Keywords: PJ Gallagher tributes, PJ Gallagher, Irish actor, comedian, BBC, tributes | hashtags: #PJGallagher #Ireland #Comedy #BBC #Tributes
-- Scheduled: Sat 28 Nov, 05:19 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Peru airport wildlife seizure, tarantulas, scorpions, airport security, Peru, smuggling | hashtags: #Peru #Wildlife #AirportSecurity #Smuggling #AlJazeera
+- Scheduled: Sat 28 Nov, 05:55 PM PKT
 - Caption:
 ```
-Tributes are being paid across Ireland following the death of well-known actor and comedian PJ Gallagher.
+Airport security in Peru made a shocking discovery after finding live tarantulas, scorpions, and other creatures hidden inside luggage.
 
-Friends, fans, and fellow entertainers have paid glowing tributes to Irish actor and comedian PJ Gallagher following news of his passing, remembering his contributions to comedy and entertainment.
+Security officials at a Peru airport uncovered a shocking collection of live tarantulas, scorpions, and other creatures concealed inside passenger luggage during routine checks.
 
-آئرش اداکار اور کامیڈین پی جے گیلاگھر کے انتقال پر مداحوں، دوستوں اور ساتھی فنکاروں کی طرف سے زبردست خراج عقیدت پیش کیا جا رہا ہے۔
+پیرو کے ہوائی اڈے پر سیکیورٹی اہلکاروں نے مسافر کے سامان سے تاتاری مکڑیاں، بچھو اور دیگر کیڑے مکوڑے برآمد کر لیے۔
 
-First reported by BBC.
+According to Al Jazeera
 
-#PJGallagher #Ireland #Comedy #BBC #Tributes
+#Peru #Wildlife #AirportSecurity #Smuggling #AlJazeera
 ```
 
-- Indian outlets blocked this run: 1 items
+### Manchester United vs Brentford LIVE: Premier League Action  [NORMAL]
+- Poster: پریمیر لیگ: مانچسٹر یونائیٹڈ اور برینٹفورڈ کا مقابلہ لائیو / Man United vs Brentford LIVE | category sports
+- Alternative headline: Follow Premier League Live: Manchester United Face Brentford
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Manchester United vs Brentford, Premier League, Bruno Fernandes, live match, football, Man United | hashtags: #MUFC #PremierLeague #ManUtd #Brentford #LiveFootball
+- Scheduled: Sat 28 Nov, 06:05 PM PKT
+- Caption:
+```
+Catch all the live build-up, team news, and text commentary as Bruno Fernandes headlines Manchester United's clash against Brentford.
+
+Follow live text commentary, team news, and match build-up as Manchester United take on Brentford in the Premier League, with star midfielder Bruno Fernandes headlining the action.
+
+پریمیر لیگ میں مانچسٹر یونائیٹڈ اور برینٹفورڈ کے درمیان میچ کی لائیو اپڈیٹس، ٹیم نیوز اور کمنٹری ملاحظہ کریں۔
+
+According to Al Jazeera
+
+#MUFC #PremierLeague #ManUtd #Brentford #LiveFootball
+```
+
+- Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 17 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
-- [needs_review] normal | Communications minister orders early completion of projects in KP | Wed 25 Nov, 10:41 AM PKT
-- [needs_review] normal | Three held, illegal heavy weapons seized in Gilgit | Wed 25 Nov, 10:51 AM PKT
-- [needs_review] normal | Business confidence plunges: OICCI | Wed 25 Nov, 11:01 AM PKT
 - [needs_review] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
 - [needs_review] normal | PM Shehbaz orders NCCIA restructuring, proposes Pakistan Cyber Police | Wed 25 Nov, 05:13 PM PKT
-- [published] promo | [YouTube] MAULANA FAZLUR REHMAN: IS THIS THE PRICE OF POWER POLITICS? | Wed 25 Nov, 05:34 PM PKT
-- [published] normal | Pakistan and China Agree on G2G Fuel Storage and Terminal Deals | Wed 25 Nov, 05:34 PM PKT
 - [needs_review] normal | Veteran Nigerian Nollywood Actor Pete Edochie Dies Aged 79 | Wed 25 Nov, 05:44 PM PKT
 - [needs_review] normal | Israeli Strike Kills Hamas Official Along With Wife and Children | Wed 25 Nov, 05:54 PM PKT
 - [needs_review] normal | Two Libyan Soldiers Die From Injuries in Attack on Russian Vessels | Wed 25 Nov, 06:04 PM PKT
@@ -379,9 +373,9 @@ First reported by BBC.
 - [needs_review] normal | The split-second teamwork behind an F1 pit stop | Sat 28 Nov, 10:25 AM PKT
 - [needs_review] normal | Eight killed in Peruvian military helicopter crash | Sat 28 Nov, 10:35 AM PKT
 - [published] normal | Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers | Sat 28 Nov, 10:45 AM PKT
-- [queued] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
-- [queued] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
-- [queued] normal | Saudi-led coalition intercepts Houthi cruise missile fired toward Riya | Sat 28 Nov, 11:47 AM PKT
+- [needs_review] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
+- [needs_review] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
+- [published] normal | Saudi-led coalition intercepts Houthi cruise missile fired toward Riya | Sat 28 Nov, 11:47 AM PKT
 - [queued] normal | El Nino-linked deluges flood cities in Peru and Ecuador | Sat 28 Nov, 11:57 AM PKT
 - [queued] normal | ADB approves $468m for water and agriculture projects in Pakistan | Sat 28 Nov, 12:07 PM PKT
 - [queued] normal | Behind India’s IIT dream: Student suicides and support gaps | Sat 28 Nov, 12:17 PM PKT
@@ -406,12 +400,16 @@ First reported by BBC.
 - [queued] normal | Israeli strike on Gaza medical clinic kills two MSF staff | Sat 28 Nov, 04:59 PM PKT
 - [queued] normal | MQM-P cancels Karachi rally and public gathering | Sat 28 Nov, 05:09 PM PKT
 - [queued] normal | Tributes poured in for late Irish actor PJ Gallagher | Sat 28 Nov, 05:19 PM PKT
+- [queued] normal | Israel Unity Government Talks Stall Amid Rotation Row | Sat 28 Nov, 05:35 PM PKT
+- [queued] normal | Afghanistan School Blast Kills 7 Students, Injures 99 | Sat 28 Nov, 05:45 PM PKT
+- [queued] normal | Tarantulas and Scorpions Seized from Luggage at Peru Airport | Sat 28 Nov, 05:55 PM PKT
+- [queued] normal | Manchester United vs Brentford LIVE: Premier League Action | Sat 28 Nov, 06:05 PM PKT
 
 ## Publishing this run
-- Published 'Sindh Assembly Demands Uninterrupted Gas Supply for Domestic Consumers'.
+- Published 'Saudi-led coalition intercepts Houthi cruise missile fired toward Riyadh'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 6024 | output tokens: 2581
+- Calls: 3 | prompt tokens: 4309 | output tokens: 2087
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

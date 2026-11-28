@@ -193702,7 +193702,686 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4d23307d78676c95b097add3",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:44:25+00:00",
+      "last_update": "2026-11-28T11:54:51+00:00",
+      "event": "Afghanistan school blast kills seven students, injures 99",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "afghanistan",
+        "blast",
+        "injures",
+        "kills",
+        "samaa",
+        "school",
+        "seven",
+        "students"
+      ],
+      "source_excerpt": "Afghanistan school blast kills seven students, injures 99 samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5",
+          "published_at": "2026-11-28T11:44:25+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29lTkFEN0lraFVIeWdCQm1pQ05qVzhlSElUNWJGV0JLNWo1WjdYMkozWkR4VGdXZ3VWWk85Qjc5RnR2WWVCdFROM0hrSEhVRktsYzJocnczQmhON2s5cVYyeXRpR3lsM09FZ2RxU1FVRm1kemtBMWVVb28wNjBPWG1KR051Yll1TERkMldDMUlKTXRVSmxN?oc=5",
+          "published_at": "2026-11-28T11:54:51+00:00"
+        },
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047678/afghanistan-school-blast-kills-7-students-injures-up-to-99",
+          "published_at": "2026-11-28T11:54:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "59ab28e0ee6b4fd756b7fd8a",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:21:52+00:00",
+      "last_update": "2026-11-28T12:21:52+00:00",
+      "event": "Tarantulas, scorpions and more found in luggage at Peru airport",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airport",
+        "and",
+        "found",
+        "luggage",
+        "more",
+        "peru",
+        "scorpions",
+        "tarantulas"
+      ],
+      "source_excerpt": "Tarantulas, scorpions and more found in luggage at Peru airport",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+          "published_at": "2026-11-28T12:21:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe708fc0d52689de9684c8e0",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:06:46+00:00",
+      "last_update": "2026-11-28T12:06:46+00:00",
+      "event": "Manchester United vs Brentford LIVE: Premier League",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "brentford",
+        "bruno",
+        "build",
+        "commentary",
+        "coverage",
+        "fernandes",
+        "follow",
+        "from",
+        "headlines",
+        "league",
+        "live",
+        "manchester",
+        "news",
+        "our",
+        "premier",
+        "stream",
+        "team",
+        "text",
+        "united",
+        "updates",
+        "with"
+      ],
+      "source_excerpt": "Follow updates with build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+          "published_at": "2026-11-28T12:06:46+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f7d32e5cbee0e5f0368a9494",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:54:40+00:00",
+      "last_update": "2026-11-28T11:54:40+00:00",
+      "event": "India fumble chances as New Zealand finish day two on top in Christchurch",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "116",
+        "356",
+        "black",
+        "caps",
+        "chances",
+        "christchurch",
+        "day",
+        "finish",
+        "first",
+        "fumble",
+        "india",
+        "innings",
+        "limp",
+        "new",
+        "reply",
+        "second",
+        "stumps",
+        "test",
+        "the",
+        "top",
+        "two",
+        "zealand"
+      ],
+      "source_excerpt": "India limp to 116-6 at stumps on day two of the second Test, in reply to the Black Caps' first innings 356.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+          "published_at": "2026-11-28T11:54:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4b08592b914fb284fb5a1c95",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:30:07+00:00",
+      "last_update": "2026-11-28T11:30:07+00:00",
+      "event": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "black",
+        "demonstrated",
+        "department",
+        "flag",
+        "friday",
+        "london",
+        "palestinian",
+        "pro",
+        "protesters",
+        "remove",
+        "security",
+        "selfridges",
+        "store",
+        "tries"
+      ],
+      "source_excerpt": "Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+          "published_at": "2026-11-28T11:30:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "92e55446dccba5fa1e949a02",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:29:21+00:00",
+      "last_update": "2026-11-28T11:29:21+00:00",
+      "event": "Israel unity government talks stall: What happens now?",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "coalition",
+        "compromises",
+        "deal",
+        "eisenkot",
+        "form",
+        "government",
+        "happens",
+        "israel",
+        "netanyahu",
+        "now",
+        "over",
+        "rotation",
+        "stall",
+        "struggles",
+        "talks",
+        "unity",
+        "what",
+        "with"
+      ],
+      "source_excerpt": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+          "published_at": "2026-11-28T11:29:21+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "3d67d62ed86baf91264dd998",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:27:34+00:00",
+      "last_update": "2026-11-28T11:27:34+00:00",
+      "event": "The perfect storm behind Congo’s deadliest Ebola outbreak",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "behind",
+        "collide",
+        "congo",
+        "cost",
+        "deadliest",
+        "deadly",
+        "ebola",
+        "failing",
+        "health",
+        "outbreak",
+        "patients",
+        "pay",
+        "perfect",
+        "staggering",
+        "storm",
+        "system",
+        "the",
+        "virus",
+        "war",
+        "with",
+        "workers"
+      ],
+      "source_excerpt": "Patients and health workers pay a staggering cost as war and a failing health system collide with a deadly virus.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+          "published_at": "2026-11-28T11:27:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "842333ed50ac00a1ef9f1cef",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:09:09+00:00",
+      "last_update": "2026-11-28T12:09:09+00:00",
+      "event": "Christmas market 'absolutely vital' for businesses",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "absolutely",
+        "began",
+        "businesses",
+        "christmas",
+        "for",
+        "market",
+        "november",
+        "the",
+        "truro",
+        "vital"
+      ],
+      "source_excerpt": "The Truro market began on 21 November.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T12:09:09+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f68691830f1d1ee21e8b84b4",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:07:08+00:00",
+      "last_update": "2026-11-28T12:07:08+00:00",
+      "event": "Poundland closure 'big loss' for former mining town",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "big",
+        "camborne",
+        "closure",
+        "for",
+        "former",
+        "loss",
+        "mining",
+        "possible",
+        "poundland",
+        "reflect",
+        "shoppers",
+        "staff",
+        "store",
+        "the",
+        "town"
+      ],
+      "source_excerpt": "Shoppers and staff reflect on the possible closure of the Poundland store in Camborne.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T12:07:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ce0e02efd586efe29b0a3643",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:15:45+00:00",
+      "last_update": "2026-11-28T12:15:45+00:00",
+      "event": "Argentina's bid to stop Falkland Islands oil drilling rejected",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "argentina",
+        "between",
+        "bid",
+        "block",
+        "but",
+        "claim",
+        "companies",
+        "drilling",
+        "exploring",
+        "falkland",
+        "for",
+        "gas",
+        "islands",
+        "israeli",
+        "its",
+        "joint",
+        "oil",
+        "part",
+        "rejected",
+        "set",
+        "sought",
+        "sovereignty",
+        "start",
+        "stop",
+        "venture"
+      ],
+      "source_excerpt": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T12:15:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2633ce1fde025f13cc591d43",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T11:38:48+00:00",
+      "last_update": "2026-11-28T11:38:48+00:00",
+      "event": "Pakistan lose bronze medal match 3-0 to South Korea",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bronze",
+        "korea",
+        "lose",
+        "match",
+        "medal",
+        "pakistan",
+        "samaa",
+        "south"
+      ],
+      "source_excerpt": "Pakistan lose bronze medal match 3-0 to South Korea samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXBVQWtjV3Y5S2JyeHNEeHZReEdHelZwbTFibk8zRkpoZjlvV3NZVXpqcDZUQU5DMnBOZDZiUTVNVVk5Z3BHYkJ3S3VreEpkalk3UHFDdmxFdkREdHgtVW02UmlsMC00NmZFV3VBc21CMFE0WW5fOXJPOFdnaVFZckdhZmlfWkN0bmFZ?oc=5",
+          "published_at": "2026-11-28T11:38:48+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXBVQWtjV3Y5S2JyeHNEeHZReEdHelZwbTFibk8zRkpoZjlvV3NZVXpqcDZUQU5DMnBOZDZiUTVNVVk5Z3BHYkJ3S3VreEpkalk3UHFDdmxFdkREdHgtVW02UmlsMC00NmZFV3VBc21CMFE0WW5fOXJPOFdnaVFZckdhZmlfWkN0bmFZ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2f137275b9363487ed24d405",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:28:02+00:00",
+      "last_update": "2026-11-28T12:28:02+00:00",
+      "event": "Tarar calls for joint efforts to promote Punjabi language, culture",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "calls",
+        "culture",
+        "efforts",
+        "for",
+        "joint",
+        "language",
+        "promote",
+        "punjabi",
+        "samaa",
+        "tarar"
+      ],
+      "source_excerpt": "Tarar calls for joint efforts to promote Punjabi language, culture samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjItSFBCcjVJb2UtVUZVTWlHOXFycE9IcjlsckU2TXBweFFIMmNHUHB1ZzFINnlIT2xyRXA5SFAzc3NnbWF3MTdzWjl6OXBNZUF6MEdMSFpEeF8teVc1d1h3c2FTVXJpeHBMVG5saC1rZ1EzODNHWUswQS1Fbm1YT1RyQ2NqOVVjZ3lBc2xuSl95emZ5d2ZkR2RMYVIyUQ?oc=5",
+          "published_at": "2026-11-28T12:28:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjItSFBCcjVJb2UtVUZVTWlHOXFycE9IcjlsckU2TXBweFFIMmNHUHB1ZzFINnlIT2xyRXA5SFAzc3NnbWF3MTdzWjl6OXBNZUF6MEdMSFpEeF8teVc1d1h3c2FTVXJpeHBMVG5saC1rZ1EzODNHWUswQS1Fbm1YT1RyQ2NqOVVjZ3lBc2xuSl95emZ5d2ZkR2RMYVIyUQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0cc1e085a8240b150aaf6135",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:27:51+00:00",
+      "last_update": "2026-11-28T12:27:51+00:00",
+      "event": "Ahsan Iqbal calls for greater access to international markets for Pakistani farmers",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "ahsan",
+        "calls",
+        "farmers",
+        "for",
+        "greater",
+        "international",
+        "iqbal",
+        "markets",
+        "pakistani",
+        "samaa"
+      ],
+      "source_excerpt": "Ahsan Iqbal calls for greater access to international markets for Pakistani farmers samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkhzMFJRaTJRZjNPLUY4TkhZR0lGbUxvYzYzWDVVRHNadlh5ZkEzeE4xZm1iQ3c5YWY2STl2UWhMeTJDNEJRb2hvazJfVmJjcVF1Yk05OXRRckIwZnN4aHJNZXlZYzFWZjlXM0ZDSDZlUm5JZ3NMMmpuLVE4b2U0T1ZGRmNpd0VKY21qYW1aR1pDZFY4MGk5aTVHSzB6R2htVk9heDNGZUFwOFVPeWJiQkE2dlBBRXkyUWMwOEFoVVl6ZjVDd2JNZA?oc=5",
+          "published_at": "2026-11-28T12:27:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkhzMFJRaTJRZjNPLUY4TkhZR0lGbUxvYzYzWDVVRHNadlh5ZkEzeE4xZm1iQ3c5YWY2STl2UWhMeTJDNEJRb2hvazJfVmJjcVF1Yk05OXRRckIwZnN4aHJNZXlZYzFWZjlXM0ZDSDZlUm5JZ3NMMmpuLVE4b2U0T1ZGRmNpd0VKY21qYW1aR1pDZFY4MGk5aTVHSzB6R2htVk9heDNGZUFwOFVPeWJiQkE2dlBBRXkyUWMwOEFoVVl6ZjVDd2JNZA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "592f250513505939badd052f",
+      "remembered_at": "2026-11-28T12:35:37.764142+00:00",
+      "event_date": "2026-11-28T12:04:41+00:00",
+      "last_update": "2026-11-28T12:04:41+00:00",
+      "event": "Farhan Yousuf says Pakistan Shaheens planned to build partnerships in semi-final",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "build",
+        "farhan",
+        "final",
+        "pakistan",
+        "partnerships",
+        "planned",
+        "samaa",
+        "says",
+        "semi",
+        "shaheens",
+        "yousuf"
+      ],
+      "source_excerpt": "Farhan Yousuf says Pakistan Shaheens planned to build partnerships in semi-final samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkNHQjl3WU9PYk1lenhvZmxiWldDemVTaU9ZYTZuSlJnWWhaWUphMDlxTTY5VlhsMVYwOU9qeFg0cUYwaC1UcHhMVDlQNzIyYTJPZXRWQ2ZGbmEwVmVaYS11cnphQjNrMTZwX0dGLWtyNGh3UnNxOC1pRTBNR2J5ZVh4eHMwRHptdEVqNkZpWHdCRmVCd25INWFPX2JwRldDMV9sV29jX1RmN0FNTTBfMlI0a1J3cldCNGpmNlJXRUZTRE9O?oc=5",
+          "published_at": "2026-11-28T12:04:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkNHQjl3WU9PYk1lenhvZmxiWldDemVTaU9ZYTZuSlJnWWhaWUphMDlxTTY5VlhsMVYwOU9qeFg0cUYwaC1UcHhMVDlQNzIyYTJPZXRWQ2ZGbmEwVmVaYS11cnphQjNrMTZwX0dGLWtyNGh3UnNxOC1pRTBNR2J5ZVh4eHMwRHptdEVqNkZpWHdCRmVCd25INWFPX2JwRldDMV9sV29jX1RmN0FNTTBfMlI0a1J3cldCNGpmNlJXRUZTRE9O?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T11:37:53.844457+00:00"
+  "updated_at": "2026-11-28T12:35:37.764142+00:00"
 }
