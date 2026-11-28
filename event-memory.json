@@ -186646,7 +186646,740 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef08ca6e1fba932a3fbf0853",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-27T22:25:00+00:00",
+      "last_update": "2026-11-28T00:00:05+00:00",
+      "event": "Storm disrupts Thanksgiving holiday along US East Coast",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "along",
+        "coast",
+        "dawn",
+        "disrupts",
+        "east",
+        "holiday",
+        "storm",
+        "thanksgiving"
+      ],
+      "source_excerpt": "Storm disrupts Thanksgiving holiday along US East Coast Dawn",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVFqOXRrTlBpWTJxdnNLLTB5d2thNEZVSU1zRkdoZnVjbE8wMlgwU29DUF9ucWlvUHlhbmtpaGFFc0NWUVo5X1FHeGk3djlZY2RDOUduR1RyUlhOS0h4em5sek5DR21CMjVtaTN3Y2I2RmhDRmhDM0NHbXBhYV8tc1pndFUzYW9oNTlaMlZMQ01PdDY0V2kyU2VDdXJLRHpwWUVMcUZYZWhyMDJGSXpqUVVmZHFGNGtuY2dScW42ejFpdjhtd215SU93SFdFMXRMT3NlQ3ZZdVdlUld0bU9HV2ZXQXZ0WjNW?oc=5",
+          "published_at": "2026-11-27T22:25:00+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5",
+          "published_at": "2026-11-28T00:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "059735c4065b9b66b3268c04",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-27T23:57:03+00:00",
+      "last_update": "2026-11-28T00:00:05+00:00",
+      "event": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airlifted",
+        "boat",
+        "canary",
+        "condition",
+        "dead",
+        "eight",
+        "found",
+        "hospital",
+        "islands",
+        "least",
+        "migrant",
+        "off",
+        "people",
+        "rescue",
+        "says",
+        "serious",
+        "service",
+        "six",
+        "spain",
+        "spanish"
+      ],
+      "source_excerpt": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+          "published_at": "2026-11-27T23:57:03+00:00"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVF8zakRNMGJGZURYbVJkckQyZTloZ3F1dmtfVlh3SnBxQXVJRl9rUHNuZUM2UjZXRXVuWFpvTVp4T0NkY3ZPU0dpZU4tcmd3Y1A2Nk9LWGVaMG1OcGZFWjFpUGRZSE5BYkFRY2JmS1dUcVUyM3pmX2gyNUt0MXl3MWF0ZjRaNDFOcjVITzlR?oc=5",
+          "published_at": "2026-11-28T00:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89bd7176aa45fd1d64c471fd",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:05:17+00:00",
+      "last_update": "2026-11-28T00:05:17+00:00",
+      "event": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "adhd",
+        "affirming",
+        "and",
+        "assessing",
+        "autism",
+        "but",
+        "clinic",
+        "could",
+        "critics",
+        "deepen",
+        "diagnoses",
+        "diagnosis",
+        "does",
+        "fear",
+        "feel",
+        "find",
+        "for",
+        "funded",
+        "government",
+        "many",
+        "not",
+        "people",
+        "reassessing",
+        "reflect",
+        "stigma",
+        "sweden",
+        "them",
+        "while",
+        "who",
+        "with"
+      ],
+      "source_excerpt": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T00:05:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6f914bf05dc86a68c485a3ce",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:03:20+00:00",
+      "last_update": "2026-11-28T00:03:20+00:00",
+      "event": "Punjab University wins All Pakistan Women Tug of War contest",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "all",
+        "contest",
+        "dawn",
+        "pakistan",
+        "punjab",
+        "tug",
+        "university",
+        "war",
+        "wins",
+        "women"
+      ],
+      "source_excerpt": "Punjab University wins All Pakistan Women Tug of War contest Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWtoVE5wSmRhYVFhQkRKSjZYUkxUelNtTnhCU0VVQjNiTXdtNUpIUjRIV21OUmdsTFpyeENWTXk2aUlGZzV4RlgxbXZYX3F6Z19GOXVPV1JBaGZtbHlUcnBQWXB0VzVqS3dscXVBNTlPbmZ0Y09BWWU2NmtxcDdSRmFnSEh2Y3AyaC1Dd1dpSTVjSkowak4zUlVB?oc=5",
+          "published_at": "2026-11-28T00:03:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWtoVE5wSmRhYVFhQkRKSjZYUkxUelNtTnhCU0VVQjNiTXdtNUpIUjRIV21OUmdsTFpyeENWTXk2aUlGZzV4RlgxbXZYX3F6Z19GOXVPV1JBaGZtbHlUcnBQWXB0VzVqS3dscXVBNTlPbmZ0Y09BWWU2NmtxcDdSRmFnSEh2Y3AyaC1Dd1dpSTVjSkowak4zUlVB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e26f8cf0c67b00111161eb27",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:04:02+00:00",
+      "last_update": "2026-11-28T00:04:02+00:00",
+      "event": "Lok Mela opens to celebrate Pakistan’s cultural diversity",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "celebrate",
+        "cultural",
+        "dawn",
+        "diversity",
+        "lok",
+        "mela",
+        "opens",
+        "pakistan"
+      ],
+      "source_excerpt": "Lok Mela opens to celebrate Pakistan’s cultural diversity Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5",
+          "published_at": "2026-11-28T00:04:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHBuSEdKWXdldXUxWURqNFRUNHhmY0VMbE5lVEVvSDBnQ0s5WFVTcUVZbWJ2aW95OExnV3duNkNZUW80OHVMaTItTTJ4Y013Vkh3UUpkYkdmc2NPajZuazk1TVhUcWJ6bGpmUDNIc05qSENtaEdKMFUxTUIwMDFRM0N6dHY5MVdjTzRYR3VtdE11WDY1?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "793f9c2753cef42e0eba74a6",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:04:02+00:00",
+      "last_update": "2026-11-28T00:04:02+00:00",
+      "event": "Punjab approves Rs5.886bn project to restore Rawalpindi’s Walled City",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "886bn",
+        "approves",
+        "city",
+        "dawn",
+        "project",
+        "punjab",
+        "rawalpindi",
+        "restore",
+        "rs5",
+        "walled"
+      ],
+      "source_excerpt": "Punjab approves Rs5.886bn project to restore Rawalpindi’s Walled City Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmNDX2NweGdVa2VSTlBnZmQ2cnNWQm5Yd3JfZ01wcTU5UjNFQ3MyaVdZZzhzZS02cjdyN3lEaVJkbzEyUjh2bWRSVHNhT0I0TkJuS3NKM1BsWTN2TEc4SGlEYnN1TVlEMkxFbnowTFl0eFhnM3hVdlBtUEtrRkUxUkZHWktzYVZJRkhFQmtjaWhZOEViS3JVWGZiZWZwaDVEZGNr?oc=5",
+          "published_at": "2026-11-28T00:04:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmNDX2NweGdVa2VSTlBnZmQ2cnNWQm5Yd3JfZ01wcTU5UjNFQ3MyaVdZZzhzZS02cjdyN3lEaVJkbzEyUjh2bWRSVHNhT0I0TkJuS3NKM1BsWTN2TEc4SGlEYnN1TVlEMkxFbnowTFl0eFhnM3hVdlBtUEtrRkUxUkZHWktzYVZJRkhFQmtjaWhZOEViS3JVWGZiZWZwaDVEZGNr?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b0dbbd05153ef233b6081f19",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:05:27+00:00",
+      "last_update": "2026-11-28T00:05:27+00:00",
+      "event": "BREATHE PAKISTAN: Life in a greener world",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breathe",
+        "dawn",
+        "greener",
+        "life",
+        "pakistan",
+        "world"
+      ],
+      "source_excerpt": "BREATHE PAKISTAN: Life in a greener world Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTWZHb2RBdlM0UUw4MGtKZWoyR2VsSTBESmg3cDNlYzlWTF9vUTh1cUh2WHE4d0M3REJxWHJjS0RMR0MtRG1SU0w4RU11Q2VGWFViSWZ4Wm1jRnN4VllxaG9zU0Rva1hvWklMaXRVejVHX2c4d2NyZkNGclI3NTQ?oc=5",
+          "published_at": "2026-11-28T00:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTWZHb2RBdlM0UUw4MGtKZWoyR2VsSTBESmg3cDNlYzlWTF9vUTh1cUh2WHE4d0M3REJxWHJjS0RMR0MtRG1SU0w4RU11Q2VGWFViSWZ4Wm1jRnN4VllxaG9zU0Rva1hvWklMaXRVejVHX2c4d2NyZkNGclI3NTQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0bdfd502939f7fac4b75ed02",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:02:17+00:00",
+      "last_update": "2026-11-28T00:02:17+00:00",
+      "event": "Pakistan trying to verify latest Libyan boat tragedy: FO",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boat",
+        "dawn",
+        "latest",
+        "libyan",
+        "pakistan",
+        "tragedy",
+        "trying",
+        "verify"
+      ],
+      "source_excerpt": "Pakistan trying to verify latest Libyan boat tragedy: FO Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmZ1aEM4Rm82aVNZTU5rZ25HTGJNOFQ4S1pVTm1SNFBxdzlwQzczUHZJOVVQUVBIcy1lQlRocmdaOGQ0YjJnMUxWVl9JMjMwa3pRUGF3WU9CWUZyZUt0Z1oxa1dyNjZlQlRVOFFjMktxMWNkZGNwNHdKNkR2aHYxamFKdk5rMHdBdU1OWGhyVVhPWnM?oc=5",
+          "published_at": "2026-11-28T00:02:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmZ1aEM4Rm82aVNZTU5rZ25HTGJNOFQ4S1pVTm1SNFBxdzlwQzczUHZJOVVQUVBIcy1lQlRocmdaOGQ0YjJnMUxWVl9JMjMwa3pRUGF3WU9CWUZyZUt0Z1oxa1dyNjZlQlRVOFFjMktxMWNkZGNwNHdKNkR2aHYxamFKdk5rMHdBdU1OWGhyVVhPWnM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f15f566f96ba7d1072f198c9",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:02:41+00:00",
+      "last_update": "2026-11-28T00:02:41+00:00",
+      "event": "UK court convicts three of forcing woman into marriage",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "convicts",
+        "court",
+        "dawn",
+        "forcing",
+        "into",
+        "marriage",
+        "three",
+        "woman"
+      ],
+      "source_excerpt": "UK court convicts three of forcing woman into marriage Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTFDbm9QYUpETnhJRG1oNkw1ZU9vOGRLNUY1X1o1aGFEVUtYTC1jWm5yNDNuNlhZZEpCR1N4RTIwZTJ5TmtIcmZGX2NtOWNGbUZHYXlaeHVqUmRScDd4RDhJY1Y4OE9EQjJGOGswZlo2YVNDb2F2SEtUUVI4bUI3a3RhRnUwU2JYVkhFdUtRekpVQQ?oc=5",
+          "published_at": "2026-11-28T00:02:41+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTFDbm9QYUpETnhJRG1oNkw1ZU9vOGRLNUY1X1o1aGFEVUtYTC1jWm5yNDNuNlhZZEpCR1N4RTIwZTJ5TmtIcmZGX2NtOWNGbUZHYXlaeHVqUmRScDd4RDhJY1Y4OE9EQjJGOGswZlo2YVNDb2F2SEtUUVI4bUI3a3RhRnUwU2JYVkhFdUtRekpVQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f8741797f8d647d20b661206",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:03:20+00:00",
+      "last_update": "2026-11-28T00:03:20+00:00",
+      "event": "Seven terrorists killed in Bannu operation",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bannu",
+        "dawn",
+        "killed",
+        "operation",
+        "seven",
+        "terrorists"
+      ],
+      "source_excerpt": "Seven terrorists killed in Bannu operation Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmRFajdyS1hPeXpVc1NQUE1xSk5XSHhZOU4weHZhdWFua0tkeXo4aUNOcnBkcTNRMndtcVYwUXY3TTYtbUk5VkNhRm9mVjRfMVBzSHVTVUo2UW12RUdTU2x2LTh1X1NjVjFtZHJqekNLWnRMNUJyZG9iQl85V1hIRXBB?oc=5",
+          "published_at": "2026-11-28T00:03:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmRFajdyS1hPeXpVc1NQUE1xSk5XSHhZOU4weHZhdWFua0tkeXo4aUNOcnBkcTNRMndtcVYwUXY3TTYtbUk5VkNhRm9mVjRfMVBzSHVTVUo2UW12RUdTU2x2LTh1X1NjVjFtZHJqekNLWnRMNUJyZG9iQl85V1hIRXBB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "af2da50ea0714d4650b8cbc3",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:03:20+00:00",
+      "last_update": "2026-11-28T00:03:20+00:00",
+      "event": "Truck set ablaze, driver among two abducted in S. Waziristan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "abducted",
+        "ablaze",
+        "among",
+        "dawn",
+        "driver",
+        "set",
+        "truck",
+        "two",
+        "waziristan"
+      ],
+      "source_excerpt": "Truck set ablaze, driver among two abducted in S. Waziristan Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkJ4LTFEWWx2VWpKbENqTF80aVViTDZiMGpnUUJlVW5vMEZnQUI5UU9NTFdpNVc2S3p4YlZLRG15OGZBakZpSjYzSUJYZlVFTm4tcnRWaDZ0cUI4M1lSRGtObVdBNlRTc1ZSTnpHc2p4NndZd3BGYmJ0Nm5qU0t4c1g4U1ZSN1c2YzlQckh2YmNvaFY0M1Nn?oc=5",
+          "published_at": "2026-11-28T00:03:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkJ4LTFEWWx2VWpKbENqTF80aVViTDZiMGpnUUJlVW5vMEZnQUI5UU9NTFdpNVc2S3p4YlZLRG15OGZBakZpSjYzSUJYZlVFTm4tcnRWaDZ0cUI4M1lSRGtObVdBNlRTc1ZSTnpHc2p4NndZd3BGYmJ0Nm5qU0t4c1g4U1ZSN1c2YzlQckh2YmNvaFY0M1Nn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "33dbb4c68f1f8e0229950c7d",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:01:11+00:00",
+      "last_update": "2026-11-28T00:01:11+00:00",
+      "event": "JUI-F protests treatment meted out to Fazl",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fazl",
+        "jui",
+        "meted",
+        "out",
+        "protests",
+        "treatment"
+      ],
+      "source_excerpt": "JUI-F protests treatment meted out to Fazl Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5",
+          "published_at": "2026-11-28T00:01:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1be522bddaa825aa6930c796",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:02:17+00:00",
+      "last_update": "2026-11-28T00:02:17+00:00",
+      "event": "AJK Overseas Commission reconstituted",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ajk",
+        "commission",
+        "dawn",
+        "overseas",
+        "reconstituted"
+      ],
+      "source_excerpt": "AJK Overseas Commission reconstituted Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UMzJMS2Q5OHhlNEhCVWtsNUtUMjB5OXlBYzdwczNVTkhWeUpidmtOeUNvZDZFVnFkeElvQUxJSXhXNUZhNE9jMGdCTGdoMVgyU1Q3VXRuZVo0NVRIRjNKdVZSSkhoR1lBSkd2dndZRlRxZjRuRl81MVp4bw?oc=5",
+          "published_at": "2026-11-28T00:02:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UMzJMS2Q5OHhlNEhCVWtsNUtUMjB5OXlBYzdwczNVTkhWeUpidmtOeUNvZDZFVnFkeElvQUxJSXhXNUZhNE9jMGdCTGdoMVgyU1Q3VXRuZVo0NVRIRjNKdVZSSkhoR1lBSkd2dndZRlRxZjRuRl81MVp4bw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "24270b8d2d6a1b4b06d3585f",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:02:17+00:00",
+      "last_update": "2026-11-28T00:02:17+00:00",
+      "event": "JUI-F claims scores held amid protests",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "claims",
+        "dawn",
+        "held",
+        "jui",
+        "protests",
+        "scores"
+      ],
+      "source_excerpt": "JUI-F claims scores held amid protests Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5",
+          "published_at": "2026-11-28T00:02:17+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSXI0aHR0MVdVT0huODFCQXR2RnFSaGNKdW1zbDhHX201cnlyaWtiSWlkVk8yS0U0YlFHXzUtTGFXblE3SW5sb201dHVfLWZ6bkNKalA1OHZFbnNZSElzWlF0SC1PTmdvYW5VV0F1RnJxaTRpbmFESHBueXU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4e20e5b28a8ca068c5d4f13a",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:02:58+00:00",
+      "last_update": "2026-11-28T00:02:58+00:00",
+      "event": "Limit for youth, agri loans raised to Rs25m",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agri",
+        "dawn",
+        "for",
+        "limit",
+        "loans",
+        "raised",
+        "rs25m",
+        "youth"
+      ],
+      "source_excerpt": "Limit for youth, agri loans raised to Rs25m Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE40ejBpbHdKSEJQb3JlNHJ2b1FCNmtJbU9BSXpoWTROWVMwUlV6NTlqYzdWSV9wT3JnZkcxZ0Rma20yczM0c3Q3Rzh0NE42RXlzVkRyY093YUozZjBtandhQTJ2UGtFazNta1RwUVo0NEY3QXl6R21CRVVxMkJYbWZn?oc=5",
+          "published_at": "2026-11-28T00:02:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE40ejBpbHdKSEJQb3JlNHJ2b1FCNmtJbU9BSXpoWTROWVMwUlV6NTlqYzdWSV9wT3JnZkcxZ0Rma20yczM0c3Q3Rzh0NE42RXlzVkRyY093YUozZjBtandhQTJ2UGtFazNta1RwUVo0NEY3QXl6R21CRVVxMkJYbWZn?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5e3443096dc7ff249c6a97bf",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:04:02+00:00",
+      "last_update": "2026-11-28T00:04:02+00:00",
+      "event": "11 companies bid for qualification for Malpur wildlife park",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bid",
+        "companies",
+        "dawn",
+        "for",
+        "malpur",
+        "park",
+        "qualification",
+        "wildlife"
+      ],
+      "source_excerpt": "11 companies bid for qualification for Malpur wildlife park Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFVLZDJyTGNsYWN0RWhqUTdpUUFwRERrc2tYYjh3UVRsMjZOLU5yMlViMEU3TWtud19jbkhLSGVOMWotZGxsSE5taVNOdTkxdFdVcmR5cVB1MVZKUUw4bnhMZzdMSUlaQjFWSndDM1E2WnFCZkZtc2lqRjFpZG5JYi1OZkxxTzBaRFVRQXJDNkZYNGhTeEh3WA?oc=5",
+          "published_at": "2026-11-28T00:04:02+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFVLZDJyTGNsYWN0RWhqUTdpUUFwRERrc2tYYjh3UVRsMjZOLU5yMlViMEU3TWtud19jbkhLSGVOMWotZGxsSE5taVNOdTkxdFdVcmR5cVB1MVZKUUw4bnhMZzdMSUlaQjFWSndDM1E2WnFCZkZtc2lqRjFpZG5JYi1OZkxxTzBaRFVRQXJDNkZYNGhTeEh3WA?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b5632e1a2d4aa7988b4bc01d",
+      "remembered_at": "2026-11-28T00:23:19.449118+00:00",
+      "event_date": "2026-11-28T00:05:27+00:00",
+      "last_update": "2026-11-28T00:05:27+00:00",
+      "event": "Movie review: Allen",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "allen",
+        "dawn",
+        "movie",
+        "review"
+      ],
+      "source_excerpt": "Movie review: Allen Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2azBhTnk5V2NYYV93R3VKc0F5SS1tZ1ZsamlPQVg5VWpKZ19JZVoweDh4VmxtY1hYSGd5ZlduX1JUZVdhbWlKMnB6WnNYZXJfZWFvekkteVcxQTJMTEtzM3pR?oc=5",
+          "published_at": "2026-11-28T00:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2azBhTnk5V2NYYV93R3VKc0F5SS1tZ1ZsamlPQVg5VWpKZ19JZVoweDh4VmxtY1hYSGd5ZlduX1JUZVdhbWlKMnB6WnNYZXJfZWFvekkteVcxQTJMTEtzM3pR?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-27T23:27:27.846268+00:00"
+  "updated_at": "2026-11-28T00:23:19.449118+00:00"
 }

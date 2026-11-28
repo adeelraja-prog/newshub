@@ -1,39 +1,40 @@
-# News Hub report - Sat 28 Nov, 04:27 AM PKT
+# News Hub report - Sat 28 Nov, 05:23 AM PKT
 
 ## Collection
-- New items this run: 18 | items in rolling pool: 319
-- Unique story clusters: 261 (duplicates merged: 58)
-- Clusters dropped as already published/queued: 26; unchanged since last analysis: 7
-- Items per outlet: Dawn Latest 2, Al Jazeera 2, AP News 2, Wired 2, The News International 1, Geo News 1, BBC 1, thedailystar.com 1, The Verge 1, Engadget 1, GSMArena 1, Daily Sun 1
+- New items this run: 66 | items in rolling pool: 308
+- Unique story clusters: 249 (duplicates merged: 59)
+- Clusters dropped as already published/queued: 25; unchanged since last analysis: 16
+- Items per outlet: Dawn 49, Al Jazeera 5, The Verge 4, AP News 2, Geo News 1, Wired 1, BBC World 1, Association of Flight Attendants-CWA 1, KATU 1, KCBY 1, The News International 0
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Kenyan doomsday cult leader convicted over further 123 deaths | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- ‘Activists of rhythm’: Fighting Spain’s far-right through art | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
+- Overall feeds with entries: 114/120 | empty: 4 | failed: 1 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
@@ -41,106 +42,130 @@
 - ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Bilawal Vows to Form Separate South Punjab Province Through Democratic Struggle  [NORMAL]
-- Poster: بلاول بھٹونے جنوبی پنجاب کا الگ صوبہ بنانے کا عزم ظاہر کر دیا / Bilawal vows to create separate South Punjab province | category politics
-- Alternative headline: PPP Chairman Bilawal Bhutto Promises Separate South Punjab Province
+### Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears  [NORMAL]
+- Poster: ایডিএইচডি اور آٹزم کی تشخیص پر نظرثانی کرنے والا دنیا کا پہلا کلینک / World's First ADHD and Autism Reassessment Clinic Opens in Sweden | category health
+- Alternative headline: World's First Reassessment Clinic For ADHD And Autism Raises Concerns
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: ADHD reassessment, autism diagnosis, Sweden clinic, psychiatric assessment, stigma, mental health | hashtags: #ADHD #Autism #Sweden #MentalHealth #Healthcare
+- Scheduled: Sat 28 Nov, 05:23 AM PKT
+- Caption:
+```
+A unique government-funded clinic in Sweden is reassessing people with ADHD and autism diagnoses, but critics fear it could deepen stigma.
+
+A government-funded psychiatric clinic in Sweden has launched dedicated reassessments for people previously diagnosed with ADHD and autism. While some individuals question their original diagnoses due to personal doubts or life barriers like career restrictions, critics warn that the process could potentially deepen social stigma.
+
+سویڈن میں ایک سرکاری کلینک نے ان افراد کے لیے تشخیص پر نظرثانی شروع کی ہے جنہیں پہلے ایডিএইচডি یا آٹزم کی تشخیص ہوئی تھی۔ جہاں کچھ لوگ ذاتی شک یا کیریئر کی رکاوٹوں کی وجہ سے اپنی تشخیص پر سوال اٹھاتے ہیں، وہیں ناقدین کا کہنا ہے کہ اس عمل سے سماجی بدنامی میں اضافہ ہو سکتا ہے۔
+
+First reported by BBC World.
+
+#ADHD #Autism #Sweden #MentalHealth #Healthcare
+```
+
+### Power Outages And Travel Disruptions As Storm Batters US East Coast  [NORMAL]
+- Poster: امریکہ میں طوفان نے تھینکس گیونگ کی تعطیلات اور نظام زندگی درہم برہم کر دیا / Storm Disrups Thanksgiving Holiday Along US East Coast | category weather
+- Alternative headline: US East Coast Cleans Up After Major Thanksgiving Storm Disrupts Holidays
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - ARY News https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: ARY News https://arynews.tv/bilawal-vows-to-establish-separate-province-in-south-punjab
-- Supporting coverage: ARY News
-- Keywords: South Punjab province, Bilawal Bhutto Zardari, Pakistan Peoples Party, Rahim Yar Khan, Punjab Assembly | hashtags: #BilawalBhutto #SouthPunjab #PPP #PakistanPolitics
-- Scheduled: Sat 28 Nov, 04:27 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5
+- Supporting coverage: AP News, Dawn
+- Keywords: US storm, Thanksgiving storm, East Coast, power outages, weather disruption, US weather | hashtags: #USStorm #Thanksgiving #EastCoast #PowerOutage #Weather
+- Scheduled: Sat 28 Nov, 05:33 AM PKT
 - Caption:
 ```
-Pakistan Peoples Party Chairman Bilawal Bhutto Zardari has vowed to establish a separate province in South Punjab through democratic struggle.
+Parts of the US are cleaning up and restoring power outages after a major storm soaked the East Coast during Thanksgiving.
 
-Pakistan Peoples Party Chairman Bilawal Bhutto Zardari announced during a rally in Rahim Yar Khan that his party will establish a separate province in South Punjab. He warned against turning the issue controversial and stated that the province would be achieved through democratic means.
+A severe storm disrupted the Thanksgiving holiday across the US East Coast, bringing heavy downpours and travel disruptions. Communities are now working on recovery efforts, including cleaning up debris and restoring power outages that affected numerous residents during the festive break.
 
-پاکستان پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری نے رحیم یار خان میں ایک جلسے سے خطاب کرتے ہوئے جنوبی پنجاب میں ایک الگ صوبہ بنانے کا عزم ظاہر کیا ہے۔ انہوں نے خبردار کیا کہ اس معاملے کو متنازع نہیں بنایا جائے گا اور صوبہ جمہوری جدوجہد کے ذریعے بنایا جائے گا۔
+ایک شدید طوفان نے امریکی مشرقی ساحل پر تھینکس گیونگ کی تعطیلات کو متاثر کیا، جس کی وجہ سے شدید بارشیں ہوئیں۔ متاثرہ علاقے اب صفائی اور بجلی کی بندش کو بحال کرنے کی کوششوں میں مصروف ہیں جو تہوار کے دوران شہریوں کو پیش آئیں۔
 
-First reported by ARY News
+First reported by Dawn.
 
-#BilawalBhutto #SouthPunjab #PPP #PakistanPolitics
+#USStorm #Thanksgiving #EastCoast #PowerOutage #Weather
 ```
 
-### Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deaths  [NORMAL]
-- Poster: کینیا میں متنازعہ فرقے کے سربراہ کو مزید 123 ہلاکتوں پر سزا / Kenyan cult leader convicted over 123 starvation deaths | category other
-- Alternative headline: Paul Mackenzie Found Guilty of Manslaughter in 123 Cult Deaths
+### At Least Eight Migrants Found Dead On Boat Off Canary Islands  [NORMAL]
+- Poster: سپین کے کینری جزائر کے قریب تارکین وطن کی کشتی سے آٹھ لاشیں برآمد / At least eight found dead on migrant boat off Canary Islands | category disaster
+- Alternative headline: Tragedy Off Spain: Eight Dead Found On Migrant Vessel Near Canary Islands
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World, Al Jazeera
-- Keywords: Paul Mackenzie, doomsday cult, Kenya court, manslaughter, Shakahola forest | hashtags: #KenyaCult #PaulMackenzie #WorldNews
-- Scheduled: Sat 28 Nov, 04:37 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss
+- Supporting coverage: Al Jazeera, Dawn
+- Keywords: migrant boat, Canary Islands, Spain migration, rescue service, boat tragedy, migrant deaths | hashtags: #CanaryIslands #Migration #Spain #Rescue #BreakingNews
+- Scheduled: Sat 28 Nov, 05:43 AM PKT
 - Caption:
 ```
-A court in Kenya has convicted doomsday cult leader Paul Mackenzie of the manslaughter of 123 of his followers.
+At least eight people were found dead on a migrant boat off Spain’s Canary Islands, with several others hospitalised in serious condition.
 
-A Kenyan court has convicted doomsday cult leader Paul Mackenzie of the manslaughter of 123 followers who starved to death in Shakahola forest. The court found that Mackenzie systemically ordered his followers to fast, following an earlier conviction for murdering 191 children.
+Spanish rescue services reported that at least eight people were found dead aboard a migrant boat off Spain's Canary Islands. Additionally, six people were airlifted to a hospital in serious condition as rescue operations responded to the maritime tragedy.
 
-کینیا کی ایک عدالت نے قیامت خیز فرقے کے رہنما پال مکینزی کو اپنے 123 پیروکاروں کی ہلاکت کے مقدمے میں مجرم قرار دے دیا ہے۔ عدالت نے پایا کہ مکینزی نے اپنے پیروکاروں کو شکا ہولا جنگل میں بھوک سے مرنے کا حکم دیا تھا۔
+ہسپانوی ریسکیو حکام نے بتایا ہے کہ سپین کے کینری جزائر کے قریب تارکین وطن کی ایک کشتی سے کم از کم آٹھ افراد کی لاشیں ملی ہیں۔ اس کے علاوہ، چھ افراد کو تشویشناک حالت میں ہسپتال منتقل کر دیا گیا ہے۔
 
-First reported by BBC World
+First reported by Al Jazeera.
 
-#KenyaCult #PaulMackenzie #WorldNews
+#CanaryIslands #Migration #Spain #Rescue #BreakingNews
 ```
 
-### Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism  [NORMAL]
-- Poster: سپین میں ثقافتی مراکز کے ذریعے نسل پرستی اور فار رائٹ کے خلاف جنگ / Fighting Spain's far-right through art and cultural centres | category other
-- Alternative headline: Activists of Rhythm: How Spain's Cultural Centres Counter Far-Right Politics
+### Dissidents Say Their Voices Are Drowned Out Amid China's Rise  [NORMAL]
+- Poster: چین کے عروج کے پیچھے نقادوں کا کہنا ہے کہ ان کی آوازیں دبائی جا رہی ہیں / Voices defying China's rise say they are being drowned out | category world
+- Alternative headline: Behind China's Global Rise, Critics Warn Dissident Voices Are Silenced
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss
-- Supporting coverage: Al Jazeera, Al Jazeera
-- Keywords: Spain far-right art, Madrid cultural centres, La Parceria, Espacio Afro, migrant voices | hashtags: #Spain #ArtAgainstRacism #MigrantVoices
-- Scheduled: Sat 28 Nov, 04:47 AM PKT
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC
+- Keywords: China rise, dissidents, soft power, critics, global influence, censorship | hashtags: #China #Dissidents #GlobalPolitics #HumanRights #BBC
+- Scheduled: Sat 28 Nov, 05:53 AM PKT
 - Caption:
 ```
-Madrid cultural centres like La Parceria and Espacio Afro are using the arts to fight racism and boost migrant voices.
+As China projects immense global clout and soft power, critics and dissidents argue that their voices are being increasingly drowned out.
 
-Cultural centres in Madrid, including La Parceria and Espacio Afro, are utilising the arts and rhythm to combat racism, challenge far-right movements, and amplify migrant voices across Spain.
+China's growing global influence and the expansion of its soft power have sparked concerns among critics and dissidents. Individuals who have defied the state or its policies report that their perspectives and opposition voices are being systematically sidelined and drowned out.
 
-میڈرڈ میں لا پارسریا اور اسپاسیو افرو سمیت ثقافتی مراکز نسل پرستی کا مقابلہ کرنے اور تارکین وطن کی آوازوں کو بلند کرنے کے لیے فنون لطیفہ کا استعمال کر رہے ہیں۔
+چین کے بڑھتے ہوئے عالمی اثر و رسوخ اور نرم طاقت کے پھیلاؤ نے نقادوں اور اختلاف کرنے والوں میں تشویش پیدا کر دی ہے۔ ریاست کی مخالفت کرنے والے افراد کا کہنا ہے کہ ان کے نقطہ نظر اور آوازوں کو منظم طریقے سے دبایا جا رہا ہے۔
 
-First reported by Al Jazeera
+First reported by BBC.
 
-#Spain #ArtAgainstRacism #MigrantVoices
+#China #Dissidents #GlobalPolitics #HumanRights #BBC
 ```
 
-### Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller' Kenneth Law  [NORMAL]
-- Poster: کینیڈا میں زہر فروخت کرنے والے کینیتھ لا کے لیے 25 سال قید کی سزا کا مطالبہ / Prosecutors seek 25-year prison term for Kenneth Law | category other
-- Alternative headline: 25-Year Prison Term Sought for Kenneth Law Over Online Suicide Sales
+### Family Seeks Answers 14 Years After Teenager's Sudden Death  [NORMAL]
+- Poster: صحت مند نوجوان کی اچانک موت کے 14 سال بعد بھی خاندان وجوہات سے لاعلم / 14 years since fit teen's sudden death, family seeks answers | category health
+- Alternative headline: Unsolved Mystery: Why Did A Super Fit Teenager Die Suddenly 14 Years Ago?
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Kenneth Law sentencing, Canadian prosecutors, toxic chemicals, suicide forums, Ontario court | hashtags: #KennethLaw #CanadaNews #Crime
-- Scheduled: Sat 28 Nov, 04:57 AM PKT
+- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5
+- Supporting coverage: BBC
+- Keywords: sudden death, fit teenager, unexplained death, family grief, medical mystery, health | hashtags: #SuddenDeath #HealthMystery #Family #BBC #MedicalResearch
+- Scheduled: Sat 28 Nov, 06:03 AM PKT
 - Caption:
 ```
-Canadian prosecutors are seeking a 25-year prison sentence for Kenneth Law, who sold toxic chemicals online linked to suicides.
+It has been 14 years since a super fit teenager died suddenly, leaving a grieving family still searching for answers.
 
-Canadian prosecutors have requested a 25-year prison sentence for Kenneth Law, who admitted to selling toxic chemicals through online forums that aided suicides across multiple countries. Law previously pleaded guilty to 14 counts of aiding suicide in Ontario.
+A family continues to seek answers fourteen years after the sudden and unexplained death of their extremely fit teenager. The lingering mystery highlights the ongoing pain and unanswered questions surrounding sudden unexplained deaths in young, healthy individuals.
 
-کینیڈین استغاثہ نے کینیتھ لا کے لیے 25 سال قید کی سزا کا مطالبہ کیا ہے جس نے آن لائن فورمز کے ذریعے زہریلے کیمیکل فروخت کیے جو خودکشیوں کا سبب بنے۔ کینیتھ لا نے اونٹاریو میں خودکشی میں مدد دینے کے 14 الزامات کا اعتراف کیا تھا۔
+ایک انتہائی صحت مند نوجوان کی اچانک اور پراسرار موت کے چودہ سال بعد بھی اس کا خاندان وجوہات جاننے کے لیے پریشان ہے۔ یہ طویل مدتی معمہ کم عمر اور صحت مند افراد میں اچانک ہونے والی اموات کے گرد منڈلاتے سوالات کو اجاگر کرتا ہے۔
 
-First reported by BBC World
+First reported by BBC.
 
-#KennethLaw #CanadaNews #Crime
+#SuddenDeath #HealthMystery #Family #BBC #MedicalResearch
 ```
 
-- Indian outlets blocked this run: 0 items
+- Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 5 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
@@ -359,11 +384,11 @@ First reported by BBC World
 - [needs_review] normal | Serbia's student-led movement nominates chemistry professor for presid | Fri 27 Nov, 09:50 PM PKT
 - [needs_review] normal | Israel’s Eisenkot Accuses Netanyahu’s Party of Stalling Coalition Talk | Fri 27 Nov, 10:22 PM PKT
 - [published] normal | Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Cont | Fri 27 Nov, 10:32 PM PKT
-- [queued] normal | Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya | Fri 27 Nov, 10:42 PM PKT
-- [queued] normal | Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz | Fri 27 Nov, 10:52 PM PKT
-- [queued] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
-- [queued] normal | Makkah pact nations condemn Houthi attacks on Saudi Arabia | Fri 27 Nov, 11:17 PM PKT
-- [queued] normal | SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | Fri 27 Nov, 11:27 PM PKT
+- [needs_review] normal | Foreign Office Yet to Verify Reported Migrant Boat Capsizing Off Libya | Fri 27 Nov, 10:42 PM PKT
+- [needs_review] normal | Iran Guards Say Oil Tanker Explodes After Hitting Mine Near Hormuz | Fri 27 Nov, 10:52 PM PKT
+- [needs_review] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
+- [needs_review] normal | Makkah pact nations condemn Houthi attacks on Saudi Arabia | Fri 27 Nov, 11:17 PM PKT
+- [published] normal | SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | Fri 27 Nov, 11:27 PM PKT
 - [queued] normal | Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars f | Fri 27 Nov, 11:37 PM PKT
 - [queued] normal | Three convicted in UK for forcing woman into marriage in Pakistan | Fri 27 Nov, 11:47 PM PKT
 - [queued] normal | President Asif Ali Zardari meets Chaudhry Shujaat Hussain | Fri 27 Nov, 11:57 PM PKT
@@ -387,12 +412,17 @@ First reported by BBC World
 - [queued] normal | Kenyan Doomsday Cult Leader Convicted Over Further 123 Starvation Deat | Sat 28 Nov, 04:37 AM PKT
 - [queued] normal | Madrid Cultural Centres Use Art to Fight Spain's Far-Right and Racism | Sat 28 Nov, 04:47 AM PKT
 - [queued] normal | Canadian Prosecutors Seek 25-Year Sentence for Online 'Poison Seller'  | Sat 28 Nov, 04:57 AM PKT
+- [queued] normal | Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears | Sat 28 Nov, 05:23 AM PKT
+- [queued] normal | Power Outages And Travel Disruptions As Storm Batters US East Coast | Sat 28 Nov, 05:33 AM PKT
+- [queued] normal | At Least Eight Migrants Found Dead On Boat Off Canary Islands | Sat 28 Nov, 05:43 AM PKT
+- [queued] normal | Dissidents Say Their Voices Are Drowned Out Amid China's Rise | Sat 28 Nov, 05:53 AM PKT
+- [queued] normal | Family Seeks Answers 14 Years After Teenager's Sudden Death | Sat 28 Nov, 06:03 AM PKT
 
 ## Publishing this run
-- Published 'Karachi Building Collapse Death Toll Rises to Eight as Rescue Ops Continue'.
+- Published 'SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5004 | output tokens: 2234
+- Calls: 2 | prompt tokens: 5698 | output tokens: 2879
 - Errors: 1
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
