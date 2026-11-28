@@ -194381,7 +194381,572 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2d5eae8800770e66d1ba9e28",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T12:10:25+00:00",
+      "last_update": "2026-11-28T12:41:44+00:00",
+      "event": "MQM-P cancels rally over law and order concerns, alleges PPP patronizing nationalist groups",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleges",
+        "and",
+        "cancels",
+        "concerns",
+        "groups",
+        "law",
+        "mqm",
+        "nationalist",
+        "order",
+        "over",
+        "patronizing",
+        "ppp",
+        "rally"
+      ],
+      "source_excerpt": "MQM-P cancels rally over law and order concerns, alleges PPP patronizing nationalist groups",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/mqm-p-cancels-rally-over-law-and-order-concerns-alleges-ppp-patronizing-nationalist-groups",
+          "published_at": "2026-11-28T12:10:25+00:00"
+        },
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDVBTWFfOTdiTkMwcDVzYW5tWG5JYXBsVUZ2a3ZxNDZfaVFrOE9sOVlDbEotYkhtci1heDN1QVpXV2p2OXN2T2RDS1JMcmNmeWxOOGgweFJlck1WNWhRVVJCWGVudDUtNy14ZFBJUHlaMTdRV0xINzZsQXNUcWZpSGlQeWxXWmxwbFZZMnBGR2FXUdIBU0FVX3lxTE04di1BRmlPOHBGcUFvelhZOW1pOTFlZVJ3d0F1VEFaWVZLaVlWLU11SGE0ejNUNklWYV83WDg5WW9zRkw5ZkJVOUJCUnZtOGNGZElV?oc=5",
+          "published_at": "2026-11-28T12:41:44+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/mqm-p-cancels-rally-over-law-and-order-concerns-alleges-ppp-patronizing-nationalist-groups",
+        "publisher_url": "https://arynews.tv/mqm-p-cancels-rally-over-law-and-order-concerns-alleges-ppp-patronizing-nationalist-groups",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d74a8cb4fe884d91d9eda0e9",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T08:26:26+00:00",
+      "last_update": "2026-11-28T13:26:16+00:00",
+      "event": "Ship hijacked off southern Yemen coast: maritime agency",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "agency",
+        "coast",
+        "dawn",
+        "hijacked",
+        "maritime",
+        "off",
+        "ship",
+        "southern",
+        "yemen"
+      ],
+      "source_excerpt": "Ship hijacked off southern Yemen coast: maritime agency Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajNZYnVVdGhBUEtUcHhISFVGWkgzY2ZLRkxZQUFWQTdUaW53Q1hZcXN0WEViSVNyT25ZUTFpcEhTWnpqZEUzeDhIVkhQYlRUb1JiOWw1aUlkeVktUDM2T0F2b2lnQ09tQ3R1RjFhWjc3dnF1dHlPVWw3cC1Xc1FhVHYzVkJKckM3cUJMeENTQWgyZw?oc=5",
+          "published_at": "2026-11-28T08:26:26+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/ship-hijacked-off-southern-yemen-coast-maritime-agency",
+          "published_at": "2026-11-28T13:26:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajNZYnVVdGhBUEtUcHhISFVGWkgzY2ZLRkxZQUFWQTdUaW53Q1hZcXN0WEViSVNyT25ZUTFpcEhTWnpqZEUzeDhIVkhQYlRUb1JiOWw1aUlkeVktUDM2T0F2b2lnQ09tQ3R1RjFhWjc3dnF1dHlPVWw3cC1Xc1FhVHYzVkJKckM3cUJMeENTQWgyZw?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "6617eb4a9a8ce916a20bfdde",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T12:47:34+00:00",
+      "last_update": "2026-11-28T13:23:45+00:00",
+      "event": "Govt cuts prices of jet fuel, light diesel",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cuts",
+        "diesel",
+        "fuel",
+        "govt",
+        "jet",
+        "light",
+        "prices",
+        "samaa"
+      ],
+      "source_excerpt": "Govt cuts prices of jet fuel, light diesel samaa tv",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/28/jet-fuel-kerosene-and-light-diesel-oil-prices-reduced-in-pakistan/",
+          "published_at": "2026-11-28T12:47:34+00:00"
+        },
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMndwRkhOdjdGTGRBT2ZyWi05b3F6bDkyM1oyLXVzaEtUUzhwRmVXRnZYMEc2M09hSW9SMXdBWTVyRjRjbzZwWE1jMDJMU0duR1JzRVFZMTRINnYxOF9RbjdjTkxuTHpJOWRZbG5vamtLV3JVUVlwZFJQdDF4Zw?oc=5",
+          "published_at": "2026-11-28T13:23:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMndwRkhOdjdGTGRBT2ZyWi05b3F6bDkyM1oyLXVzaEtUUzhwRmVXRnZYMEc2M09hSW9SMXdBWTVyRjRjbzZwWE1jMDJMU0duR1JzRVFZMTRINnYxOF9RbjdjTkxuTHpJOWRZbG5vamtLV3JVUVlwZFJQdDF4Zw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "f8825fe0c39098009df7a127",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T12:51:00+00:00",
+      "last_update": "2026-11-28T12:51:00+00:00",
+      "event": "PJ Gallagher cause of death: Irish comedian and broadcaster dies at 51",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actors",
+        "age",
+        "and",
+        "best",
+        "broadcaster",
+        "broadcasters",
+        "cause",
+        "comedian",
+        "comedians",
+        "confirmed",
+        "death",
+        "demise",
+        "died",
+        "dies",
+        "evening",
+        "friday",
+        "gallagher",
+        "has",
+        "his",
+        "however",
+        "ireland",
+        "irish",
+        "known",
+        "news",
+        "november",
+        "official",
+        "one",
+        "the",
+        "was"
+      ],
+      "source_excerpt": "PJ Gallagher cause of death: Irish comedian and broadcaster dies at 51 PJ Gallagher, one of Ireland’s best-known comedians, actors, and broadcasters, has died at the age of 51. The news of his demise was confirmed on Friday evening, November 27. However, no official cause of...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/693026-pj-gallagher-cause-of-death-irish-comedian-and-broadcaster-dies-at-51",
+          "published_at": "2026-11-28T12:51:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/693026-pj-gallagher-cause-of-death-irish-comedian-and-broadcaster-dies-at-51",
+        "publisher_url": "https://www.geo.tv/latest/693026-pj-gallagher-cause-of-death-irish-comedian-and-broadcaster-dies-at-51",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "251ee764b0321762dc108fb9",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T13:24:24+00:00",
+      "last_update": "2026-11-28T13:24:24+00:00",
+      "event": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activity",
+        "aires",
+        "application",
+        "argentina",
+        "buenos",
+        "court",
+        "disputed",
+        "falklands",
+        "giving",
+        "green",
+        "international",
+        "light",
+        "near",
+        "off",
+        "oil",
+        "project",
+        "refuses",
+        "region",
+        "rejects",
+        "request",
+        "stop",
+        "the",
+        "tribunal"
+      ],
+      "source_excerpt": "An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+          "published_at": "2026-11-28T13:24:24+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "951be04474f467de91438251",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T13:12:56+00:00",
+      "last_update": "2026-11-28T13:21:59+00:00",
+      "event": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alcohol",
+        "and",
+        "badly",
+        "blindness",
+        "bootleg",
+        "dead",
+        "deaths",
+        "dozens",
+        "has",
+        "including",
+        "injured",
+        "injuries",
+        "iran",
+        "led",
+        "poisonings",
+        "see",
+        "serious",
+        "spate"
+      ],
+      "source_excerpt": "A spate of alcohol poisonings in Iran has led to deaths and serious injuries including blindness.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+          "published_at": "2026-11-28T13:12:56+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFJJcm9vOTh2M1RpbzVXYXViLXBKeE9iYjR2QWxEdzZSRUZHNFVrYkFjUHhTU2U5YWdwQnBsZXBQeGJOdXZlSkZYSkdxaTh0b09DclBoVjY0TVFOVEJSclM5TVpSMWhVclZuNlpMTTZYaTB2RXRFemg4OF9qMkRkZV9lOURLdmFKT1VIRWc5a25HMTl1ZDRwQ3FueXl3WGE3NDNCbVVTMWVKby1ZdGlN0gG0AUFVX3lxTFAtMWs3VVpscmZCY0NSS0pycjdFb2UyZGpLaXZaRHdERkc3ZDJNclNxb3hvZHFLUWhFb05HQktKVVd6YS1XWTFNYlFldHpYZV9kdFhOSjIwNXBJZEV0RWdPWW55OFl3NG1EWnBjY2tvT1ZVQWdlY3R4NjFaY1dUaGQwVERJQThQZ21teV85TlA3VHJ0M2JQTk4yMXd2bnVkUXN3VTk4QWlHMmdPc3IweGh5UVQwVw?oc=5",
+          "published_at": "2026-11-28T13:21:59+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e2431e020d2f7ed0aafcd8d3",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T12:56:53+00:00",
+      "last_update": "2026-11-28T12:59:29+00:00",
+      "event": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "airline",
+        "atlantic",
+        "aviation",
+        "batter",
+        "budget",
+        "carrier",
+        "continues",
+        "costs",
+        "crisis",
+        "driven",
+        "ends",
+        "flights",
+        "fold",
+        "fuel",
+        "hormuz",
+        "how",
+        "iran",
+        "latest",
+        "norse",
+        "norwegian",
+        "strait",
+        "the",
+        "under",
+        "war"
+      ],
+      "source_excerpt": "The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+          "published_at": "2026-11-28T12:56:53+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONW1XWWlCQURrWEh2RFVqLXBiZ09SOWJhdjJ1eVYtSXY0OXo1czU1d3R5TUthXzgzS2Y3TXJHT0E2ZUM5NGRvQVJMYTRoN3pFeXlULUt4WjdIbFEzRVF1SUxqckp3VUJ3QlkyZUJzRkJWSV80ajlqdC1KaGd2eVRFWW9DMXV3eC1JYmxVOUZ3ZFZtV2o1NmJrQU9aR004eml6QzFuSG1IZmVWazI0YlVnetIBtgFBVV95cUxONlpDd29xMFlpUThoZVctV2ljTEhqY0R1MUI1Q1l1cEJaQ0FVUk9LQ01xY1RSckdiWHhxSTZhYzQ1cW1JNnBVX0djWmY0LVBGczNmUEpDY3p1ZDFXWERiWmJqUF81ci1DcEFNQWZmbTJvcHZCYmlReEFRMHo2R0VTS1k2aEVHRFd5QUw2d2wtZm5ySmVfMXJSMmpCZ3lJZ2puRDVUSm5LU0hUMEk0UjN6b0dlbV9vQQ?oc=5",
+          "published_at": "2026-11-28T12:59:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e36572a97ab7f85305913ae2",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T12:36:19+00:00",
+      "last_update": "2026-11-28T12:36:19+00:00",
+      "event": "Taiwan opposition party wins re-election in Taipei mayoral race",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "across",
+        "and",
+        "ballots",
+        "cast",
+        "council",
+        "election",
+        "for",
+        "have",
+        "leaders",
+        "local",
+        "mayoral",
+        "mayors",
+        "members",
+        "opposition",
+        "other",
+        "party",
+        "race",
+        "taipei",
+        "taiwan",
+        "voters",
+        "wins"
+      ],
+      "source_excerpt": "Voters across Taiwan have cast ballots for mayors, council members and other local leaders.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss",
+          "published_at": "2026-11-28T12:36:19+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fe6e24b32db6c95a9742dd7c",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T09:49:00+00:00",
+      "last_update": "2026-11-28T09:49:00+00:00",
+      "event": "Comedian PJ Gallagher takes his last breath at 51",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "breath",
+        "comedian",
+        "gallagher",
+        "his",
+        "international",
+        "last",
+        "news",
+        "takes",
+        "the"
+      ],
+      "source_excerpt": "Comedian PJ Gallagher takes his last breath at 51 The News International",
+      "sources": [
+        {
+          "name": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0JxcFZxOVF4MHV2eldVRU5YdXJ4RkFoRmU1LThXSXpiSkJKZm9PbElSTFFGbXNqdTJ3bng1QjJ3NDhDYmIxZjcyd3Vqa3U5RmduaVl1MGlzTHNPYWpaa0o0a0RUbnlKVzc3NzUyYldkRHRWVGdnblZFYzBEZm4wblhkRm8yVGQ1OTF6cUMzSkRYQdIBkgFBVV95cUxOV0JxcFZxOVF4MHV2eldVRU5YdXJ4RkFoRmU1LThXSXpiSkJKZm9PbElSTFFGbXNqdTJ3bng1QjJ3NDhDYmIxZjcyd3Vqa3U5RmduaVl1MGlzTHNPYWpaa0o0a0RUbnlKVzc3NzUyYldkRHRWVGdnblZFYzBEZm4wblhkRm8yVGQ1OTF6cUMzSkRYQQ?oc=5",
+          "published_at": "2026-11-28T09:49:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The News International",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0JxcFZxOVF4MHV2eldVRU5YdXJ4RkFoRmU1LThXSXpiSkJKZm9PbElSTFFGbXNqdTJ3bng1QjJ3NDhDYmIxZjcyd3Vqa3U5RmduaVl1MGlzTHNPYWpaa0o0a0RUbnlKVzc3NzUyYldkRHRWVGdnblZFYzBEZm4wblhkRm8yVGQ1OTF6cUMzSkRYQdIBkgFBVV95cUxOV0JxcFZxOVF4MHV2eldVRU5YdXJ4RkFoRmU1LThXSXpiSkJKZm9PbElSTFFGbXNqdTJ3bng1QjJ3NDhDYmIxZjcyd3Vqa3U5RmduaVl1MGlzTHNPYWpaa0o0a0RUbnlKVzc3NzUyYldkRHRWVGdnblZFYzBEZm4wblhkRm8yVGQ1OTF6cUMzSkRYQQ?oc=5",
+        "publisher_url": "https://www.thenews.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "69ef64d0825a848a227cd7dd",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T13:06:49+00:00",
+      "last_update": "2026-11-28T13:06:49+00:00",
+      "event": "Zardari discusses new provinces with Naqvi, PA speaker in Lahore",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "discusses",
+        "lahore",
+        "naqvi",
+        "new",
+        "provinces",
+        "samaa",
+        "speaker",
+        "with",
+        "zardari"
+      ],
+      "source_excerpt": "Zardari discusses new provinces with Naqvi, PA speaker in Lahore samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZma003QjljalJUb01qUmhNaW4xeEVyek1pS1Mwa2NCdjFDV0JFS1FzVjNJYWhKRnRGQkE3c243S1BwcVVpQ2ppX1BtbHZtU1hrLWc2TDViM3E0TDZsVzJwdkU5MGZ2UUVLVEM2WEZtWjY4NWZtUmhaRVZCQTZwclVnclRIeXRyZGZ0dWtENFRWMFR5Q2dtNWJHQQ?oc=5",
+          "published_at": "2026-11-28T13:06:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZma003QjljalJUb01qUmhNaW4xeEVyek1pS1Mwa2NCdjFDV0JFS1FzVjNJYWhKRnRGQkE3c243S1BwcVVpQ2ppX1BtbHZtU1hrLWc2TDViM3E0TDZsVzJwdkU5MGZ2UUVLVEM2WEZtWjY4NWZtUmhaRVZCQTZwclVnclRIeXRyZGZ0dWtENFRWMFR5Q2dtNWJHQQ?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "af7bf4614e3a400afc67bac9",
+      "remembered_at": "2026-11-28T13:46:14.092462+00:00",
+      "event_date": "2026-11-28T13:16:06+00:00",
+      "last_update": "2026-11-28T13:16:06+00:00",
+      "event": "Murad invites Dawoodi Bohra business community to invest in Sindh, build new industrial and economic partnerships",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bohra",
+        "build",
+        "business",
+        "community",
+        "dawoodi",
+        "economic",
+        "industrial",
+        "invest",
+        "invites",
+        "murad",
+        "new",
+        "partnerships",
+        "sindh"
+      ],
+      "source_excerpt": "Murad invites Dawoodi Bohra business community to invest in Sindh, build new industrial and economic partnerships",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/murad-invites-dawoodi-bohra-business-community-to-invest-in-sindh-build-new-industrial-and-economic-partnerships",
+          "published_at": "2026-11-28T13:16:06+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/murad-invites-dawoodi-bohra-business-community-to-invest-in-sindh-build-new-industrial-and-economic-partnerships",
+        "publisher_url": "https://arynews.tv/murad-invites-dawoodi-bohra-business-community-to-invest-in-sindh-build-new-industrial-and-economic-partnerships",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T12:35:37.764142+00:00"
+  "updated_at": "2026-11-28T13:46:14.092462+00:00"
 }

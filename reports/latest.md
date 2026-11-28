@@ -1,144 +1,171 @@
-# News Hub report - Sat 28 Nov, 05:35 PM PKT
+# News Hub report - Sat 28 Nov, 06:46 PM PKT
 
 ## Collection
-- New items this run: 104 | items in rolling pool: 635
-- Unique story clusters: 516 (duplicates merged: 119)
-- Clusters dropped as already published/queued: 34; unchanged since last analysis: 11
-- Items per outlet: UrduPoint 50, ProPakistani 10, samaa tv 6, Al Jazeera 6, Geo News 5, TechJuice 4, ARY News 3, Wired 3, BBC Business 2, The Current 2, Dawn 1, The News International 1
+- New items this run: 84 | items in rolling pool: 683
+- Unique story clusters: 556 (duplicates merged: 127)
+- Clusters dropped as already published/queued: 35; unchanged since last analysis: 11
+- Items per outlet: UrduPoint 35, ProPakistani 7, samaa tv 6, ARY News 6, Al Jazeera 6, TechJuice 5, Geo News 3, Engadget 3, Wired 2, RealClearWorld 2, Dawn Pakistan 1, Dawn 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MQM-P cancels rally over law and order concerns, alleges PPP patronizing nationalist groups | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says ready for US talks, warns against aggression | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ship hijacked off southern Yemen coast: maritime agency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt cuts prices of jet fuel, light diesel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PJ Gallagher cause of death: Irish comedian and broadcaster dies at 51 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MQM-P cancels rally over law and order concerns, alleges PPP patronizing nationalist groups | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says ready for US talks, warns against aggression | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ship hijacked off southern Yemen coast: maritime agency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt cuts prices of jet fuel, light diesel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PJ Gallagher cause of death: Irish comedian and broadcaster dies at 51 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Afghanistan school blast kills seven students, injures 99 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tarantulas, scorpions and more found in luggage at Peru airport | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Manchester United vs Brentford LIVE: Premier League | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- India fumble chances as New Zealand finish day two on top in Christchurch | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Security tries to remove Palestinian flag at Selfridges on Black Friday | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- MQM-P cancels rally over law and order concerns, alleges PPP patronizing nationalist groups | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran says ready for US talks, warns against aggression | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Ship hijacked off southern Yemen coast: maritime agency | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Govt cuts prices of jet fuel, light diesel | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- PJ Gallagher cause of death: Irish comedian and broadcaster dies at 51 | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 114/120 | empty: 3 | failed: 3 | malformed/partial: 3
 - Trusted publisher desks with at least one healthy source: 10/10
+- ATTENTION: Express Tribune Search | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Judiciary and Courts Desk | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: Al Jazeera India entertainment | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### Israel Unity Government Talks Stall Amid Rotation Row  [NORMAL]
-- Poster: اسرائیل میں اتحادی حکومت کی تشکیل پر مذاکرات تعطل کا شکار / Israel Unity Government Talks Stall | category politics
-- Alternative headline: Netanyahu and Eisenkot Clash Over Coalition Deal
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Israel unity government, Eisenkot, Netanyahu, coalition talks, rotation deal, Israel politics | hashtags: #Israel #Politics #Netanyahu #MiddleEast #BreakingNews
-- Scheduled: Sat 28 Nov, 05:35 PM PKT
-- Caption:
-```
-Efforts to form an Israeli unity government face major hurdles as coalition talks stall over rotation deals and key compromises.
-
-Efforts by Eisenkot to form a new unity government in Israel have hit a roadblock as coalition talks with Netanyahu stall over disagreements concerning rotation deals and mutual compromises.
-
-اسرائیل میں آئزینکوت کی جانب سے نئی اتحادی حکومت بنانے کی کوششیں اس وقت تعطل کا شکار ہو گئیں جب نیتن یاھو کے ساتھ روٹیشن ڈیل اور اتحاد کے معاملے پر مذاکرات رک گئے۔
-
-According to Al Jazeera
-
-#Israel #Politics #Netanyahu #MiddleEast #BreakingNews
-```
-
-### Afghanistan School Blast Kills 7 Students, Injures 99  [NORMAL]
-- Poster: افغانستان میں اسکول کے قریب دھماکہ، 7 طلباء جاں بحق اور 99 زخمی / Afghanistan School Blast Kills 7, Injures 99 | category crime
-- Alternative headline: School Explosion in Afghanistan Leaves Seven Dead and 99 Injured
+### MQM-P cancels Karachi rally over security concerns, alleges PPP patronizing nationalists  [NORMAL]
+- Poster: سیکیورٹی خدشات: ایم کیو ایم پاکستان نے جلسہ منسوخ کر دیا / MQM-P Cancels Karachi Rally Over Security Risks | category politics
+- Alternative headline: MQM-P calls off November 29 rally citing terror risks and Bilawal's threats
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0NpYUFUbVlhMlhSSnNiWE5DelExMHhCMDE2VUlkQ2h2bktfZTNyNVRRemw5QWFQZ0h5VkZwVEp6TDBtWDV5S1RMSW52Ync1RDYyeTF1VHVyNmZ1VUZTMkVfakxmWGN1dloySFlRSHBwTDZFMEp5SHBFRFI0cW1UTHNSVGhwZXZ2aXIybzI0QURLZw?oc=5
-- Supporting coverage: samaa tv, Dawn, Dawn Latest
-- Keywords: Afghanistan school blast, school explosion, Kunar, students killed, injuries, Afghanistan news | hashtags: #Afghanistan #SchoolBlast #Kunar #BreakingNews #Tragedy
-- Scheduled: Sat 28 Nov, 05:45 PM PKT
+- Original source: published_report - ARY News https://arynews.tv/mqm-p-cancels-rally-over-law-and-order-concerns-alleges-ppp-patronizing-nationalist-groups | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: ARY News https://arynews.tv/mqm-p-cancels-rally-over-law-and-order-concerns-alleges-ppp-patronizing-nationalist-groups
+- Supporting coverage: ARY News, Aaj English TV
+- Keywords: MQM-P rally, Karachi rally, Syed Mustafa Kamal, Bilawal Bhutto, law and order, ARY News | hashtags: #MQMP #Karachi #SyedMustafaKamal #PPP #Pakistan
+- Scheduled: Sat 28 Nov, 06:46 PM PKT
 - Caption:
 ```
-A tragic school blast in Afghanistan has left seven students dead and scores injured, according to reports.
+MQM-P has called off its planned Karachi rally due to serious security threats and warnings from law enforcement agencies.
 
-A devastating school blast in Afghanistan has resulted in the deaths of seven students, with 99 others sustaining injuries. Authorities and news outlets are closely monitoring the unfolding situation following the explosion.
+The Muttahida Qaumi Movement-Pakistan (MQM-P) cancelled its scheduled November 29 rally and congregation in Karachi due to law and order and terrorism concerns. During a press conference, leaders Dr. Farooq Sattar and Syed Mustafa Kamal stated that law enforcement agencies warned of a high risk of clashes. Kamal also alleged that PPP leader Bilawal Bhutto had issued formal threats of bloodshed naming multiple cities, prompting the party to take the step responsibly while demonstrating patriotism. New dates for the gathering will be announced in December.
 
-افغانستان میں اسکول کے قریب ہونے والے ایک دھماکے کے نتیجے میں 7 طلباء جاں بحق اور 99 زخمی ہو گئے۔ حکام اس واقعے کی تحقیقات کر رہے ہیں۔
+ایم کیو ایم پاکستان نے امن و امان کے خدشات اور دہشت گردی کے خطرے کے پیش نظر 29 نومبر کو ہونے والا کراچی کا جلسہ منسوخ کر دیا۔ بہادرآباد میں پریس کانفرنس کرتے ہوئے رہنماؤں ڈاکٹر فاروق ستار اور سید مصطفی کمال نے بتایا کہ قانون نافذ کرنے والے اداروں نے خطرات سے آگاہ کیا تھا۔ مصطفی کمال نے الزام لگایا کہ بلاول بھutto نے شہروں کے نام لے کر خون خرابے کی دھمکی دی تھی، جس پر ذمہ داری کا مظاہرہ کرتے ہوئے جلسہ ملتوی کیا گیا ہے۔ جلسے کی نئی تاریخوں کا اعلان دسمبر میں کیا جائے گا۔
 
-First reported by samaa tv; also reported by Dawn
+First reported by ARY News
 
-#Afghanistan #SchoolBlast #Kunar #BreakingNews #Tragedy
+#MQMP #Karachi #SyedMustafaKamal #PPP #Pakistan
 ```
 
-### Tarantulas and Scorpions Seized from Luggage at Peru Airport  [NORMAL]
-- Poster: پیرو کے ہوائی اڈے پر مسافر کے سامان سے مکڑیاں اور بچھو برآمد / Tarantulas and Scorpions Found at Peru Airport | category crime
-- Alternative headline: Peru Airport Security Discovers Hidden Tarantulas and Scorpions in Baggage
+### Iran expresses readiness for US talks while warning against any fresh aggression  [NORMAL]
+- Poster: امریکہ سے مذاکرات کیلئے تیار ہیں، کسی بھی جارحیت کا سخت جواب دیں گے: ایران / Iran Ready for US Talks, Warns Against Aggression | category world
+- Alternative headline: Iran ready for balanced dialogue but warns it will respond harshly to aggression
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Peru airport wildlife seizure, tarantulas, scorpions, airport security, Peru, smuggling | hashtags: #Peru #Wildlife #AirportSecurity #Smuggling #AlJazeera
-- Scheduled: Sat 28 Nov, 05:55 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxQck5Wa05kSFNIazI1dkRkbDQtWGU5a1ZEbGs5dkpjRER0V2p6Q00yc0duQlJWeHpndG0tVWxIcEp0TFZZN3dXdWExQWh0M3ZZQ1pHNWRQSlBfM0NZQmRMVUQtWEc1dzlYYnBMN2hrUi1oTmlGdlFnN1g5U3JBWE5IdUNtd1c5M3ZJcTRteUthQXFWWVFKb1pv?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMilwFBVV95cUxQck5Wa05kSFNIazI1dkRkbDQtWGU5a1ZEbGs5dkpjRER0V2p6Q00yc0duQlJWeHpndG0tVWxIcEp0TFZZN3dXdWExQWh0M3ZZQ1pHNWRQSlBfM0NZQmRMVUQtWEc1dzlYYnBMN2hrUi1oTmlGdlFnN1g5U3JBWE5IdUNtd1c5M3ZJcTRteUthQXFWWVFKb1pv?oc=5
+- Supporting coverage: samaa tv, Dawn
+- Keywords: Iran US talks, Iran aggression, US diplomacy, Ambassador Moghadam, samaa tv | hashtags: #Iran #US #MiddleEast #Diplomacy #News
+- Scheduled: Sat 28 Nov, 06:56 PM PKT
 - Caption:
 ```
-Airport security in Peru made a shocking discovery after finding live tarantulas, scorpions, and other creatures hidden inside luggage.
+Iran has announced its willingness to engage in talks with the US while issuing a strict warning against new military aggression.
 
-Security officials at a Peru airport uncovered a shocking collection of live tarantulas, scorpions, and other creatures concealed inside passenger luggage during routine checks.
+Iran has stated its readiness for discussions with the United States while cautioning that it will respond harshly to any new acts of aggression. The announcement highlights ongoing diplomatic positioning alongside strict warnings regarding regional security tensions.
 
-پیرو کے ہوائی اڈے پر سیکیورٹی اہلکاروں نے مسافر کے سامان سے تاتاری مکڑیاں، بچھو اور دیگر کیڑے مکوڑے برآمد کر لیے۔
+ایران نے امریکہ کے ساتھ مذاکرات کے لیے آمادگی ظاہر کی ہے جبکہ ساتھ ہی خبردار کیا ہے کہ کسی بھی نئی جارحیت کا سخت جواب دیا جائے گا۔ یہ بیان علاقائی کشیدگی اور سفارتی موقف کے تناظر میں سامنے آیا ہے۔
 
-According to Al Jazeera
+First reported by samaa tv
 
-#Peru #Wildlife #AirportSecurity #Smuggling #AlJazeera
+#Iran #US #MiddleEast #Diplomacy #News
 ```
 
-### Manchester United vs Brentford LIVE: Premier League Action  [NORMAL]
-- Poster: پریمیر لیگ: مانچسٹر یونائیٹڈ اور برینٹفورڈ کا مقابلہ لائیو / Man United vs Brentford LIVE | category sports
-- Alternative headline: Follow Premier League Live: Manchester United Face Brentford
+### Commercial ship hijacked off southern coast of Yemen, maritime agency reports  [NORMAL]
+- Poster: یمن کے جنوبی ساحل کے قریب بحری جہاز اغوا / Ship Hijacked Off Southern Yemen Coast | category security
+- Alternative headline: Maritime agency reports vessel hijacking off Yemen's southern coastline
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Manchester United vs Brentford, Premier League, Bruno Fernandes, live match, football, Man United | hashtags: #MUFC #PremierLeague #ManUtd #Brentford #LiveFootball
-- Scheduled: Sat 28 Nov, 06:05 PM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxNajNZYnVVdGhBUEtUcHhISFVGWkgzY2ZLRkxZQUFWQTdUaW53Q1hZcXN0WEViSVNyT25ZUTFpcEhTWnpqZEUzeDhIVkhQYlRUb1JiOWw1aUlkeVktUDM2T0F2b2lnQ09tQ3R1RjFhWjc3dnF1dHlPVWw3cC1Xc1FhVHYzVkJKckM3cUJMeENTQWgyZw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMikgFBVV95cUxNajNZYnVVdGhBUEtUcHhISFVGWkgzY2ZLRkxZQUFWQTdUaW53Q1hZcXN0WEViSVNyT25ZUTFpcEhTWnpqZEUzeDhIVkhQYlRUb1JiOWw1aUlkeVktUDM2T0F2b2lnQ09tQ3R1RjFhWjc3dnF1dHlPVWw3cC1Xc1FhVHYzVkJKckM3cUJMeENTQWgyZw?oc=5
+- Supporting coverage: Dawn, ARY News
+- Keywords: ship hijacking, Yemen coast, maritime agency, Dawn | hashtags: #Yemen #MaritimeSecurity #BreakingNews #DawnNews
+- Scheduled: Sat 28 Nov, 07:06 PM PKT
 - Caption:
 ```
-Catch all the live build-up, team news, and text commentary as Bruno Fernandes headlines Manchester United's clash against Brentford.
+A maritime agency has reported the hijacking of a ship off the southern coast of Yemen.
 
-Follow live text commentary, team news, and match build-up as Manchester United take on Brentford in the Premier League, with star midfielder Bruno Fernandes headlining the action.
+A ship has been reported hijacked off the southern coast of Yemen, according to maritime agency reports carried by Dawn. The incident adds to ongoing security concerns regarding commercial navigation and maritime security in the region.
 
-پریمیر لیگ میں مانچسٹر یونائیٹڈ اور برینٹفورڈ کے درمیان میچ کی لائیو اپڈیٹس، ٹیم نیوز اور کمنٹری ملاحظہ کریں۔
+ڈان کی رپورٹ کے مطابق میری ٹائم ایجنسی نے یمن کے جنوبی ساحل کے قریب ایک بحری جہاز کے اغوا کیے جانے کی اطلاع دی ہے۔ اس واقعے نے خطے میں سمندری سیکیورٹی اور تجارتی جہاز رانی کے خدشات کو مزید بڑھا دیا ہے۔
 
-According to Al Jazeera
+First reported by Dawn
 
-#MUFC #PremierLeague #ManUtd #Brentford #LiveFootball
+#Yemen #MaritimeSecurity #BreakingNews #DawnNews
+```
+
+### Government slashes prices of jet fuel, kerosene, and light diesel oil  [NORMAL]
+- Poster: حکومت نے جیٹ فیول اور لائٹ ڈیزل کی قیمتوں میں کمی کر دی / Govt Cuts Prices of Jet Fuel and Light Diesel | category economy
+- Alternative headline: Pakistan cuts prices of light diesel, kerosene and jet fuel
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMndwRkhOdjdGTGRBT2ZyWi05b3F6bDkyM1oyLXVzaEtUUzhwRmVXRnZYMEc2M09hSW9SMXdBWTVyRjRjbzZwWE1jMDJMU0duR1JzRVFZMTRINnYxOF9RbjdjTkxuTHpJOWRZbG5vamtLV3JVUVlwZFJQdDF4Zw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMndwRkhOdjdGTGRBT2ZyWi05b3F6bDkyM1oyLXVzaEtUUzhwRmVXRnZYMEc2M09hSW9SMXdBWTVyRjRjbzZwWE1jMDJMU0duR1JzRVFZMTRINnYxOF9RbjdjTkxuTHpJOWRZbG5vamtLV3JVUVlwZFJQdDF4Zw?oc=5
+- Supporting coverage: ProPakistani, samaa tv
+- Keywords: fuel price cut, jet fuel, light diesel, kerosene, ProPakistani, samaa tv | hashtags: #FuelPrices #Pakistan #Economy #JetFuel #Diesel
+- Scheduled: Sat 28 Nov, 07:16 PM PKT
+- Caption:
+```
+The government has announced reductions in the prices of jet fuel, kerosene, and light diesel oil across Pakistan.
+
+The government has officially announced a reduction in the prices of jet fuel, kerosene, and light diesel oil in Pakistan. Reported by Samaa TV and ProPakistani, the price adjustments come amid fluctuating fuel trends and provide some relief to specific sectors.
+
+حکومت نے پاکستان میں جیٹ فیول، مٹی کے تیل اور لائٹ ڈیزل آئل کی قیمتوں میں کمی کا اعلان کر دیا ہے۔ سما ٹی وی اور پرو پاکستانی کی رپورٹ کے مطابق قیمتوں میں یہ ردوبدل ایندھن کے نرخوں میں اتار چڑھاؤ کے دوران سامنے آیا ہے۔
+
+First reported by samaa tv; also reported by ProPakistani
+
+#FuelPrices #Pakistan #Economy #JetFuel #Diesel
+```
+
+### Renowned Irish comedian and broadcaster PJ Gallagher passes away at 51  [NORMAL]
+- Poster: آئرش کامیڈین اور براڈکاسٹر پی جے گالاگھر 51 برس کی عمر میں انتقال کر گئے / Irish Comedian PJ Gallagher Passes Away at 51 | category lifestyle
+- Alternative headline: Irish actor and comedian PJ Gallagher dies at age 51
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Geo News https://www.geo.tv/latest/693026-pj-gallagher-cause-of-death-irish-comedian-and-broadcaster-dies-at-51 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/693026-pj-gallagher-cause-of-death-irish-comedian-and-broadcaster-dies-at-51
+- Supporting coverage: Geo News
+- Keywords: PJ Gallagher, Irish comedian, PJ Gallagher death, Geo News, Naked Camera | hashtags: #PJGallagher #Ireland #Comedian #GeoNews #RestInPeace
+- Scheduled: Sat 28 Nov, 07:26 PM PKT
+- Caption:
+```
+Prominent Irish comedian, actor, and broadcaster PJ Gallagher has passed away at the age of 51.
+
+PJ Gallagher, one of Ireland’s best-known comedians, actors, and broadcasters, has passed away at 51. Confirmed on November 27, no official cause of death has been released yet. Gallagher was widely recognized for his work on RTÉ's Naked Camera, BBC Three's The Young Offenders, and Radio Nova, as well as for openly discussing his mental health struggles and ADHD diagnosis.
+
+آئرلینڈ کے معروف کامیڈین، اداکار اور براڈکاسٹر پی جے گالاگھر 51 برس کی عمر میں انتقال کر گئے ہیں۔ جمعہ کی شام ان کے انتقال کی تصدیق کی گئی تاہم موت کی کوئی سرکاری وجہ تاحال سامنے نہیں آئی۔ گالاگھر اپنے مشہور مزاحیہ شوز اور ذہنی صحت کے مسائل پر کھل کر بات کرنے کی وجہ سے جانے جاتے تھے۔
+
+First reported by Geo News
+
+#PJGallagher #Ireland #Comedian #GeoNews #RestInPeace
 ```
 
 - Indian outlets blocked this run: 3 items
 
 ## Today
-- News posts published today: 18 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 19 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
@@ -376,11 +403,11 @@ According to Al Jazeera
 - [needs_review] normal | Gold Prices Surge by Rs11,500 Per Tola in Pakistan | Sat 28 Nov, 10:55 AM PKT
 - [needs_review] normal | City Council Approves Rs249m for Burns Road Food Street | Sat 28 Nov, 11:05 AM PKT
 - [published] normal | Saudi-led coalition intercepts Houthi cruise missile fired toward Riya | Sat 28 Nov, 11:47 AM PKT
-- [queued] normal | El Nino-linked deluges flood cities in Peru and Ecuador | Sat 28 Nov, 11:57 AM PKT
-- [queued] normal | ADB approves $468m for water and agriculture projects in Pakistan | Sat 28 Nov, 12:07 PM PKT
-- [queued] normal | Behind India’s IIT dream: Student suicides and support gaps | Sat 28 Nov, 12:17 PM PKT
-- [queued] normal | Elon Musk can afford a little MAGA amnesia, analysts say | Sat 28 Nov, 12:27 PM PKT
-- [queued] normal | UK Benefits and Pensions Offline After Suspected Cyber Incident | Sat 28 Nov, 01:02 PM PKT
+- [needs_review] normal | El Nino-linked deluges flood cities in Peru and Ecuador | Sat 28 Nov, 11:57 AM PKT
+- [needs_review] normal | ADB approves $468m for water and agriculture projects in Pakistan | Sat 28 Nov, 12:07 PM PKT
+- [needs_review] normal | Behind India’s IIT dream: Student suicides and support gaps | Sat 28 Nov, 12:17 PM PKT
+- [needs_review] normal | Elon Musk can afford a little MAGA amnesia, analysts say | Sat 28 Nov, 12:27 PM PKT
+- [published] normal | UK Benefits and Pensions Offline After Suspected Cyber Incident | Sat 28 Nov, 01:02 PM PKT
 - [queued] normal | Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two  | Sat 28 Nov, 01:12 PM PKT
 - [queued] normal | WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications | Sat 28 Nov, 01:22 PM PKT
 - [queued] normal | Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 | Sat 28 Nov, 01:32 PM PKT
@@ -404,12 +431,17 @@ According to Al Jazeera
 - [queued] normal | Afghanistan School Blast Kills 7 Students, Injures 99 | Sat 28 Nov, 05:45 PM PKT
 - [queued] normal | Tarantulas and Scorpions Seized from Luggage at Peru Airport | Sat 28 Nov, 05:55 PM PKT
 - [queued] normal | Manchester United vs Brentford LIVE: Premier League Action | Sat 28 Nov, 06:05 PM PKT
+- [queued] normal | MQM-P cancels Karachi rally over security concerns, alleges PPP patron | Sat 28 Nov, 06:46 PM PKT
+- [queued] normal | Iran expresses readiness for US talks while warning against any fresh  | Sat 28 Nov, 06:56 PM PKT
+- [queued] normal | Commercial ship hijacked off southern coast of Yemen, maritime agency  | Sat 28 Nov, 07:06 PM PKT
+- [queued] normal | Government slashes prices of jet fuel, kerosene, and light diesel oil | Sat 28 Nov, 07:16 PM PKT
+- [queued] normal | Renowned Irish comedian and broadcaster PJ Gallagher passes away at 51 | Sat 28 Nov, 07:26 PM PKT
 
 ## Publishing this run
-- Published 'Saudi-led coalition intercepts Houthi cruise missile fired toward Riyadh'.
+- Published 'UK Benefits and Pensions Offline After Suspected Cyber Incident'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4309 | output tokens: 2087
+- Calls: 3 | prompt tokens: 6386 | output tokens: 3096
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
