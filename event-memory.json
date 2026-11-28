@@ -194946,7 +194946,255 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fdf1fa5014d87a46cbb520b7",
+      "remembered_at": "2026-11-28T14:32:18.597928+00:00",
+      "event_date": "2026-11-28T11:51:03+00:00",
+      "last_update": "2026-11-28T13:44:34+00:00",
+      "event": "Naseem Shah ruled out of ILT20 with knee injury",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "express",
+        "ilt20",
+        "injury",
+        "knee",
+        "naseem",
+        "out",
+        "ruled",
+        "shah",
+        "the",
+        "tribune",
+        "with"
+      ],
+      "source_excerpt": "Naseem Shah ruled out of ILT20 with knee injury The Express Tribune",
+      "sources": [
+        {
+          "name": "ProPakistani",
+          "url": "https://propakistani.pk/2026/11/28/pakistani-star-fast-bowler-ruled-out-of-ilt20-after-knee-injury/",
+          "published_at": "2026-11-28T11:51:03+00:00"
+        },
+        {
+          "name": "The Current",
+          "url": "https://thecurrent.pk/naseem-shah-ruled-out-of-ilt20-due-with-knee-injury/",
+          "published_at": "2026-11-28T11:57:57+00:00"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTlIZG9pYmFZeVBqd1YtbWpqaGNEY29kb0liU2dWLXRGSkJNdXdlcW5nczlEV3NpakU0U2FKYW5rNk9kMWMxc01XeWVPcDdXSXZKa0JMMGduMG9KQXB0TGV2QUVQUFVhZnhBY0RuMElnWmNMVmd6SDdJdGg0RVlVb0JUYldNTjlqak85WdIBlAFBVV95cUxNa2dkekRrbVFZbFAxcjlfaG9IcWt0RENac0YxUy1OSnVGRk03SEpCRE5LQVdYTEQ0a0xsdnpUNHdYczFONS0yNDZkUmhwRXlWbjZTbDV2eWU3Z3lOa1pXSkVMSjhWNFpmbFlvX2JadjUyLTJRb015YVUwUFdmNUYyNFJNVnRZWkJFbXd5U3lpYzBJSlFU?oc=5",
+          "published_at": "2026-11-28T13:44:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTlIZG9pYmFZeVBqd1YtbWpqaGNEY29kb0liU2dWLXRGSkJNdXdlcW5nczlEV3NpakU0U2FKYW5rNk9kMWMxc01XeWVPcDdXSXZKa0JMMGduMG9KQXB0TGV2QUVQUFVhZnhBY0RuMElnWmNMVmd6SDdJdGg0RVlVb0JUYldNTjlqak85WdIBlAFBVV95cUxNa2dkekRrbVFZbFAxcjlfaG9IcWt0RENac0YxUy1OSnVGRk03SEpCRE5LQVdYTEQ0a0xsdnpUNHdYczFONS0yNDZkUmhwRXlWbjZTbDV2eWU3Z3lOa1pXSkVMSjhWNFpmbFlvX2JadjUyLTJRb015YVUwUFdmNUYyNFJNVnRZWkJFbXd5U3lpYzBJSlFU?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "535c6224f451e5dee9c43f85",
+      "remembered_at": "2026-11-28T14:32:18.597928+00:00",
+      "event_date": "2026-11-28T13:42:53+00:00",
+      "last_update": "2026-11-28T13:59:01+00:00",
+      "event": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "and",
+        "but",
+        "drone",
+        "escalate",
+        "europe",
+        "involved",
+        "iran",
+        "iranian",
+        "israel",
+        "italians",
+        "italy",
+        "killed",
+        "kuwait",
+        "looking",
+        "may",
+        "points",
+        "role",
+        "say",
+        "says",
+        "strike",
+        "tehran",
+        "the",
+        "war",
+        "was"
+      ],
+      "source_excerpt": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+          "published_at": "2026-11-28T13:42:53+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhDcldYNUFKZnJyUF82cDRWN0xQdHdtMW5TTjRaR0V4RlBzS2JhWmNfZnhuZXRQUTc3bHJha0RWOHExa0R3YTlOekMtWmNEWi1WampVQ09vUXFESkVCV2RQZV9tMHBfTVljWGo1VFZCYWRhVnM2b0lwYjdKYnZ1MnEtdXVfZ01URm1PTTZaNEMtekQ1SnpSWGxTczFFRmQ2WFFQaHZEajd5S3NxSzNkTUt30gG3AUFVX3lxTE9fSXNRRW1FZk9ObV93Q3NtbU8za21KOWNnczRYOF9PMHAtWDdEbkJVaDFURTZzbVZzZWI2UEk2aWFNUzdmOWdSYmh6UzBjY1lWa3RpdmF1TmNrT2toV19aejNySm13LUxiQnhnNnZ3eVI3MHNnb3B4M2NlaDJ0ZlpPSU01RmlOYndjR0lCSzNnNlhYOEtacVFvSTdtd0w1LTk4SndmOTRaZ3VtZDFSOUFrN0NmelBaTQ?oc=5",
+          "published_at": "2026-11-28T13:59:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "073688cf70c5371d8a415c16",
+      "remembered_at": "2026-11-28T14:32:18.597928+00:00",
+      "event_date": "2026-11-28T14:28:57+00:00",
+      "last_update": "2026-11-28T14:28:57+00:00",
+      "event": "‘Pakistan feels safer than London’: Mountaineer Masha Gordon praises Pakistan",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "feels",
+        "gordon",
+        "london",
+        "masha",
+        "mountaineer",
+        "pakistan",
+        "praises",
+        "safer",
+        "samaa",
+        "than"
+      ],
+      "source_excerpt": "‘Pakistan feels safer than London’: Mountaineer Masha Gordon praises Pakistan samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQk9aOXdYQXFpWGxoVVlpei1sc3hyU19WbjgwVkpZX0ZkUE1vb19TY3g4TktjSmM5U1gxMF9mTnNLdGlJYVRrMEdGZGpHeGhzeUw4Wk5PLWN2MzhteHRsQmRFeTViYWpwQmtpMlItWkhoLUNOekFrVzg3SUdYZjlsM3BPbHpONXZWd2RpTmpGOUJ2WG9qRXRqSlhsSVlGLVdleTY4aGl4Nk9OZGRDV204aA?oc=5",
+          "published_at": "2026-11-28T14:28:57+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQk9aOXdYQXFpWGxoVVlpei1sc3hyU19WbjgwVkpZX0ZkUE1vb19TY3g4TktjSmM5U1gxMF9mTnNLdGlJYVRrMEdGZGpHeGhzeUw4Wk5PLWN2MzhteHRsQmRFeTViYWpwQmtpMlItWkhoLUNOekFrVzg3SUdYZjlsM3BPbHpONXZWd2RpTmpGOUJ2WG9qRXRqSlhsSVlGLVdleTY4aGl4Nk9OZGRDV204aA?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "36c0e75ddd9ab7af5a8baaba",
+      "remembered_at": "2026-11-28T14:32:18.597928+00:00",
+      "event_date": "2026-11-28T13:32:00+00:00",
+      "last_update": "2026-11-28T13:32:00+00:00",
+      "event": "Princess Kate silences speculation with personal message",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "geo",
+        "kate",
+        "message",
+        "news",
+        "personal",
+        "princess",
+        "silences",
+        "speculation",
+        "with"
+      ],
+      "source_excerpt": "Princess Kate silences speculation with personal message Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenh5aWFnbVJDRG9WVTZpdUxlZGpFbjhKQ1BrRGJ1NzQ5b3RMckVNTDB3WGRZZUxST1BNaF9jZlh4bk5pY2FuZHQzeVYxTXhQLU04bEg2QUJGOXdXeENUMmRWY25yVk02UHpjRmt3TjYyVVZsYU5qR1ktOXMzRVJQb0FIdGRJMHhwLXZBRWhBWGN3S0ZiTDA0TnozZEJsRHJNVWFrQVF3?oc=5",
+          "published_at": "2026-11-28T13:32:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/693027-princess-kate-silences-speculation-about-herself-with-personal-message",
+          "published_at": "2026-11-28T13:32:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenh5aWFnbVJDRG9WVTZpdUxlZGpFbjhKQ1BrRGJ1NzQ5b3RMckVNTDB3WGRZZUxST1BNaF9jZlh4bk5pY2FuZHQzeVYxTXhQLU04bEg2QUJGOXdXeENUMmRWY25yVk02UHpjRmt3TjYyVVZsYU5qR1ktOXMzRVJQb0FIdGRJMHhwLXZBRWhBWGN3S0ZiTDA0TnozZEJsRHJNVWFrQVF3?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa991fd8bda086bd342b1884",
+      "remembered_at": "2026-11-28T14:32:18.597928+00:00",
+      "event_date": "2026-11-28T13:36:49+00:00",
+      "last_update": "2026-11-28T13:36:49+00:00",
+      "event": "Meghan Markle faces criticism over alleged AI artwork",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "artwork",
+        "criticism",
+        "faces",
+        "markle",
+        "meghan",
+        "over",
+        "samaa"
+      ],
+      "source_excerpt": "Meghan Markle faces criticism over alleged AI artwork samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkMyaWo0Tkt6N2RmM0tEaTEwenkwM09SN2U1RG1oY0F1OTYyLW1vMUxKMlk5TmZBNUR4UGx2RkJMbzUwUm1ZdDRhOXVFLUdBSGFQZ1dydDk0dGdxbmVDd21SbjNjekpZblRhOW5tM1pnRElSU3Bla0kyaEFFN3VCalZlelBvUGY1OGFvUHRR?oc=5",
+          "published_at": "2026-11-28T13:36:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkMyaWo0Tkt6N2RmM0tEaTEwenkwM09SN2U1RG1oY0F1OTYyLW1vMUxKMlk5TmZBNUR4UGx2RkJMbzUwUm1ZdDRhOXVFLUdBSGFQZ1dydDk0dGdxbmVDd21SbjNjekpZblRhOW5tM1pnRElSU3Bla0kyaEFFN3VCalZlelBvUGY1OGFvUHRR?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T13:46:14.092462+00:00"
+  "updated_at": "2026-11-28T14:32:18.597928+00:00"
 }
