@@ -192161,7 +192161,532 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d3043eb3fc2a997603d8ff55",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T07:16:29+00:00",
+      "last_update": "2026-11-28T08:51:49+00:00",
+      "event": "Trump officials move to military bases amid threats",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "bases",
+        "military",
+        "move",
+        "officials",
+        "samaa",
+        "threats",
+        "trump"
+      ],
+      "source_excerpt": "Trump officials move to military bases amid threats samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5",
+          "published_at": "2026-11-28T07:16:29+00:00"
+        },
+        {
+          "name": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBS0ViNGlZdUUtZzBWX2FxbThqTEl3TG1ubm14aFdROVJPUTdvRzVpSW9SYjJERk10ekFEUUE4eDFxWVFwdnNWM24xcDJ2OWVHQ3c?oc=5",
+          "published_at": "2026-11-28T08:51:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "205c4f7630698f6e5025057a",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:24:03+00:00",
+      "last_update": "2026-11-28T08:24:03+00:00",
+      "event": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum streets",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "clean",
+        "disease",
+        "drive",
+        "health",
+        "khartoum",
+        "launch",
+        "litter",
+        "overwhelms",
+        "rubbish",
+        "rubble",
+        "streets",
+        "strewn",
+        "sudanese",
+        "threaten"
+      ],
+      "source_excerpt": "In litter-strewn Khartoum, disease and rubble threaten health.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+          "published_at": "2026-11-28T08:24:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c7b930557a4764c3805edbd5",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:05:18+00:00",
+      "last_update": "2026-11-28T08:05:18+00:00",
+      "event": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "airport",
+        "albanese",
+        "been",
+        "constitutional",
+        "costa",
+        "court",
+        "from",
+        "has",
+        "held",
+        "her",
+        "leaves",
+        "orders",
+        "premises",
+        "released",
+        "rica",
+        "rican",
+        "she",
+        "the",
+        "verdict",
+        "where"
+      ],
+      "source_excerpt": "Albanese leaves the Costa Rican airport where she has been held after the court orders her to be released from the premises.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+          "published_at": "2026-11-28T08:05:18+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c4bd4edb2b2a1175b6fce554",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:34:16+00:00",
+      "last_update": "2026-11-28T08:34:16+00:00",
+      "event": "Tributes paid to Irish actor and comedian PJ Gallagher",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "actor",
+        "and",
+        "bbc",
+        "comedian",
+        "gallagher",
+        "irish",
+        "paid",
+        "tributes"
+      ],
+      "source_excerpt": "Tributes paid to Irish actor and comedian PJ Gallagher BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5",
+          "published_at": "2026-11-28T08:34:16+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03cE04ZEk5enk3X0lINHIxYTNoelh6dmcwTGhQVTFKN0M1QzJpTzdNbFN0SWNRdkc5WDZfaWw0X3RmNkw1LUJxYWZkbG1zbTNSVEc0TnYxbDROZGs?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "42d8a2c6edbbb6804bf35415",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:20:23+00:00",
+      "last_update": "2026-11-28T08:20:23+00:00",
+      "event": "Lahore ranked world's most polluted major city; Sargodha, Peshawar also record hazardous air",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "400",
+        "above",
+        "according",
+        "air",
+        "also",
+        "and",
+        "aqi",
+        "aqis",
+        "city",
+        "firm",
+        "hazardous",
+        "index",
+        "iqair",
+        "its",
+        "lahore",
+        "major",
+        "monitoring",
+        "morning",
+        "most",
+        "organisation",
+        "peshawar",
+        "placed",
+        "polluted",
+        "quality",
+        "ranked",
+        "reached",
+        "record",
+        "recorded",
+        "sargodha",
+        "saturday",
+        "swiss",
+        "the",
+        "top",
+        "was",
+        "while",
+        "world"
+      ],
+      "source_excerpt": "LAHORE: Lahore was ranked the world’s most polluted “major city” on Saturday morning as its air quality index (AQI) reached 400, while Peshawar and Sargodha also recorded AQIs above 400, according to monitoring firm IQAir . The Swiss air quality monitoring organisation placed Lahore at the top of it",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047659/lahore-ranked-worlds-most-polluted-major-city-sargodha-peshawar-also-record-hazardous-air",
+          "published_at": "2026-11-28T08:20:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047659/lahore-ranked-worlds-most-polluted-major-city-sargodha-peshawar-also-record-hazardous-air",
+        "publisher_url": "https://www.dawn.com/news/2047659/lahore-ranked-worlds-most-polluted-major-city-sargodha-peshawar-also-record-hazardous-air",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b279d915a5ec7aed57909f45",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:08:00+00:00",
+      "last_update": "2026-11-28T08:08:00+00:00",
+      "event": "PM Shehbaz seeks easier access to bank loans for small and medium enterprises",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "access",
+        "and",
+        "asked",
+        "bank",
+        "banks",
+        "chairs",
+        "credit",
+        "easier",
+        "encourage",
+        "enterprises",
+        "facilitate",
+        "financing",
+        "for",
+        "governing",
+        "greater",
+        "guarantees",
+        "islamabad",
+        "lending",
+        "letters",
+        "loans",
+        "medium",
+        "meeting",
+        "minister",
+        "november",
+        "pidprudential",
+        "prime",
+        "regarding",
+        "regulations",
+        "review",
+        "rewarded",
+        "seeks",
+        "sharif",
+        "shehbaz",
+        "small",
+        "sme",
+        "targets",
+        "undergo"
+      ],
+      "source_excerpt": "Prime Minister Shehbaz Sharif chairs a meeting regarding SME Financing in Islamabad on 27 November 2026. — PIDPrudential regulations governing SME lending to undergo review.Banks asked to facilitate Letters of Credit and guarantees.Lending targets to be rewarded to encourage greater...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises",
+          "published_at": "2026-11-28T08:08:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnlKUE9zUTNQQm0yRjRLQkFIdGxHMUNoQUMxcldXV0N1bU1jZ2dkX21jcUdWSXZHS2k5SzNJV0FUazJseF9ZS2tuRHc5UTQxRGVtdGpwd2plZzB5ckUwS0RtWXJzX2pYNUg1RDI1NWh2blYxUkJ4bHdJMmwtcURmMkdyeUxXZFg4ekQxX2ZDZ2FzT0dwb0dBTTJZZHdtMEJiTTliU3FlaEZfcjlyQnVJ?oc=5",
+          "published_at": "2026-11-28T08:08:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises",
+        "publisher_url": "https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "a56139c01542f084bfa292bc",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:47:55+00:00",
+      "last_update": "2026-11-28T08:47:55+00:00",
+      "event": "Punjab imposes ban over flying drones under Section 144",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "144",
+        "ban",
+        "drones",
+        "flying",
+        "imposes",
+        "over",
+        "punjab",
+        "section",
+        "under"
+      ],
+      "source_excerpt": "Punjab imposes ban over flying drones under Section 144",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/punjab-imposes-ban-flying-drones-section-144",
+          "published_at": "2026-11-28T08:47:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/punjab-imposes-ban-flying-drones-section-144",
+        "publisher_url": "https://arynews.tv/punjab-imposes-ban-flying-drones-section-144",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0548e91ed6e3c5d83ee69041",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T07:53:49+00:00",
+      "last_update": "2026-11-28T07:53:49+00:00",
+      "event": "‘Dar-e-Nijaat’ viewers divided over Khushbakht's choices",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "choices",
+        "dar",
+        "divided",
+        "khushbakht",
+        "nijaat",
+        "over",
+        "samaa",
+        "viewers"
+      ],
+      "source_excerpt": "‘Dar-e-Nijaat’ viewers divided over Khushbakht's choices samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG9xVG5ObXExNzhpenVrb2IxVm8tMTZwT3REeHRJRU5HV1FzVXFjRmZScm8wUE92SGt5Q0dZZ1FTM21aanhGY1RBTV9oUERHUnE3Z092QXkxdXZxLXBvUFIyVFJ0NHFwWVJBMnVPZENJdGNDZ19MNWE3V08zYi1US0ZDMDRuVjd0OTQzLTl2bw?oc=5",
+          "published_at": "2026-11-28T07:53:49+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG9xVG5ObXExNzhpenVrb2IxVm8tMTZwT3REeHRJRU5HV1FzVXFjRmZScm8wUE92SGt5Q0dZZ1FTM21aanhGY1RBTV9oUERHUnE3Z092QXkxdXZxLXBvUFIyVFJ0NHFwWVJBMnVPZENJdGNDZ19MNWE3V08zYi1US0ZDMDRuVjd0OTQzLTl2bw?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9f0b318ea27b4e1928806857",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T07:49:51+00:00",
+      "last_update": "2026-11-28T07:49:51+00:00",
+      "event": "Iran says ready for US talks, warns against aggression",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "aggression",
+        "for",
+        "iran",
+        "ready",
+        "samaa",
+        "says",
+        "talks",
+        "warns"
+      ],
+      "source_excerpt": "Iran says ready for US talks, warns against aggression samaa tv",
+      "sources": [
+        {
+          "name": "samaa tv",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQck5Wa05kSFNIazI1dkRkbDQtWGU5a1ZEbGs5dkpjRER0V2p6Q00yc0duQlJWeHpndG0tVWxIcEp0TFZZN3dXdWExQWh0M3ZZQ1pHNWRQSlBfM0NZQmRMVUQtWEc1dzlYYnBMN2hrUi1oTmlGdlFnN1g5U3JBWE5IdUNtd1c5M3ZJcTRteUthQXFWWVFKb1pv?oc=5",
+          "published_at": "2026-11-28T07:49:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "samaa tv",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQck5Wa05kSFNIazI1dkRkbDQtWGU5a1ZEbGs5dkpjRER0V2p6Q00yc0duQlJWeHpndG0tVWxIcEp0TFZZN3dXdWExQWh0M3ZZQ1pHNWRQSlBfM0NZQmRMVUQtWEc1dzlYYnBMN2hrUi1oTmlGdlFnN1g5U3JBWE5IdUNtd1c5M3ZJcTRteUthQXFWWVFKb1pv?oc=5",
+        "publisher_url": "https://www.samaa.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "671b634fdb0373ec01f4dcdb",
+      "remembered_at": "2026-11-28T08:57:48.084812+00:00",
+      "event_date": "2026-11-28T08:01:00+00:00",
+      "last_update": "2026-11-28T08:01:00+00:00",
+      "event": "George, Charlotte, Louis emotional message leaves Princess Kate in tears",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bound",
+        "charlotte",
+        "documentary",
+        "drops",
+        "dry",
+        "emotional",
+        "eyes",
+        "family",
+        "george",
+        "heartfelt",
+        "her",
+        "kate",
+        "leave",
+        "leaves",
+        "louis",
+        "message",
+        "moment",
+        "personal",
+        "princess",
+        "rare",
+        "received",
+        "reduced",
+        "shared",
+        "she",
+        "sunday",
+        "surprise",
+        "tears",
+        "the",
+        "wales",
+        "was",
+        "when",
+        "which",
+        "with"
+      ],
+      "source_excerpt": "George, Charlotte, Louis emotional message leaves Princess Kate in tears Princess Kate shared a rare personal moment with family, which is bound leave no dry eyes when her documentary drops on Sunday. The Princess of Wales was reduced to tears when she received a heartfelt surprise...",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692992-george-charlotte-louis-emotional-message-leaves-princess-kate-in-tears",
+          "published_at": "2026-11-28T08:01:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/692992-george-charlotte-louis-emotional-message-leaves-princess-kate-in-tears",
+        "publisher_url": "https://www.geo.tv/latest/692992-george-charlotte-louis-emotional-message-leaves-princess-kate-in-tears",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T08:02:27.737241+00:00"
+  "updated_at": "2026-11-28T08:57:48.084812+00:00"
 }

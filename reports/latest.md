@@ -1,152 +1,144 @@
-# News Hub report - Sat 28 Nov, 01:02 PM PKT
+# News Hub report - Sat 28 Nov, 01:57 PM PKT
 
 ## Collection
-- New items this run: 100 | items in rolling pool: 338
-- Unique story clusters: 289 (duplicates merged: 49)
-- Clusters dropped as already published/queued: 36; unchanged since last analysis: 10
-- Items per outlet: UrduPoint 49, samaa tv 7, Geo News 6, ARY News 6, ProPakistani 6, TechJuice 5, Al Jazeera 4, BBC Science 3, Profit by Pakistan Today 2, Jang Urdu 1, Dawn 1, The Express Tribune 1
+- New items this run: 86 | items in rolling pool: 353
+- Unique story clusters: 292 (duplicates merged: 61)
+- Clusters dropped as already published/queued: 37; unchanged since last analysis: 9
+- Items per outlet: UrduPoint 44, Geo News 10, Wired 4, The Current 4, The News International 3, PhoneWorld 3, samaa tv 2, Dawn 2, ARY News 2, Al Jazeera 2, ProPakistani 2, Profit by Pakistan Today 2
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Karachi building collapse death toll reaches 11 after two more bodies pulled out of rubble | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- WWE star Bronson Reed, born Jermaine Jaley, dies at 38 from medical complications | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Lahore-Rawalpindi high-speed rail project estimated to cost over Rs624 billion | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Trump officials move to military bases amid threats | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Students killed, injured in school explosion in Afghanistan’s Kunar region | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 - Uganda starts mRNA Ebola vaccine trial in first for Africa | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- How Israel is fast-tracking data centres in bid to become ‘AI superpower’ | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- First hippo born at safari park in more than 40 years | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 109/120 | empty: 4 | failed: 7 | malformed/partial: 8
+- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: Dawn Pakistan | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Dawn Latest | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: Capital TV | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: AP | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
-- ATTENTION: CNN India sports and culture | HTTP/status=ERROR | entries=0 | malformed=True
-- ATTENTION: Al Jazeera India Public Affairs | HTTP/status=ERROR | entries=0 | malformed=True
 
 ## Selected for the queue
-### UK Benefits and Pensions Offline After Suspected Cyber Incident  [NORMAL]
-- Poster: برطانوی حکومت کا نظام سائبر حملے کے بعد معطل / UK Systems Down After Cyber Incident | category tech
-- Alternative headline: Government Takes Welfare Systems Offline Following Cyber Attack
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: cyber incident, pensions, benefits, DWP, UK government, hackers | hashtags: #CyberAttack #UKNews #Pensions #DWP #Technology
-- Scheduled: Sat 28 Nov, 01:02 PM PKT
-- Caption:
-```
-Online benefits and pensions services in the UK were taken offline following a cyber incident, though officials assure standard payments will continue.
-
-Online benefits and pensions services remained offline on Saturday morning after a cyber incident forced the UK government to suspend access. The Department for Work and Pensions has not confirmed the trigger or ruled out hackers, while cyber experts suspect a targeted attack to prevent data theft. Authorities assure that regular payments will continue.
-
-برطانیہ میں سائبر واقعے کے بعد آن لائن پینشن اور فوائد کی خدمات معطل ہو گئیں۔ محکمہ برائے کام اور پینشن نے تاحال تصدیق نہیں کی کہ اس کی وجہ کیا تھی لیکن ماہرین کا خیال ہے کہ یہ ہیکرز کا حملہ ہو سکتا ہے۔ حکام نے یقین دہانی کرائی ہے کہ معمول کی ادائیگیاں جاری رہیں گی۔
-
-First reported by BBC Technology
-
-#CyberAttack #UKNews #Pensions #DWP #Technology
-```
-
-### Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two More Bodies  [NORMAL]
-- Poster: کراچی عمارت انہدام: اموات کی تعداد 11 ہو گئی / Karachi Collapse Death Toll Hits 11 | category disaster
-- Alternative headline: Baloch Colony Building Collapse Death Toll Climbs to 11
+### PM Shehbaz orders simpler bank loan procedures to boost small businesses  [NORMAL]
+- Poster: چھوٹے کاروباروں کے لیے بینک قرضوں کے حصول کو آسان بنانے کی ہدایت / PM Shehbaz orders easier bank loans for SMEs | category economy
+- Alternative headline: PM Shehbaz pushes for alternative collateral and easier loans for SMEs
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692962-karachi-building-collapse-death-toll-reaches-11-after-two-more-bodies-pulled-out-of-rubble | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692962-karachi-building-collapse-death-toll-reaches-11-after-two-more-bodies-pulled-out-of-rubble
-- Supporting coverage: Geo News, Geo News, Dawn Pakistan, ARY News
-- Keywords: building collapse, Karachi, Baloch Colony, rescue operation, death toll, Admin Society | hashtags: #Karachi #BuildingCollapse #RescueOperation #PakistanNews #BalochColony
-- Scheduled: Sat 28 Nov, 01:12 PM PKT
+- Original source: published_report - Geo News https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://www.geo.tv/latest/692987-pm-shehbaz-seeks-easier-access-to-bank-loans-for-small-and-medium-enterprises
+- Supporting coverage: Geo News, Geo News
+- Keywords: SME loans, Shehbaz Sharif, bank credit, small businesses, alternative collateral, Pakistan | hashtags: #PMShehbaz #SMEloans #PakistanEconomy #BusinessGrowth #Banking
+- Scheduled: Sat 28 Nov, 01:57 PM PKT
 - Caption:
 ```
-The death toll from an under-construction building collapse near Baloch Colony in Karachi reached 11 after rescue teams recovered two more bodies.
+Prime Minister Shehbaz Sharif has directed authorities to simplify loan procedures and introduce alternative collateral options for small and medium enterprises.
 
-The death toll from the collapse of an under-construction six-storey building in Karachi’s Admin Society near Baloch Colony rose to 11 on Saturday. Rescue teams pulled two more bodies from the rubble while searching cautiously with modern equipment. Up to nine people may still be trapped beneath the debris.
+Prime Minister Shehbaz Sharif chaired a high-level meeting to improve SME access to credit, directing that export data, supply chain participation, and cash flow be considered as alternative collateral. He also called for a review of prudential regulations to speed up loan disbursements and help small businesses.
 
-کراچی کے علاقے بلوچ کالونی کے قریب زیرِ تعمیر عمارت گرنے کے واقعے میں جاں بحق افراد کی تعداد 11 ہو گئی ہے۔ ریسکیو ٹیمیں ملبے سے مزید لاشیں نکالنے اور لاپتہ افراد کی تلاش کے لیے جدید آلات کی مدد سے آپریشن جاری رکھے ہوئے ہیں۔
+وزیر اعظم شہباز شریف نے چھوٹے اور درمیانے درجے کے کاروباروں کے لیے بینک قرضوں کے طریقہ کار کو آسان بنانے اور متبادل ضمانت کو تسلیم کرنے کی ہدایت کی ہے تاکہ معاشی سرگرمیوں کو فروغ دیا جا سکے۔
 
 First reported by Geo News
 
-#Karachi #BuildingCollapse #RescueOperation #PakistanNews #BalochColony
+#PMShehbaz #SMEloans #PakistanEconomy #BusinessGrowth #Banking
 ```
 
-### WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications  [NORMAL]
-- Poster: ڈبلیو ڈبلیو ای کے اسٹار برونسن ریڈ 38 برس کی عمر میں انتقال کر گئے / WWE Star Bronson Reed Dies at 38 | category other
-- Alternative headline: Wrestler Jermaine Haley, Known as Bronson Reed, Dies at 38
+### Trump officials move to military bases amid mounting security threats  [NORMAL]
+- Poster: دھمکیوں کے پیش نظر ٹرمپ کے عہدیدار فوجی اڈوں پر منتقل / Trump officials move to military bases | category world
+- Alternative headline: Reports indicate Trump officials relocating to military bases over safety concerns
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Geo News https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Geo News https://www.geo.tv/latest/692981-wwe-star-bronson-reed-born-jermaine-jaley-dies-at-38-details-inside
-- Supporting coverage: The Current, Geo News, samaa tv
-- Keywords: Bronson Reed, WWE, Jermaine Haley, wrestler, death, SmackDown | hashtags: #BronsonReed #WWE #JermaineHaley #Wrestling #RestInPeace
-- Scheduled: Sat 28 Nov, 01:22 PM PKT
+- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: samaa tv https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThSYjJMMU1idWFXRmxmd2xYZFBCbDl2ZTJWajVPdmZHc2FTc05URldPUTcxektxeTRwbk11YXRVLUoyRWFIT2Y1elRCV0ItMll5YThmeUJ5QTVtMkJOUnhIQ2ZVREdUTWExbk93cjgwLVJIWkx1WkVnVlBobUZhRC1BS1haX01xMlZscEpfNjhJU0lRZjRVWTh2dw?oc=5
+- Supporting coverage: samaa tv, Iran International
+- Keywords: Trump officials, military bases, security threats, US politics | hashtags: #Trump #USPolitics #SecurityThreats #MilitaryBases #BreakingNews
+- Scheduled: Sat 28 Nov, 02:07 PM PKT
 - Caption:
 ```
-WWE star Bronson Reed, born Jermaine Haley, has passed away at the age of 38 due to medical complications.
+Trump officials have reportedly moved to military bases amid growing security concerns and threats.
 
-WWE star Bronson Reed, whose real name was Jermaine Haley, died on November 27, 2026, at the age of 38. The wrestling organization announced his passing due to medical complications without providing further details. WWE paid emotional tributes to the late wrestler at the start of its SmackDown broadcast.
+Reports indicate that officials associated with Donald Trump have relocated to military bases amid ongoing security threats and concerns.
 
-ڈبلیو ڈبلیو ای کے معروف ریسلر برونسن ریڈ 38 برس کی عمر میں طبی پیچیدگیوں کے باعث انتقال کر گئے۔ ادارے کی جانب سے ان کی اچانک موت پر گہرے دکھ کا اظہار کیا گیا ہے اور پروگرام کے آغاز میں انہیں خراج تحسین پیش کیا گیا۔
-
-First reported by Geo News
-
-#BronsonReed #WWE #JermaineHaley #Wrestling #RestInPeace
-```
-
-### Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 Billion  [NORMAL]
-- Poster: لاہور راولپنڈی ہائی اسپیڈ ریل منصوبے کی لاگت 624 ارب روپے سے زائد / Lahore-Rawalpindi Rail Cost Over Rs624B | category other
-- Alternative headline: Expected Cost of High-Speed Lahore-Rawalpindi Rail Project Crosses Rs624 Billion
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - samaa tv https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVRSNDI4OFk4Wl84TXZCT2RpanRvLVY1dTdGazFCX3Q5UjdReUpuZHZGeWJ2b1ZnWGtYZ2hpREl0UC1MWVFuQXo4VXRYdjRnOWpNd1FranpKT0c3a1l6ek1OcTB3dE1nTjBNMUZjSmN4Rk5Bd1ZuQ2RNRnF2Y1k1MU5kQlNVWjRzWW9rZWtmNHFCaTZ1ckExdUVldV8zTHpCMkVrX3l1eDhfb1UyMkhr?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: samaa tv https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVRSNDI4OFk4Wl84TXZCT2RpanRvLVY1dTdGazFCX3Q5UjdReUpuZHZGeWJ2b1ZnWGtYZ2hpREl0UC1MWVFuQXo4VXRYdjRnOWpNd1FranpKT0c3a1l6ek1OcTB3dE1nTjBNMUZjSmN4Rk5Bd1ZuQ2RNRnF2Y1k1MU5kQlNVWjRzWW9rZWtmNHFCaTZ1ckExdUVldV8zTHpCMkVrX3l1eDhfb1UyMkhr?oc=5
-- Supporting coverage: samaa tv, ProPakistani
-- Keywords: high-speed rail, Lahore, Rawalpindi, railway project, cost estimate, Pakistan infrastructure | hashtags: #RailwayProject #Lahore #Rawalpindi #Infrastructure #Pakistan
-- Scheduled: Sat 28 Nov, 01:32 PM PKT
-- Caption:
-```
-The proposed Lahore-Rawalpindi high-speed rail project is estimated to cost more than Rs624 billion.
-
-The estimated cost for the high-speed rail project connecting Lahore and Rawalpindi has been projected at over Rs624 billion. The initiative aims to enhance transportation infrastructure and connectivity between the two major cities in Punjab.
-
-لاہور اور راولپنڈی کے درمیان ہائی اسپیڈ ریل منصوبے کی تخمینہ لاگت 624 ارب روپے سے زائد ظاہر کی گئی ہے۔ اس منصوبے کا مقصد دونوں شہروں کے درمیان ٹرانسپورٹ کے نظام کو جدید بنانا ہے۔
+اطلاعات کے مطابق سکیورٹی خدشات اور دھمکیوں کے پیش نظر ڈونلڈ ٹرمپ کے عہدیدار فوجی اڈوں پر منتقل ہو گئے ہیں۔
 
 First reported by Samaa TV
 
-#RailwayProject #Lahore #Rawalpindi #Infrastructure #Pakistan
+#Trump #USPolitics #SecurityThreats #MilitaryBases #BreakingNews
+```
+
+### Students killed and injured in school explosion in Afghanistan's Kunar  [NORMAL]
+- Poster: افغانستان کے صوبے کنڑ میں سکول کے قریب دھماکہ، طلبہ جاں بحق و زخمی / School explosion in Afghanistan's Kunar kills students | category disaster
+- Alternative headline: Explosion at school in Afghan Kunar region leaves students casualties
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Kunar explosion, Afghanistan, school blast, students killed, Kunar region | hashtags: #Afghanistan #Kunar #BreakingNews #SchoolBlast #Tragedy
+- Scheduled: Sat 28 Nov, 02:17 PM PKT
+- Caption:
+```
+Several students have been reported killed and injured following a school explosion in Afghanistan's Kunar region.
+
+A tragic school explosion in Afghanistan's Kunar region has resulted in the death and injury of multiple students, according to breaking reports.
+
+افغانستان کے صوبے کنڑ میں ایک سکول کے قریب ہونے والے دھماکے کے نتیجے میں کئی طلبہ جاں بحق اور زخمی ہو گئے ہیں۔
+
+First reported by Al Jazeera
+
+#Afghanistan #Kunar #BreakingNews #SchoolBlast #Tragedy
+```
+
+### Uganda launches Africa's first mRNA Ebola vaccine trial  [NORMAL]
+- Poster: یوگنڈا میں افریقہ کی پہلی ایم آر این اے ایبولا ویکسین کا تجربہ شروع / Uganda starts mRNA Ebola vaccine trial | category health
+- Alternative headline: First African trial for mRNA Ebola vaccine begins in Uganda
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Ebola vaccine trial, Uganda, mRNA vaccine, Bundibugyo strain, Africa health | hashtags: #Uganda #EbolaVaccine #mRNA #PublicHealth #MedicalResearch
+- Scheduled: Sat 28 Nov, 02:27 PM PKT
+- Caption:
+```
+Uganda has launched Africa's first clinical trial for an mRNA Ebola vaccine, targeting the Bundibugyo strain.
+
+Uganda has initiated clinical trials for an mRNA Ebola vaccine in a historic first for the African continent. The trial specifically targets the less common Bundibugyo strain linked to an outbreak in the neighboring Democratic Republic of Congo.
+
+یوگنڈا نے افریقہ میں پہلی بار ایم آر این اے ایبولا ویکسین کا کلینیکل ٹرائل شروع کر دیا ہے۔ یہ ٹرائل کانگو میں پھیلنے والے ایبولا کے کم عام برنڈیبوجیو سسٹین کو ہدف بناتا ہے۔
+
+First reported by Al Jazeera
+
+#Uganda #EbolaVaccine #mRNA #PublicHealth #MedicalResearch
 ```
 
 - Indian outlets blocked this run: 1 items
 
 ## Today
-- News posts published today: 13 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 14 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -392,10 +384,10 @@ First reported by Samaa TV
 - [needs_review] normal | JUI-F protests official treatment of Maulana Fazlur Rehman | Sat 28 Nov, 06:52 AM PKT
 - [needs_review] normal | New film spotlights legendary Indian dancer Vithabhai Narayangaonkar | Sat 28 Nov, 07:02 AM PKT
 - [published] normal | Thousands of Puerto Ricans join 'Day of National Outrage' | Sat 28 Nov, 07:12 AM PKT
-- [queued] normal | BBC Technology explores autonomous space travel and tech innovations | Sat 28 Nov, 07:22 AM PKT
-- [queued] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
-- [queued] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
-- [queued] normal | JUI-F claims dozens of workers arrested amid protests | Sat 28 Nov, 08:44 AM PKT
+- [needs_review] normal | BBC Technology explores autonomous space travel and tech innovations | Sat 28 Nov, 07:22 AM PKT
+- [needs_review] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
+- [needs_review] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
+- [published] normal | JUI-F claims dozens of workers arrested amid protests | Sat 28 Nov, 08:44 AM PKT
 - [queued] normal | Profit-taking drags PSX below 178,000 index level | Sat 28 Nov, 08:54 AM PKT
 - [queued] normal | Privatisation drive gains fresh momentum | Sat 28 Nov, 09:04 AM PKT
 - [queued] normal | Desperate bid to reunite with family ends in tragedy at LoC | Sat 28 Nov, 09:14 AM PKT
@@ -419,13 +411,17 @@ First reported by Samaa TV
 - [queued] normal | Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two  | Sat 28 Nov, 01:12 PM PKT
 - [queued] normal | WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications | Sat 28 Nov, 01:22 PM PKT
 - [queued] normal | Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 | Sat 28 Nov, 01:32 PM PKT
+- [queued] normal | PM Shehbaz orders simpler bank loan procedures to boost small business | Sat 28 Nov, 01:57 PM PKT
+- [queued] normal | Trump officials move to military bases amid mounting security threats | Sat 28 Nov, 02:07 PM PKT
+- [queued] normal | Students killed and injured in school explosion in Afghanistan's Kunar | Sat 28 Nov, 02:17 PM PKT
+- [queued] normal | Uganda launches Africa's first mRNA Ebola vaccine trial | Sat 28 Nov, 02:27 PM PKT
 
 ## Publishing this run
-- Published 'Thousands of Puerto Ricans join 'Day of National Outrage''.
+- Published 'JUI-F claims dozens of workers arrested amid protests'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 5824 | output tokens: 2284
-- Errors: 2
+- Calls: 4 | prompt tokens: 8896 | output tokens: 4626
+- Errors: 3
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {
     "code": 503,
@@ -434,3 +430,4 @@ First reported by Samaa TV
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes i
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 180 column 9 (char 8135)
