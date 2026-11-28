@@ -187935,7 +187935,961 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c3d19bcadbe1c319a557a6bc",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-27T20:10:30+00:00",
+      "last_update": "2026-11-28T00:12:20+00:00",
+      "event": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "acts",
+        "albanese",
+        "barred",
+        "citing",
+        "costa",
+        "denied",
+        "entry",
+        "francesca",
+        "gaza",
+        "has",
+        "into",
+        "links",
+        "rapporteur",
+        "rica",
+        "special",
+        "terrorist",
+        "unfounded"
+      ],
+      "source_excerpt": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+          "published_at": "2026-11-27T20:10:30+00:00"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
+          "published_at": "2026-11-28T00:12:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "aa0a537dbf3627da39be4dd1",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T00:01:57+00:00",
+      "last_update": "2026-11-28T02:18:08+00:00",
+      "event": "AJK PM extends olive branch to protesters in Rawalakot",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ajk",
+        "branch",
+        "dawn",
+        "extends",
+        "olive",
+        "protesters",
+        "rawalakot"
+      ],
+      "source_excerpt": "AJK PM extends olive branch to protesters in Rawalakot Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEZjRWxMTDBJaWV2UFFrb2M4Qnh3ME4yS0lBVU1GbUUzRXptYmNEWlVqaVYxX08ycjJKUi01N1BjQVZSMEdCVVZqTDQ2cldPNUYtVDBVREVpSEktcHVYZGF1S3o3U1o5NnpUX3ZSVS1CV3ZrcmttM1owZlE0STdtM0VRVkRTbk1Fd2N4U29xa1JYUQ?oc=5",
+          "published_at": "2026-11-28T00:01:57+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047568/ajk-pm-extends-olive-branch-to-protesters-in-rawalakot",
+          "published_at": "2026-11-28T02:18:08+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEZjRWxMTDBJaWV2UFFrb2M4Qnh3ME4yS0lBVU1GbUUzRXptYmNEWlVqaVYxX08ycjJKUi01N1BjQVZSMEdCVVZqTDQ2cldPNUYtVDBVREVpSEktcHVYZGF1S3o3U1o5NnpUX3ZSVS1CV3ZrcmttM1owZlE0STdtM0VRVkRTbk1Fd2N4U29xa1JYUQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "28743327ab811aa3ec38c0f9",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T00:02:41+00:00",
+      "last_update": "2026-11-28T02:40:55+00:00",
+      "event": "Courts yet to settle if men can be prosecuted over ‘marital rape’: report",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "can",
+        "courts",
+        "dawn",
+        "marital",
+        "men",
+        "over",
+        "prosecuted",
+        "rape",
+        "report",
+        "settle",
+        "yet"
+      ],
+      "source_excerpt": "Courts yet to settle if men can be prosecuted over ‘marital rape’: report Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk04YTY5NDQxME5id2U4eW8tRTM3UzEwNDlMb3RsZEFTUmlwdklYTm9CUVhOb1RlVzRmbzZKVkdYRWVFZFVqRnctanNVVVdmV0cxZ1JTTVJia2tyeFl4VjNBZFBSZFdpc2JZUVFBWFZmd3lvMnhVNDZNSnowQjhRUjNmRW8taTFYX2hLNFAydzNzaWlqd3MwcXNFLUFwUUhKWW9YY2twQQ?oc=5",
+          "published_at": "2026-11-28T00:02:41+00:00"
+        },
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047555/courts-yet-to-settle-if-men-can-be-prosecuted-over-marital-rape-report",
+          "published_at": "2026-11-28T02:40:55+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk04YTY5NDQxME5id2U4eW8tRTM3UzEwNDlMb3RsZEFTUmlwdklYTm9CUVhOb1RlVzRmbzZKVkdYRWVFZFVqRnctanNVVVdmV0cxZ1JTTVJia2tyeFl4VjNBZFBSZFdpc2JZUVFBWFZmd3lvMnhVNDZNSnowQjhRUjNmRW8taTFYX2hLNFAydzNzaWlqd3MwcXNFLUFwUUhKWW9YY2twQQ?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38b90a04408acc968cfeae40",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T00:31:42+00:00",
+      "last_update": "2026-11-28T02:26:43+00:00",
+      "event": "Exporters embrace change to secure EU access",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "access",
+        "change",
+        "embrace",
+        "exporters",
+        "express",
+        "secure",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Exporters embrace change to secure EU access The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUhEd3EwYzNXX0d0UENrNm9ab0xkWGdKM2w1YU1BeFlud3RxRGZlQmFfX05VWEhCUjB1dDJGazhRV0xWaGxJem45aHJKTVkwYW55YzROaFJCMTZnZ1hkN3VCTDRyV1ZWanJZZWRlYW5PRFphWWtudmpIZFNRZDBlYUdtY0otNExm0gGQAUFVX3lxTE80SC13Y3RBckgwbUVGSHVpUkVzdVViMGZ6LWt2a0gzTjJLV1NLZkhkeURNdmhlMU1pQ2x1NjZIWUpqbUJQaFIzb1BrTUZDcXN4cVBjYjI4M2JHN3pWZ3FIVjdlU0RaSGJjcjBCWlZFM0pPQk1IRzBFZTRLa1F6Z3dFSFpyTEd4czNia2U3Rzg1Yg?oc=5",
+          "published_at": "2026-11-28T00:31:42+00:00"
+        },
+        {
+          "name": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2wtUTNmcmwtQzZPUl9vV0kybVFPcGI5OHhsN2xVVmNpM3N2b1BjWDdEMG1FNC1USHpRUmN1Y2lTbWZVVHA4MEpqSnlrcFFLVXF2RlJ6Sm1ybUhabFU5dm96dS1zV1BWTVZlSGJ2cm5UOXAyNlVzajg2SEFhZkZ5VTV4VmVjcFBvUklSaUNIcUI?oc=5",
+          "published_at": "2026-11-28T02:26:43+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUhEd3EwYzNXX0d0UENrNm9ab0xkWGdKM2w1YU1BeFlud3RxRGZlQmFfX05VWEhCUjB1dDJGazhRV0xWaGxJem45aHJKTVkwYW55YzROaFJCMTZnZ1hkN3VCTDRyV1ZWanJZZWRlYW5PRFphWWtudmpIZFNRZDBlYUdtY0otNExm0gGQAUFVX3lxTE80SC13Y3RBckgwbUVGSHVpUkVzdVViMGZ6LWt2a0gzTjJLV1NLZkhkeURNdmhlMU1pQ2x1NjZIWUpqbUJQaFIzb1BrTUZDcXN4cVBjYjI4M2JHN3pWZ3FIVjdlU0RaSGJjcjBCWlZFM0pPQk1IRzBFZTRLa1F6Z3dFSFpyTEd4czNia2U3Rzg1Yg?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "1cd7bc29a0bf612b8b753f68",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:08:11+00:00",
+      "last_update": "2026-11-28T02:08:11+00:00",
+      "event": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "activist",
+        "allegations",
+        "beyond",
+        "borders",
+        "case",
+        "dissidents",
+        "fears",
+        "for",
+        "hunted",
+        "kenya",
+        "missing",
+        "raises",
+        "repression",
+        "safety",
+        "tanzanian",
+        "the"
+      ],
+      "source_excerpt": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+          "published_at": "2026-11-28T02:08:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e33681465d08db55d42304cb",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:05:27+00:00",
+      "last_update": "2026-11-28T02:05:27+00:00",
+      "event": "Taiwan votes in local elections to choose mayors, other leaders",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "choose",
+        "democratic",
+        "elections",
+        "governing",
+        "key",
+        "kuomintang",
+        "leaders",
+        "local",
+        "mayoral",
+        "mayors",
+        "opposition",
+        "other",
+        "party",
+        "progressive",
+        "race",
+        "stronghold",
+        "taipei",
+        "taiwan",
+        "tests",
+        "the",
+        "votes"
+      ],
+      "source_excerpt": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+          "published_at": "2026-11-28T02:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "8bb99c5cb1b801e1c3bfa49c",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:55:03+00:00",
+      "last_update": "2026-11-28T01:55:03+00:00",
+      "event": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "borders",
+        "clinic",
+        "doctors",
+        "gaza",
+        "has",
+        "israel",
+        "israeli",
+        "killed",
+        "kills",
+        "msf",
+        "operated",
+        "staff",
+        "strike",
+        "targeted",
+        "two",
+        "watchmen",
+        "without"
+      ],
+      "source_excerpt": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+          "published_at": "2026-11-28T01:55:03+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "2c8e14a3bc11598242afee0a",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:21:23+00:00",
+      "last_update": "2026-11-28T01:21:23+00:00",
+      "event": "Corrupt system behind tragedy: MQM",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "behind",
+        "corrupt",
+        "express",
+        "mqm",
+        "system",
+        "the",
+        "tragedy",
+        "tribune"
+      ],
+      "source_excerpt": "Corrupt system behind tragedy: MQM The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5TWFlVU1nY285TjlhcWNlVjlPTW1KanBQVUxfMU9CUTJEdDhUVm5paEFfbUpNa0FEX0F5U0lqQk01akVYeE94cElWUTNvd3FPeUpNd2R2OTBWMDE5OHl4SDRXeFNuVnhQQjlfMXdDeVg3elppYlVHS0pB0gGCAUFVX3lxTE9CME10Q0R4ZUg4eXRRcENBYWlpMm5fZ3ZieXhfYmJ4ZmJQV0I4cHhqdDJqRUgxZjhMTGgzNXJRM0tzOXJHMlVvc1dhT3Z1SmNGT1JzQlZ6T0lkcjdqR0Z3ZS1uSklGMWpINWxhREVJeC05MlVBVHNMZktoWTg3QXpnQWc?oc=5",
+          "published_at": "2026-11-28T01:21:23+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5TWFlVU1nY285TjlhcWNlVjlPTW1KanBQVUxfMU9CUTJEdDhUVm5paEFfbUpNa0FEX0F5U0lqQk01akVYeE94cElWUTNvd3FPeUpNd2R2OTBWMDE5OHl4SDRXeFNuVnhQQjlfMXdDeVg3elppYlVHS0pB0gGCAUFVX3lxTE9CME10Q0R4ZUg4eXRRcENBYWlpMm5fZ3ZieXhfYmJ4ZmJQV0I4cHhqdDJqRUgxZjhMTGgzNXJRM0tzOXJHMlVvc1dhT3Z1SmNGT1JzQlZ6T0lkcjdqR0Z3ZS1uSklGMWpINWxhREVJeC05MlVBVHNMZktoWTg3QXpnQWc?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "7f53c9c907f71160a3446069",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:17:52+00:00",
+      "last_update": "2026-11-28T01:17:52+00:00",
+      "event": "Crypto fraud racket busted in Pindi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "busted",
+        "crypto",
+        "express",
+        "fraud",
+        "pindi",
+        "racket",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "Crypto fraud racket busted in Pindi The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uSENHX2piWmxRSzV5VGhZMTVDTlYwYkQ1X2Vvb1REV1J6bE1pdnVVS3lRMlF4TnFaTmhhWjR4cHY5ZDBpLUN5SURIaW5vcWRyRDhJdThhajE2U09veDhBV05YSU92bnZMTDlxakJPcjZ0UFF2MG5jblJBTEfSAYQBQVVfeXFMTnM2ekIxRkY2bG9VTVV0dF9NNHlWVVhwX0lnNC1jVnZJdGJkMXdyNEhLYTk3VTk4UUpSbE5ZSkYwVzNZOFhfa0xmaUh4bVJVYUlxM3hDTzNzUkEzTzJpdzF1d2d2aXNGNXRscDAtQ2pkcmJJT3o2QV9zdlZDWWpoQWEzRlZh?oc=5",
+          "published_at": "2026-11-28T01:17:52+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uSENHX2piWmxRSzV5VGhZMTVDTlYwYkQ1X2Vvb1REV1J6bE1pdnVVS3lRMlF4TnFaTmhhWjR4cHY5ZDBpLUN5SURIaW5vcWRyRDhJdThhajE2U09veDhBV05YSU92bnZMTDlxakJPcjZ0UFF2MG5jblJBTEfSAYQBQVVfeXFMTnM2ekIxRkY2bG9VTVV0dF9NNHlWVVhwX0lnNC1jVnZJdGJkMXdyNEhLYTk3VTk4UUpSbE5ZSkYwVzNZOFhfa0xmaUh4bVJVYUlxM3hDTzNzUkEzTzJpdzF1d2d2aXNGNXRscDAtQ2pkcmJJT3o2QV9zdlZDWWpoQWEzRlZh?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "743ef77816792668f4a3cdda",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:42:13+00:00",
+      "last_update": "2026-11-28T01:42:13+00:00",
+      "event": "Makkah alliance turns commitment into action",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "action",
+        "alliance",
+        "commitment",
+        "express",
+        "into",
+        "makkah",
+        "the",
+        "tribune",
+        "turns"
+      ],
+      "source_excerpt": "Makkah alliance turns commitment into action The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnNJTG05cnlERGV0dmlrUURvOTJZRllmMXp4T1NsZE83dUVRRl9jX19mNklyRzctNTNtSTI2V1drdlR2c1RESnd1czBCRDhTNGFlay05Ukd2V1BMUEdLdHNHbHU2dlJlbVZCOUtIbmtaenFHUTVqZktTei1nRW9FOXJ1VU00N1FX0gGQAUFVX3lxTE5qZWM4QVVISlh0WnVIZmNUZWh1LVh1cjVjOXBFcG83LWMwQVE1QTUzaVk0WUJvOXZ5LWFyZ3dfS2xOWjl6WlI0NE53ci1ZREFLME56TEJlNlIya0w2Rnh2TDcxNU9EQW8tQjNwOVo4QldQRXVFcFBEME5mekZJd3Vya2dLdXJiaUpqM0ItV0xzOQ?oc=5",
+          "published_at": "2026-11-28T01:42:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnNJTG05cnlERGV0dmlrUURvOTJZRllmMXp4T1NsZE83dUVRRl9jX19mNklyRzctNTNtSTI2V1drdlR2c1RESnd1czBCRDhTNGFlay05Ukd2V1BMUEdLdHNHbHU2dlJlbVZCOUtIbmtaenFHUTVqZktTei1nRW9FOXJ1VU00N1FX0gGQAUFVX3lxTE5qZWM4QVVISlh0WnVIZmNUZWh1LVh1cjVjOXBFcG83LWMwQVE1QTUzaVk0WUJvOXZ5LWFyZ3dfS2xOWjl6WlI0NE53ci1ZREFLME56TEJlNlIya0w2Rnh2TDcxNU9EQW8tQjNwOVo4QldQRXVFcFBEME5mekZJd3Vya2dLdXJiaUpqM0ItV0xzOQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "48e460e178e1dd1f294b942d",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:37:13+00:00",
+      "last_update": "2026-11-28T01:37:13+00:00",
+      "event": "'Law against child marriage mandatory'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "child",
+        "express",
+        "law",
+        "mandatory",
+        "marriage",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "'Law against child marriage mandatory' The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbjJEVWRGdWNQQVkxdWtHMUlndHFSRXZRVHBKZzczVmYybFFSblYxYkNyQnpvdnFPUDNhS21lTWh3bUVSMHpHa0Q3TDJiOUMxYktxZDhkSnlHN2tFWWVjSE5taW50MV9VMjExVmU4YUEtTlc5ZFdubjNSQ2pCd9IBhgFBVV95cUxNaUdfaUdlUmhqa1cwUGhDLThQZlM3SXVITlRFTURxc3pheHF5YVFoa05kRGNUbEh0eVRqNXVOY1RFUFVUZ0lUMDlmSGliOExsRVFUSGxlRE1oeU42SWtzYmdxdS1oTEduNHRBUjVXamNQT1F1WlZZeUZEOURwRHlKQVZxOWlTZw?oc=5",
+          "published_at": "2026-11-28T01:37:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbjJEVWRGdWNQQVkxdWtHMUlndHFSRXZRVHBKZzczVmYybFFSblYxYkNyQnpvdnFPUDNhS21lTWh3bUVSMHpHa0Q3TDJiOUMxYktxZDhkSnlHN2tFWWVjSE5taW50MV9VMjExVmU4YUEtTlc5ZFdubjNSQ2pCd9IBhgFBVV95cUxNaUdfaUdlUmhqa1cwUGhDLThQZlM3SXVITlRFTURxc3pheHF5YVFoa05kRGNUbEh0eVRqNXVOY1RFUFVUZ0lUMDlmSGliOExsRVFUSGxlRE1oeU42SWtzYmdxdS1oTEduNHRBUjVXamNQT1F1WlZZeUZEOURwRHlKQVZxOWlTZw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "89eebd08628e2142baea0665",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:41:05+00:00",
+      "last_update": "2026-11-28T01:41:05+00:00",
+      "event": "Libya migrant boat reports unverified",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "boat",
+        "express",
+        "libya",
+        "migrant",
+        "reports",
+        "the",
+        "tribune",
+        "unverified"
+      ],
+      "source_excerpt": "Libya migrant boat reports unverified The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gb3IybWt4a0JfN3FzeTdUT0FxV3huZUk4SUxsYldPZ3MwVXpIbUpOekhsMG1WZDhDY29NdXRQRWhKa1JqMlhGUWU2UUlzZGczcVZZXy1KVkMyWmxsM1BkR2x5UTFLaHczdVZadkZlUWdXVkFzTkRYcVdHX1dKUDTSAYcBQVVfeXFMTWx0OWJlUVA2Wk93Wlowb043RFU1WE5PTUxXYmFxdVNoaHBQR29FYjZqNDM0d1VkRURSWTU1VFRzSk5FeWVBU1k0QzZ0dFh1U3VlQW4wZW5Objh5UGJCZEZkbldyZ1djWUQyMXFPbTNjb0dyMVNoOWNlcG1ac3czd3BmX0xFbUJJ?oc=5",
+          "published_at": "2026-11-28T01:41:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gb3IybWt4a0JfN3FzeTdUT0FxV3huZUk4SUxsYldPZ3MwVXpIbUpOekhsMG1WZDhDY29NdXRQRWhKa1JqMlhGUWU2UUlzZGczcVZZXy1KVkMyWmxsM1BkR2x5UTFLaHczdVZadkZlUWdXVkFzTkRYcVdHX1dKUDTSAYcBQVVfeXFMTWx0OWJlUVA2Wk93Wlowb043RFU1WE5PTUxXYmFxdVNoaHBQR29FYjZqNDM0d1VkRURSWTU1VFRzSk5FeWVBU1k0QzZ0dFh1U3VlQW4wZW5Objh5UGJCZEZkbldyZ1djWUQyMXFPbTNjb0dyMVNoOWNlcG1ac3czd3BmX0xFbUJJ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "c461c9da070dc5192a1cf8d4",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:02:05+00:00",
+      "last_update": "2026-11-28T01:02:05+00:00",
+      "event": "'Doctors' held for harassing women",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "doctors",
+        "express",
+        "for",
+        "harassing",
+        "held",
+        "the",
+        "tribune",
+        "women"
+      ],
+      "source_excerpt": "'Doctors' held for harassing women The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91Ulo1TjRjdEJIMVFWclNQRlhlelB3Qm4xLXZaWEY1NXVoVXlFanpKRDA2MW9mMUhKYUNnRkVpRmw1eHpGRFVDUWVlVFNGNUkyeHdiczI3Zm5ZbmgwTmdIUmpsdmlhdGVHdTRQNXpCLV81M0RqVzdsctIBgAFBVV95cUxNcTMybWViMjdscWZYM0lvZVlzd1lQWmxwamJHdFhZVTZyU0o1ZkhlZzVPYWFvaGJ1Z1g1dGdYMVdoZWRTeG9Eb295amJ1YVZVUzIwREtmaXo4RnhVT2Z6WlVBczZSM0Y4TWl5MVU0MER4Qm5VSmdsdlRxaDRWS1VuWQ?oc=5",
+          "published_at": "2026-11-28T01:02:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91Ulo1TjRjdEJIMVFWclNQRlhlelB3Qm4xLXZaWEY1NXVoVXlFanpKRDA2MW9mMUhKYUNnRkVpRmw1eHpGRFVDUWVlVFNGNUkyeHdiczI3Zm5ZbmgwTmdIUmpsdmlhdGVHdTRQNXpCLV81M0RqVzdsctIBgAFBVV95cUxNcTMybWViMjdscWZYM0lvZVlzd1lQWmxwamJHdFhZVTZyU0o1ZkhlZzVPYWFvaGJ1Z1g1dGdYMVdoZWRTeG9Eb295amJ1YVZVUzIwREtmaXo4RnhVT2Z6WlVBczZSM0Y4TWl5MVU0MER4Qm5VSmdsdlRxaDRWS1VuWQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ef684e8cfe5dbb5e45cad1c8",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:30:38+00:00",
+      "last_update": "2026-11-28T01:30:38+00:00",
+      "event": "Laws alone cannot protect women: SC judge",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alone",
+        "cannot",
+        "express",
+        "judge",
+        "laws",
+        "protect",
+        "the",
+        "tribune",
+        "women"
+      ],
+      "source_excerpt": "Laws alone cannot protect women: SC judge The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV29PX0luSXhQb01MTDZOYXUteExPSGtEbHp6YVZSaEFHM2hhdEFfdnRCVmJyMjRHQWxQU21Ca29yejNTVjNQQkI2SWVSV3A0RHZYRDRwTUh5ZFJOT0hSVG14dE13Uzc5OVJLY0VmWGZzUkVhTWllR1o0dDFoU1J2WGhlSdIBiwFBVV95cUxNR0hua1RzbzNsUEJUWTRVWDlFUWt1VmhrNklTQ2pac2pqT2VPdVloR0ZuV2loYXFBV2JhWFBCU1ZRN00wYkNRQ1JpYUY5Wmg2V05TczRhZWc4RVg0QUJXY0hZejlhRm9LdGRIaFhRT005WjJqR1hvTjlCajV5Y3FPSWh5WHM2Mm52QmVn?oc=5",
+          "published_at": "2026-11-28T01:30:38+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV29PX0luSXhQb01MTDZOYXUteExPSGtEbHp6YVZSaEFHM2hhdEFfdnRCVmJyMjRHQWxQU21Ca29yejNTVjNQQkI2SWVSV3A0RHZYRDRwTUh5ZFJOT0hSVG14dE13Uzc5OVJLY0VmWGZzUkVhTWllR1o0dDFoU1J2WGhlSdIBiwFBVV95cUxNR0hua1RzbzNsUEJUWTRVWDlFUWt1VmhrNklTQ2pac2pqT2VPdVloR0ZuV2loYXFBV2JhWFBCU1ZRN00wYkNRQ1JpYUY5Wmg2V05TczRhZWc4RVg0QUJXY0hZejlhRm9LdGRIaFhRT005WjJqR1hvTjlCajV5Y3FPSWh5WHM2Mm52QmVn?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e44125f3dc97cb7222947903",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:30:00+00:00",
+      "last_update": "2026-11-28T01:30:00+00:00",
+      "event": "'PM must clear air on new provinces'",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "air",
+        "clear",
+        "express",
+        "must",
+        "new",
+        "provinces",
+        "the",
+        "tribune"
+      ],
+      "source_excerpt": "'PM must clear air on new provinces' The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13dlVpbTZ2Q2lNTGExaHZUaU8tZkNKS3pIaV9ldGVIci15N0FRbExnM0hJSTFFcHFsSTBkMTZtYUQ0OURBUmJmUWZHdURqUWZpeGdoUWxfM1hZOU1POGo0WGJKeE1MTDhrZTBHamhFcFh4MzE1blpZUjcwUdIBgwFBVV95cUxNUFNUbVVCOVhSYm1wV0dYenFKUU5BNy1va3ktaHpzejRmMTdaS09VaVhFbS1jTVZDZ1lyaTJfcmhjMFN0NFpVMWtsMjNibkEyTEIwTEVXdTFQbnNjUDRhN3UwTldlMlZJUVZGc3RpUzAtUXc2VGlOSWdwczZRMlBxY1Zibw?oc=5",
+          "published_at": "2026-11-28T01:30:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13dlVpbTZ2Q2lNTGExaHZUaU8tZkNKS3pIaV9ldGVIci15N0FRbExnM0hJSTFFcHFsSTBkMTZtYUQ0OURBUmJmUWZHdURqUWZpeGdoUWxfM1hZOU1POGo0WGJKeE1MTDhrZTBHamhFcFh4MzE1blpZUjcwUdIBgwFBVV95cUxNUFNUbVVCOVhSYm1wV0dYenFKUU5BNy1va3ktaHpzejRmMTdaS09VaVhFbS1jTVZDZ1lyaTJfcmhjMFN0NFpVMWtsMjNibkEyTEIwTEVXdTFQbnNjUDRhN3UwTldlMlZJUVZGc3RpUzAtUXc2VGlOSWdwczZRMlBxY1Zibw?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "02c601fa52695da87e14ffa9",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:18:58+00:00",
+      "last_update": "2026-11-28T02:18:58+00:00",
+      "event": "News Archives for Sp Supplements - 2026-11-28",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "2026",
+        "archives",
+        "dawn",
+        "for",
+        "news",
+        "supplements"
+      ],
+      "source_excerpt": "News Archives for Sp Supplements - 2026-11-28 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwc3R0cGtBWWFHcVI3dUZBazlfT2RXQzBCNTFRX1l2N2p3aFRjeFR1VloxNzFiX2FQd1VHSHV5M0xING1nUnBrYXNQMmQwTFVLeXE2Wmt6elJEZ25Wd243Qi0yWXlFNjFHNXhxdg?oc=5",
+          "published_at": "2026-11-28T02:18:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwc3R0cGtBWWFHcVI3dUZBazlfT2RXQzBCNTFRX1l2N2p3aFRjeFR1VloxNzFiX2FQd1VHSHV5M0xING1nUnBrYXNQMmQwTFVLeXE2Wmt6elJEZ25Wd243Qi0yWXlFNjFHNXhxdg?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fdfbba442ec82154f59bd389",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:28:40+00:00",
+      "last_update": "2026-11-28T02:28:40+00:00",
+      "event": "PM calls for stronger Pak-Oman ties",
+      "category": "politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ambassador",
+        "and",
+        "bilateral",
+        "called",
+        "calls",
+        "cooperation",
+        "defence",
+        "during",
+        "energy",
+        "for",
+        "further",
+        "has",
+        "highlighted",
+        "house",
+        "investment",
+        "islamabad",
+        "longstanding",
+        "meeting",
+        "minister",
+        "oman",
+        "omani",
+        "pak",
+        "pakistan",
+        "particularly",
+        "prime",
+        "sharif",
+        "shehbaz",
+        "strengthening",
+        "stronger",
+        "the",
+        "ties",
+        "trade",
+        "with"
+      ],
+      "source_excerpt": "ISLAMABAD: Prime Minister Shehbaz Sharif has called for further strengthening Pakistan’s bilateral cooperation with Oman, particularly in trade, investment, energy and defence. During a meeting with the Omani ambassador at the Prime Minister’s House, the prime minister highlighted the longstanding b",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047567/pm-calls-for-stronger-pak-oman-ties",
+          "published_at": "2026-11-28T02:28:40+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047567/pm-calls-for-stronger-pak-oman-ties",
+        "publisher_url": "https://www.dawn.com/news/2047567/pm-calls-for-stronger-pak-oman-ties",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "df54549488c1d0e5a3c33a01",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:34:50+00:00",
+      "last_update": "2026-11-28T02:34:50+00:00",
+      "event": "Trump scares Europe with spectre of nuclear holocaust",
+      "category": "us_politics",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "air",
+        "american",
+        "araghchi",
+        "attack",
+        "capable",
+        "claims",
+        "deadly",
+        "defences",
+        "denies",
+        "donald",
+        "drone",
+        "envoy",
+        "europe",
+        "forced",
+        "holocaust",
+        "involvement",
+        "iran",
+        "iranian",
+        "irgc",
+        "kuwait",
+        "missiles",
+        "nuclear",
+        "oil",
+        "president",
+        "reaching",
+        "recovers",
+        "retreat",
+        "scares",
+        "spectre",
+        "stolen",
+        "summons",
+        "tankers",
+        "tehran",
+        "trum",
+        "trump",
+        "washington",
+        "with"
+      ],
+      "source_excerpt": "• US president claims Iranian missiles capable of reaching Europe • Iran recovers ‘stolen’ oil tankers; IRGC claims Iranian air defences forced American F-16 to retreat • Kuwait summons Iranian envoy after deadly drone attack; Araghchi denies involvement WASHINGTON / TEHRAN: US President Donald Trum",
+      "sources": [
+        {
+          "name": "Dawn Latest",
+          "url": "https://www.dawn.com/news/2047565/trump-scares-europe-with-spectre-of-nuclear-holocaust",
+          "published_at": "2026-11-28T02:34:50+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Latest",
+        "url": "https://www.dawn.com/news/2047565/trump-scares-europe-with-spectre-of-nuclear-holocaust",
+        "publisher_url": "https://www.dawn.com/news/2047565/trump-scares-europe-with-spectre-of-nuclear-holocaust",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "fbb83e1a76967fa552d5b9e0",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T02:11:53+00:00",
+      "last_update": "2026-11-28T02:11:53+00:00",
+      "event": "کراچی، عمارت گرنے سے جاں بحق افراد کی تعداد 9 ہوگئی، 9 افراد کی تلاش",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "افراد",
+        "اور",
+        "ایڈمن",
+        "ایک",
+        "بحق",
+        "برآمد",
+        "بلوچ",
+        "تعداد",
+        "تلاش",
+        "جاں",
+        "حادثے",
+        "رات",
+        "سوسائٹی",
+        "علاقے",
+        "عمارت",
+        "قریب",
+        "لاش",
+        "ملبے",
+        "میں",
+        "کالونی",
+        "کراچی",
+        "کراچی،",
+        "گئے",
+        "گرنے",
+        "گری",
+        "ہوگئی،"
+      ],
+      "source_excerpt": "کراچی کے علاقے بلوچ کالونی کے قریب ایڈمن سوسائٹی میں گری عمارت کے ملبے سے رات گئے ایک اور لاش برآمد ہوگئی، حادثے میں جاں بحق افراد...",
+      "sources": [
+        {
+          "name": "Jang Urdu",
+          "url": "https://jang.com.pk/news/1637419",
+          "published_at": "2026-11-28T02:11:53+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Jang Urdu",
+        "url": "https://jang.com.pk/news/1637419",
+        "publisher_url": "https://jang.com.pk/news/1637419",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "b081ee35cc4e150afb169c10",
+      "remembered_at": "2026-11-28T02:49:36.438893+00:00",
+      "event_date": "2026-11-28T01:42:13+00:00",
+      "last_update": "2026-11-28T01:42:13+00:00",
+      "event": "PM hails alliance unity on security, sovereignty",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alliance",
+        "express",
+        "hails",
+        "security",
+        "sovereignty",
+        "the",
+        "tribune",
+        "unity"
+      ],
+      "source_excerpt": "PM hails alliance unity on security, sovereignty The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUHVUaDdTM1BTQlRBZ1VoTFd5QWFLajZtdW1MSFhOeEVzUXhObFctb3N3elBwQ0tlNDZRVmNISjN5TlVtRW80RmJVdmR5ajdSUFBHUm1HeFNFVUVmWnU5dnpuQWVIOVpNNnFHTWtvajlPX09UYjZYWmpnR21uWUp5dUsxNjM5elhrYTBSRtIBlAFBVV95cUxQLXl5aHFtN3dKanBVdVRSMmZhVmxzRlhrYTk4ZFM3eEJkX1R1VThWd1lrMUJORU9TZjF6RDJNN3NXOHY3Yk8waHBXS0Q0TjMyWE5tclpUZmhsYkpXRndjSDNheS1XNnpuTkYybjVZekxvWjJfaUYzb19XV0w1a1draHBHWVZEdW5iRzhneTNVTzRITWNu?oc=5",
+          "published_at": "2026-11-28T01:42:13+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUHVUaDdTM1BTQlRBZ1VoTFd5QWFLajZtdW1MSFhOeEVzUXhObFctb3N3elBwQ0tlNDZRVmNISjN5TlVtRW80RmJVdmR5ajdSUFBHUm1HeFNFVUVmWnU5dnpuQWVIOVpNNnFHTWtvajlPX09UYjZYWmpnR21uWUp5dUsxNjM5elhrYTBSRtIBlAFBVV95cUxQLXl5aHFtN3dKanBVdVRSMmZhVmxzRlhrYTk4ZFM3eEJkX1R1VThWd1lrMUJORU9TZjF6RDJNN3NXOHY3Yk8waHBXS0Q0TjMyWE5tclpUZmhsYkpXRndjSDNheS1XNnpuTkYybjVZekxvWjJfaUYzb19XV0w1a1draHBHWVZEdW5iRzhneTNVTzRITWNu?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T01:52:00.496149+00:00"
+  "updated_at": "2026-11-28T02:49:36.438893+00:00"
 }

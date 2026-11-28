@@ -1,197 +1,52 @@
-# News Hub report - Sat 28 Nov, 06:52 AM PKT
+# News Hub report - Sat 28 Nov, 07:49 AM PKT
 
 ## Collection
-- New items this run: 55 | items in rolling pool: 252
-- Unique story clusters: 212 (duplicates merged: 40)
-- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
-- Items per outlet: The Express Tribune 23, Dawn 13, Geo News 3, BBC 3, Al Jazeera 2, The Verge 2, BBC Technology 2, GSMArena 1, BBC Health 1, BBC World 1, Iran International 1, The Jerusalem Post 1
+- New items this run: 22 | items in rolling pool: 236
+- Unique story clusters: 203 (duplicates merged: 33)
+- Clusters dropped as already published/queued: 29; unchanged since last analysis: 11
+- Items per outlet: Investify 7, Al Jazeera 4, Dawn Pakistan 3, The Express Tribune 2, Dawn Latest 2, Dawn 1, Jang Urdu 1, Profit by Pakistan Today 1, Critical Threats 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Seven terrorists killed in Bannu operation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Limit for youth, agri loans raised to Rs25m | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- AJK PM extends olive branch to protesters in Rawalakot | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Courts yet to settle if men can be prosecuted over ‘marital rape’: report | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
+- Overall feeds with entries: 115/120 | empty: 4 | failed: 0 | malformed/partial: 2
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### JUI-F protests official treatment of Maulana Fazlur Rehman  [NORMAL]
-- Poster: جمعیت علمائے اسلام کا مولانا فضل الرحمٰن کے ساتھ رویے پر احتجاج / JUI-F protests treatment of Fazl | category politics
-- Alternative headline: Malana Fazl's party raises voice against official treatment
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5
-- Supporting coverage: Dawn
-- Keywords: JUI-F protest, Maulana Fazlur Rehman, Dawn news, politics, Pakistan politics | hashtags: #JUIF #MaulanaFazlurRehman #PakistanPolitics #DawnNews
-- Scheduled: Sat 28 Nov, 06:52 AM PKT
-- Caption:
-```
-JUI-F has strongly protested against the treatment meted out to party chief Maulana Fazlur Rehman.
-
-The Jui-F has staged protests regarding the treatment meted out to party chief Maulana Fazlur Rehman, according to Dawn. The party expressed deep concerns and dissatisfaction over the official approach towards their leadership.
-
-ڈان کے مطابق جمعیت علمائے اسلام (جے یو آئی ایف) نے پارٹی سربراہ مولانا فضل الرحمٰن کے ساتھ روا رکھے جانے والے رویے کے خلاف احتجاج کیا ہے۔ پارٹی نے اپنی قیادت کے ساتھ برتاؤ پر شدید تحفظات کا اظہار کیا ہے۔
-
-First reported by Dawn
-
-#JUIF #MaulanaFazlurRehman #PakistanPolitics #DawnNews
-```
-
-### New film spotlights legendary Indian dancer Vithabhai Narayangaonkar  [NORMAL]
-- Poster: بالی ووڈ فلم بھارتی رقاصہ وتھا بائی نارائن گاؤںکر کی زندگی پر اجاگر / New film spotlights Vithabhai Narayangaonkar | category other
-- Alternative headline: The tragic story of Tamasha queen Vithabhai Narayangaonkar
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC, BBC
-- Keywords: Vithabhai Narayangaonkar, Tamasha queen, Bollywood film, dancer singer, BBC news | hashtags: #Bollywood #VithabhaiNarayangaonkar #Tamasha #BBC
-- Scheduled: Sat 28 Nov, 07:02 AM PKT
-- Caption:
-```
-A new Bollywood film sheds light on the remarkable life of dancer and singer Vithabhai Narayangaonkar.
-
-A new Bollywood film spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar, exploring her legacy as a renowned Tamasha queen whose fans experienced shows that left lasting impacts, as reported by BBC.
-
-بی بی سی کے مطابق ایک نئی بالی ووڈ فلم رقاصہ اور گلوکارہ وتھا بائی نارائن گاؤںکر کی شاندار زندگی پر روشنی ڈالتی ہے، جن کی فنی خدمات نے ناظرین پر گہرے نقوش چھوڑے۔
-
-First reported by BBC
-
-#Bollywood #VithabhaiNarayangaonkar #Tamasha #BBC
-```
-
-### Thousands of Puerto Ricans join 'Day of National Outrage'  [NORMAL]
-- Poster: ہزاروں پورٹو ریکن باشندوں کا بجلی کے مہنگے نرخوں کیخلاف احتجاج / Puerto Ricans join National Outrage protest | category other
-- Alternative headline: Massive protests erupt in Puerto Rico over high electricity rates
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss
-- Supporting coverage: Al Jazeera
-- Keywords: Puerto Rico protest, Day of National Outrage, electricity rates, cost of living, Al Jazeera | hashtags: #PuertoRico #NationalOutrage #Protest #AlJazeera
-- Scheduled: Sat 28 Nov, 07:12 AM PKT
-- Caption:
-```
-Anger and frustration have erupted across Puerto Rico as thousands joined the 'Day of National Outrage' protest.
-
-Thousands of Puerto Ricans participated in the 'Day of National Outrage' protest, driven by anger over record-high electricity rates, a surging cost of living, and deteriorating basic services, according to Al Jazeera.
-
-الجزیرہ کے مطابق ہزاروں پورٹو ریکن باشندوں نے بجلی کے ریکارڈ بلند نرخوں، مہنگائی میں اضافے اور بنیادی سہولتوں کی ابتر صورتحال کے خلاف 'قومی اشتعال کے دن' کے احتجاج میں حصہ لیا۔
-
-First reported by Al Jazeera
-
-#PuertoRico #NationalOutrage #Protest #AlJazeera
-```
-
-### BBC Technology explores autonomous space travel and tech innovations  [NORMAL]
-- Poster: بی بی سی ٹیکنالوجی نے خودکار خلائی سفر اور نئی ایجادات کا جائزہ لیا / Tech Now explores space travel innovations | category tech
-- Alternative headline: Tech Now explores AI early warning systems and space travel
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Technology https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Technology https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Technology
-- Keywords: Tech Now, BBC Technology, space travel, AI early warning, innovations | hashtags: #TechNow #BBC #SpaceTravel #ArtificialIntelligence
-- Scheduled: Sat 28 Nov, 07:22 AM PKT
-- Caption:
-```
-BBC's Tech Now explores cutting-edge innovations including autonomous space travel and tech used against natural disasters.
-
-BBC Technology's 'Tech Now' features various episodes exploring technological advancements, ranging from autonomous space travel and AI early warning systems for landslides to tech monitoring wildfire damage and counterfeit products online, as reported by BBC Technology.
-
-بی بی سی ٹیکنالوجی کے مطابق 'ٹیک ناؤ' کے مختلف اقساط میں خودکار خلائی سفر، لینڈ سلائیڈز کے لیے مصنوعی ذہانت کے ارلی وارننگ سسٹمز اور جنگلات کی آگ کی مانیٹرنگ جیسی جدید تکنیکی ترقی کا جائزہ لیا گیا ہے۔
-
-First reported by BBC Technology
-
-#TechNow #BBC #SpaceTravel #ArtificialIntelligence
-```
-
-### Health officials urge flu vaccination amid rising hospital admissions  [NORMAL]
-- Poster: صحت کے حکام کی اسپتالوں میں مریضوں کے اضافے پر فلو ویکسین لگوانے کی ہدایت / Health officials urge flu vaccination | category health
-- Alternative headline: Should you get a flu vaccine now? Health experts advise
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC Health
-- Keywords: flu vaccine, health officials, BBC Health, hospital patients, virus | hashtags: #FluVaccine #HealthNews #BBCHealth #PublicHealth
-- Scheduled: Sat 28 Nov, 07:32 AM PKT
-- Caption:
-```
-Health officials are urging vulnerable groups to get free flu vaccines as hospital admissions surge.
-
-Health officials are urging more people to get free flu vaccines as hospital patients seriously ill with the virus rise sharply. Experts note that while flu activity remains at moderate levels, getting vaccinated helps prevent severe complications, according to BBC Health.
-
-بی بی سی ہیلتھ کے مطابق صحت کے حکام نے زیادہ سے زیادہ لوگوں پر زور دیا ہے کہ وہ فلو کی مفت ویکسین لگوائیں کیونکہ وائرس سے شدید بیمار ہو کر اسپتال آنے والے مریضوں کی تعداد میں تیزی سے اضافہ ہو رہا ہے۔
-
-First reported by BBC Health
-
-#FluVaccine #HealthNews #BBCHealth #PublicHealth
-```
-
-### Legendary Nigerian actor Pete Edochie passes away at 79  [NORMAL]
-- Poster: نائیجیریا کے نامور اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے / Nigerian actor Pete Edochie dies at 79 | category other
-- Alternative headline: Remembering Pete Edochie: Nigeria's iconic actor and online meme
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: Pete Edochie, Nigerian actor, Things Fall Apart, Okonkwo, BBC World | hashtags: #PeteEdochie #Nigeria #Nollywood #BBCWorld
-- Scheduled: Sat 28 Nov, 07:42 AM PKT
-- Caption:
-```
-Renowned Nigerian actor Pete Edochie, famous for his iconic role as Okonkwo, has passed away at 79.
-
-Pete Edochie, a celebrated Nigerian actor known for his iconic portrayal of Okonkwo in a television adaptation of Chinua Achebe's novel Things Fall Apart, has died at 79 following a battle with prostate cancer, according to BBC World.
-
-بی بی سی ورلڈ کے مطابق نائیجیریا کے نامور اداکار پیٹ ایڈوچی، جو ناول 'تھنگز فال اپارٹ' میں اوكونکو کے کردار سے دنیا بھر میں مشہور ہوئے، پروسٹیٹ کینسر کے باعث 79 برس کی عمر میں انتقال کر گئے ہیں۔
-
-First reported by BBC World
-
-#PeteEdochie #Nigeria #Nollywood #BBCWorld
-```
-
 - Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
+- News posts published today: 8 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 20
 
 ## Queue status
-- [published] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
-- [published] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
 - [needs_review] normal | South Africa convicts Zimbabwean trying to fight for Russia | Wed 25 Nov, 07:28 AM PKT
 - [needs_review] normal | Bellingham beauty inspires Real Madrid as Arsenal, Man City held | Wed 25 Nov, 07:38 AM PKT
@@ -413,13 +268,13 @@ First reported by BBC World
 - [needs_review] normal | Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence | Sat 28 Nov, 12:34 AM PKT
 - [needs_review] normal | Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statisti | Sat 28 Nov, 12:44 AM PKT
 - [published] normal | Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Lin | Sat 28 Nov, 12:54 AM PKT
-- [queued] normal | Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Cana | Sat 28 Nov, 01:04 AM PKT
-- [queued] normal | Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces | Sat 28 Nov, 01:14 AM PKT
+- [needs_review] normal | Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Cana | Sat 28 Nov, 01:04 AM PKT
+- [needs_review] normal | Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces | Sat 28 Nov, 01:14 AM PKT
 - [published] promo | [YouTube] NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION | Sat 28 Nov, 01:26 AM PKT
-- [queued] normal | Spanish PM Pedro Sánchez Defies Polls in Final Election Rally | Sat 28 Nov, 01:26 AM PKT
-- [queued] normal | Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Cla | Sat 28 Nov, 01:36 AM PKT
-- [queued] normal | Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B | Sat 28 Nov, 01:46 AM PKT
-- [queued] normal | NADRA Mobile Vans to Provide ID Services at Four UK Locations | Sat 28 Nov, 01:56 AM PKT
+- [needs_review] normal | Spanish PM Pedro Sánchez Defies Polls in Final Election Rally | Sat 28 Nov, 01:26 AM PKT
+- [needs_review] normal | Costa Rica Bars UN Rapporteur Francesca Albanese Over Terror Links Cla | Sat 28 Nov, 01:36 AM PKT
+- [needs_review] normal | Pakistan Seeks Zero-Tariff Access from China to Boost Exports to $25B | Sat 28 Nov, 01:46 AM PKT
+- [published] normal | NADRA Mobile Vans to Provide ID Services at Four UK Locations | Sat 28 Nov, 01:56 AM PKT
 - [queued] normal | Is Snooker the Most Mentally Challenging Sport? Experts Discuss | Sat 28 Nov, 02:06 AM PKT
 - [queued] normal | Venezuela to repeal law banning opposition figures from holding office | Sat 28 Nov, 02:28 AM PKT
 - [queued] normal | OpenAI countersues Apple, accusing tech giant of stealing trade secret | Sat 28 Nov, 02:38 AM PKT
@@ -442,13 +297,15 @@ First reported by BBC World
 - [queued] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
 
 ## Publishing this run
-- Published 'Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Line'.
+- Published 'NADRA Mobile Vans to Provide ID Services at Four UK Locations'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4996 | output tokens: 3119
-- Errors: 2
-  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
+- Calls: 3 | prompt tokens: 10808 | output tokens: 6372
+- Errors: 4
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan an
+  - Gemini gemini-3.5-flash-lite: Expecting property name enclosed in double quotes: line 66 column 7 (char 3085)
+  - Gemini gemini-3.5-flash-lite: Expecting value: line 159 column 29 (char 6496)
+  - All configured AI providers failed or were unavailable: Gemini gemini-3.5-flash-lite: Expecting value: line 159 column 29 (char 6496)
