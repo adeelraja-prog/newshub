@@ -1,120 +1,145 @@
-# News Hub report - Sat 28 Nov, 07:32 PM PKT
+# News Hub report - Sat 28 Nov, 08:26 PM PKT
 
 ## Collection
-- New items this run: 75 | items in rolling pool: 708
-- Unique story clusters: 577 (duplicates merged: 131)
-- Clusters dropped as already published/queued: 35; unchanged since last analysis: 8
-- Items per outlet: UrduPoint 42, Geo News 5, samaa tv 3, Engadget 3, ProPakistani 3, ARY News 2, Al Jazeera 2, The Verge 2, CNBC 2, The News International 1, Dawn Latest 1, Dawn 1
+- New items this run: 78 | items in rolling pool: 709
+- Unique story clusters: 595 (duplicates merged: 114)
+- Clusters dropped as already published/queued: 32; unchanged since last analysis: 8
+- Items per outlet: UrduPoint 45, ARY News 7, Engadget 4, samaa tv 3, ProPakistani 3, Geo News 2, Al Jazeera 2, TechJuice 2, Dawn 1, The News International 1, Dawn Pakistan 1, The Express Tribune 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Naseem Shah ruled out of ILT20 with knee injury | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani envoy to Kuwait visits national injured in drone attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Court rejects Argentina’s request to stop UK oil activity near Falklands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bootleg alcohol poisonings in Iran see dozens dead and badly injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic ends flights: How Iran war continues to batter aviation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh's Mushfiqur Rahim to retire in February: board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran points to Europe’s war role after Italians killed in Kuwait strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Violence erupts at anti-government protests in Albania | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Albania police, protesters clash as thousands rally against the government | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Swinney insists Scotland's NHS is safe despite hospital scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Naseem Shah ruled out of ILT20 with knee injury | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani envoy to Kuwait visits national injured in drone attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Court rejects Argentina’s request to stop UK oil activity near Falklands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bootleg alcohol poisonings in Iran see dozens dead and badly injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic ends flights: How Iran war continues to batter aviation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh's Mushfiqur Rahim to retire in February: board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran points to Europe’s war role after Italians killed in Kuwait strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Violence erupts at anti-government protests in Albania | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Albania police, protesters clash as thousands rally against the government | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Swinney insists Scotland's NHS is safe despite hospital scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Naseem Shah ruled out of ILT20 with knee injury | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Pakistani envoy to Kuwait visits national injured in drone attack | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Court rejects Argentina’s request to stop UK oil activity near Falklands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Bootleg alcohol poisonings in Iran see dozens dead and badly injured | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Norse Atlantic ends flights: How Iran war continues to batter aviation | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Bangladesh's Mushfiqur Rahim to retire in February: board | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Iran points to Europe’s war role after Italians killed in Kuwait strike | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Violence erupts at anti-government protests in Albania | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Albania police, protesters clash as thousands rally against the government | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Swinney insists Scotland's NHS is safe despite hospital scandal | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 117/120 | empty: 3 | failed: 0 | malformed/partial: 0
+- Overall feeds with entries: 116/120 | empty: 4 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
+- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Taiwan Opposition Party Secures Victory in Taipei Mayoral Re-Election  [NORMAL]
-- Poster: تائیوان میں اپوزیشن پارٹی نے میئر کا انتخاب جیت لیا / Taiwan Opposition Wins Taipei Mayoral Race | category politics
-- Alternative headline: Taipei Mayoral Race Won by Taiwan Opposition Party
+### Violence erupts at anti-government protests in Albania  [NORMAL]
+- Poster: البانیا میں حکومت مخالف مظاہروں کے دوران تشدد پھوٹ پڑا / Violence erupts at anti-government protests in Albania | category politics
+- Alternative headline: Clashes break out during anti-government demonstrations in Albania
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race?traffic_source=rss
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss
 - Supporting coverage: Al Jazeera
-- Keywords: Taipei mayoral election, Taiwan local elections, opposition party, Al Jazeera, voting | hashtags: #Taiwan #Taipei #LocalElections #AlJazeera
-- Scheduled: Sat 28 Nov, 07:36 PM PKT
+- Keywords: Albania protests, Albania, protests, violence, anti-government, Al Jazeera | hashtags: #Albania #Protests #BreakingNews #WorldNews
+- Scheduled: Sat 28 Nov, 08:26 PM PKT
 - Caption:
 ```
-Voters across Taiwan participated in crucial local elections, choosing mayors, council members, and key regional leaders.
+Violence has erupted during anti-government protests in Albania as demonstrators took to the streets.
 
-Voters across Taiwan cast their ballots to elect mayors, council members, and other local leaders. Al Jazeera reported that the opposition party secured a significant re-election victory in the Taipei mayoral race.
+Violence erupted at anti-government protests in Albania, according to reports from Al Jazeera. Demonstrators gathered to voice their opposition, leading to clashes and heightened tensions in the region.
 
-تائیوان بھر میں ووٹرز نے میئرز، کونسل ممبران اور دیگر مقامی رہنماؤں کے انتخاب کے لیے ووٹ کاسٹ کیے۔ الجزیرہ کی رپورٹ کے مطابق اپوزیشن پارٹی نے تائی پے کے میئر کے انتخاب میں شاندار کامیابی حاصل کی ہے۔
+الجزیرہ کی رپورٹ کے مطابق البانیا میں حکومت مخالف مظاہروں کے دوران تشدد پھوٹ پڑا۔ مظاہرین نے اپنے مطالبات کے حق میں احتجاج کیا جس سے علاقے میں کشیدگی پھیل گئی۔
 
-First reported by Al Jazeera
+First reported by Al Jazeera.
 
-#Taiwan #Taipei #LocalElections #AlJazeera
+#Albania #Protests #BreakingNews #WorldNews
 ```
 
-### Star Fast Bowler Naseem Shah Ruled Out of ILT20 Due to Knee Injury  [NORMAL]
-- Poster: نسیم شاہ گھٹنے کی چوٹ کے باعث آئی ایل ٹی ٹوئنٹی سے باہر / Naseem Shah Out of ILT20 With Knee Injury | category sports
-- Alternative headline: Knee Injury Forces Naseem Shah Out of ILT20 Tournament
+### Bangladesh's Mushfiqur Rahim to retire in February, board announces  [NORMAL]
+- Poster: بنگلہ دیش کے مشفق الرحیم فروری میں ریٹائر ہو جائیں گے / Mushfiqur Rahim to retire in February | category sports
+- Alternative headline: Bangladesh batsman Mushfiqur Rahim set to retire in February
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - The Express Tribune https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTlIZG9pYmFZeVBqd1YtbWpqaGNEY29kb0liU2dWLXRGSkJNdXdlcW5nczlEV3NpakU0U2FKYW5rNk9kMWMxc01XeWVPcDdXSXZKa0JMMGduMG9KQXB0TGV2QUVQUFVhZnhBY0RuMElnWmNMVmd6SDdJdGg0RVlVb0JUYldNTjlqak85WdIBlAFBVV95cUxNa2dkekRrbVFZbFAxcjlfaG9IcWt0RENac0YxUy1OSnVGRk03SEpCRE5LQVdYTEQ0a0xsdnpUNHdYczFONS0yNDZkUmhwRXlWbjZTbDV2eWU3Z3lOa1pXSkVMSjhWNFpmbFlvX2JadjUyLTJRb015YVUwUFdmNUYyNFJNVnRZWkJFbXd5U3lpYzBJSlFU?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: The Express Tribune https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTlIZG9pYmFZeVBqd1YtbWpqaGNEY29kb0liU2dWLXRGSkJNdXdlcW5nczlEV3NpakU0U2FKYW5rNk9kMWMxc01XeWVPcDdXSXZKa0JMMGduMG9KQXB0TGV2QUVQUFVhZnhBY0RuMElnWmNMVmd6SDdJdGg0RVlVb0JUYldNTjlqak85WdIBlAFBVV95cUxNa2dkekRrbVFZbFAxcjlfaG9IcWt0RENac0YxUy1OSnVGRk03SEpCRE5LQVdYTEQ0a0xsdnpUNHdYczFONS0yNDZkUmhwRXlWbjZTbDV2eWU3Z3lOa1pXSkVMSjhWNFpmbFlvX2JadjUyLTJRb015YVUwUFdmNUYyNFJNVnRZWkJFbXd5U3lpYzBJSlFU?oc=5
-- Supporting coverage: ProPakistani, The Current, The Express Tribune
-- Keywords: Naseem Shah, ILT20, knee injury, fast bowler, Pakistan cricket, The Express Tribune | hashtags: #NaseemShah #ILT20 #Cricket #PakistanCricket
-- Scheduled: Sat 28 Nov, 07:46 PM PKT
+- Original source: published_report - Geo News https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWExSlF2emRxMzJXU2JoWnp6cGZ3Sy1aeGFzSU5vYkdndkxaaHlQcG44M1V1SUlKQndrUUZzNzlqQ3Y4eTBNMGZjVTBhWkw3OTcxSG93cjRRdzlWRFlFT2FKdFkwaGF0NVVhYkV4M3dITzlhTW53RzlOT19SMkdLZW53Zzl1c3JwYlZORW1aWWU4QQ?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Geo News https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWExSlF2emRxMzJXU2JoWnp6cGZ3Sy1aeGFzSU5vYkdndkxaaHlQcG44M1V1SUlKQndrUUZzNzlqQ3Y4eTBNMGZjVTBhWkw3OTcxSG93cjRRdzlWRFlFT2FKdFkwaGF0NVVhYkV4M3dITzlhTW53RzlOT19SMkdLZW53Zzl1c3JwYlZORW1aWWU4QQ?oc=5
+- Supporting coverage: Geo News, Geo News, ARY News
+- Keywords: Mushfiqur Rahim retirement, Mushfiqur Rahim, Bangladesh, cricket, retirement, Geo News | hashtags: #MushfiqurRahim #BangladeshCricket #CricketNews #Sports
+- Scheduled: Sat 28 Nov, 08:36 PM PKT
 - Caption:
 ```
-Pakistani pace spearhead Naseem Shah has suffered a major setback after sustaining a knee injury.
+Bangladesh batsman Mushfiqur Rahim is set to retire from international cricket in February, according to the cricket board.
 
-Pakistani star fast bowler Naseem Shah has been ruled out of the upcoming ILT20 tournament after suffering a knee injury. The Express Tribune reported the development, dealing a blow to his franchise plans.
+Bangladesh cricket board announced that veteran batsman Mushfiqur Rahim will retire in February. The decision marks the end of a significant chapter for Bangladesh cricket, with the player stepping away from the international format.
 
-پاکستان کے اسٹار فاسٹ بولر نسیم شاہ گھٹنے کی چوٹ کے باعث آنے والے آئی ایل ٹی ٹوئنٹی ٹورنامنٹ سے باہر ہو گئے ہیں۔ دی ایکسپریس ٹ্রিبیون کی رپورٹ کے مطابق یہ ان کی فرنچائز کے لیے ایک بڑا دھچکا ہے۔
+بنگلہ دیشی کرکٹ بورڈ نے اعلان کیا ہے کہ تجربہ کار بلے باز مشفق الرحیم فروری میں ریٹائرمنٹ لے لیں گے۔ اس فیصلے کے ساتھ بنگلہ دیشی کرکٹ کے ایک اہم باب کا اختتام ہو رہا ہے۔
 
-First reported by The Express Tribune
+First reported by Geo News; also reported by ARY News.
 
-#NaseemShah #ILT20 #Cricket #PakistanCricket
+#MushfiqurRahim #BangladeshCricket #CricketNews #Sports
 ```
 
-### Pakistani Envoy to Kuwait Visits National Injured in Drone Attack  [NORMAL]
-- Poster: کوئٹہ میں ڈرون حملے میں زخمی پاکستانی سے سفیر کی ملاقات / Pakistani Envoy Visits Injured Citizen in Kuwait | category other
-- Alternative headline: Prime Minister Shehbaz Condemns Drone Attack on Kuwait That Injured Pakistani
+### Iran points to Europe’s war role after Italians killed in Kuwait strike  [NORMAL]
+- Poster: کویت حملے میں اطالوی شہریوں کی ہلاکت پر ایران کا ردعمل / Iran points to Europe's war role | category war
+- Alternative headline: Tehran blames US and Israel for escalation after Kuwait strike kills Italians
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVRCb0FRck9YZUh3d1pLeWE4bjViTWc2VDk2djlBWm9Dc2UtZEhZVzlqcUFSWk1qc01RSzhsanlBMW9NMlFqdFRUMjlmREV6TnV4ZGczNlN6dGVEblJicm95U2Utb3BtX0ZEX3ZFd0paQUhoU2pKRDk0Qk1hQnM0aU43TElqbmE2VS10TVZUdkxZR1NrVkJIeDNodWNpSEdf?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVRCb0FRck9YZUh3d1pLeWE4bjViTWc2VDk2djlBWm9Dc2UtZEhZVzlqcUFSWk1qc01RSzhsanlBMW9NMlFqdFRUMjlmREV6TnV4ZGczNlN6dGVEblJicm95U2Utb3BtX0ZEX3ZFd0paQUhoU2pKRDk0Qk1hQnM0aU43TElqbmE2VS10TVZUdkxZR1NrVkJIeDNodWNpSEdf?oc=5
-- Supporting coverage: Dawn, The Express Tribune, Breakingthenews.net, Dawn Latest, Dawn
-- Keywords: Pakistani envoy Kuwait, drone attack, Prime Minister Shehbaz Sharif, Kuwait, Dawn | hashtags: #Pakistan #Kuwait #DroneAttack #ShehbazSharif #Dawn
-- Scheduled: Sat 28 Nov, 07:56 PM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss
+- Supporting coverage: Al Jazeera, Al Jazeera
+- Keywords: Iran Kuwait strike, Iran, Kuwait, Italy, drone strike, Al Jazeera | hashtags: #Iran #Kuwait #Italy #MiddleEast #BreakingNews
+- Scheduled: Sat 28 Nov, 08:46 PM PKT
 - Caption:
 ```
-Pakistan's ambassador to Kuwait has visited a Pakistani national who sustained injuries in a recent drone attack.
+Iran has pointed to Europe's war role after Italians were killed in a Kuwait strike, while Tehran claims the US and Israel are escalating tensions.
 
-Pakistan's envoy to Kuwait visited a Pakistani national who was injured in a drone attack. Prime Minister Shehbaz Sharif strongly condemned the attack and assured full support to the injured citizen, according to Dawn.
+Following a strike in Kuwait that killed Italian nationals, Italy and Kuwait stated an Iranian drone was involved. Tehran countered by suggesting the US and Israel may be looking to escalate the war, highlighting Europe's role.
 
-کویت میں پاکستان کے سفیر نے اس پاکستانی شہری کی عیادت کی جو ڈرون حملے میں زخمی ہو گیا تھا۔ ڈان کی رپورٹ کے مطابق وزیراعظم شہباز شریف نے حملے کی شدید مذمت کی اور زخمی شہری کو ہر ممکن تعاون کی یقین دہانی کرائی۔
+کویت میں ایک حملے میں اطالوی شہریوں کی ہلاکت کے بعد اٹلی اور کویت نے دعویٰ کیا ہے کہ اس میں ایرانی ڈرون ملوث تھا۔ تہران کا کہنا ہے کہ امریکہ اور اسرائیل جنگ کو بڑھانا چاہتے ہیں۔
 
-First reported by Dawn
+First reported by Al Jazeera.
 
-#Pakistan #Kuwait #DroneAttack #ShehbazSharif #Dawn
+#Iran #Kuwait #Italy #MiddleEast #BreakingNews
 ```
 
-- Indian outlets blocked this run: 1 items
+### Albania police and protesters clash as thousands rally against government  [NORMAL]
+- Poster: البانیا میں حکومت کے خلاف احتجاج، پولیس اور مظاہرین میں جھڑپیں / Albania police and protesters clash | category politics
+- Alternative headline: Thousands rally in Albania demanding Prime Minister Edi Rama's resignation
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Albania anti-government protests, Albania, protests, Edi Rama, clashes, Al Jazeera | hashtags: #Albania #Protests #EdiRama #WorldNews
+- Scheduled: Sat 28 Nov, 08:56 PM PKT
+- Caption:
+```
+Clashes broke out between police and protesters in Albania as thousands rallied to demand the resignation of Prime Minister Edi Rama.
+
+Thousands of protesters clashed with police in Albania during anti-government demonstrations. The rallies are part of a long series of protests demanding the resignation of Prime Minister Edi Rama.
+
+البانیا میں حکومت مخالف مظاہروں کے دوران ہزاروں مظاہرین اور پولیس کے درمیان جھڑپیں ہوئیں۔ یہ مظاہرے وزیر اعظم ایڈی راما کے استعفیٰ کا مطالبہ کرنے والی مہم کا حصہ ہیں۔
+
+First reported by Al Jazeera.
+
+#Albania #Protests #EdiRama #WorldNews
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 20 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 21 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
 
 ## Queue status
 - [needs_review] normal | FBR seals Karachi superstore over Rs 3.27 billion tax irregularities | Wed 25 Nov, 05:03 PM PKT
@@ -360,10 +385,10 @@ First reported by Dawn
 - [needs_review] normal | Karachi Building Collapse Death Toll Rises to 11 as Rescuers Find Two  | Sat 28 Nov, 01:12 PM PKT
 - [needs_review] normal | WWE Star Bronson Reed Passes Away at 38 Due to Medical Complications | Sat 28 Nov, 01:22 PM PKT
 - [published] normal | Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 | Sat 28 Nov, 01:32 PM PKT
-- [queued] normal | PM Shehbaz orders simpler bank loan procedures to boost small business | Sat 28 Nov, 01:57 PM PKT
-- [queued] normal | Trump officials move to military bases amid mounting security threats | Sat 28 Nov, 02:07 PM PKT
-- [queued] normal | Students killed and injured in school explosion in Afghanistan's Kunar | Sat 28 Nov, 02:17 PM PKT
-- [queued] normal | Uganda launches Africa's first mRNA Ebola vaccine trial | Sat 28 Nov, 02:27 PM PKT
+- [needs_review] normal | PM Shehbaz orders simpler bank loan procedures to boost small business | Sat 28 Nov, 01:57 PM PKT
+- [needs_review] normal | Trump officials move to military bases amid mounting security threats | Sat 28 Nov, 02:07 PM PKT
+- [needs_review] normal | Students killed and injured in school explosion in Afghanistan's Kunar | Sat 28 Nov, 02:17 PM PKT
+- [published] normal | Uganda launches Africa's first mRNA Ebola vaccine trial | Sat 28 Nov, 02:27 PM PKT
 - [queued] normal | Yemen Forces Strike Houthi Positions Amid Dire UN Hunger Warning | Sat 28 Nov, 02:53 PM PKT
 - [published] promo | [YouTube] SYSTEM CHANGE IN PAKISTAN? ZARDARI, SHARIF & MAULANA DRAMA | Sat 28 Nov, 03:49 PM PKT
 - [queued] normal | Spain faces major political shift as far-right gains ground | Sat 28 Nov, 03:49 PM PKT
@@ -388,12 +413,16 @@ First reported by Dawn
 - [queued] normal | Taiwan Opposition Party Secures Victory in Taipei Mayoral Re-Election | Sat 28 Nov, 07:36 PM PKT
 - [queued] normal | Star Fast Bowler Naseem Shah Ruled Out of ILT20 Due to Knee Injury | Sat 28 Nov, 07:46 PM PKT
 - [queued] normal | Pakistani Envoy to Kuwait Visits National Injured in Drone Attack | Sat 28 Nov, 07:56 PM PKT
+- [queued] normal | Violence erupts at anti-government protests in Albania | Sat 28 Nov, 08:26 PM PKT
+- [queued] normal | Bangladesh's Mushfiqur Rahim to retire in February, board announces | Sat 28 Nov, 08:36 PM PKT
+- [queued] normal | Iran points to Europe’s war role after Italians killed in Kuwait strik | Sat 28 Nov, 08:46 PM PKT
+- [queued] normal | Albania police and protesters clash as thousands rally against governm | Sat 28 Nov, 08:56 PM PKT
 
 ## Publishing this run
-- Published 'Lahore-Rawalpindi High-Speed Rail Project Estimated to Cost Over Rs624 Billion'.
+- Published 'Uganda launches Africa's first mRNA Ebola vaccine trial'.
 
 ## Gemini usage
-- Calls: 3 | prompt tokens: 4605 | output tokens: 1453
+- Calls: 3 | prompt tokens: 4114 | output tokens: 1994
 - Errors: 2
   - Gemini gemini-3.8-flash: HTTP 503 {
   "error": {

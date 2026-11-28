@@ -195194,7 +195194,511 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d55641e0a30aaecd59d1c590",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T14:15:00+00:00",
+      "last_update": "2026-11-28T14:39:29+00:00",
+      "event": "Bangladesh's Mushfiqur Rahim to retire in February: board",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "bangladesh",
+        "board",
+        "february",
+        "geo",
+        "mushfiqur",
+        "news",
+        "rahim",
+        "retire"
+      ],
+      "source_excerpt": "Bangladesh's Mushfiqur Rahim to retire in February: board Geo News",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWExSlF2emRxMzJXU2JoWnp6cGZ3Sy1aeGFzSU5vYkdndkxaaHlQcG44M1V1SUlKQndrUUZzNzlqQ3Y4eTBNMGZjVTBhWkw3OTcxSG93cjRRdzlWRFlFT2FKdFkwaGF0NVVhYkV4M3dITzlhTW53RzlOT19SMkdLZW53Zzl1c3JwYlZORW1aWWU4QQ?oc=5",
+          "published_at": "2026-11-28T14:15:00+00:00"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/693028-bangladeshs-mushfiqur-rahim-to-retire-in-february-board",
+          "published_at": "2026-11-28T14:15:00+00:00"
+        },
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/bangladesh-batsman-mushfiqur-to-retire-in-february-board",
+          "published_at": "2026-11-28T14:39:29+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Geo News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWExSlF2emRxMzJXU2JoWnp6cGZ3Sy1aeGFzSU5vYkdndkxaaHlQcG44M1V1SUlKQndrUUZzNzlqQ3Y4eTBNMGZjVTBhWkw3OTcxSG93cjRRdzlWRFlFT2FKdFkwaGF0NVVhYkV4M3dITzlhTW53RzlOT19SMkdLZW53Zzl1c3JwYlZORW1aWWU4QQ?oc=5",
+        "publisher_url": "https://www.geo.tv",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "337f18428e620297aead70a9",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T14:57:51+00:00",
+      "last_update": "2026-11-28T14:57:51+00:00",
+      "event": "Violence erupts at anti-government protests in Albania",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "albania",
+        "anti",
+        "erupts",
+        "government",
+        "protests",
+        "violence"
+      ],
+      "source_excerpt": "Violence erupts at anti-government protests in Albania",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+          "published_at": "2026-11-28T14:57:51+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5548226725cb81eebc9baec1",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T14:50:01+00:00",
+      "last_update": "2026-11-28T14:50:01+00:00",
+      "event": "Albania police, protesters clash as thousands rally against the government",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "against",
+        "albania",
+        "antigovernment",
+        "are",
+        "clash",
+        "demanding",
+        "demonstrations",
+        "edi",
+        "government",
+        "latest",
+        "long",
+        "police",
+        "protesters",
+        "protests",
+        "rally",
+        "rama",
+        "resignation",
+        "series",
+        "the",
+        "thousands"
+      ],
+      "source_excerpt": "Protests are the latest in a long series of antigovernment demonstrations demanding the resignation of PM Edi Rama.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
+          "published_at": "2026-11-28T14:50:01+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed31ed40a646de78549eb049",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T14:43:12+00:00",
+      "last_update": "2026-11-28T14:43:12+00:00",
+      "event": "Swinney insists Scotland's NHS is safe despite hospital scandal",
+      "category": "politics",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "after",
+        "appointments",
+        "attend",
+        "avoidable",
+        "deaths",
+        "despite",
+        "first",
+        "grampian",
+        "highlighted",
+        "hospital",
+        "insists",
+        "leaked",
+        "medical",
+        "minister",
+        "nhs",
+        "people",
+        "report",
+        "safe",
+        "scandal",
+        "scotland",
+        "swinney",
+        "the",
+        "urged"
+      ],
+      "source_excerpt": "The first minister urged people to attend medical appointments after a leaked report highlighted avoidable deaths at NHS Grampian.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T14:43:12+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "9cb7bd2f59ef0cd9f8824a00",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T15:05:00+00:00",
+      "last_update": "2026-11-28T15:05:00+00:00",
+      "event": "Being scammed is 'such a challenge to overcome'",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ago",
+        "bank",
+        "being",
+        "challenge",
+        "from",
+        "griggs",
+        "him",
+        "ollie",
+        "overcome",
+        "phoned",
+        "pretending",
+        "says",
+        "scammed",
+        "someone",
+        "such",
+        "two",
+        "was",
+        "when",
+        "years"
+      ],
+      "source_excerpt": "Ollie Griggs says he was scammed two years ago when someone phoned him pretending to be from a bank.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg2n8px3rko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T15:05:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg2n8px3rko?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/c6vg2n8px3rko?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0d0563c7d02226f3acbb17e1",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T14:48:07+00:00",
+      "last_update": "2026-11-28T14:48:07+00:00",
+      "event": "Building collapse reported in Karachi's Mehmoodabad: Rescue 1122",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1122",
+        "building",
+        "collapse",
+        "dawn",
+        "karachi",
+        "mehmoodabad",
+        "reported",
+        "rescue"
+      ],
+      "source_excerpt": "Building collapse reported in Karachi's Mehmoodabad: Rescue 1122 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb182RzV5V3BCN1hsc3dqRmxXand2SHBrSTA5Z0QwdkQyay00Sm81VS1yUk9WMEFkdE5OVGpKVlNTYndBV2NKOFBCbVRST24ycGZrTU1EM240UjIzMWFCXzJEbEE5YmVvZWhyZW5jb1c2a3lfMWtkNEhLdFlNbV9QOE16a0ltR2VOSTZZNURZQlBzdWdtZ2hkYm1oTFk?oc=5",
+          "published_at": "2026-11-28T14:48:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb182RzV5V3BCN1hsc3dqRmxXand2SHBrSTA5Z0QwdkQyay00Sm81VS1yUk9WMEFkdE5OVGpKVlNTYndBV2NKOFBCbVRST24ycGZrTU1EM240UjIzMWFCXzJEbEE5YmVvZWhyZW5jb1c2a3lfMWtkNEhLdFlNbV9QOE16a0ltR2VOSTZZNURZQlBzdWdtZ2hkYm1oTFk?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "49fb2d5548224da49b61d489",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T15:21:15+00:00",
+      "last_update": "2026-11-28T15:21:15+00:00",
+      "event": "2 injured as building collapses in Karachi due to ‘gas explosion’",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "1122",
+        "and",
+        "building",
+        "burns",
+        "caused",
+        "col",
+        "collapsed",
+        "collapses",
+        "dispatched",
+        "due",
+        "evening",
+        "explosion",
+        "gas",
+        "injured",
+        "issued",
+        "its",
+        "karachi",
+        "mehmoodabad",
+        "near",
+        "officials",
+        "ostensibly",
+        "persons",
+        "rescue",
+        "said",
+        "saturday",
+        "scene",
+        "search",
+        "service",
+        "statement",
+        "team",
+        "that",
+        "the",
+        "two",
+        "urban",
+        "was",
+        "were",
+        "when",
+        "with"
+      ],
+      "source_excerpt": "KARACHI: Two persons were injured with burns when a building collapsed in an explosion ostensibly caused by gas near Mehmoodabad on Saturday evening, Rescue 1122 officials said. A statement issued by the rescue service said that its urban search and rescue team was dispatched to the scene of the col",
+      "sources": [
+        {
+          "name": "Dawn Pakistan",
+          "url": "https://www.dawn.com/news/2047686/2-injured-as-building-collapses-in-karachi-due-to-gas-explosion",
+          "published_at": "2026-11-28T15:21:15+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn Pakistan",
+        "url": "https://www.dawn.com/news/2047686/2-injured-as-building-collapses-in-karachi-due-to-gas-explosion",
+        "publisher_url": "https://www.dawn.com/news/2047686/2-injured-as-building-collapses-in-karachi-due-to-gas-explosion",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e273092fcbb00866f14f26d1",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T15:15:07+00:00",
+      "last_update": "2026-11-28T15:15:07+00:00",
+      "event": "Three killed, six injured in collision between truck and passenger bus in Karachi",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "between",
+        "bus",
+        "collision",
+        "injured",
+        "karachi",
+        "killed",
+        "passenger",
+        "six",
+        "three",
+        "truck"
+      ],
+      "source_excerpt": "Three killed, six injured in collision between truck and passenger bus in Karachi",
+      "sources": [
+        {
+          "name": "ARY News",
+          "url": "https://arynews.tv/three-killed-six-injured-in-collision-between-truck-and-passenger-bus-in-karachi",
+          "published_at": "2026-11-28T15:15:07+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "ARY News",
+        "url": "https://arynews.tv/three-killed-six-injured-in-collision-between-truck-and-passenger-bus-in-karachi",
+        "publisher_url": "https://arynews.tv/three-killed-six-injured-in-collision-between-truck-and-passenger-bus-in-karachi",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "db29737f9afc445d941b1220",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T15:10:45+00:00",
+      "last_update": "2026-11-28T15:10:45+00:00",
+      "event": "Pakistan teams storm into World Cup semi-finals",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cup",
+        "express",
+        "finals",
+        "into",
+        "pakistan",
+        "semi",
+        "storm",
+        "teams",
+        "the",
+        "tribune",
+        "world"
+      ],
+      "source_excerpt": "Pakistan teams storm into World Cup semi-finals The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczRod1ZGQzRvTzR1VVYybnl5WVUxNFpyWlRNVTkzZHpHdHVnejA4d2RKQ3lIWm9hMURTaWQ1ZHBQMmVMMUltM1BWZzBWLXBsXzU4V3lja1J6d3N0aFhZb21sZ3ctNXl3TlFWQXc1OXZJQUdJek9FTGZDYlhNT0xnYTU4SEdKVzliVVpSZtIBlAFBVV95cUxQRDRlZEY1SUlWaWc5R0hWZVpRQlJuYjlxTTdFQjVsSlVTek55SkpkX01ONWt0STlDV0loSjhEb2lUN25hU1l4VzRmN3h2LWxxV2xmakQzUU5SUHBHb0toNHA3UFRCV3pqZGpVdExUTGlXRi1RUHVMZHFpdld1T1A0Z2VHVXJqcVAwUXJGWDE5dGh1Qkdo?oc=5",
+          "published_at": "2026-11-28T15:10:45+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczRod1ZGQzRvTzR1VVYybnl5WVUxNFpyWlRNVTkzZHpHdHVnejA4d2RKQ3lIWm9hMURTaWQ1ZHBQMmVMMUltM1BWZzBWLXBsXzU4V3lja1J6d3N0aFhZb21sZ3ctNXl3TlFWQXc1OXZJQUdJek9FTGZDYlhNT0xnYTU4SEdKVzliVVpSZtIBlAFBVV95cUxQRDRlZEY1SUlWaWc5R0hWZVpRQlJuYjlxTTdFQjVsSlVTek55SkpkX01ONWt0STlDV0loSjhEb2lUN25hU1l4VzRmN3h2LWxxV2xmakQzUU5SUHBHb0toNHA3UFRCV3pqZGpVdExUTGlXRi1RUHVMZHFpdld1T1A0Z2VHVXJqcVAwUXJGWDE5dGh1Qkdo?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e9cb6ab9ff64f8ff3d710938",
+      "remembered_at": "2026-11-28T15:26:47.587448+00:00",
+      "event_date": "2026-11-28T11:35:34+00:00",
+      "last_update": "2026-11-28T11:35:34+00:00",
+      "event": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "alleged",
+        "alleges",
+        "apple",
+        "chatgpt",
+        "counter",
+        "employee",
+        "former",
+        "giant",
+        "maker",
+        "openai",
+        "over",
+        "secrets",
+        "stole",
+        "sues",
+        "tech",
+        "that",
+        "the",
+        "theft",
+        "through",
+        "trade"
+      ],
+      "source_excerpt": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T11:35:34+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T14:32:18.597928+00:00"
+  "updated_at": "2026-11-28T15:26:47.587448+00:00"
 }
