@@ -187379,7 +187379,563 @@
         "basis": "Original publisher feed/search item; direct publishing lane."
       },
       "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "ed72b438a38db3827b873727",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:50:11+00:00",
+      "last_update": "2026-11-28T00:50:11+00:00",
+      "event": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "bollywood",
+        "dancer",
+        "fans",
+        "flim",
+        "for",
+        "happened",
+        "indian",
+        "life",
+        "narayangaonkar",
+        "never",
+        "new",
+        "paid",
+        "queen",
+        "remarkable",
+        "show",
+        "singer",
+        "spotlights",
+        "tamasha",
+        "that",
+        "the",
+        "vithabhai",
+        "whose"
+      ],
+      "source_excerpt": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T00:50:11+00:00"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTDhDaFFzQk5McHJKWmIySTJfMkFZb3dLelRTMG1wdWNOUEgzMDF6TWxGaEh3RXNWRmZYOGtZS293bmNDTmNlSjc2eU9VYzYzUnJwUE9uVzZyYnc?oc=5",
+          "published_at": "2026-11-28T00:50:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "338fe3e4fc45a094a9e74716",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T01:00:00+00:00",
+      "last_update": "2026-11-28T01:00:00+00:00",
+      "event": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "and",
+        "anger",
+        "basic",
+        "cost",
+        "day",
+        "deteriorating",
+        "electricity",
+        "erupt",
+        "frustration",
+        "high",
+        "join",
+        "living",
+        "national",
+        "outrage",
+        "over",
+        "protest",
+        "puerto",
+        "rates",
+        "record",
+        "ricans",
+        "services",
+        "surging",
+        "thousands"
+      ],
+      "source_excerpt": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+          "published_at": "2026-11-28T01:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+        "publisher_url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "0871215a36e330da2b0dbd1f",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T01:00:00+00:00",
+      "last_update": "2026-11-28T01:00:00+00:00",
+      "event": "Tech Now",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "act",
+        "ammie",
+        "could",
+        "day",
+        "help",
+        "independently",
+        "looks",
+        "now",
+        "one",
+        "robotics",
+        "sekhon",
+        "spacecraft",
+        "tech",
+        "that"
+      ],
+      "source_excerpt": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T01:00:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "d134519e7c063a2eb3aaf9de",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T01:03:11+00:00",
+      "last_update": "2026-11-28T01:03:11+00:00",
+      "event": "Should I get a flu vaccine now?",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "amid",
+        "and",
+        "are",
+        "but",
+        "flu",
+        "get",
+        "health",
+        "healthy",
+        "influenza",
+        "now",
+        "officials",
+        "people",
+        "should",
+        "surge",
+        "urging",
+        "vaccine",
+        "what",
+        "you",
+        "young"
+      ],
+      "source_excerpt": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T01:03:11+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC Health",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "4cfecd006cc0f36c3bd72ef8",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T01:20:35+00:00",
+      "last_update": "2026-11-28T01:20:35+00:00",
+      "event": "Nigeria's 'ultimate hard man' who become an online meme",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "become",
+        "becoming",
+        "before",
+        "broadcasting",
+        "built",
+        "career",
+        "edochie",
+        "film",
+        "hard",
+        "household",
+        "industry",
+        "man",
+        "meme",
+        "name",
+        "nigeria",
+        "nigerian",
+        "online",
+        "the",
+        "ultimate",
+        "who"
+      ],
+      "source_excerpt": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T01:20:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+        "publisher_url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "78171e2c62ee94d7db5326bd",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T01:20:35+00:00",
+      "last_update": "2026-11-28T01:20:35+00:00",
+      "event": "Pete Edochie: How Nigeria's Things Fall Apart star became a Nollywood legend",
+      "category": "other",
+      "scope": "international",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "apart",
+        "bbc",
+        "became",
+        "edochie",
+        "fall",
+        "how",
+        "legend",
+        "nigeria",
+        "nollywood",
+        "pete",
+        "star",
+        "things"
+      ],
+      "source_excerpt": "Pete Edochie: How Nigeria's Things Fall Apart star became a Nollywood legend BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRnZNcjZyVmZQaTJNQmkxSDBGTTVKaUFydHd3Wlh5TERWZFJpdVFKR29TNWpGazNaLXlQcF90OG84TVRDWXV3MzJteEd3UC1JVmlRVFdXMnFQX00?oc=5",
+          "published_at": "2026-11-28T01:20:35+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRnZNcjZyVmZQaTJNQmkxSDBGTTVKaUFydHd3Wlh5TERWZFJpdVFKR29TNWpGazNaLXlQcF90OG84TVRDWXV3MzJteEd3UC1JVmlRVFdXMnFQX00?oc=5",
+        "publisher_url": "https://www.bbc.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "e606730499be1666abc96698",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:45:00+00:00",
+      "last_update": "2026-11-28T00:45:00+00:00",
+      "event": "Sweden turns the page: a lesson for Pakistan's classrooms",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "classrooms",
+        "express",
+        "for",
+        "lesson",
+        "page",
+        "pakistan",
+        "sweden",
+        "the",
+        "tribune",
+        "turns"
+      ],
+      "source_excerpt": "Sweden turns the page: a lesson for Pakistan's classrooms The Express Tribune",
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmlxSG1XUXlRR3FTQU5HQjh6VWlrVHVLRGdPOGxhX0VBLXcxdUZMams5dXJpU2VYcFg2RWpSMldyN2dTSUg1TVpDY3Rrel9ocnZZcUdyRzZIUjhNWHN1UkVGNEt5LVNpOEJSZjdsM1F5ZkJGRDhTQkM0b09iN3lwT1FmT1dZdjdjazN4RndUMmRYQXRRQWFv0gGfAUFVX3lxTE45R0ExZ1JqUVN0SXpuRUstUlNfQmx5SVlmTWh5Sm1GWnVYc1RXQ1p1cXRvcnlpejlxXzc1QnZyaHdJMlhSbTZXT0dmS183U2Z5QlZkOUhINUZkN2lZeFBaeWV4bkRxTEYtN2xPcDJOTURzX0Fadk1qXzRIZEN6RnMtb2FyR2pRQURfdXVhZl9sejM0ems0R0xuVW11eTM5SQ?oc=5",
+          "published_at": "2026-11-28T00:45:00+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmlxSG1XUXlRR3FTQU5HQjh6VWlrVHVLRGdPOGxhX0VBLXcxdUZMams5dXJpU2VYcFg2RWpSMldyN2dTSUg1TVpDY3Rrel9ocnZZcUdyRzZIUjhNWHN1UkVGNEt5LVNpOEJSZjdsM1F5ZkJGRDhTQkM0b09iN3lwT1FmT1dZdjdjazN4RndUMmRYQXRRQWFv0gGfAUFVX3lxTE45R0ExZ1JqUVN0SXpuRUstUlNfQmx5SVlmTWh5Sm1GWnVYc1RXQ1p1cXRvcnlpejlxXzc1QnZyaHdJMlhSbTZXT0dmS183U2Z5QlZkOUhINUZkN2lZeFBaeWV4bkRxTEYtN2xPcDJOTURzX0Fadk1qXzRIZEN6RnMtb2FyR2pRQURfdXVhZl9sejM0ems0R0xuVW11eTM5SQ?oc=5",
+        "publisher_url": "https://tribune.com.pk",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "747d3a92e846dd18024b1c7c",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:00:05+00:00",
+      "last_update": "2026-11-28T00:00:05+00:00",
+      "event": "Philippine VP not hopeful of fair hearing in father’s trial",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "fair",
+        "father",
+        "hearing",
+        "hopeful",
+        "not",
+        "philippine",
+        "trial"
+      ],
+      "source_excerpt": "Philippine VP not hopeful of fair hearing in father’s trial Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0I1NjlNN0VkeTlGWFZEeXhwNnNNbkNoTGlGTFRfZXIzVEMwNUt2NUVaT3hRLTN0SzZxeVM0M0ZXdkU2cHc5VXVkektwTGRLWVdtbzBEb2lPa3BmUWctT2FmSGVNbkdmb2FwTkRjUElpMVlrMklMUGRjbEx1d3lyd2JaNWpKVjUyM1NOR0JTejBOYWFlMzlV?oc=5",
+          "published_at": "2026-11-28T00:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0I1NjlNN0VkeTlGWFZEeXhwNnNNbkNoTGlGTFRfZXIzVEMwNUt2NUVaT3hRLTN0SzZxeVM0M0ZXdkU2cHc5VXVkektwTGRLWVdtbzBEb2lPa3BmUWctT2FmSGVNbkdmb2FwTkRjUElpMVlrMklMUGRjbEx1d3lyd2JaNWpKVjUyM1NOR0JTejBOYWFlMzlV?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "38f57ec2451dcdc4c4510ef2",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:00:05+00:00",
+      "last_update": "2026-11-28T00:00:05+00:00",
+      "event": "Kremlin not happy with Armenia’s EU ambitions",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "ambitions",
+        "armenia",
+        "dawn",
+        "happy",
+        "kremlin",
+        "not",
+        "with"
+      ],
+      "source_excerpt": "Kremlin not happy with Armenia’s EU ambitions Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0FjVzg0aDN4RW9wQURzYWpfOWhOU3BNRWV0SjJNRjVXWHVsT3JwWWc0aF9IcmM0S1VyRHF1c1hEQm1QTjBEV2RIaWFvWlhVcUxXS183Z1RnZ25CTzAxSnZuTkk3ZWVvMHkwMmdKZ0lKVV9EWTNfUURTOVNGal8wSTFueXU?oc=5",
+          "published_at": "2026-11-28T00:00:05+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0FjVzg0aDN4RW9wQURzYWpfOWhOU3BNRWV0SjJNRjVXWHVsT3JwWWc0aF9IcmM0S1VyRHF1c1hEQm1QTjBEV2RIaWFvWlhVcUxXS183Z1RnZ25CTzAxSnZuTkk3ZWVvMHkwMmdKZ0lKVV9EWTNfUURTOVNGal8wSTFueXU?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "961a2e43d151719705647c88",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:02:58+00:00",
+      "last_update": "2026-11-28T00:02:58+00:00",
+      "event": "Profit-taking drags PSX below 178,000",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "000",
+        "178",
+        "below",
+        "dawn",
+        "drags",
+        "profit",
+        "psx",
+        "taking"
+      ],
+      "source_excerpt": "Profit-taking drags PSX below 178,000 Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5",
+          "published_at": "2026-11-28T00:02:58+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YX3dhUmFXd0p1eW5QcHpxYkFyMjlWbzdzeURfQzdkbmdPdTI4RnhVM2htWm1uWXFTNTRSZE5OcjVvaWlJR1ZzY0R2TnFYbjRQYWJtaUdBNi1MZ2pwampmUVJ3WHZ4bGpYeDN6VEx2M2RRRFFqeVlGS1N3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "08b08f108a772a8e5d71002d",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:03:20+00:00",
+      "last_update": "2026-11-28T00:03:20+00:00",
+      "event": "Kundi for tapping KP’s hydropower potential",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "dawn",
+        "for",
+        "hydropower",
+        "kundi",
+        "potential",
+        "tapping"
+      ],
+      "source_excerpt": "Kundi for tapping KP’s hydropower potential Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmRtMFBkeDlYMjJpeTdudUJFWnN6WUM3d0Jja0NfLXJiaW02eEM0YUZNcm5uc19HZmIyMGtKWXpUcF9RN2pFalpUb1hQUDlBbDhzX3hXbjQ0aHBmZVBSNTRPX2t6ZFZrVms5U082RU1VRE9KVmNKX1NreHV0ZlRWSUF3?oc=5",
+          "published_at": "2026-11-28T00:03:20+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmRtMFBkeDlYMjJpeTdudUJFWnN6WUM3d0Jja0NfLXJiaW02eEM0YUZNcm5uc19HZmIyMGtKWXpUcF9RN2pFalpUb1hQUDlBbDhzX3hXbjQ0aHBmZVBSNTRPX2t6ZFZrVms5U082RU1VRE9KVmNKX1NreHV0ZlRWSUF3?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
+    },
+    {
+      "id": "5e697a793e569cb6b395c2af",
+      "remembered_at": "2026-11-28T01:52:00.496149+00:00",
+      "event_date": "2026-11-28T00:05:27+00:00",
+      "last_update": "2026-11-28T00:05:27+00:00",
+      "event": "Cook-it-yourself: Cheeseburger hotpockets",
+      "category": "other",
+      "scope": "national",
+      "importance": 0,
+      "public_interest": 0,
+      "claim_status": "publisher_report",
+      "people": [],
+      "organisations": [],
+      "locations": [],
+      "keywords": [
+        "cheeseburger",
+        "cook",
+        "dawn",
+        "hotpockets",
+        "yourself"
+      ],
+      "source_excerpt": "Cook-it-yourself: Cheeseburger hotpockets Dawn",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SFRZNkladU5DYi1oLVB1NkJCakpFSzVfM3lpSExVc2tpZ1RjRTl2dW5tcGRWYWNYZEpLaTFpTkh3UzFEMkFxVk93cXhuRi01MVFZYnhRZ0U4R002TVNiQVpmRERtZlRkaVlVcTVubVVPeGZKRHhYamZ4dXhVYnM?oc=5",
+          "published_at": "2026-11-28T00:05:27+00:00"
+        }
+      ],
+      "original_source": {
+        "type": "published_report",
+        "name": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SFRZNkladU5DYi1oLVB1NkJCakpFSzVfM3lpSExVc2tpZ1RjRTl2dW5tcGRWYWNYZEpLaTFpTkh3UzFEMkFxVk93cXhuRi01MVFZYnhRZ0U4R002TVNiQVpmRERtZlRkaVlVcTVubVVPeGZKRHhYamZ4dXhVYnM?oc=5",
+        "publisher_url": "https://www.dawn.com",
+        "basis": "Original publisher feed/search item; direct publishing lane."
+      },
+      "editorial_status": "archived_not_independently_reverified"
     }
   ],
-  "updated_at": "2026-11-28T00:23:19.449118+00:00"
+  "updated_at": "2026-11-28T01:52:00.496149+00:00"
 }

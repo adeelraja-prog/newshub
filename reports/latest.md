@@ -1,178 +1,195 @@
-# News Hub report - Sat 28 Nov, 05:23 AM PKT
+# News Hub report - Sat 28 Nov, 06:52 AM PKT
 
 ## Collection
-- New items this run: 66 | items in rolling pool: 308
-- Unique story clusters: 249 (duplicates merged: 59)
-- Clusters dropped as already published/queued: 25; unchanged since last analysis: 16
-- Items per outlet: Dawn 49, Al Jazeera 5, The Verge 4, AP News 2, Geo News 1, Wired 1, BBC World 1, Association of Flight Attendants-CWA 1, KATU 1, KCBY 1, The News International 0
+- New items this run: 55 | items in rolling pool: 252
+- Unique story clusters: 212 (duplicates merged: 40)
+- Clusters dropped as already published/queued: 24; unchanged since last analysis: 9
+- Items per outlet: The Express Tribune 23, Dawn 13, Geo News 3, BBC 3, Al Jazeera 2, The Verge 2, BBC Technology 2, GSMArena 1, BBC Health 1, BBC World 1, Iran International 1, The Jerusalem Post 1
 - Trend data: Google Trends Pakistan (10 trending queries); discovery signals only, never verification
 
 ## YouTube channel promotions
 - Feed entries checked: 30 | new uploads queued: 0 | first-run seeded: 0
 
 ## Top 5 most important
-- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most trending (measured signals)
-- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Top 5 most viral (editorial estimate, not measured)
-- Storm disrupts Thanksgiving holiday along US East Coast | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- At least eight found dead on migrant boat off Spain’s Canary Islands | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- Behind China's spectacular rise, voices who defied it say they are being drowned out | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
-- 'It is 14 years since our super fit teenager died suddenly - and we still don't know why' | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- The Indian 'Tamasha queen' whose fans paid for a show that never happened | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Thousands of Puerto Ricans join ‘Day of National Outrage’ protest | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Tech Now | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Should I get a flu vaccine now? | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
+- Nigeria's 'ultimate hard man' who become an online meme | imp 0 | trend 0 (not_assessed) | viral~0 | conf 0 | urgency 0
 
 ## Source health
-- Overall feeds with entries: 114/120 | empty: 4 | failed: 1 | malformed/partial: 3
+- Overall feeds with entries: 116/120 | empty: 3 | failed: 0 | malformed/partial: 1
 - Trusted publisher desks with at least one healthy source: 10/10
-- ATTENTION: The News International | HTTP/status=ERROR | entries=0 | malformed=True
 - ATTENTION: UrduPoint | HTTP/status=200 | entries=100 | malformed=True
 - ATTENTION: Express News TV Search | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Express News TV | HTTP/status=200 | entries=0 | malformed=False
 - ATTENTION: Gilgit-Baltistan Desk | HTTP/status=200 | entries=0 | malformed=False
-- ATTENTION: PhoneWorld | HTTP/status=200 | entries=0 | malformed=True
 
 ## Selected for the queue
-### Sweden Clinic Pioneers ADHD And Autism Reassessments Amid Stigma Fears  [NORMAL]
-- Poster: ایডিএইচডি اور آٹزم کی تشخیص پر نظرثانی کرنے والا دنیا کا پہلا کلینک / World's First ADHD and Autism Reassessment Clinic Opens in Sweden | category health
-- Alternative headline: World's First Reassessment Clinic For ADHD And Autism Raises Concerns
-- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
-- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
-- Trend evidence (not_assessed): none
-- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC World
-- Keywords: ADHD reassessment, autism diagnosis, Sweden clinic, psychiatric assessment, stigma, mental health | hashtags: #ADHD #Autism #Sweden #MentalHealth #Healthcare
-- Scheduled: Sat 28 Nov, 05:23 AM PKT
-- Caption:
-```
-A unique government-funded clinic in Sweden is reassessing people with ADHD and autism diagnoses, but critics fear it could deepen stigma.
-
-A government-funded psychiatric clinic in Sweden has launched dedicated reassessments for people previously diagnosed with ADHD and autism. While some individuals question their original diagnoses due to personal doubts or life barriers like career restrictions, critics warn that the process could potentially deepen social stigma.
-
-سویڈن میں ایک سرکاری کلینک نے ان افراد کے لیے تشخیص پر نظرثانی شروع کی ہے جنہیں پہلے ایডিএইচডি یا آٹزم کی تشخیص ہوئی تھی۔ جہاں کچھ لوگ ذاتی شک یا کیریئر کی رکاوٹوں کی وجہ سے اپنی تشخیص پر سوال اٹھاتے ہیں، وہیں ناقدین کا کہنا ہے کہ اس عمل سے سماجی بدنامی میں اضافہ ہو سکتا ہے۔
-
-First reported by BBC World.
-
-#ADHD #Autism #Sweden #MentalHealth #Healthcare
-```
-
-### Power Outages And Travel Disruptions As Storm Batters US East Coast  [NORMAL]
-- Poster: امریکہ میں طوفان نے تھینکس گیونگ کی تعطیلات اور نظام زندگی درہم برہم کر دیا / Storm Disrups Thanksgiving Holiday Along US East Coast | category weather
-- Alternative headline: US East Coast Cleans Up After Major Thanksgiving Storm Disrupts Holidays
+### JUI-F protests official treatment of Maulana Fazlur Rehman  [NORMAL]
+- Poster: جمعیت علمائے اسلام کا مولانا فضل الرحمٰن کے ساتھ رویے پر احتجاج / JUI-F protests treatment of Fazl | category politics
+- Alternative headline: Malana Fazl's party raises voice against official treatment
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established Pakistani newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Dawn https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHdhYkFjRVRMQlg3UG05dC1JbVJTWVZ6THFTWTRDRE4wVVM1NUl3RDMtTTE0S0I0eTRZZ1ZYSnF5dDFib1k1c1F3N0FvWTZmRnE3Ulp4TDJPZzhzX1NGZjBkVmdMd0V5aG5pOHRraGpWc2F3OEQ2bU1iSUpWZzVFYTg0YmNLcnJ2SEt2VlRLY2llM0E?oc=5
-- Supporting coverage: AP News, Dawn
-- Keywords: US storm, Thanksgiving storm, East Coast, power outages, weather disruption, US weather | hashtags: #USStorm #Thanksgiving #EastCoast #PowerOutage #Weather
-- Scheduled: Sat 28 Nov, 05:33 AM PKT
+- Original source: published_report - Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Dawn https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0NvSTE0aXNmX2JSaEtremJjVjZGZERxSGZhRGsxaUZzejBJQ3ZCY3RXT3NhTGFwbGFFc3hZd2c1ZmpvcEx5SDdhYUhJemM0M0pJR2NhVGNfNFdnMi1NYVJQc0lGMW5SZ3hmcmVfWGs5c0J1SGE0MzRwSVpsLWhFTlRB?oc=5
+- Supporting coverage: Dawn
+- Keywords: JUI-F protest, Maulana Fazlur Rehman, Dawn news, politics, Pakistan politics | hashtags: #JUIF #MaulanaFazlurRehman #PakistanPolitics #DawnNews
+- Scheduled: Sat 28 Nov, 06:52 AM PKT
 - Caption:
 ```
-Parts of the US are cleaning up and restoring power outages after a major storm soaked the East Coast during Thanksgiving.
+JUI-F has strongly protested against the treatment meted out to party chief Maulana Fazlur Rehman.
 
-A severe storm disrupted the Thanksgiving holiday across the US East Coast, bringing heavy downpours and travel disruptions. Communities are now working on recovery efforts, including cleaning up debris and restoring power outages that affected numerous residents during the festive break.
+The Jui-F has staged protests regarding the treatment meted out to party chief Maulana Fazlur Rehman, according to Dawn. The party expressed deep concerns and dissatisfaction over the official approach towards their leadership.
 
-ایک شدید طوفان نے امریکی مشرقی ساحل پر تھینکس گیونگ کی تعطیلات کو متاثر کیا، جس کی وجہ سے شدید بارشیں ہوئیں۔ متاثرہ علاقے اب صفائی اور بجلی کی بندش کو بحال کرنے کی کوششوں میں مصروف ہیں جو تہوار کے دوران شہریوں کو پیش آئیں۔
+ڈان کے مطابق جمعیت علمائے اسلام (جے یو آئی ایف) نے پارٹی سربراہ مولانا فضل الرحمٰن کے ساتھ روا رکھے جانے والے رویے کے خلاف احتجاج کیا ہے۔ پارٹی نے اپنی قیادت کے ساتھ برتاؤ پر شدید تحفظات کا اظہار کیا ہے۔
 
-First reported by Dawn.
+First reported by Dawn
 
-#USStorm #Thanksgiving #EastCoast #PowerOutage #Weather
+#JUIF #MaulanaFazlurRehman #PakistanPolitics #DawnNews
 ```
 
-### At Least Eight Migrants Found Dead On Boat Off Canary Islands  [NORMAL]
-- Poster: سپین کے کینری جزائر کے قریب تارکین وطن کی کشتی سے آٹھ لاشیں برآمد / At least eight found dead on migrant boat off Canary Islands | category disaster
-- Alternative headline: Tragedy Off Spain: Eight Dead Found On Migrant Vessel Near Canary Islands
+### New film spotlights legendary Indian dancer Vithabhai Narayangaonkar  [NORMAL]
+- Poster: بالی ووڈ فلم بھارتی رقاصہ وتھا بائی نارائن گاؤںکر کی زندگی پر اجاگر / New film spotlights Vithabhai Narayangaonkar | category other
+- Alternative headline: The tragic story of Tamasha queen Vithabhai Narayangaonkar
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss
-- Supporting coverage: Al Jazeera, Dawn
-- Keywords: migrant boat, Canary Islands, Spain migration, rescue service, boat tragedy, migrant deaths | hashtags: #CanaryIslands #Migration #Spain #Rescue #BreakingNews
-- Scheduled: Sat 28 Nov, 05:43 AM PKT
+- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC, BBC
+- Keywords: Vithabhai Narayangaonkar, Tamasha queen, Bollywood film, dancer singer, BBC news | hashtags: #Bollywood #VithabhaiNarayangaonkar #Tamasha #BBC
+- Scheduled: Sat 28 Nov, 07:02 AM PKT
 - Caption:
 ```
-At least eight people were found dead on a migrant boat off Spain’s Canary Islands, with several others hospitalised in serious condition.
+A new Bollywood film sheds light on the remarkable life of dancer and singer Vithabhai Narayangaonkar.
 
-Spanish rescue services reported that at least eight people were found dead aboard a migrant boat off Spain's Canary Islands. Additionally, six people were airlifted to a hospital in serious condition as rescue operations responded to the maritime tragedy.
+A new Bollywood film spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar, exploring her legacy as a renowned Tamasha queen whose fans experienced shows that left lasting impacts, as reported by BBC.
 
-ہسپانوی ریسکیو حکام نے بتایا ہے کہ سپین کے کینری جزائر کے قریب تارکین وطن کی ایک کشتی سے کم از کم آٹھ افراد کی لاشیں ملی ہیں۔ اس کے علاوہ، چھ افراد کو تشویشناک حالت میں ہسپتال منتقل کر دیا گیا ہے۔
+بی بی سی کے مطابق ایک نئی بالی ووڈ فلم رقاصہ اور گلوکارہ وتھا بائی نارائن گاؤںکر کی شاندار زندگی پر روشنی ڈالتی ہے، جن کی فنی خدمات نے ناظرین پر گہرے نقوش چھوڑے۔
 
-First reported by Al Jazeera.
+First reported by BBC
 
-#CanaryIslands #Migration #Spain #Rescue #BreakingNews
+#Bollywood #VithabhaiNarayangaonkar #Tamasha #BBC
 ```
 
-### Dissidents Say Their Voices Are Drowned Out Amid China's Rise  [NORMAL]
-- Poster: چین کے عروج کے پیچھے نقادوں کا کہنا ہے کہ ان کی آوازیں دبائی جا رہی ہیں / Voices defying China's rise say they are being drowned out | category world
-- Alternative headline: Behind China's Global Rise, Critics Warn Dissident Voices Are Silenced
+### Thousands of Puerto Ricans join 'Day of National Outrage'  [NORMAL]
+- Poster: ہزاروں پورٹو ریکن باشندوں کا بجلی کے مہنگے نرخوں کیخلاف احتجاج / Puerto Ricans join National Outrage protest | category other
+- Alternative headline: Massive protests erupt in Puerto Rico over high electricity rates
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss
-- Supporting coverage: BBC
-- Keywords: China rise, dissidents, soft power, critics, global influence, censorship | hashtags: #China #Dissidents #GlobalPolitics #HumanRights #BBC
-- Scheduled: Sat 28 Nov, 05:53 AM PKT
+- Original source: published_report - Al Jazeera https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: Al Jazeera https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss
+- Supporting coverage: Al Jazeera
+- Keywords: Puerto Rico protest, Day of National Outrage, electricity rates, cost of living, Al Jazeera | hashtags: #PuertoRico #NationalOutrage #Protest #AlJazeera
+- Scheduled: Sat 28 Nov, 07:12 AM PKT
 - Caption:
 ```
-As China projects immense global clout and soft power, critics and dissidents argue that their voices are being increasingly drowned out.
+Anger and frustration have erupted across Puerto Rico as thousands joined the 'Day of National Outrage' protest.
 
-China's growing global influence and the expansion of its soft power have sparked concerns among critics and dissidents. Individuals who have defied the state or its policies report that their perspectives and opposition voices are being systematically sidelined and drowned out.
+Thousands of Puerto Ricans participated in the 'Day of National Outrage' protest, driven by anger over record-high electricity rates, a surging cost of living, and deteriorating basic services, according to Al Jazeera.
 
-چین کے بڑھتے ہوئے عالمی اثر و رسوخ اور نرم طاقت کے پھیلاؤ نے نقادوں اور اختلاف کرنے والوں میں تشویش پیدا کر دی ہے۔ ریاست کی مخالفت کرنے والے افراد کا کہنا ہے کہ ان کے نقطہ نظر اور آوازوں کو منظم طریقے سے دبایا جا رہا ہے۔
+الجزیرہ کے مطابق ہزاروں پورٹو ریکن باشندوں نے بجلی کے ریکارڈ بلند نرخوں، مہنگائی میں اضافے اور بنیادی سہولتوں کی ابتر صورتحال کے خلاف 'قومی اشتعال کے دن' کے احتجاج میں حصہ لیا۔
 
-First reported by BBC.
+First reported by Al Jazeera
 
-#China #Dissidents #GlobalPolitics #HumanRights #BBC
+#PuertoRico #NationalOutrage #Protest #AlJazeera
 ```
 
-### Family Seeks Answers 14 Years After Teenager's Sudden Death  [NORMAL]
-- Poster: صحت مند نوجوان کی اچانک موت کے 14 سال بعد بھی خاندان وجوہات سے لاعلم / 14 years since fit teen's sudden death, family seeks answers | category health
-- Alternative headline: Unsolved Mystery: Why Did A Super Fit Teenager Die Suddenly 14 Years Ago?
+### BBC Technology explores autonomous space travel and tech innovations  [NORMAL]
+- Poster: بی بی سی ٹیکنالوجی نے خودکار خلائی سفر اور نئی ایجادات کا جائزہ لیا / Tech Now explores space travel innovations | category tech
+- Alternative headline: Tech Now explores AI early warning systems and space travel
 - Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
 - Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
 - Trend evidence (not_assessed): none
-- Original source: published_report - BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5 | basis: Original publisher feed/search item; direct publishing lane.
-- Discovery source: BBC https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTEtaUFpoNU11cEIyZlVESFF5NEVvQVc5dEp1UE5yOUNLWlBnOTN4YXJwVzNxcWdZdUVTajZlTVVqWDEzNERCekM3US0teWw2blBsNkxGVGIzVGc?oc=5
-- Supporting coverage: BBC
-- Keywords: sudden death, fit teenager, unexplained death, family grief, medical mystery, health | hashtags: #SuddenDeath #HealthMystery #Family #BBC #MedicalResearch
-- Scheduled: Sat 28 Nov, 06:03 AM PKT
+- Original source: published_report - BBC Technology https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Technology https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Technology
+- Keywords: Tech Now, BBC Technology, space travel, AI early warning, innovations | hashtags: #TechNow #BBC #SpaceTravel #ArtificialIntelligence
+- Scheduled: Sat 28 Nov, 07:22 AM PKT
 - Caption:
 ```
-It has been 14 years since a super fit teenager died suddenly, leaving a grieving family still searching for answers.
+BBC's Tech Now explores cutting-edge innovations including autonomous space travel and tech used against natural disasters.
 
-A family continues to seek answers fourteen years after the sudden and unexplained death of their extremely fit teenager. The lingering mystery highlights the ongoing pain and unanswered questions surrounding sudden unexplained deaths in young, healthy individuals.
+BBC Technology's 'Tech Now' features various episodes exploring technological advancements, ranging from autonomous space travel and AI early warning systems for landslides to tech monitoring wildfire damage and counterfeit products online, as reported by BBC Technology.
 
-ایک انتہائی صحت مند نوجوان کی اچانک اور پراسرار موت کے چودہ سال بعد بھی اس کا خاندان وجوہات جاننے کے لیے پریشان ہے۔ یہ طویل مدتی معمہ کم عمر اور صحت مند افراد میں اچانک ہونے والی اموات کے گرد منڈلاتے سوالات کو اجاگر کرتا ہے۔
+بی بی سی ٹیکنالوجی کے مطابق 'ٹیک ناؤ' کے مختلف اقساط میں خودکار خلائی سفر، لینڈ سلائیڈز کے لیے مصنوعی ذہانت کے ارلی وارننگ سسٹمز اور جنگلات کی آگ کی مانیٹرنگ جیسی جدید تکنیکی ترقی کا جائزہ لیا گیا ہے۔
 
-First reported by BBC.
+First reported by BBC Technology
 
-#SuddenDeath #HealthMystery #Family #BBC #MedicalResearch
+#TechNow #BBC #SpaceTravel #ArtificialIntelligence
 ```
 
-- Indian outlets blocked this run: 1 items
+### Health officials urge flu vaccination amid rising hospital admissions  [NORMAL]
+- Poster: صحت کے حکام کی اسپتالوں میں مریضوں کے اضافے پر فلو ویکسین لگوانے کی ہدایت / Health officials urge flu vaccination | category health
+- Alternative headline: Should you get a flu vaccine now? Health experts advise
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC Health https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC Health https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC Health
+- Keywords: flu vaccine, health officials, BBC Health, hospital patients, virus | hashtags: #FluVaccine #HealthNews #BBCHealth #PublicHealth
+- Scheduled: Sat 28 Nov, 07:32 AM PKT
+- Caption:
+```
+Health officials are urging vulnerable groups to get free flu vaccines as hospital admissions surge.
+
+Health officials are urging more people to get free flu vaccines as hospital patients seriously ill with the virus rise sharply. Experts note that while flu activity remains at moderate levels, getting vaccinated helps prevent severe complications, according to BBC Health.
+
+بی بی سی ہیلتھ کے مطابق صحت کے حکام نے زیادہ سے زیادہ لوگوں پر زور دیا ہے کہ وہ فلو کی مفت ویکسین لگوائیں کیونکہ وائرس سے شدید بیمار ہو کر اسپتال آنے والے مریضوں کی تعداد میں تیزی سے اضافہ ہو رہا ہے۔
+
+First reported by BBC Health
+
+#FluVaccine #HealthNews #BBCHealth #PublicHealth
+```
+
+### Legendary Nigerian actor Pete Edochie passes away at 79  [NORMAL]
+- Poster: نائیجیریا کے نامور اداکار پیٹ ایڈوچی 79 برس کی عمر میں انتقال کر گئے / Nigerian actor Pete Edochie dies at 79 | category other
+- Alternative headline: Remembering Pete Edochie: Nigeria's iconic actor and online meme
+- Scores: {'importance': 0, 'trend_score': 0, 'viral_potential': 0, 'pakistan_relevance': 0, 'public_interest': 0, 'urgency': 0, 'confidence': 0, 'composite': 0} | lifecycle emerging | claim status publisher_report
+- Why ranked: Direct publisher lane; no AI assessment or second-source check. | Why Pakistan cares: Published by an established international newsroom.
+- Trend evidence (not_assessed): none
+- Original source: published_report - BBC World https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss | basis: Original publisher feed/search item; direct publishing lane.
+- Discovery source: BBC World https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss
+- Supporting coverage: BBC World
+- Keywords: Pete Edochie, Nigerian actor, Things Fall Apart, Okonkwo, BBC World | hashtags: #PeteEdochie #Nigeria #Nollywood #BBCWorld
+- Scheduled: Sat 28 Nov, 07:42 AM PKT
+- Caption:
+```
+Renowned Nigerian actor Pete Edochie, famous for his iconic role as Okonkwo, has passed away at 79.
+
+Pete Edochie, a celebrated Nigerian actor known for his iconic portrayal of Okonkwo in a television adaptation of Chinua Achebe's novel Things Fall Apart, has died at 79 following a battle with prostate cancer, according to BBC World.
+
+بی بی سی ورلڈ کے مطابق نائیجیریا کے نامور اداکار پیٹ ایڈوچی، جو ناول 'تھنگز فال اپارٹ' میں اوكونکو کے کردار سے دنیا بھر میں مشہور ہوئے، پروسٹیٹ کینسر کے باعث 79 برس کی عمر میں انتقال کر گئے ہیں۔
+
+First reported by BBC World
+
+#PeteEdochie #Nigeria #Nollywood #BBCWorld
+```
+
+- Indian outlets blocked this run: 0 items
 
 ## Today
-- News posts published today: 6 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 27
+- News posts published today: 7 (maximum 144; no daily volume target) | current spacing: 10 min | normal stories waiting: 26
 
 ## Queue status
-- [published] normal | Houthis threaten Saudi ports as coalition issues evacuation order | Wed 25 Nov, 05:31 AM PKT
-- [published] normal | Huawei found guilty of stealing trade secrets in US trial | Wed 25 Nov, 05:41 AM PKT
-- [published] normal | Arsenal and Borussia Dortmund draw 1-1 in Champions League | Wed 25 Nov, 05:51 AM PKT
-- [published] normal | Real Madrid crush PSV 5-1 with stellar Bellingham and Mbappe show | Wed 25 Nov, 06:01 AM PKT
-- [published] normal | Pakistan strongly condemns Houthi attack on Riyadh tower | Wed 25 Nov, 06:11 AM PKT
 - [published] normal | Israel’s Eisenkot secures first coalition partner in bid to form gover | Wed 25 Nov, 06:58 AM PKT
 - [published] normal | Inflation projected at 9.8% as food prices bite | Wed 25 Nov, 07:08 AM PKT
 - [needs_review] normal | Pakistan govt taps three banks for $500m | Wed 25 Nov, 07:18 AM PKT
@@ -389,13 +406,13 @@ First reported by BBC.
 - [needs_review] normal | Kuwait Summons Iran Ambassador Over Continued Attacks | Fri 27 Nov, 11:02 PM PKT
 - [needs_review] normal | Makkah pact nations condemn Houthi attacks on Saudi Arabia | Fri 27 Nov, 11:17 PM PKT
 - [published] normal | SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi | Fri 27 Nov, 11:27 PM PKT
-- [queued] normal | Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars f | Fri 27 Nov, 11:37 PM PKT
-- [queued] normal | Three convicted in UK for forcing woman into marriage in Pakistan | Fri 27 Nov, 11:47 PM PKT
-- [queued] normal | President Asif Ali Zardari meets Chaudhry Shujaat Hussain | Fri 27 Nov, 11:57 PM PKT
-- [queued] normal | President Zardari and PML-Q Chief Chaudhry Shujaat Discuss Key Politic | Sat 28 Nov, 12:24 AM PKT
-- [queued] normal | Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence | Sat 28 Nov, 12:34 AM PKT
-- [queued] normal | Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statisti | Sat 28 Nov, 12:44 AM PKT
-- [queued] normal | Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Lin | Sat 28 Nov, 12:54 AM PKT
+- [needs_review] normal | Hasan and Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars f | Fri 27 Nov, 11:37 PM PKT
+- [needs_review] normal | Three convicted in UK for forcing woman into marriage in Pakistan | Fri 27 Nov, 11:47 PM PKT
+- [needs_review] normal | President Asif Ali Zardari meets Chaudhry Shujaat Hussain | Fri 27 Nov, 11:57 PM PKT
+- [needs_review] normal | President Zardari and PML-Q Chief Chaudhry Shujaat Discuss Key Politic | Sat 28 Nov, 12:24 AM PKT
+- [needs_review] normal | Pakistan, Saudi Arabia, and Türkiye Pledge Stronger Collective Defence | Sat 28 Nov, 12:34 AM PKT
+- [needs_review] normal | Pakistan's Weekly Inflation Dips by 0.11%, Pakistan Bureau of Statisti | Sat 28 Nov, 12:44 AM PKT
+- [published] normal | Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Lin | Sat 28 Nov, 12:54 AM PKT
 - [queued] normal | Spanish Military Rescuers Assist Hundreds of Migrants Arriving in Cana | Sat 28 Nov, 01:04 AM PKT
 - [queued] normal | Kyiv Offers Black Sea Ceasefire as Russia Expands Naval Forces | Sat 28 Nov, 01:14 AM PKT
 - [published] promo | [YouTube] NATIONAL GOVERNMENT PLAN? MARYAM NAWAZ FACES REBELLION | Sat 28 Nov, 01:26 AM PKT
@@ -417,13 +434,20 @@ First reported by BBC.
 - [queued] normal | At Least Eight Migrants Found Dead On Boat Off Canary Islands | Sat 28 Nov, 05:43 AM PKT
 - [queued] normal | Dissidents Say Their Voices Are Drowned Out Amid China's Rise | Sat 28 Nov, 05:53 AM PKT
 - [queued] normal | Family Seeks Answers 14 Years After Teenager's Sudden Death | Sat 28 Nov, 06:03 AM PKT
+- [queued] normal | JUI-F protests official treatment of Maulana Fazlur Rehman | Sat 28 Nov, 06:52 AM PKT
+- [queued] normal | New film spotlights legendary Indian dancer Vithabhai Narayangaonkar | Sat 28 Nov, 07:02 AM PKT
+- [queued] normal | Thousands of Puerto Ricans join 'Day of National Outrage' | Sat 28 Nov, 07:12 AM PKT
+- [queued] normal | BBC Technology explores autonomous space travel and tech innovations | Sat 28 Nov, 07:22 AM PKT
+- [queued] normal | Health officials urge flu vaccination amid rising hospital admissions | Sat 28 Nov, 07:32 AM PKT
+- [queued] normal | Legendary Nigerian actor Pete Edochie passes away at 79 | Sat 28 Nov, 07:42 AM PKT
 
 ## Publishing this run
-- Published 'SBP issues Rs200 commemorative coin for Mata Sahib Hasi Devi'.
+- Published 'Mexico Files Formal Complaint With US Over DEA Drug Trafficker Tip Line'.
 
 ## Gemini usage
-- Calls: 2 | prompt tokens: 5698 | output tokens: 2879
-- Errors: 1
+- Calls: 3 | prompt tokens: 4996 | output tokens: 3119
+- Errors: 2
+  - Gemini gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=35)
   - Gemini gemini-3.8-flash: HTTP 429 {
   "error": {
     "code": 429,
